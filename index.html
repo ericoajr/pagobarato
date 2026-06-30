@@ -499,7 +499,7 @@
 
     async function inicializarVitrine() {
         try {
-            const resposta = await fetch('./promocoes.json');
+            const resposta = await fetch('./ofertas.json');
             if (!resposta.ok) throw new Error('Falha ao ler JSON');
 
             const dadosVitrine = await resposta.json();
@@ -601,14 +601,27 @@
         renderizarCards(lista);
     }
 
-    function renderizarCards(listaParaExibir) {
-        const container = document.getElementById('container-promocoes');
-        container.innerHTML = '';
+	// Exemplo de como aplicar a lógica de ordenação no seu script existente
+	function renderizarCards(listaParaExibir) {
+	    const container = document.getElementById('container-promocoes');
+	    container.innerHTML = ''; // Limpa o que já existe
 
-        if (listaParaExibir.length === 0) {
-            container.innerHTML = '<p class="sem-promocoes">Nenhum item encontrado nesta categoria.</p>';
-            return;
-        }
+	    // Se estiver na aba "Recentes", corta para os 20 últimos
+	    if (abaAtiva === 'recentes') {
+	        listaParaExibir = listaParaExibir.sort((a, b) => {
+	            return new Date(b.dataOferta.split(' ')[0].split('/').reverse().join('-')) - 
+	                   new Date(a.dataOferta.split(' ')[0].split('/').reverse().join('-'));
+	        }).slice(0, 20);
+	    }
+
+	    // Se estiver na aba "Destaques", ordena pelo desconto (extraindo o número da tag)
+	    if (abaAtiva === 'destaques') {
+	        listaParaExibir = listaParaExibir.sort((a, b) => {
+	            const descA = parseInt(a.tag.replace(/\D/g, ''));
+	            const descB = parseInt(b.tag.replace(/\D/g, ''));
+	            return descB - descA;
+	        });
+	    }
 
         listaParaExibir.forEach(promo => {
             const card = document.createElement('div');
