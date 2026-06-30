@@ -6,25 +6,51 @@
     <title>Pago Barato - As melhores promoções</title>
     <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --bg: #F6F4EF;
-            --ink: #1C1A17;
-            --accent: #FF5A1F;
-            --card: #FFFFFF;
-        }
-        body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--ink); margin: 0; padding: 20px; }
-        .wrap { max-width: 1040px; margin: 0 auto; }
-        
-        /* Abas e Filtros */
-        .tabs-nav { display: flex; gap: 10px; margin-bottom: 20px; }
-        .tab-btn { padding: 10px 20px; cursor: pointer; border: none; background: #ddd; border-radius: 8px; }
-        .tab-btn.ativa { background: var(--accent); color: white; }
-        
-        /* Grid de cards */
-        .lista-promocoes { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
-        .card-promo { background: var(--card); border-radius: 12px; padding: 15px; text-decoration: none; color: inherit; display: block; }
-        .card-imagem { width: 100%; height: 200px; object-fit: contain; }
-        .preco-novo { color: var(--accent); font-weight: 800; font-size: 1.2em; }
+		:root {
+		    --bg: #F6F4EF;
+		    --ink: #1C1A17;
+		    --card: #FFFFFF;
+		    --accent: #FF5A1F;
+		}
+
+		body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--ink); margin: 0; padding: 20px; }
+
+		/* O segredo da organização é este container */
+		.wrap { max-width: 1040px; margin: 0 auto; }
+
+		/* Cabeçalho alinhado */
+		header { margin-bottom: 30px; }
+
+		/* Grid robusto - aqui está o segredo para não quebrar */
+		.lista-promocoes { 
+		    display: grid; 
+		    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
+		    gap: 20px; 
+		    margin-top: 20px;
+		}
+
+		/* Card compacto e elegante */
+		.card-promo { 
+		    background: var(--card); 
+		    border-radius: 12px; 
+		    padding: 16px; 
+		    display: flex; 
+		    flex-direction: column; 
+		    text-decoration: none; 
+		    color: var(--ink);
+		    border: 1px solid #E7E2D8;
+		    transition: transform 0.2s;
+		}
+
+		.card-promo:hover { transform: translateY(-5px); border-color: var(--accent); }
+
+		.card-imagem { width: 100%; height: 180px; object-fit: contain; margin-bottom: 10px; }
+
+		.preco-novo { color: var(--accent); font-weight: 800; font-size: 1.25rem; display: block; }
+
+		.tabs-nav { display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap; }
+		.tab-btn { padding: 8px 16px; border: 1px solid #ddd; border-radius: 20px; cursor: pointer; background: white; }
+		.tab-btn.ativa { background: var(--accent); color: white; border-color: var(--accent); }
     </style>
 </head>
 <body>
