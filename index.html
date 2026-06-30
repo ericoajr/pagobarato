@@ -468,10 +468,11 @@
         </div>
     </section>
 
-    <nav class="tabs-nav" id="tabs-nav">
-        <button class="tab-btn ativa" data-aba="destaques">⭐ Destaques</button>
-        <button class="tab-btn" data-aba="recentes">🕒 Recentes</button>
-    </nav>
+	<nav id="tabs-nav" class="tabs-nav">
+	    <button class="tab-btn ativa" data-aba="hoje">📅 Ofertas do Dia</button>
+	    <button class="tab-btn" data-aba="destaques">⭐ Destaques</button>
+	    <button class="tab-btn" data-aba="recentes">🕒 Recentes</button>
+	</nav>
 
     <section class="secao-promocoes">
         <div class="topo-promocoes">
@@ -604,26 +605,29 @@
 	// Exemplo de como aplicar a lógica de ordenação no seu script existente
 	function renderizarCards(listaParaExibir) {
 	    const container = document.getElementById('container-promocoes');
-	    container.innerHTML = ''; // Limpa o que já existe
+	    container.innerHTML = '';
 
-	    // Se estiver na aba "Recentes", corta para os 20 últimos
-	    if (abaAtiva === 'recentes') {
-	        listaParaExibir = listaParaExibir.sort((a, b) => {
-	            return new Date(b.dataOferta.split(' ')[0].split('/').reverse().join('-')) - 
-	                   new Date(a.dataOferta.split(' ')[0].split('/').reverse().join('-'));
+	    // Lógica das Abas
+	    let listaFiltrada = [...listaParaExibir];
+
+	    if (abaAtiva === 'hoje') {
+	        const hoje = "30/06/2026"; 
+	        listaFiltrada = listaFiltrada.filter(item => item.dataOferta && item.dataOferta.startsWith(hoje));
+	    } 
+	    else if (abaAtiva === 'destaques') {
+	        // Filtra apenas onde o campo "destaque" é true
+	        listaFiltrada = listaFiltrada.filter(item => item.destaque === true);
+	    } 
+	    else if (abaAtiva === 'recentes') {
+	        // Ordena pela data (do mais novo para o mais velho) e pega os 20 primeiros
+	        listaFiltrada.sort((a, b) => {
+	            const dataA = new Date(a.dataOferta.split(' ')[0].split('/').reverse().join('-'));
+	            const dataB = new Date(b.dataOferta.split(' ')[0].split('/').reverse().join('-'));
+	            return dataB - dataA;
 	        }).slice(0, 20);
 	    }
 
-	    // Se estiver na aba "Destaques", ordena pelo desconto (extraindo o número da tag)
-	    if (abaAtiva === 'destaques') {
-	        listaParaExibir = listaParaExibir.sort((a, b) => {
-	            const descA = parseInt(a.tag.replace(/\D/g, ''));
-	            const descB = parseInt(b.tag.replace(/\D/g, ''));
-	            return descB - descA;
-	        });
-	    }
-
-        listaParaExibir.forEach(promo => {
+        listaFiltrada.forEach(promo => {
             const card = document.createElement('div');
             card.className = 'card-promo';
 
@@ -659,7 +663,7 @@
                         </div>
                         ${componenteCupom}
                         <div class="card-rodape-social">
-                            <span class="card-data-oferta">${promo.dataOferta ? promo.dataOferta.split(' ')[0] : ''}</span>
+							<span class="card-data-oferta">${promo.dataOferta || ''}</span>
                             <span class="btn-ir-loja">Aproveitar</span>
                         </div>
                     </div>
