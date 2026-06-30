@@ -38,8 +38,9 @@
 
     /* ===================== HEADER ===================== */
     .site-header {
-        background: var(--ink);
-        padding: 14px 0;
+        background: var(--card);
+        padding: 12px 0;
+        border-bottom: 1px solid var(--line);
     }
 
     .header-row {
@@ -51,25 +52,21 @@
 
     .logo {
         display: flex;
-        align-items: baseline;
-        gap: 2px;
+        align-items: center;
         text-decoration: none;
-        font-family: 'Sora', sans-serif;
-        font-weight: 800;
-        font-size: 1.4rem;
-        color: #fff;
-        letter-spacing: -0.02em;
         white-space: nowrap;
     }
 
-    .logo .tag-dot {
-        color: var(--accent);
+    .logo img {
+        height: 34px;
+        width: auto;
+        display: block;
     }
 
     .header-sub {
         display: none;
         font-size: 0.78rem;
-        color: #cfc9bc;
+        color: var(--ink-soft);
         font-weight: 500;
     }
 
@@ -449,8 +446,8 @@
 
 <header class="site-header">
     <div class="wrap header-row">
-        <a href="#" class="logo">Pago<span class="tag-dot">Barato</span></a>
-        <span class="header-sub">Os melhores preços da internet</span>
+        <a href="#" class="logo"><img src="logo-pagobarato.png" alt="Pago Barato"></a>
+        <span class="header-sub">Curadoria diária de promoções reais</span>
     </div>
 </header>
 
@@ -462,11 +459,11 @@
     </section>
 
     <section class="secao-comunidades">
-        <div class="titulo-mini">💬 Participe dos nosso grupos</div>
+        <div class="titulo-mini">💬 Participe dos nossos grupos</div>
         <div class="grid-comunidades">
-            <a href="https://chat.whatsapp.com/EAN1D7qKG3m5iFAmh7Hr3F" class="link-nicho-bloco">
-                <img src="CuraDomus - FormacaoImaginario.png" class="img-circulo-nicho" alt="Formação do Imaginário">
-                <span class="texto-nicho-bloco">Grupo</span>
+            <a href="https://chat.whatsapp.com/BArcBffmAdNKDrdDa04IsO" class="link-nicho-bloco">
+                <img src="logo-pagobarato-redonda.png" class="img-circulo-nicho" alt="Grupo de Ofertas">
+                <span class="texto-nicho-bloco">Grupo de Ofertas</span>
             </a>
         </div>
     </section>
@@ -509,7 +506,7 @@
             todasAsOfertas = dadosVitrine.ofertas ? dadosVitrine.ofertas : [];
 
             if (todasAsOfertas.length === 0) {
-                document.getElementById('container-promocoes').innerHTML = '<p class="sem-promocoes">Nenhuma oferta em destaque agora. Acompanhe os grupos acima!</p>';
+                document.getElementById('container-promocoes').innerHTML = '<p class="sem-promocoes">Nenhuma oferta em destaque agora. Acompanhe o grupo acima!</p>';
                 document.getElementById('data-atualizacao').innerText = '';
                 return;
             }
