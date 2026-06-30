@@ -610,11 +610,7 @@
 	    // Lógica das Abas
 	    let listaFiltrada = [...listaParaExibir];
 
-	    if (abaAtiva === 'hoje') {
-	        const hoje = "30/06/2026"; 
-	        listaFiltrada = listaFiltrada.filter(item => item.dataOferta && item.dataOferta.startsWith(hoje));
-	    } 
-	    else if (abaAtiva === 'destaques') {
+		if (abaAtiva === 'destaques') {
 	        // Filtra apenas onde o campo "destaque" é true
 	        listaFiltrada = listaFiltrada.filter(item => item.destaque === true);
 	    } 
@@ -646,7 +642,7 @@
             const loja = extrairLoja(promo.linkAfiliado);
 
             card.innerHTML = `
-                <a href="${promo.linkAfiliado}" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display:flex; flex-direction:column; flex-grow:1;">
+                <a href="${promo.loja}" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit; display:flex; flex-direction:column; flex-grow:1;">
                     <div class="card-loja">
                         <svg class="selo" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.39 1.39L17 2.7l1.1 2.3L21 5.5l-.7 2.6L22 10.5l-1.9 1.6L21 15l-2.6.6L17 18.2l-2.6-.7L12 19.5l-2.4-2 -2.6.7-1.4-2.3L3 14.7 4 12l-1-2.5 2.1-1.6L4.6 5l2.6.7L8.5 3.3 11 4 12 2z"/></svg>
                         ${loja}
