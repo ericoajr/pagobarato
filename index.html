@@ -581,14 +581,14 @@
             ? [...todasAsOfertas]
             : todasAsOfertas.filter(item => item.grupo && item.grupo.trim() === categoriaAtiva);
 
-        if (abaAtiva === 'recentes') {
+        if (abaAtiva === 'hoje') {
+            // Ofertas do Dia: mantém a ordem original vinda do JSON, sem reordenar.
+        } else if (abaAtiva === 'destaques') {
+            // Destaques: maior desconto primeiro
+            lista.sort((a, b) => extrairDescontoPercentual(b.tag) - extrairDescontoPercentual(a.tag));
+        } else if (abaAtiva === 'recentes') {
+            // Recentes: data mais recente primeiro
             lista.sort((a, b) => parseDataBR(b.dataOferta) - parseDataBR(a.dataOferta));
-        } else {
-            // destaques: maior desconto primeiro, depois mais recente
-            lista.sort((a, b) => {
-                const diff = extrairDescontoPercentual(b.tag) - extrairDescontoPercentual(a.tag);
-                return diff !== 0 ? diff : parseDataBR(b.dataOferta) - parseDataBR(a.dataOferta);
-            });
         }
 
         renderizarCards(lista);
