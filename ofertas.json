@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "13/07/2026 08:44",
+  "ultimaAtualizacao" : "13/07/2026 09:13",
   "ofertas" : [ {
     "id" : 35486,
     "titulo" : "3 Corações Cappuccino 3Corações Classic - 200G",
@@ -586,6 +586,20 @@
     "grupo" : "Brinquedos e Jogos",
     "ativo" : true,
     "dataOferta" : "12/07/2026 10:29",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36522,
+    "titulo" : "Bicicleta Infantil Verden Jack - Aro 12 com rodinhas",
+    "descricao" : "Bicicleta Infantil Verden Jack - Aro 12 com rodinhas",
+    "imagem" : "https://m.media-amazon.com/images/I/61ZXzUu65IL._AC_SL1000_.jpg",
+    "precoOriginal" : " 249,90",
+    "precoPromocao" : " 193,70",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0B4YDD48T?tag=curadomus-20",
+    "grupo" : "Brinquedos e Jogos",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:03",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -1331,6 +1345,20 @@
     "destaque" : false,
     "loja" : "Mercado Livre"
   }, {
+    "id" : 36526,
+    "titulo" : "Camponesa - Leite em Pó Integral 1Kg",
+    "descricao" : "Camponesa - Leite em Pó Integral 1Kg",
+    "imagem" : "https://m.media-amazon.com/images/I/71WI1XaIF2L._AC_SL1500_.jpg",
+    "precoOriginal" : " 59,90",
+    "precoPromocao" : " 48,59",
+    "tag" : "-18%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CPMYT8PH?tag=curadomus-20",
+    "grupo" : "Alimentos e Bebidas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:07",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35923,
     "titulo" : "Canetinha com 12 Cores Estojo Cartão, Faber-Castell, 15.0112CZF, Multicor",
     "descricao" : "Canetinha com 12 Cores Estojo Cartão, Faber-Castell, 15.0112CZF, Multicor",
@@ -1622,6 +1650,20 @@
     "grupo" : "Alimentos e Bebidas",
     "ativo" : true,
     "dataOferta" : "12/07/2026 10:09",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36521,
+    "titulo" : "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+    "descricao" : "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+    "imagem" : "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1200_.jpg",
+    "precoOriginal" : " 55,90",
+    "precoPromocao" : " 28,70",
+    "tag" : "-48%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09JZSPQCM?tag=curadomus-20",
+    "grupo" : "Bebês",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:03",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -3025,6 +3067,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36501,
+    "titulo" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 4 Unidades",
+    "descricao" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 4 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61c5gyQ0IZL._AC_SL1200_.jpg",
+    "precoOriginal" : " 55,13",
+    "precoPromocao" : " 42,90",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GM8DVYB?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:47",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 36068,
     "titulo" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 8 Unidades",
     "descricao" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 8 Unidades",
@@ -3051,6 +3107,20 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 10:23",
     "destaque" : true,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36523,
+    "titulo" : "Gin Bombay Sapphire 750ml",
+    "descricao" : "Gin Bombay Sapphire 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61UyC8OiP2L._AC_SL1500_.jpg",
+    "precoOriginal" : " 126,90",
+    "precoPromocao" : " 74,90",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B001TP3GCE?tag=curadomus-20",
+    "grupo" : "Bebidas Alcoólicas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:04",
+    "destaque" : false,
     "loja" : "Amazon"
   }, {
     "id" : 35532,
@@ -3274,6 +3344,20 @@
     "grupo" : "Bebês",
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:25",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36508,
+    "titulo" : "Granado, Perfume, Vintage, Apotecário, 75 ml",
+    "descricao" : "Granado, Perfume, Vintage, Apotecário, 75 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71AyG8eWY-L._AC_SL1500_.jpg",
+    "precoOriginal" : " 345,00",
+    "precoPromocao" : " 184,90",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0G1N9KDNH?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:53",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -3655,6 +3739,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36528,
+    "titulo" : "Jameson - Whiskey Irlandês, 750 ml",
+    "descricao" : "Jameson - Whiskey Irlandês, 750 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51syfbaTceL._AC_SL1000_.jpg",
+    "precoOriginal" : " 130,00",
+    "precoPromocao" : " 69,09",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07FPW95CM?tag=curadomus-20",
+    "grupo" : "Bebidas Alcoólicas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:09",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35861,
     "titulo" : "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
     "descricao" : "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
@@ -3904,6 +4002,20 @@
     "grupo" : "Bebês",
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:25",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36520,
+    "titulo" : "Johnson's Shampoo e Condicionador Infantil 2 em 1, 400ml",
+    "descricao" : "Johnson's Shampoo e Condicionador Infantil 2 em 1, 400ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1000_.jpg",
+    "precoOriginal" : " 30,29",
+    "precoPromocao" : " 22,99",
+    "tag" : "-24%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:59",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -4593,6 +4705,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36524,
+    "titulo" : "Lixeira com Pedal New Tramontina em aço inox com acabamento polido 5 L",
+    "descricao" : "Lixeira com Pedal New Tramontina em aço inox com acabamento polido 5 L",
+    "imagem" : "https://m.media-amazon.com/images/I/315fyOioe2L._AC_SL1000_.jpg",
+    "precoOriginal" : " 73,90",
+    "precoPromocao" : " 52,90",
+    "tag" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08D8QDY25?tag=curadomus-20",
+    "grupo" : "Casa",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:05",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 36201,
     "titulo" : "Loção Hidratante Para Uso Diário Johnson's Baby, 200ml",
     "descricao" : "Loção Hidratante Para Uso Diário Johnson's Baby, 200ml",
@@ -4915,6 +5041,20 @@
     "destaque" : false,
     "loja" : "Mercado Livre"
   }, {
+    "id" : 36515,
+    "titulo" : "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
+    "descricao" : "Mixer Vertical Turbo Chef Elgin 3 em 1 200W Preto 110v",
+    "imagem" : "https://m.media-amazon.com/images/I/51yYe4QlyQL._AC_SL1000_.jpg",
+    "precoOriginal" : " 199,90",
+    "precoPromocao" : " 119,90",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09VQ39F41?tag=curadomus-20",
+    "grupo" : "Cozinha",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:57",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35685,
     "titulo" : "Mochila Classic Back To School adidas",
     "descricao" : "Mochila Classic Back To School adidas",
@@ -5038,6 +5178,20 @@
     "grupo" : "Computadores e Informática",
     "ativo" : true,
     "dataOferta" : "12/07/2026 08:47",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36533,
+    "titulo" : "Montblanc Legend Blue EDP 100 ML",
+    "descricao" : "Montblanc Legend Blue EDP 100 ML",
+    "imagem" : "https://m.media-amazon.com/images/I/618V01PCJtL._AC_SL1500_.jpg",
+    "precoOriginal" : " 729,00",
+    "precoPromocao" : " 450,00",
+    "tag" : "-38%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CV42D8T3?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:13",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -5192,6 +5346,20 @@
     "grupo" : "Alimentos e Bebidas",
     "ativo" : true,
     "dataOferta" : "12/07/2026 11:10",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36527,
+    "titulo" : "Nestlé Creme De Leite Zero Lactose 200G",
+    "descricao" : "Nestlé Creme De Leite Zero Lactose 200G",
+    "imagem" : "https://m.media-amazon.com/images/I/61L60UgxBhS._AC_SL1200_.jpg",
+    "precoOriginal" : " 6,99",
+    "precoPromocao" : " 4,89",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07RM7X6M4?tag=curadomus-20",
+    "grupo" : "Alimentos e Bebidas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:09",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -5500,6 +5668,20 @@
     "grupo" : "Casa",
     "ativo" : true,
     "dataOferta" : "13/07/2026 07:43",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36529,
+    "titulo" : "OMO Sabão Líquido Refil Omo Lavagem Perfeita Refil 900Ml",
+    "descricao" : "OMO Sabão Líquido Refil Omo Lavagem Perfeita Refil 900Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71qkBCkm+dL._AC_SL1500_.jpg",
+    "precoOriginal" : " 16,90",
+    "precoPromocao" : " 12,59",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07QCVG94Q?tag=curadomus-20",
+    "grupo" : "Casa",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:10",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -5839,6 +6021,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36534,
+    "titulo" : "Philips OneBlade QP220/51 Lâminas de Reposição Masculinas em Aço Inoxidável – Pacote com 2 Unidades",
+    "descricao" : "Philips OneBlade QP220/51 Lâminas de Reposição Masculinas em Aço Inoxidável – Pacote com 2 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61Nh-2olwUL._AC_SL1000_.jpg",
+    "precoOriginal" : " 159,90",
+    "precoPromocao" : " 109,90",
+    "tag" : "-31%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00T5AVD0C?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 09:13",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35522,
     "titulo" : "Pilha Alcalina AA com 16 unidades Elgin Comum",
     "descricao" : "Pilha Alcalina AA com 16 unidades Elgin Comum",
@@ -5948,6 +6144,20 @@
     "grupo" : "Beleza",
     "ativo" : true,
     "dataOferta" : "12/07/2026 09:58",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36511,
+    "titulo" : "Pré treino, +Mu, Exquenta, Sabor Tropical, Com Cafeína, Palatinose e Taurina - 500g",
+    "descricao" : "Pré treino, +Mu, Exquenta, Sabor Tropical, Com Cafeína, Palatinose e Taurina - 500g",
+    "imagem" : "https://m.media-amazon.com/images/I/71an4bqbPjL._AC_SL1500_.jpg",
+    "precoOriginal" : " 179,99",
+    "precoPromocao" : " 97,00",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DG19K2NS?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:54",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -6371,6 +6581,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36505,
+    "titulo" : "Salton Espumante Demi Sec 750 Ml",
+    "descricao" : "Salton Espumante Demi Sec 750 Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61rqYmmcNLL._AC_SL1500_.jpg",
+    "precoOriginal" : " 39,90",
+    "precoPromocao" : " 31,88",
+    "tag" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XTQT7HB?tag=curadomus-20",
+    "grupo" : "Bebidas Alcoólicas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:50",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35313,
     "titulo" : "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
     "descricao" : "Samsung Lavadora de Roupas Digital Inverter Porta Black WW11T Inox 11kg 127V",
@@ -6480,6 +6704,20 @@
     "grupo" : "Beleza",
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:59",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36510,
+    "titulo" : "Sempre Livre Absorvente Externo Adapt Com Abas 16 Unidades",
+    "descricao" : "Sempre Livre Absorvente Externo Adapt Com Abas 16 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/717VP-wiLQL._AC_SL1500_.jpg",
+    "precoOriginal" : " 10,89",
+    "precoPromocao" : " 8,59",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DKFTXC3?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:54",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -6973,6 +7211,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 36518,
+    "titulo" : "Travel System Cosco Kids, Reverse Trio, Rosa Onda",
+    "descricao" : "Travel System Cosco Kids, Reverse Trio, Rosa Onda",
+    "imagem" : "https://m.media-amazon.com/images/I/61DxCQilQML._AC_SL1000_.jpg",
+    "precoOriginal" : " 1.399,00",
+    "precoPromocao" : " 777,72",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FJ2W99ZF?tag=curadomus-20",
+    "grupo" : "Bebês",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:58",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 35834,
     "titulo" : "Travel System Safety 1st, Spark Plus Duo, 0 meses a 22 kg, Black Graphite",
     "descricao" : "Travel System Safety 1st, Spark Plus Duo, 0 meses a 22 kg, Black Graphite",
@@ -7432,6 +7684,20 @@
     "grupo" : "Bebidas Alcoólicas",
     "ativo" : true,
     "dataOferta" : "12/07/2026 10:12",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36509,
+    "titulo" : "Whisky Jack Daniel's Triple Mash Tennessee Whiskey 700ml",
+    "descricao" : "Whisky Jack Daniel's Triple Mash Tennessee Whiskey 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71FhpnHM6tL._AC_SL1500_.jpg",
+    "precoOriginal" : " 249,90",
+    "precoPromocao" : " 198,30",
+    "tag" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09ZLSZ869?tag=curadomus-20",
+    "grupo" : "Bebidas Alcoólicas",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 08:54",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
