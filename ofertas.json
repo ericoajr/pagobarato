@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "12/07/2026 19:33",
+  "ultimaAtualizacao" : "13/07/2026 07:44",
   "ofertas" : [ {
     "id" : 35486,
     "titulo" : "3 Corações Cappuccino 3Corações Classic - 200G",
@@ -99,20 +99,6 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
-    "id" : 35237,
-    "titulo" : "Alho em pó BR Spices 50g",
-    "descricao" : "Alho em pó BR Spices 50g",
-    "imagem" : "https://m.media-amazon.com/images/I/71OgNTdz+sL._AC_SL1500_.jpg",
-    "precoOriginal" : " 19,19",
-    "precoPromocao" : " 14,23",
-    "tag" : "-25%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DLBLYK6B?tag=curadomus-20",
-    "grupo" : "Alimentos e Bebidas",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:03",
-    "destaque" : false,
-    "loja" : "Amazon"
-  }, {
     "id" : 35758,
     "titulo" : "Alimento com Amendoa Almond Breeze Baunilha 1L",
     "descricao" : "Alimento com Amendoa Almond Breeze Baunilha 1L",
@@ -181,7 +167,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:01",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35980,
     "titulo" : "Ar Condicionado Split 12000 Btus Lg Dual Inverter Voice +ia Frio S3nq12ja31l.eb2gam1-220v",
@@ -267,20 +253,6 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
-    "id" : 35236,
-    "titulo" : "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
-    "descricao" : "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_724780-MLA112368633406_062026-F.webp",
-    "precoOriginal" : " 239,99",
-    "precoPromocao" : " 189,00",
-    "tag" : "-21%",
-    "linkAfiliado" : "https://meli.la/1Kdqqtn",
-    "grupo" : "Eletrodomésticos",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:03",
-    "destaque" : false,
-    "loja" : "MercadoLivre"
-  }, {
     "id" : 35673,
     "titulo" : "Aspirador Robô Base Carregamento Automático Wifi App Preto",
     "descricao" : "Aspirador Robô Base Carregamento Automático Wifi App Preto",
@@ -293,7 +265,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:09",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36249,
     "titulo" : "Aspirador Vertical de Pó Liectroux i7 Pro Sem Fio 3 em 1 Aspira Passa Pano Autolimpante Para Sólidos e Líquidos Pelos de Pet Cachorro Gato Potente Com Filtro HEPA Bivolt",
@@ -433,7 +405,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:16",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35664,
     "titulo" : "Batedeira Planetária, Mondial, 700W - BP-03-B",
@@ -447,7 +419,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:08",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35982,
     "titulo" : "Batedeira Planetária, Mondial, Preto, 700W, 110V - BP-03-B",
@@ -489,7 +461,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:06",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35490,
     "titulo" : "Bebida Vegetal NotCo NotMilk Semi Desnatada 1L, Feito com Ingredientes 100% Vegetais, Sabor Leite Semi Desnatado, Sem Lactose, Sem Glúten, Ideal para Receitas, Plant-Based, Vegano, Vegetariano.",
@@ -516,20 +488,6 @@
     "grupo" : "Bebidas Alcoólicas",
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:15",
-    "destaque" : false,
-    "loja" : "Amazon"
-  }, {
-    "id" : 35241,
-    "titulo" : "Bepantol Derma Hidratante Corporal Intensivo, Balm Regenerador, 200ml",
-    "descricao" : "Bepantol Derma Hidratante Corporal Intensivo, Balm Regenerador, 200ml",
-    "imagem" : "https://m.media-amazon.com/images/I/612RTW7BCmL._AC_SL1500_.jpg",
-    "precoOriginal" : " 71,99",
-    "precoPromocao" : " 59,03",
-    "tag" : "-18%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DR35GFKX?tag=curadomus-20",
-    "grupo" : "Beleza",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:05",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -615,7 +573,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:18",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35358,
     "titulo" : "Booster Safety 1st, Trackfix, com Isofix, Green",
@@ -1049,7 +1007,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:09",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35894,
     "titulo" : "Cadeira De Alimentação Infantil Bebê Evolutiva 4 Em 1",
@@ -1063,7 +1021,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35748,
     "titulo" : "Cadeira De Escritório Ergonômica Mônaco Bt07 Luvinco Malha Respirável Com Suporte Lombar Adaptável Apoio Para Pés Retrátil Encosto Ajustável Seis Posições Cor Preta Suporta 200kg",
@@ -1077,7 +1035,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:16",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35710,
     "titulo" : "Cadeira Escritório Ergonômica Genebra B500 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
@@ -1091,7 +1049,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:12",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36219,
     "titulo" : "Cadeira para Auto 0-36 Kg Isofix Litet All Stages Fix 2.0 Preta - BB450",
@@ -1119,7 +1077,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:07",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35724,
     "titulo" : "CAFÉ MELITTA SABOR DA FAZENDA VÁCUO 500g",
@@ -1161,7 +1119,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:17",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35617,
     "titulo" : "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
@@ -1175,7 +1133,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:04",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35702,
     "titulo" : "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
@@ -1189,7 +1147,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:12",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35604,
     "titulo" : "Camisa Preta Traje Cazétv",
@@ -1203,7 +1161,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:03",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36293,
     "titulo" : "Camisa Social Masculina Ralph Oxford Social Original",
@@ -1217,7 +1175,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 19:22",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35590,
     "titulo" : "Camiseta Brasil Personalizada Nome Copa Familia 100% Algodão",
@@ -1231,7 +1189,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35787,
     "titulo" : "Camiseta Haaland Noruega Dry Fit Copa 2026 Lançamento",
@@ -1245,7 +1203,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:19",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35923,
     "titulo" : "Canetinha com 12 Cores Estojo Cartão, Faber-Castell, 15.0112CZF, Multicor",
@@ -1287,7 +1245,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:10",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35493,
     "titulo" : "Carrinho de Bebê Chicco One4Ever Lounge Compacto até 22kg com Fechamento Automático e Encosto Ajustável – 4087109910000",
@@ -1553,7 +1511,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:19",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35597,
     "titulo" : "Chuteira Infantil Society Penalty",
@@ -1567,7 +1525,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:02",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35594,
     "titulo" : "Chuteira R2 Futsal Salão Quadra Infantil Costurada 24 Ao 33",
@@ -1581,7 +1539,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:02",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35637,
     "titulo" : "Chuveiro Ducha Lorenzetti Loren Shower Eletrônica 5500w Cor Branco",
@@ -1595,7 +1553,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:06",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35657,
     "titulo" : "Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Branco 6800w 220V",
@@ -1609,7 +1567,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:08",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35705,
     "titulo" : "Chuveiro Eletrônico Zagonel Quadratta 220V 7700W Preto",
@@ -1623,7 +1581,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:12",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35614,
     "titulo" : "Chuveiro Lorenzetti Loren Shower Ultra Eletrônico Branco 7500W",
@@ -1637,7 +1595,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:04",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36215,
     "titulo" : "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
@@ -1875,7 +1833,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:19",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36149,
     "titulo" : "Cosco Kids, Booster Clippy, até 36kg, Preto",
@@ -2071,7 +2029,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:06",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36203,
     "titulo" : "DARROW ACTINE OIL CONTROL GEL DE LIMPEZA 400G",
@@ -2407,7 +2365,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:02",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35557,
     "titulo" : "Euro Home - Mini Processador de Alimentos USB Elétrico - ELT1805",
@@ -2449,7 +2407,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 08:20",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35295,
     "titulo" : "Faber-Castell Lápis De Cor Supersoft com 12 Cores - Ecolápis super mácio com cores mais vivas, excelente cobertura",
@@ -2589,7 +2547,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:33",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35859,
     "titulo" : "Fralda Descartável Huggies Máxima Proteção Tamanho M 40 unidades – Nova fralda Supreme Care aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída (embalagem pode variar)",
@@ -2983,20 +2941,6 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
-    "id" : 35240,
-    "titulo" : "Granado Condicionador Bebê, Calêndula, 250ml",
-    "descricao" : "Granado Condicionador Bebê, Calêndula, 250ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51SWauNE0KL._AC_SL1000_.jpg",
-    "precoOriginal" : " 30,04",
-    "precoPromocao" : " 24,99",
-    "tag" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C3JVMFHD?tag=curadomus-20",
-    "grupo" : "Beleza",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:05",
-    "destaque" : false,
-    "loja" : "Amazon"
-  }, {
     "id" : 35683,
     "titulo" : "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "descricao" : "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
@@ -3149,7 +3093,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:14",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35353,
     "titulo" : "Hastes Flexíveis Clingo - Branco",
@@ -3471,7 +3415,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35573,
     "titulo" : "Impressora Multifuncional Brother A4 DCP-T230 Tanque de Tinta, Colorida, USB, Bivolt",
@@ -3499,7 +3443,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:16",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35861,
     "titulo" : "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
@@ -3541,7 +3485,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:12",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35608,
     "titulo" : "Jogo Cilada, Estrela",
@@ -3569,7 +3513,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:03",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35641,
     "titulo" : "Jogo de Cama 100% Algodão Solteiro Estampado Patrulha Canina Menino 1,40 m x 2,10 m Com 3 peças",
@@ -3597,7 +3541,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:11",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35714,
     "titulo" : "Jogo De Xícaras Com Pires 6 Pç Bubly Bolha Perola Cafe Cha",
@@ -3611,7 +3555,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:13",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36222,
     "titulo" : "Jogo Perfil",
@@ -3638,6 +3582,20 @@
     "grupo" : "Brinquedos e Jogos",
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:06",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36360,
+    "titulo" : "Johnson's Baby Condicionador Para Bebê De Glicerina,200ml",
+    "descricao" : "Johnson's Baby Condicionador Para Bebê De Glicerina,200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/41MJjQE+guL._AC_SL1000_.jpg",
+    "precoOriginal" : " 25,69",
+    "precoPromocao" : " 17,59",
+    "tag" : "-31%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHSFK5T?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 07:40",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -3751,7 +3709,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:12",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35779,
     "titulo" : "Kit 2 Triturador Processador Manual Alimentos 3 Laminas",
@@ -3765,7 +3723,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:18",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35889,
     "titulo" : "Kit 252 Figurinhas Do Álbum Copa Do Mundo 2026- 36 Envelopes",
@@ -3779,7 +3737,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35596,
     "titulo" : "Kit 3 Shorts Masculino Bermuda Linho Verão Envio Imediato",
@@ -3793,7 +3751,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:02",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35887,
     "titulo" : "Kit 336 Figurinhas Do Álbum Copa Do Mundo 2026- 48 Envelopes",
@@ -3807,7 +3765,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:00",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35892,
     "titulo" : "Kit 350 Figurinhas Do Álbum Copa Do Mundo 2026- 50 Envelopes",
@@ -3821,7 +3779,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35650,
     "titulo" : "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
@@ -3835,7 +3793,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:07",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35611,
     "titulo" : "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
@@ -3849,7 +3807,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:03",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36126,
     "titulo" : "Kit 8 Pilhas Recarregáveis + Carregador Rápido Bivolt Aa/aaa",
@@ -3863,7 +3821,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:32",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35632,
     "titulo" : "Kit Camisetas Masculinas Calvin Klein Jeans",
@@ -3877,7 +3835,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:05",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35742,
     "titulo" : "Kit com 5 Sacos para Lavagem de Roupas Delicadas e Íntimas – Protege Peças na Máquina de Lavar, Fecho com Zíper Reforçado, Multi-Tamanhos, Ideal para Lingerie, Meias e Camisetas",
@@ -4059,7 +4017,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:06",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35510,
     "titulo" : "Lava-Roupas em Pó Omo Puro Cuidado Caixa 2,2kg Tamanho Família",
@@ -4311,7 +4269,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:18",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36104,
     "titulo" : "Liquidificador, Ph900, 3L, Preto, 110V, Philco",
@@ -4381,7 +4339,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:14",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36008,
     "titulo" : "LYOR - Porta Sabonete Líquido de Cerâmica Granilite Lines Branco 430ml",
@@ -4437,7 +4395,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:15",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36124,
     "titulo" : "Maionese Receita Caseira Hemmer 500g",
@@ -4619,7 +4577,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:03",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35691,
     "titulo" : "Mini Berço Moisés Reller MDF Branco Brilho Com Rodízios e Escrivaninha",
@@ -4633,7 +4591,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:11",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35314,
     "titulo" : "Mixer Mallory Trikxer Pratic- 3 EM 1-220V",
@@ -4661,7 +4619,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:11",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35685,
     "titulo" : "Mochila Classic Back To School adidas",
@@ -4675,7 +4633,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:10",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35652,
     "titulo" : "Mochila Dos Homens Com Faixa Impermeável Para Expansão",
@@ -4689,7 +4647,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:07",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35996,
     "titulo" : "MONDIAL Mini Processador Turbo Pratic, Preto, 300W, 110V - MP-16-B",
@@ -4759,7 +4717,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:15",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35451,
     "titulo" : "Mor - Cadeira Alta Aço Preta",
@@ -4871,7 +4829,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:04",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36156,
     "titulo" : "Nescafé Café Solúvel Tradição 100G",
@@ -5095,7 +5053,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:10",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35840,
     "titulo" : "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
@@ -5136,6 +5094,20 @@
     "grupo" : "Saúde e Bem-Estar",
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:45",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 36366,
+    "titulo" : "Omo Sabão Líquido Lavagem Perfeita 3L",
+    "descricao" : "Omo Sabão Líquido Lavagem Perfeita 3L",
+    "imagem" : "https://m.media-amazon.com/images/I/61+D3q6HbbL._AC_SL1500_.jpg",
+    "precoOriginal" : " 49,50",
+    "precoPromocao" : " 39,99",
+    "tag" : "-19%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTVN396?tag=curadomus-20",
+    "grupo" : "Casa",
+    "ativo" : true,
+    "dataOferta" : "13/07/2026 07:43",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -5319,7 +5291,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:04",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35757,
     "titulo" : "Panificadora 19 Programas Gallant 600w 220v Branca",
@@ -5333,7 +5305,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:16",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35722,
     "titulo" : "Panificadora Multipane 12 Programações Com Função Timer e Antiaderente Potência de 550 W Cor Preto Britânia",
@@ -5347,7 +5319,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:13",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35357,
     "titulo" : "Papa Bolinhas Portátil, para remoção de bolinhas das roupas, CST0146, Flash Limp",
@@ -5571,21 +5543,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:14",
     "destaque" : false,
-    "loja" : "MercadoLivre"
-  }, {
-    "id" : 35205,
-    "titulo" : "Purificador De Água Consul refrigerado Natural E Gelada com proteção antibactérias Bivolt Consul Branco - CPB34ASVNA",
-    "descricao" : "Purificador De Água Consul refrigerado Natural E Gelada com proteção antibactérias Bivolt Consul Branco - CPB34ASVNA",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_975106-MLA100053871947_122025-F.webp",
-    "precoOriginal" : " 559,90",
-    "precoPromocao" : " 436,99",
-    "tag" : "-21%",
-    "linkAfiliado" : "https://meli.la/13Uo21c",
-    "grupo" : "Eletrodomésticos",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:03",
-    "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35556,
     "titulo" : "Quadriciclo Elétrico Infantil Marcha Frente/Ré Dino MaxiToys (Rosa)",
@@ -5613,7 +5571,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:18",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35921,
     "titulo" : "Quero Bicarbonato de Sódio 500g",
@@ -5655,7 +5613,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:14",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35699,
     "titulo" : "Relógio Smartwatch L60 Masculino/feminino 45mm Bluetooth",
@@ -5669,7 +5627,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:11",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35873,
     "titulo" : "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
@@ -6033,7 +5991,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:17",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35903,
     "titulo" : "Saída De Maternidade Em Tricô Menino Verde Oliva Verde Oliva 0 A 3 Meses",
@@ -6047,7 +6005,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 18:02",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35625,
     "titulo" : "Secador de Cabelos Mondial Preto 2000W SCN-01",
@@ -6061,7 +6019,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:05",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36254,
     "titulo" : "Secret Desodorante Antitranspirante em Gel Berry 45g",
@@ -6453,7 +6411,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:01",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35814,
     "titulo" : "Toyster - Hora do Banho - Fundo do Mar - BDA",
@@ -6523,7 +6481,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:04",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35879,
     "titulo" : "Tênis Masculino Fresh Foam Arishi V4 Esportivo New Balance",
@@ -6537,7 +6495,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 14:15",
     "destaque" : true,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 35547,
     "titulo" : "Tênis Mizuno Calçado Mizuno City Wall adulto-unissex",
@@ -6565,7 +6523,7 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 12:05",
     "destaque" : false,
-    "loja" : "MercadoLivre"
+    "loja" : "Mercado Livre"
   }, {
     "id" : 36226,
     "titulo" : "Vanish Tira Manchas Em Pó, Multi Power Oxi Action, para Roupas Coloridas 1Kg",
@@ -7055,34 +7013,6 @@
     "ativo" : true,
     "dataOferta" : "12/07/2026 10:11",
     "destaque" : false,
-    "loja" : "Amazon"
-  }, {
-    "id" : 35204,
-    "titulo" : "WOLFF - Açucareiro de Cristal com Colher 10cm x 10cm x 11cm - Linha Pearl",
-    "descricao" : "WOLFF - Açucareiro de Cristal com Colher 10cm x 10cm x 11cm - Linha Pearl",
-    "imagem" : "https://m.media-amazon.com/images/I/61Uh5IaSq9L._AC_SL1500_.jpg",
-    "precoOriginal" : " 25,80",
-    "precoPromocao" : " 21,00",
-    "tag" : "-18%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B08WLKB7ZF?tag=curadomus-20",
-    "grupo" : "Cozinha",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:03",
-    "destaque" : false,
-    "loja" : "Amazon"
-  }, {
-    "id" : 35206,
-    "titulo" : "WOLFF - Meleira de Cristal com Colher - 10cm x 10cm x 11cm - Linha Pearl - 200ml",
-    "descricao" : "WOLFF - Meleira de Cristal com Colher - 10cm x 10cm x 11cm - Linha Pearl - 200ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51IFKbQyANL._AC_SL1500_.jpg",
-    "precoOriginal" : " 41,62",
-    "precoPromocao" : " 18,90",
-    "tag" : "-54%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B08WLKJ8YJ?tag=curadomus-20",
-    "grupo" : "Cozinha",
-    "ativo" : true,
-    "dataOferta" : "11/07/2026 22:03",
-    "destaque" : true,
     "loja" : "Amazon"
   }, {
     "id" : 35416,
