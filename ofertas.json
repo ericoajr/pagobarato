@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "15/07/2026 13:53",
+  "ultimaAtualizacao" : "15/07/2026 14:24",
   "ofertas" : [ {
     "id" : 37612,
     "titulo" : "+Mu Chocowheyfer Proteico Sabor Baunilha - Display com 12 unidades - 300g",
@@ -124,6 +124,20 @@
     "grupo" : "Casa",
     "ativo" : true,
     "dataOferta" : "15/07/2026 12:11",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38379,
+    "titulo" : "Ariel Sabão Líquido Toque de Downy Concentrado 2L",
+    "descricao" : "Ariel Sabão Líquido Toque de Downy Concentrado 2L",
+    "imagem" : "https://m.media-amazon.com/images/I/5196qWuxcLL._AC_SL1200_.jpg",
+    "precoOriginal" : " 45,47",
+    "precoPromocao" : " 36,53",
+    "tag" : "-19%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GB8RCD5?tag=curadomus-20",
+    "grupo" : "Casa",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:17",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -516,6 +530,20 @@
     "grupo" : "Cozinha",
     "ativo" : true,
     "dataOferta" : "15/07/2026 12:57",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38377,
+    "titulo" : "Buba Pratinho Bowl Animal Fun Leão Colorido",
+    "descricao" : "Buba Pratinho Bowl Animal Fun Leão Colorido",
+    "imagem" : "https://m.media-amazon.com/images/I/51akoF1rb4L._AC_SL1000_.jpg",
+    "precoOriginal" : " 14,90",
+    "precoPromocao" : " 8,89",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07MZ6BZ58?tag=curadomus-20",
+    "grupo" : "Bebês",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:14",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -1359,6 +1387,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 38384,
+    "titulo" : "Downy Amaciante Concentrado Líquido Brisa Intenso 3L – Rende 12L | Fabric Softener com Perfume Intenso de Rosas e Frutas Vermelhas",
+    "descricao" : "Downy Amaciante Concentrado Líquido Brisa Intenso 3L – Rende 12L | Fabric Softener com Perfume Intenso de Rosas e Frutas Vermelhas",
+    "imagem" : "https://m.media-amazon.com/images/I/61a1dtQPN5L._AC_SL1200_.jpg",
+    "precoOriginal" : " 71,16",
+    "precoPromocao" : " 46,52",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C6NJWJ11?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:19",
+    "destaque" : true,
+    "loja" : "Amazon"
+  }, {
     "id" : 37973,
     "titulo" : "Downy Sensitive Hipoalergênico Amaciante Concentrado 1,35L",
     "descricao" : "Downy Sensitive Hipoalergênico Amaciante Concentrado 1,35L",
@@ -1863,6 +1905,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 38375,
+    "titulo" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 4 Unidades",
+    "descricao" : "Gillette Mach3 Sensitive Carga Aparelho de Barbear com Aloe 4 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61c5gyQ0IZL._AC_SL1200_.jpg",
+    "precoOriginal" : " 55,13",
+    "precoPromocao" : " 42,90",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GM8DVYB?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:13",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 38184,
     "titulo" : "Gin Tanqueray Sevilla 700ml",
     "descricao" : "Gin Tanqueray Sevilla 700ml",
@@ -1919,6 +1975,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 38382,
+    "titulo" : "Granado Refil Sabonete Bebê, Camomila, 250ml",
+    "descricao" : "Granado Refil Sabonete Bebê, Camomila, 250ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51QJNQL14wL._AC_SL1000_.jpg",
+    "precoOriginal" : " 24,89",
+    "precoPromocao" : " 15,29",
+    "tag" : "-38%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:19",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 38192,
     "titulo" : "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
     "descricao" : "Granado Refil Sabonete Líquido Bebê, Tradicional, 250ml",
@@ -1958,6 +2028,20 @@
     "grupo" : "Beleza",
     "ativo" : true,
     "dataOferta" : "15/07/2026 12:53",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38391,
+    "titulo" : "Granado, Perfume, Vintage, Apotecário, 75 ml",
+    "descricao" : "Granado, Perfume, Vintage, Apotecário, 75 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71AyG8eWY-L._AC_SL1500_.jpg",
+    "precoOriginal" : " 345,00",
+    "precoPromocao" : " 184,90",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0G1N9KDNH?tag=curadomus-20",
+    "grupo" : "Beleza",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:24",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -2056,6 +2140,20 @@
     "grupo" : "Alimentos e Bebidas",
     "ativo" : true,
     "dataOferta" : "15/07/2026 13:45",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38388,
+    "titulo" : "Hemmer Ketchup Zero 310G",
+    "descricao" : "Hemmer Ketchup Zero 310G",
+    "imagem" : "https://m.media-amazon.com/images/I/51jZfRfgAVL._AC_SL1000_.jpg",
+    "precoOriginal" : " 13,50",
+    "precoPromocao" : " 9,59",
+    "tag" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08KHD814D?tag=curadomus-20",
+    "grupo" : "Alimentos e Bebidas",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:22",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -2392,6 +2490,20 @@
     "grupo" : "Bebês",
     "ativo" : true,
     "dataOferta" : "15/07/2026 11:28",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38380,
+    "titulo" : "Kess, Pack com 3 Escovas Dentais Pro Extra Macias, Cores Sortidas",
+    "descricao" : "Kess, Pack com 3 Escovas Dentais Pro Extra Macias, Cores Sortidas",
+    "imagem" : "https://m.media-amazon.com/images/I/71YTXOVXkML._AC_SL1500_.jpg",
+    "precoOriginal" : " 29,90",
+    "precoPromocao" : " 20,86",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09VC1CN14?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:18",
     "destaque" : false,
     "loja" : "Amazon"
   }, {
@@ -2800,6 +2912,20 @@
     "dataOferta" : "15/07/2026 11:43",
     "destaque" : false,
     "loja" : "Mercado Livre"
+  }, {
+    "id" : 38386,
+    "titulo" : "Listerine Enxaguante Bucal Melancia & Hortelã Sem Álcool, 1L",
+    "descricao" : "Listerine Enxaguante Bucal Melancia & Hortelã Sem Álcool, 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/51-lr6JrBYL._AC_SL1000_.jpg",
+    "precoOriginal" : " 40,99",
+    "precoPromocao" : " 24,31",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FCGQF9X7?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:21",
+    "destaque" : true,
+    "loja" : "Amazon"
   }, {
     "id" : 37971,
     "titulo" : "Lixeira Antiodor Fraldas Bebe Lixo Magico Anti Odor",
@@ -3585,6 +3711,20 @@
     "destaque" : false,
     "loja" : "Amazon"
   }, {
+    "id" : 38372,
+    "titulo" : "Pipoqueira, Pop Time, Branco, 127V, Britânia",
+    "descricao" : "Pipoqueira, Pop Time, Branco, 127V, Britânia",
+    "imagem" : "https://m.media-amazon.com/images/I/61lJjtLR5uL._AC_SL1000_.jpg",
+    "precoOriginal" : " 196,79",
+    "precoPromocao" : " 149,53",
+    "tag" : "-24%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076BB2NCN?tag=curadomus-20",
+    "grupo" : "Eletrodomésticos",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:09",
+    "destaque" : false,
+    "loja" : "Amazon"
+  }, {
     "id" : 37962,
     "titulo" : "Processador Triturador Moedor De Alimentos Manual Alho 500ml",
     "descricao" : "Processador Triturador Moedor De Alimentos Manual Alho 500ml",
@@ -3976,6 +4116,20 @@
     "dataOferta" : "15/07/2026 11:24",
     "destaque" : false,
     "loja" : "Mercado Livre"
+  }, {
+    "id" : 38370,
+    "titulo" : "Sempre Livre Absorvente Externo Adapt Plus Com Abas 32 Unidades",
+    "descricao" : "Sempre Livre Absorvente Externo Adapt Plus Com Abas 32 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/81kOGE+lgIL._AC_SL1500_.jpg",
+    "precoOriginal" : " 23,19",
+    "precoPromocao" : " 16,89",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GM25R4Z?tag=curadomus-20",
+    "grupo" : "Saúde e Bem-Estar",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:08",
+    "destaque" : false,
+    "loja" : "Amazon"
   }, {
     "id" : 38038,
     "titulo" : "SKIN AQUA® Super Moisture Milk 40g - Protetor Solar Facial sem cor FPS50 com Ácido Hialurônico e Textura Leve",
@@ -4493,6 +4647,20 @@
     "ativo" : true,
     "dataOferta" : "15/07/2026 12:19",
     "destaque" : false,
+    "loja" : "Amazon"
+  }, {
+    "id" : 38381,
+    "titulo" : "Whisky Buchanan's Deluxe 12 Anos 1L",
+    "descricao" : "Whisky Buchanan's Deluxe 12 Anos 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/518U+8v+f4L._AC_SL1000_.jpg",
+    "precoOriginal" : " 199,90",
+    "precoPromocao" : " 152,90",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00MTFIL0U?tag=curadomus-20",
+    "grupo" : "Bebidas Alcoólicas",
+    "ativo" : true,
+    "dataOferta" : "15/07/2026 14:18",
+    "destaque" : true,
     "loja" : "Amazon"
   }, {
     "id" : 38296,
