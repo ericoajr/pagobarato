@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "21/07/2026 14:07",
+  "ultimaAtualizacao" : "21/07/2026 14:36",
   "ofertas" : [ {
     "id" : 48210,
     "titulo" : "*PROMOÇÃO* Rack Para Tv Estante Sala Painel Bancada Suporte Aparador Móvel Com Prateleira Madeira",
@@ -3415,6 +3415,23 @@
     "destaque" : true,
     "loja" : "Mercado Livre",
     "precoAnterior" : " 89,00",
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null
+  }, {
+    "id" : 50436,
+    "titulo" : "Camiseta Básica Greenk Qr Code Leve Conforto Reserva",
+    "descricao" : "Camiseta Básica Greenk Qr Code Leve Conforto Reserva",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_721408-MLB96516561993_102025-F-camiseta-basica-greenk-qr-code-leve-conforto-reserva.webp",
+    "precoOriginal" : " 139,00",
+    "precoPromocao" : " 84,55",
+    "tag" : "-39%",
+    "linkAfiliado" : "https://meli.la/17JWHhb",
+    "grupo" : "Geral",
+    "ativo" : true,
+    "dataOferta" : "21/07/2026 14:23",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
+    "precoAnterior" : null,
     "menorPrecoEmDias" : false,
     "menorPrecoMensagem" : null
   }, {
@@ -13515,6 +13532,23 @@
     "precoAnterior" : " 118,00",
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 3 dias."
+  }, {
+    "id" : 50437,
+    "titulo" : "Kit Refeição Infantil Bebê Bambu 5 Peças Prato Copo Colher",
+    "descricao" : "Kit Refeição Infantil Bebê Bambu 5 Peças Prato Copo Colher",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_661527-MLB108237350414_032026-F.webp",
+    "precoOriginal" : " 69,99",
+    "precoPromocao" : " 36,98",
+    "tag" : "-47%",
+    "linkAfiliado" : "https://meli.la/2bweJR9",
+    "grupo" : "Geral",
+    "ativo" : true,
+    "dataOferta" : "21/07/2026 14:36",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
+    "precoAnterior" : null,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null
   }, {
     "id" : 47637,
     "titulo" : "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
