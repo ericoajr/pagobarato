@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "23/07/2026 16:24",
+  "ultimaAtualizacao" : "23/07/2026 16:43",
   "ofertas" : [ {
     "id" : 55752,
     "titulo" : "+Mu Chocowheyfer Proteico Sabor Baunilha - Display com 12 unidades - 300g",
@@ -13623,6 +13623,24 @@
     "destaque" : true,
     "loja" : "Amazon",
     "precoAnterior" : " 9,19",
+    "menorPrecoEmDias" : false,
+    "menorPrecoDias" : null,
+    "menorPrecoMensagem" : null
+  }, {
+    "id" : 55782,
+    "titulo" : "Pilha Alcalina Aaa Duracell 8 Unidades",
+    "descricao" : "Pilha Alcalina Aaa Duracell 8 Unidades",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mf9safvn0cue0c",
+    "precoOriginal" : " 68,43",
+    "precoPromocao" : " 47,90",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://s.shopee.com.br/7fYSfYlHDT",
+    "grupo" : "Geral",
+    "ativo" : true,
+    "dataOferta" : "23/07/2026 16:43",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : null,
     "menorPrecoEmDias" : false,
     "menorPrecoDias" : null,
     "menorPrecoMensagem" : null
