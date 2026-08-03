@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "03/08/2026 10:08",
+  "ultimaAtualizacao" : "03/08/2026 11:08",
   "ofertas" : [ {
     "id" : 75742,
     "titulo" : "+Mu Chocowheyfer Proteico Sabor Baunilha - Display com 12 unidades - 300g | 6g de Proteína, Zero adição de açúcares, Crocante, Para comer sem culpa",
@@ -591,6 +591,24 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "37,00",
+    "menorPrecoEmDias" : false,
+    "menorPrecoDias" : null,
+    "menorPrecoMensagem" : null
+  }, {
+    "id" : 76274,
+    "titulo" : "Ar Condicionado Split Hi Wall Inverter Hisense Eco Plus 12.000 Btus Frio 220v R-32",
+    "descricao" : "Ar Condicionado Split Hi Wall Inverter Hisense Eco Plus 12.000 Btus Frio 220v R-32",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-821fg-mgpj2kvt8n4a72",
+    "precoOriginal" : "3.330,19",
+    "precoPromocao" : "1.765,00",
+    "tag" : "-47%",
+    "linkAfiliado" : "https://s.shopee.com.br/2BDnIDb2e6",
+    "grupo" : "Geral",
+    "ativo" : true,
+    "dataOferta" : "03/08/2026 11:08",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : null,
     "menorPrecoEmDias" : false,
     "menorPrecoDias" : null,
     "menorPrecoMensagem" : null
@@ -2934,6 +2952,24 @@
     "menorPrecoEmDias" : true,
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias."
+  }, {
+    "id" : 76273,
+    "titulo" : "Café Santa Mônica Gourmet em Grãos 250 g",
+    "descricao" : "Café Santa Mônica Gourmet em Grãos 250 g",
+    "imagem" : "https://m.media-amazon.com/images/I/414m2I3dZPL._AC_SL1000_.jpg",
+    "precoOriginal" : "42,90",
+    "precoPromocao" : "27,99",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DP4J7V8?tag=curadomus-20",
+    "grupo" : "Alimentos e Bebidas",
+    "ativo" : true,
+    "dataOferta" : "03/08/2026 11:08",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : null,
+    "menorPrecoEmDias" : false,
+    "menorPrecoDias" : null,
+    "menorPrecoMensagem" : null
   }, {
     "id" : 76269,
     "titulo" : "Caixa de Pilha AAA com 40 unidades Elgin Palito - Tubo, Zinco",
