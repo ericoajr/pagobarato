@@ -633,7 +633,7 @@
             resultado = resultado.filter(item =>
                 (item.titulo || '').toLowerCase().includes(q) ||
                 (item.loja || '').toLowerCase().includes(q) ||
-                (item.grupo || '').toLowerCase().includes(q)
+                (item.categoria || '').toLowerCase().includes(q)
             );
         }
         return resultado;
@@ -732,11 +732,7 @@
 
 
             card.innerHTML = `
-                <div class="card-topo">
-                    <div class="card-loja">
-                        <svg class="selo" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.39 1.39L17 2.7l1.1 2.3L21 5.5l-.7 2.6L22 10.5l-1.9 1.6L21 15l-2.6.6L17 18.2l-2.6-.7L12 19.5l-2.4-2 -2.6.7-1.4-2.3L3 14.7 4 12l-1-2.5 2.1-1.6L4.6 5l2.6.7L8.5 3.3 11 4 12 2z"/></svg>
-                        ${promo.loja || 'Loja'}
-                    </div>
+                <div class="card-topo" style="justify-content:flex-end;">
                     <button class="btn-favorito ${fav ? 'ativo' : ''}" data-fav="${encodeURIComponent(key)}" aria-label="Favoritar" aria-pressed="${fav}">
                         <svg viewBox="0 0 24 24" fill="${fav ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z"/></svg>
                     </button>
