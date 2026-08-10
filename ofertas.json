@@ -8536,8 +8536,6 @@
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "26/07/2026"
-    }, {
       "data" : "27/07/2026",
       "preco" : 93.99
     }, {
@@ -9642,9 +9640,6 @@
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "26/07/2026",
-      "preco" : 27.97
-    }, {
       "data" : "27/07/2026",
       "preco" : 27.97
     }, {
