@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "11/08/2026 12:16",
+  "ultimaAtualizacao" : "11/08/2026 13:06",
   "ofertas" : [ {
     "id" : 92649,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -1354,6 +1354,62 @@
     "precoAnterior" : "45,40",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 93384,
+    "titulo" : "Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
+    "precoOriginal" : "37,90",
+    "precoPromocao" : "28,50",
+    "tag" : "-24%",
+    "percentualDesconto" : 24.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BBJM19ZB?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 12:53",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "precoAnterior" : "29,42",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 15,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "28/07/2026",
+      "preco" : 30.21
+    }, {
+      "data" : "29/07/2026",
+      "preco" : 30.21
+    }, {
+      "data" : "30/07/2026",
+      "preco" : 30.21
+    }, {
+      "data" : "01/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "02/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "03/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 29.81
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 31.33
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 29.66
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 29.42
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 28.5
+    } ]
+  }, {
     "id" : 91147,
     "titulo" : "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
     "imagem" : "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1000_.jpg",
@@ -2499,6 +2555,23 @@
       "preco" : 134.63
     } ]
   }, {
+    "id" : 93455,
+    "titulo" : "Carefree Protetor Diário Proteção Com Fragrância, 80un",
+    "imagem" : "https://m.media-amazon.com/images/I/71tfSCrfRrL._AC_SL1500_.jpg",
+    "precoOriginal" : "33,09",
+    "precoPromocao" : "20,99",
+    "tag" : "-36%",
+    "percentualDesconto" : 36.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07F1X5GSR?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:04",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "20,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 92776,
     "titulo" : "Carregador Bateria 12v Até 300 Amperes Carro Moto Caminhão Range Plane carregador bicicleta elétrica",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5uw6mu7z7lca",
@@ -2901,6 +2974,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "71,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 93374,
+    "titulo" : "Chocolate Ouro Branco Pacote 1Kg",
+    "imagem" : "https://m.media-amazon.com/images/I/714g59kOU1L._AC_SL1500_.jpg",
+    "precoOriginal" : "94,50",
+    "precoPromocao" : "68,85",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07CV3SYCN?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 12:52",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "68,85",
     "menorPrecoEmDias" : false
   }, {
     "id" : 92745,
@@ -4116,6 +4206,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "38,66",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 93379,
+    "titulo" : "EsfreBom - Limpa Máquina de Lavar Roupas Sachê de 80 g, Bettanin",
+    "imagem" : "https://m.media-amazon.com/images/I/51IVerS2kyL._AC_SL1000_.jpg",
+    "precoOriginal" : "16,50",
+    "precoPromocao" : "11,99",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B086KJCC6R?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 12:53",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "11,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 93114,
@@ -5686,6 +5793,23 @@
     "precoAnterior" : "9,19",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 93463,
+    "titulo" : "Hemmer Mostarda Amarela Americana Zero Squeeze 200G",
+    "imagem" : "https://m.media-amazon.com/images/I/515QiA6U2uL._AC_SL1200_.jpg",
+    "precoOriginal" : "15,26",
+    "precoPromocao" : "11,49",
+    "tag" : "-24%",
+    "percentualDesconto" : 24.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08KHNN6PY?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:06",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "11,49",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 92775,
     "titulo" : "Hidratante Nutritivo Derma Protect JOHNSON'S® Baby 200mL",
     "imagem" : "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1000_.jpg",
@@ -6710,6 +6834,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "44,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 93453,
+    "titulo" : "Kalassi Snack De Arroz Queijo E Cebola Sem Glúten Pacote 1 X 100G",
+    "imagem" : "https://m.media-amazon.com/images/I/51WSPV3uzYL._AC_SL1200_.jpg",
+    "precoOriginal" : "26,05",
+    "precoPromocao" : "11,99",
+    "tag" : "-53%",
+    "percentualDesconto" : 53.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YGTGSZW?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:04",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "11,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 93140,
@@ -9361,6 +9502,40 @@
     "precoAnterior" : "137,27",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 93367,
+    "titulo" : "OFF! Baby Gel Repelente Infantil de Insetos e Mosquitos, 117g",
+    "imagem" : "https://m.media-amazon.com/images/I/518G7TKbuKL._AC_SL1200_.jpg",
+    "precoOriginal" : "36,90",
+    "precoPromocao" : "24,78",
+    "tag" : "-32%",
+    "percentualDesconto" : 32.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08BWYTR6F?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 12:51",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "24,78",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 93454,
+    "titulo" : "OFF! Kids Loção Repelente de Insetos e Mosquitos, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51pgneajSjL._AC_SL1200_.jpg",
+    "precoOriginal" : "23,16",
+    "precoPromocao" : "17,43",
+    "tag" : "-24%",
+    "percentualDesconto" : 24.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07D2FT1G6?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:04",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "17,43",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 91518,
     "titulo" : "OMO Omo Lavagem Perfeita Sanitiza & Higieniza 2.2Kg",
     "imagem" : "https://m.media-amazon.com/images/I/71Gb18PPs5L._AC_SL1500_.jpg",
@@ -9894,6 +10069,23 @@
     "precoAnterior" : "279,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 93386,
+    "titulo" : "Philco Secador de Cabelos Bivolt 2200W PSC2450 Íons Tourmaline Bivolt Tecnologia iónica e Botão de t Plástico Preto com Dourado",
+    "imagem" : "https://m.media-amazon.com/images/I/519GvFTMYjL._AC_SL1200_.jpg",
+    "precoOriginal" : "177,45",
+    "precoPromocao" : "119,00",
+    "tag" : "-32%",
+    "percentualDesconto" : 32.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D9R7NYPG?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 12:54",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "119,00",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 92854,
     "titulo" : "Philips Walita Liquidificador Daily 2L 550W, Preto, 110V | Vitaminas e Sucos na Hora – lâminas eficientes para o preparo de bebidas e receitas variadas (RI2110/91)",
     "imagem" : "https://m.media-amazon.com/images/I/6176iz1U53S._AC_SL1500_.jpg",
@@ -10011,6 +10203,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "61,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 93462,
+    "titulo" : "Pipoqueira, Pop Time, Branco, 127V, Britânia",
+    "imagem" : "https://m.media-amazon.com/images/I/61lJjtLR5uL._AC_SL1000_.jpg",
+    "precoOriginal" : "196,79",
+    "precoPromocao" : "149,90",
+    "tag" : "-23%",
+    "percentualDesconto" : 23.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076BB2NCN?tag=curadomus-20",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:05",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 91268,
@@ -10804,6 +11013,59 @@
     "loja" : "Shopee",
     "precoAnterior" : "39,99",
     "menorPrecoEmDias" : false
+  }, {
+    "id" : 93456,
+    "titulo" : "Sempre Livre Absorvente Externo Adapt Plus Com Abas 32 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/81kOGE+lgIL._AC_SL1500_.jpg",
+    "precoOriginal" : "23,19",
+    "precoPromocao" : "14,41",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GM25R4Z?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "11/08/2026 13:05",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "precoAnterior" : "15,18",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 15,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "28/07/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "29/07/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "30/07/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "01/08/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "02/08/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "03/08/2026",
+      "preco" : 15.18
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 15.18
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 15.18
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 15.18
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 15.18
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 14.41
+    } ]
   }, {
     "id" : 92536,
     "titulo" : "Shampoo Para Bebê Johnson's Baby De Glicerina, 400ml",
