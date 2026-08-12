@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "12/08/2026 20:20",
+  "ultimaAtualizacao" : "12/08/2026 20:28",
   "ofertas" : [ {
     "id" : 95679,
     "titulo" : "'Samsung Smart TV 55\" Crystal UHD 4K U8100F 2025",
@@ -2312,6 +2312,23 @@
       "preco" : 71.9
     } ]
   }, {
+    "id" : 96674,
+    "titulo" : "Buba, Mordedor Com Agua Buba Zoo Unicórnio",
+    "imagem" : "https://m.media-amazon.com/images/I/51kuKxyE2lL._AC_SL1000_.jpg",
+    "precoOriginal" : "33,90",
+    "precoPromocao" : "21,90",
+    "tag" : "-35%",
+    "percentualDesconto" : 35.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FMTCYR3Z?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:20",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "21,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 94216,
     "titulo" : "Buba, Máquina Fotográfica Com Projetor",
     "imagem" : "https://m.media-amazon.com/images/I/51Cs1tlQ7yL._AC_SL1200_.jpg",
@@ -2720,6 +2737,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "15,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96720,
+    "titulo" : "Café em Cápsula NESCAFÉ DOLCE GUSTO Mochaccino Canela 10 Cápsulas",
+    "imagem" : "https://m.media-amazon.com/images/I/51RITWg4ryL._AC_SL1000_.jpg",
+    "precoOriginal" : "21,99",
+    "precoPromocao" : "16,90",
+    "tag" : "-23%",
+    "percentualDesconto" : 23.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08KSVQ62G?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:28",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "16,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95838,
@@ -3470,6 +3504,23 @@
     "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96714,
+    "titulo" : "Celular Samsung Galaxy S25 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.2\", Prata",
+    "imagem" : "https://m.media-amazon.com/images/I/61ypIBTp6vL._AC_SL1500_.jpg",
+    "precoOriginal" : "7.499,00",
+    "precoPromocao" : "3.979,00",
+    "tag" : "-46%",
+    "percentualDesconto" : 46.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DSXX6XB3?tag=curadomus-20",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:27",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "4.096,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 96548,
     "titulo" : "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto",
     "imagem" : "https://m.media-amazon.com/images/I/41uS5ZSX9yL._AC_SL1000_.jpg",
@@ -3834,6 +3885,23 @@
       "data" : "12/08/2026",
       "preco" : 14.99
     } ]
+  }, {
+    "id" : 96693,
+    "titulo" : "Chupeta MAM Supreme 0 a 6 Meses - Embalagem DUPLA - Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/51CykPdF2lL._AC_SL1000_.jpg",
+    "precoOriginal" : "77,90",
+    "precoPromocao" : "48,63",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0B5VXCMNM?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:23",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "48,63",
+    "menorPrecoEmDias" : false
   }, {
     "id" : 95422,
     "titulo" : "Churrasqueira a Bafo Portátil para Pescaria Viagens Camping Material Resistente",
@@ -4305,6 +4373,23 @@
     "categoriaId" : 33,
     "ativo" : true,
     "dataOferta" : "11/08/2026 21:30",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "19,19",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96692,
+    "titulo" : "Condicionador Infantil Johnson's Gotas De Brilho, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61WidFSVeOL._AC_SL1500_.jpg",
+    "precoOriginal" : "28,89",
+    "precoPromocao" : "19,19",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B077C4JWCK?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:23",
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "19,19",
@@ -5936,6 +6021,41 @@
     "loja" : "Shopee",
     "precoAnterior" : "119,00",
     "menorPrecoEmDias" : false
+  }, {
+    "id" : 96699,
+    "titulo" : "Filtro de Linha 4 Tomadas Elgin 2P+T 10A Preto Bivolt",
+    "imagem" : "https://m.media-amazon.com/images/I/61jN+cbBGCL._AC_SL1500_.jpg",
+    "precoOriginal" : "68,22",
+    "precoPromocao" : "35,71",
+    "tag" : "-47%",
+    "percentualDesconto" : 47.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0755K43WL?tag=curadomus-20",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:24",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "precoAnterior" : "40,94",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 7,
+    "menorPrecoMensagem" : "Menor preço dos últimos 7 dias.",
+    "historico" : [ {
+      "data" : "07/08/2026",
+      "preco" : 35.73
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 40.94
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 40.94
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 40.94
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 35.71
+    } ]
   }, {
     "id" : 95759,
     "titulo" : "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
@@ -8267,6 +8387,23 @@
     "precoAnterior" : "137,09",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96707,
+    "titulo" : "JBL, Caixa de Som, Boombox 4, Bluetooth, Som JBL Pro, AI Sound Boost, Graves Personalizáveis, Bateria de até 34h, IP68, Áudio Lossless – Preta",
+    "imagem" : "https://m.media-amazon.com/images/I/61L44zANCCL._AC_SL1000_.jpg",
+    "precoOriginal" : "3.199,00",
+    "precoPromocao" : "2.114,07",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0H127L18H?tag=curadomus-20",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:26",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "2.313,98",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 95821,
     "titulo" : "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Branco",
     "imagem" : "https://m.media-amazon.com/images/I/51VYGGAyXmL._AC_SL1500_.jpg",
@@ -9809,6 +9946,23 @@
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96703,
+    "titulo" : "L'Oréal Paris, Água Micelar Solução de Limpeza 5 em 1 Limpa, Demaquila, Purifica, Suaviza e Reequilibra, Cuidado Diário Multifuncional para Todos os Tipos de Peles 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71ain2xkG4L._AC_SL1500_.jpg",
+    "precoOriginal" : "33,69",
+    "precoPromocao" : "19,19",
+    "tag" : "-43%",
+    "percentualDesconto" : 43.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B077BY6CB1?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:25",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "19,19",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 95486,
     "titulo" : "Lança Bolhas de Sabão com Luz Brinquedo Infantil Arminha de Bolha Diversão Crianças",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdwj-mczvuaud962h89",
@@ -10174,6 +10328,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "99,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96700,
+    "titulo" : "Likluc Assoarbaby Lenços Umedecidos Com Solução Salina Branco Tamanho Único",
+    "imagem" : "https://m.media-amazon.com/images/I/61xQjOrWgLL._AC_SL1200_.jpg",
+    "precoOriginal" : "29,90",
+    "precoPromocao" : "21,34",
+    "tag" : "-28%",
+    "percentualDesconto" : 28.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07MPPZ2GY?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:25",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "21,34",
     "menorPrecoEmDias" : false
   }, {
     "id" : 94604,
@@ -10650,6 +10821,23 @@
     "precoAnterior" : "24,50",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96715,
+    "titulo" : "Lysoform Lavanda, Desinfetante Líquido, Limpeza Casa, 5L",
+    "imagem" : "https://m.media-amazon.com/images/I/51qFTbuuMmL._AC_SL1200_.jpg",
+    "precoOriginal" : "62,03",
+    "precoPromocao" : "39,52",
+    "tag" : "-36%",
+    "percentualDesconto" : 36.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CVSBKF4N?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:27",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "39,52",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 96602,
     "titulo" : "Lysoform Original, Lenço Umedecido Desinfetante, Multisuso, Desinfecção e Limpeza, 36 unidades",
     "imagem" : "https://m.media-amazon.com/images/I/71mlMFNdFCL._AC_SL1500_.jpg",
@@ -10732,6 +10920,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "28,50",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96690,
+    "titulo" : "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter'sMeninas",
+    "imagem" : "https://m.media-amazon.com/images/I/81K1huF60sL._AC_SL1500_.jpg",
+    "precoOriginal" : "186,82",
+    "precoPromocao" : "131,78",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07ZPPZVWJ?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:23",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "131,78",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95075,
@@ -11359,6 +11564,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "979,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96696,
+    "titulo" : "Monitor Gamer Samsung Odyssey G5 32, Resolução QHD, Taxa de atualização de 165Hz & 1ms de tempo de resposta (MPRT), Curvatura com 1000R, HDR 10, AMD FreeSync, Eye Saver Mode & Flicker Free Mode",
+    "imagem" : "https://m.media-amazon.com/images/I/616NYrEQ6QL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.599,00",
+    "precoPromocao" : "1.199,00",
+    "tag" : "-25%",
+    "percentualDesconto" : 25.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=curadomus-20",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:24",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "1.199,00",
     "menorPrecoEmDias" : false
   }, {
     "id" : 94567,
@@ -12465,6 +12687,23 @@
     "precoAnterior" : "46,94",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96676,
+    "titulo" : "PAMPERS REFIL SABONETE LÍQUIDO GLICERINA 350ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71jkq4uh1hL._AC_SL1500_.jpg",
+    "precoOriginal" : "29,90",
+    "precoPromocao" : "19,99",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CNQ9C8TC?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:21",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "19,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 94991,
     "titulo" : "PAMPERS REFIL SHAMPOO GLICERINA 350ml",
     "imagem" : "https://m.media-amazon.com/images/I/71RZR03zWyL._AC_SL1500_.jpg",
@@ -13449,6 +13688,40 @@
     "precoAnterior" : "14,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 96709,
+    "titulo" : "Protex Baby Delicate Care Sabonete Líquido Infantil, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61A+Lzk0U2L._AC_SL1200_.jpg",
+    "precoOriginal" : "21,23",
+    "precoPromocao" : "13,64",
+    "tag" : "-35%",
+    "percentualDesconto" : 35.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08JQNSTJY?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:26",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "13,64",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96710,
+    "titulo" : "Protex Baby Lavanda Sabonete Líquido Infantil Refil, 380ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71l7t1PbwJL._AC_SL1500_.jpg",
+    "precoOriginal" : "23,80",
+    "precoPromocao" : "16,09",
+    "tag" : "-32%",
+    "percentualDesconto" : 32.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CLH9BCWW?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:26",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "16,09",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 96444,
     "titulo" : "Protex Baby Lavanda Sabonete Líquido Infantil, 400ml",
     "imagem" : "https://m.media-amazon.com/images/I/51swgAmRFHL._AC_SL1200_.jpg",
@@ -13584,6 +13857,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "21,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 96704,
+    "titulo" : "Sabonete Líquido de Glicerina Baunilha JOHNSON'S® Baby 200mL",
+    "imagem" : "https://m.media-amazon.com/images/I/61TqADalesL._AC_SL1500_.jpg",
+    "precoOriginal" : "26,39",
+    "precoPromocao" : "16,79",
+    "tag" : "-36%",
+    "percentualDesconto" : 36.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GMJVXT2K?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "12/08/2026 20:25",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "16,79",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95689,
