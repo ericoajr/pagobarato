@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "13/08/2026 08:31",
+  "ultimaAtualizacao" : "13/08/2026 08:36",
   "ofertas" : [ {
     "id" : 95679,
     "titulo" : "'Samsung Smart TV 55\" Crystal UHD 4K U8100F 2025",
@@ -411,9 +411,6 @@
     "menorPrecoDias" : 7,
     "menorPrecoMensagem" : "Menor preço dos últimos 7 dias.",
     "historico" : [ {
-      "data" : "06/08/2026",
-      "preco" : 23.9
-    }, {
       "data" : "07/08/2026",
       "preco" : 22.1
     }, {
@@ -513,6 +510,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "38,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 97287,
+    "titulo" : "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
+    "imagem" : "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
+    "precoOriginal" : "169,90",
+    "precoPromocao" : "99,00",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076CF5DFL?tag=curadomus-20",
+    "categoria" : "Ferramentas e Materiais de Construção",
+    "categoriaId" : 98,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:32",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "99,00",
     "menorPrecoEmDias" : false
   }, {
     "id" : 96072,
@@ -834,6 +848,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "241,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 97310,
+    "titulo" : "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61TOSd1e4qL._AC_SL1500_.jpg",
+    "precoOriginal" : "243,90",
+    "precoPromocao" : "119,90",
+    "tag" : "-50%",
+    "percentualDesconto" : 50.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0051LRFB0?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:36",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "119,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95392,
@@ -5556,6 +5587,23 @@
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 97284,
+    "titulo" : "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso sonoro Fritadeira Elétrica sem Óleo Forno Bancada EAF90 Grafite 127V",
+    "imagem" : "https://m.media-amazon.com/images/I/5183mlQX54L._AC_SL1000_.jpg",
+    "precoOriginal" : "1.299,00",
+    "precoPromocao" : "749,00",
+    "tag" : "-42%",
+    "percentualDesconto" : 42.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BYK9KP3W?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:32",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "749,00",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 94901,
     "titulo" : "Electrolux Air Fryer Forno 5 x 1 12L 1700W Digital Espeto Giratório 2 Bandejas Antiaderentes 10 funções 7 Receitas aviso sonoro Fritadeira Elétrica sem Óleo Forno Bancada EAF90 Grafite 220V | Air Fryer Oven 5 em 1 com 12L de capacidade e função Rotisserie",
     "imagem" : "https://m.media-amazon.com/images/I/5183mlQX54L._AC_SL1000_.jpg",
@@ -8177,6 +8225,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "83,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 97306,
+    "titulo" : "I2GO, Headphone Bass 300, Bluetooth, Microfone Integrado, Controle Multimídia, Até 10h de bateria, Tecnologia Dual Connect, Entrada cabo auxiliar P2 (incluso), Dobrável, Preto",
+    "imagem" : "https://m.media-amazon.com/images/I/61lg3DwB7zL._AC_SL1500_.jpg",
+    "precoOriginal" : "149,90",
+    "precoPromocao" : "89,90",
+    "tag" : "-40%",
+    "percentualDesconto" : 40.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C3DMVVVZ?tag=curadomus-20",
+    "categoria" : "Instrumentos Musicais",
+    "categoriaId" : 903,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:36",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "89,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95181,
@@ -12360,6 +12425,23 @@
       "preco" : 48.47
     } ]
   }, {
+    "id" : 97304,
+    "titulo" : "OMO Omo Lavagem Perfeita Sanitiza & Higieniza 2.2Kg",
+    "imagem" : "https://m.media-amazon.com/images/I/71Gb18PPs5L._AC_SL1500_.jpg",
+    "precoOriginal" : "35,90",
+    "precoPromocao" : "27,99",
+    "tag" : "-22%",
+    "percentualDesconto" : 22.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08KTPQ6YC?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:35",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "27,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 95541,
     "titulo" : "Oral-B Escova de Dente Clean Indicator, 4 Unidades",
     "imagem" : "https://m.media-amazon.com/images/I/61f8eFcG-IL._AC_SL1200_.jpg",
@@ -12537,6 +12619,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "23,92",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 97296,
+    "titulo" : "Pacote 5 Carros Sortidos, Hot Wheels, Mattel, Multicor - não é possível escolher as cores",
+    "imagem" : "https://m.media-amazon.com/images/I/81GMRnT1SsL._AC_SL1500_.jpg",
+    "precoOriginal" : "84,99",
+    "precoPromocao" : "61,99",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B000GKUEVE?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:34",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "61,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 94852,
@@ -13623,6 +13722,23 @@
     "precoAnterior" : "30,68",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 97299,
+    "titulo" : "Rede De Protecao Para Banho, Buba, Azul",
+    "imagem" : "https://m.media-amazon.com/images/I/61NZaA73OBL._AC_SL1000_.jpg",
+    "precoOriginal" : "72,12",
+    "precoPromocao" : "33,99",
+    "tag" : "-52%",
+    "percentualDesconto" : 52.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08K46KJD4?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:34",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "33,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 97060,
     "titulo" : "Repelente para Bebê SBP Baby Loção Corporal com Icaridina 100ml",
     "imagem" : "https://m.media-amazon.com/images/I/61Odo+CzWwL._AC_SL1500_.jpg",
@@ -14190,6 +14306,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "27,40",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 97307,
+    "titulo" : "Scala Plus Papel Toalha Multipicote, 200 Toalhas (2 Rolos de 100 Toalhas Cada)",
+    "imagem" : "https://m.media-amazon.com/images/I/71Q5B8kAMtL._AC_SL1500_.jpg",
+    "precoOriginal" : "7,09",
+    "precoPromocao" : "4,99",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09547GF99?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "13/08/2026 08:36",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "4,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 95884,
