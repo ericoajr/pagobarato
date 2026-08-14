@@ -174,7 +174,7 @@
         gap: 10px;
     }
     @media (min-width: 780px) {
-        .controles { grid-template-columns: 1fr auto auto; align-items: center; }
+        .controles { grid-template-columns: 1fr auto; align-items: center; }
     }
 
     .busca-wrapper { position: relative; }
@@ -549,11 +549,6 @@
             </button>
         </div>
         <div class="select-wrap">
-            <select id="filtro-categoria" class="select-custom" aria-label="Filtrar por loja">
-                <option value="TODAS">Todas as lojas</option>
-            </select>
-        </div>
-        <div class="select-wrap">
             <select id="ordenacao" class="select-custom" aria-label="Ordenar">
                 <option value="padrao">Ordem padrão</option>
                 <option value="desconto">Maior desconto</option>
@@ -601,7 +596,6 @@
     const STORAGE_KEY = 'pagobarato_favoritos_v1';
     let todasAsOfertas = [];
     let abaAtiva = 'hoje';
-    let categoriaAtiva = 'TODAS';
     let ordenacao = 'padrao';
     let termoBusca = '';
     let favoritos = new Set(carregarFavoritos());
@@ -636,7 +630,6 @@
                 ? `Atualizado em ${dadosVitrine.ultimaAtualizacao}`
                 : 'Atualizado recentemente';
 
-            configurarCombobox(todasAsOfertas);
             atualizarLista();
         } catch (erro) {
             console.error(erro);
@@ -653,18 +646,6 @@
     function mostrarVazio(titulo, sub) {
         document.getElementById('container-promocoes').innerHTML =
             `<div class="sem-promocoes"><strong>${titulo}</strong>${sub || ''}</div>`;
-    }
-
-    function configurarCombobox(ofertas) {
-        const select = document.getElementById('filtro-categoria');
-        select.innerHTML = '<option value="TODAS">Todas as lojas</option>';
-        const lojasUnicas = new Set();
-        ofertas.forEach(item => { if (item.loja) lojasUnicas.add(item.loja.trim()); });
-        Array.from(lojasUnicas).sort((a, b) => a.localeCompare(b)).forEach(loja => {
-            const option = document.createElement('option');
-            option.value = loja; option.innerText = loja;
-            select.appendChild(option);
-        });
     }
 
     function parsePrecoBR(valorString) {
@@ -771,9 +752,6 @@
 
     function aplicarBuscaEFiltroCategoria(lista) {
         let resultado = lista;
-        if (categoriaAtiva !== 'TODAS') {
-            resultado = resultado.filter(item => (item.loja || '').trim() === categoriaAtiva);
-        }
         if (termoBusca.trim()) {
             const q = termoBusca.trim().toLowerCase();
             resultado = resultado.filter(item =>
@@ -957,10 +935,6 @@
         atualizarLista();
     });
 
-    document.getElementById('filtro-categoria').addEventListener('change', (e) => {
-        categoriaAtiva = e.target.value;
-        atualizarLista();
-    });
     document.getElementById('ordenacao').addEventListener('change', (e) => {
         ordenacao = e.target.value;
         atualizarLista();
