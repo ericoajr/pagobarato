@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "18/08/2026 11:34",
+  "ultimaAtualizacao" : "18/08/2026 12:32",
   "ofertas" : [ {
     "id" : 106030,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -155,9 +155,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "19/07/2026",
-      "preco" : 30.99
-    }, {
       "data" : "20/07/2026",
       "preco" : 30.99
     }, {
@@ -408,6 +405,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "19,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108211,
+    "titulo" : "Adaptador Conector Tipo C para USB 3.0 OTG Conversor Macho USB-C Adaptador de Sincronização-de Dados",
+    "imagem" : "https://cf.shopee.com.br/file/89d01399c0b50fddeb4913e878946e29",
+    "precoOriginal" : "11,89",
+    "precoPromocao" : "7,49",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://s.shopee.com.br/LmSxCsjAy",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "7,49",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106293,
@@ -1046,6 +1060,23 @@
     "precoAnterior" : "275,53",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108247,
+    "titulo" : "Batedeira Planetária, Mondial, Preto, 700W, 110V - BP-03-B",
+    "imagem" : "https://m.media-amazon.com/images/I/511jk8D3duS._AC_SL1000_.jpg",
+    "precoOriginal" : "469,90",
+    "precoPromocao" : "275,53",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07WGHXCJX?tag=curadomus-20",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:12",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "275,53",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107674,
     "titulo" : "Batedeira Planetária, Mondial, Preto, 700W, 220V - BP-03-B",
     "imagem" : "https://m.media-amazon.com/images/I/511jk8D3duS._AC_SL1000_.jpg",
@@ -1078,6 +1109,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "18,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108307,
+    "titulo" : "Bebida Vegetal NotCo NotMilk Semi Desnatada 1L, Feito com Ingredientes 100% Vegetais, Sabor Leite Semi Desnatado, Sem Lactose, Sem Glúten, Ideal para Receitas, Plant-Based, Vegano, Vegetariano.",
+    "imagem" : "https://m.media-amazon.com/images/I/51yXjgLFfcL._AC_SL1081_.jpg",
+    "precoOriginal" : "17,99",
+    "precoPromocao" : "12,99",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0942YSMJD?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:22",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106701,
@@ -1185,6 +1233,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "45,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108302,
+    "titulo" : "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 30g",
+    "imagem" : "https://m.media-amazon.com/images/I/61kB4BkWYML._AC_SL1500_.jpg",
+    "precoOriginal" : "23,52",
+    "precoPromocao" : "17,59",
+    "tag" : "-25%",
+    "percentualDesconto" : 25.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C2B7LBKF?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:21",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "17,59",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107667,
@@ -1423,6 +1488,22 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "37,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108316,
+    "titulo" : "Blocos de Montar Infantil Educativo 100 Peças Blocolândia Dismat",
+    "imagem" : "https://m.media-amazon.com/images/I/61ch-5QkeLL._AC_SL1500_.jpg",
+    "precoOriginal" : "125,82",
+    "precoPromocao" : "103,55",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09883B5Z1?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:23",
+    "destaque" : false,
+    "loja" : "Amazon",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106279,
@@ -2094,6 +2175,23 @@
     "precoAnterior" : "7,09",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108200,
+    "titulo" : "BUBA Mordedor Com Agua Maozinha Colorido",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m1g1bjb5kx5dce",
+    "precoOriginal" : "49,97",
+    "precoPromocao" : "15,99",
+    "tag" : "-68%",
+    "percentualDesconto" : 68.0,
+    "linkAfiliado" : "https://s.shopee.com.br/3LQ4W6AKVP",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "15,01",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107434,
     "titulo" : "Buba Mordedor Com Massageador De Gengiva Azul",
     "imagem" : "https://m.media-amazon.com/images/I/51FJVjwLrXL._AC_SL1000_.jpg",
@@ -2370,6 +2468,23 @@
     "precoAnterior" : "41,10",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108320,
+    "titulo" : "Buba Tucano Musical De Atividades",
+    "imagem" : "https://m.media-amazon.com/images/I/61Y+Qyzo86L._AC_SL1000_.jpg",
+    "precoOriginal" : "105,90",
+    "precoPromocao" : "69,40",
+    "tag" : "-34%",
+    "percentualDesconto" : 34.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09WBWZ238?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:24",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "69,40",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 108080,
     "titulo" : "Buba, Bichinhos Para Banho Amiguinhos Aquaticos - 10 Un",
     "imagem" : "https://m.media-amazon.com/images/I/51Suvio0REL._AC_SL1000_.jpg",
@@ -2573,6 +2688,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "219,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108363,
+    "titulo" : "Buffalo Trace Whisky Ame Sabor Na 750 Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61CZKngai8L._AC_SL1500_.jpg",
+    "precoOriginal" : "179,90",
+    "precoPromocao" : "127,55",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B001P4SEXA?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:30",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "154,29",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107075,
@@ -3136,6 +3268,40 @@
     "precoAnterior" : "61,98",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108222,
+    "titulo" : "Camera Infantil Digital Filmadora Infantil Mini Maquina Fotografica Infantil Fotografa E Filma Tira Foto De Verdade",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8261e-mkhtcyljdcli32",
+    "precoOriginal" : "104,87",
+    "precoPromocao" : "40,90",
+    "tag" : "-61%",
+    "percentualDesconto" : 61.0,
+    "linkAfiliado" : "https://s.shopee.com.br/AKZovXNDRA",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "40,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108223,
+    "titulo" : "Camera Infantil Digital【Tira Foto De Verdade】 Filmadora Infantil Mini Maquina Fotografica Fotografa E Filma",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8224o-mhhepqmsbtvmc4",
+    "precoOriginal" : "99,75",
+    "precoPromocao" : "39,90",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://s.shopee.com.br/8fRawUboob",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "39,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106593,
     "titulo" : "Camesa Edredom Ecopluma Toque de Pluma Queen 240x260cm - Cinza, Poliéster",
     "imagem" : "https://m.media-amazon.com/images/I/71R1qTkatzL._AC_SL1200_.jpg",
@@ -3595,6 +3761,23 @@
     "precoAnterior" : "159,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108259,
+    "titulo" : "Casa Perini Espumante Brut 750 Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61VFkLad6rL._AC_SL1500_.jpg",
+    "precoOriginal" : "76,90",
+    "precoPromocao" : "55,90",
+    "tag" : "-21%",
+    "percentualDesconto" : 21.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XTRQ14Z?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:14",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "55,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106116,
     "titulo" : "Casaco Cacharrel Teddy Blusa De Pelinho Inverno Peludo Sherpa Frio",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820mb-mlxk2d6tkjd201",
@@ -3763,6 +3946,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "44,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108202,
+    "titulo" : "Chinelo Infantil com Elástico Antiderrapante Confortável Bebê Unissex",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mby1vqu3deu144",
+    "precoOriginal" : "40,31",
+    "precoPromocao" : "12,90",
+    "tag" : "-68%",
+    "percentualDesconto" : 68.0,
+    "linkAfiliado" : "https://s.shopee.com.br/6L3g5gWUR4",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "12,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106177,
@@ -4003,6 +4203,23 @@
     "precoAnterior" : "30,29",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108199,
+    "titulo" : "Colônia Mamãe e Bebê - 100 ml - Natura",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-22100-5vh18tdbwfiv01",
+    "precoOriginal" : "94,88",
+    "precoPromocao" : "48,39",
+    "tag" : "-49%",
+    "percentualDesconto" : 49.0,
+    "linkAfiliado" : "https://s.shopee.com.br/2BE77ruisC",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "48,39",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106156,
     "titulo" : "COMBO  KIT  CALÇA WIDE LEG JEANS  ESTAMPADAS INFANTIL MENINA",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lm-mr20ittinkzpa2",
@@ -4052,6 +4269,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "30,82",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108305,
+    "titulo" : "Comfort Amaciante Concentrado Frescor Intenso 1 L",
+    "imagem" : "https://m.media-amazon.com/images/I/71l23E7GvML._AC_SL1500_.jpg",
+    "precoOriginal" : "23,99",
+    "precoPromocao" : "15,99",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTLS9M7?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:21",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "15,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106527,
@@ -4292,6 +4526,23 @@
     "precoAnterior" : "77,69",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108205,
+    "titulo" : "Conjunto Jardineira Menino E Menina Roupas de Bebê Conjunto Bebê",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-lqkka3yruazj9a",
+    "precoOriginal" : "44,68",
+    "precoPromocao" : "33,51",
+    "tag" : "-25%",
+    "percentualDesconto" : 25.0,
+    "linkAfiliado" : "https://s.shopee.com.br/5ArihcLiG6",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "31,59",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106159,
     "titulo" : "Conjunto Moletom Unissex Estampado Paris Calça e Blusa Com Capuz Bolso Canguru",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7repg-m8z4uxc1e7zbc3",
@@ -4324,6 +4575,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "279,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108318,
+    "titulo" : "Contigo, Garrafa Térmica Inox Parede Dupla Matterhorn, 591ML",
+    "imagem" : "https://m.media-amazon.com/images/I/41Sy1XymrLS._AC_SL1200_.jpg",
+    "precoOriginal" : "149,90",
+    "precoPromocao" : "49,36",
+    "tag" : "-67%",
+    "percentualDesconto" : 67.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07K8WF98V?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:24",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "49,36",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106124,
@@ -4685,6 +4953,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "18,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108239,
+    "titulo" : "Creme Preventivo Assaduras Huggies Pele Protegida c/3 de 80g",
+    "imagem" : "https://m.media-amazon.com/images/I/619A5eTbmwL._AC_SL1200_.jpg",
+    "precoOriginal" : "85,50",
+    "precoPromocao" : "59,99",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08FVVH9BC?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:11",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107264,
@@ -5348,6 +5633,23 @@
     "precoAnterior" : "44,48",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108364,
+    "titulo" : "Exposis Infantil, Repelente Gel de Mosquitos, com Icaridina, Até 10h de Proteção, 100ml",
+    "imagem" : "https://m.media-amazon.com/images/I/510a5JF9lWL._AC_SL1200_.jpg",
+    "precoOriginal" : "73,90",
+    "precoPromocao" : "43,60",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076J2G18D?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:31",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "43,60",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107923,
     "titulo" : "Exposis Kit Repelente Bebê Gel 117g e Extreme Spray 100ml Icaridina",
     "imagem" : "https://m.media-amazon.com/images/I/61I8MX8E6yL._AC_SL1000_.jpg",
@@ -5501,6 +5803,23 @@
     "precoAnterior" : "119,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108278,
+    "titulo" : "Finish Powerball Detergente para Lava Louças em tabletes Embalagem Econômica com 91 tabletes",
+    "imagem" : "https://m.media-amazon.com/images/I/61Nf8UQrPOL._AC_SL1000_.jpg",
+    "precoOriginal" : "277,78",
+    "precoPromocao" : "209,90",
+    "tag" : "-24%",
+    "percentualDesconto" : 24.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07Y3B33KG?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:17",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "185,79",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106740,
     "titulo" : "Finish Quantum All in 1 Detergente para Lava Louças em Tabletes 10 unidades",
     "imagem" : "https://m.media-amazon.com/images/I/614-Zl-2DZL._AC_SL1500_.jpg",
@@ -5516,6 +5835,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "36,29",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108352,
+    "titulo" : "Fischer Forno Elétrico Bancada Pop Grill 44L Black 127V 34313-94808",
+    "imagem" : "https://m.media-amazon.com/images/I/51C+XqnzT4L._AC_SL1000_.jpg",
+    "precoOriginal" : "899,00",
+    "precoPromocao" : "698,98",
+    "tag" : "-34%",
+    "percentualDesconto" : 34.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CPJLFFB6?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:29",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "698,98",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107613,
@@ -5552,6 +5888,73 @@
     "precoAnterior" : "17,29",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108189,
+    "titulo" : "Flybb Cadeira de Alimentação Bebê Infantil Portátil Dobrável Segura e Confortável para Refeições em",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lp-moyuhdvf553a97",
+    "precoOriginal" : "706,45",
+    "precoPromocao" : "219,00",
+    "tag" : "-69%",
+    "percentualDesconto" : 69.0,
+    "linkAfiliado" : "https://s.shopee.com.br/7VFbYITcZx",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:03",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "219,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108229,
+    "titulo" : "Fogão 5 Bocas Atlas Atenas com mesa de Vidro Acendimento Automático a Gás Preto 110/220V",
+    "imagem" : "https://m.media-amazon.com/images/I/41XqT107BWL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.859,00",
+    "precoPromocao" : "1.139,00",
+    "tag" : "-38%",
+    "percentualDesconto" : 38.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FXC6HJWP?tag=curadomus-20",
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:09",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 15,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "04/08/2026"
+    }, {
+      "data" : "05/08/2026"
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026"
+    }, {
+      "data" : "08/08/2026"
+    }, {
+      "data" : "09/08/2026"
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 1223.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 1223.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 1223.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 1223.9
+    }, {
+      "data" : "16/08/2026"
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 1139.0
+    } ]
+  }, {
     "id" : 108024,
     "titulo" : "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
     "imagem" : "https://m.media-amazon.com/images/I/41z7d-LlVEL._AC_SL1000_.jpg",
@@ -5567,6 +5970,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "97,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108192,
+    "titulo" : "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lw-mozd89yz0xdx96",
+    "precoOriginal" : "80,37",
+    "precoPromocao" : "40,99",
+    "tag" : "-49%",
+    "percentualDesconto" : 49.0,
+    "linkAfiliado" : "https://s.shopee.com.br/7psTs2Ek7u",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "40,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106151,
@@ -5807,6 +6227,23 @@
     "precoAnterior" : "174,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108346,
+    "titulo" : "Fralda Descartável Huggies Máxima Proteção Tamanho XXXL 128 unidades – Fralda aberta com tecnologia Xtra-Flex, canais em X que se adaptam aos movimentos e máxima proteção sem fralda caída",
+    "imagem" : "https://m.media-amazon.com/images/I/81uxXKPfi0L._AC_SL1500_.jpg",
+    "precoOriginal" : "246,01",
+    "precoPromocao" : "174,90",
+    "tag" : "-28%",
+    "percentualDesconto" : 28.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DD7V56G1?tag=curadomus-20",
+    "categoria" : "Fraldas",
+    "categoriaId" : 9,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:28",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "174,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107433,
     "titulo" : "Fralda Huggies Supreme Care Roupinha XG - 64 fraldas",
     "imagem" : "https://m.media-amazon.com/images/I/81rfab7At1L._AC_SL1500_.jpg",
@@ -5912,6 +6349,22 @@
       "data" : "18/08/2026",
       "preco" : 43.41
     } ]
+  }, {
+    "id" : 108233,
+    "titulo" : "Fralda Pampers Pants Ajuste Total Tamanho M, Fácil de Vestir, 112 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61kHj8Jf52L._AC_SL1200_.jpg",
+    "precoOriginal" : "169,51",
+    "precoPromocao" : "119,90",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C5SQNSL4?tag=curadomus-20",
+    "categoria" : "Fraldas",
+    "categoriaId" : 9,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:10",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "menorPrecoEmDias" : false
   }, {
     "id" : 108058,
     "titulo" : "Fralda Pants Huggies Proteção Acolchoada, Tamanho G, 70 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
@@ -6231,6 +6684,23 @@
     "precoAnterior" : "319,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108331,
+    "titulo" : "Fritadeira Philco Air Fryer Oven 12L PFR2200P - 127V",
+    "imagem" : "https://m.media-amazon.com/images/I/612gXC9waVL._AC_SL1200_.jpg",
+    "precoOriginal" : "1.199,90",
+    "precoPromocao" : "469,90",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08R93TVRG?tag=curadomus-20",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:26",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "469,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107357,
     "titulo" : "Fruteira de Mesa em Acrilico Transparente com Detalhes Dourados Design Sofisticado em Formato de Flor Resistente e Fácil Limpeza",
     "imagem" : "https://m.media-amazon.com/images/I/61lgw0iPLnL._AC_SL1200_.jpg",
@@ -6509,6 +6979,23 @@
     "loja" : "Amazon",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108252,
+    "titulo" : "Giby Shampoo 200Ml Roxo",
+    "imagem" : "https://m.media-amazon.com/images/I/51KU7MhotXL._AC_SL1080_.jpg",
+    "precoOriginal" : "15,89",
+    "precoPromocao" : "11,21",
+    "tag" : "-34%",
+    "percentualDesconto" : 34.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B077SZN4DK?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:13",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "11,21",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 108007,
     "titulo" : "Gillette Mach3 - Refil Para Barbear, 16 Unidades",
     "imagem" : "https://m.media-amazon.com/images/I/71trWiva9mL._AC_SL1000_.jpg",
@@ -6694,6 +7181,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "18,09",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108197,
+    "titulo" : "Goma Gomets 500gr Dori Sortido",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rbl6-m5vqgddrrxamb3",
+    "precoOriginal" : "12,15",
+    "precoPromocao" : "8,99",
+    "tag" : "-26%",
+    "percentualDesconto" : 26.0,
+    "linkAfiliado" : "https://s.shopee.com.br/6pzwgKfZvj",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "9,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107533,
@@ -7460,6 +7964,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "174,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108354,
+    "titulo" : "Impressora Multifuncional Brother A4 DCP-T230 Tanque de Tinta, Colorida, USB, Bivolt",
+    "imagem" : "https://m.media-amazon.com/images/I/51EQj0OUwKL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.099,00",
+    "precoPromocao" : "849,00",
+    "tag" : "-22%",
+    "percentualDesconto" : 22.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DM6BKQGD?tag=curadomus-20",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:29",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "849,00",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106284,
@@ -8335,6 +8856,23 @@
     "precoAnterior" : "54,81",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108313,
+    "titulo" : "Johnson's Shampoo e Condicionador Infantil 2 em 1, 400ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51Y-gcBUHmL._AC_SL1000_.jpg",
+    "precoOriginal" : "34,99",
+    "precoPromocao" : "19,49",
+    "tag" : "-44%",
+    "percentualDesconto" : 44.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DVTBWQ8Q?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:23",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "19,49",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107420,
     "titulo" : "JOHNSON'S® Baby Sabonete Líquido de Glicerina Camomila 750mL",
     "imagem" : "https://m.media-amazon.com/images/I/61K5hrmtDLL._AC_SL1500_.jpg",
@@ -8367,6 +8905,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "11,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108204,
+    "titulo" : "KIT 03 SHORTS INFLANTIL PARA ESCOLA, PARA O DIA A DIA PROMOÇAO 2026!",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8262j-mkkzzsetaaddf4",
+    "precoOriginal" : "59,85",
+    "precoPromocao" : "38,90",
+    "tag" : "-35%",
+    "percentualDesconto" : 35.0,
+    "linkAfiliado" : "https://s.shopee.com.br/8AVKH7JDjL",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "38,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106130,
@@ -8539,6 +9094,23 @@
     "precoAnterior" : "62,93",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108209,
+    "titulo" : "Kit 3 Peneira Coador De Peneiras Aço Inoxidável Para Cozinha Peneira De Cozinha",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mgnpcgpj9wjpc2",
+    "precoOriginal" : "25,79",
+    "precoPromocao" : "15,99",
+    "tag" : "-38%",
+    "percentualDesconto" : 38.0,
+    "linkAfiliado" : "https://s.shopee.com.br/2LXXKjOQ6Y",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "15,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106005,
     "titulo" : "Kit 3 Potes Dispenser Hermético 2l Multiuso Lavanderia Porta Sabão Em Pó Com Copo Medidor Bico Dosador E Travas",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_794291-MLA103428659673_012026-F.webp",
@@ -8680,6 +9252,23 @@
       "data" : "18/08/2026",
       "preco" : 34.29
     } ]
+  }, {
+    "id" : 108201,
+    "titulo" : "Kit 4 Peças Conjunto Infantil Bebê Menino Verão Algodão Promoção 2 Camisas 2 Shorts Envio Sortido",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820li-mmp9aj5bsdtze3",
+    "precoOriginal" : "130,00",
+    "precoPromocao" : "42,90",
+    "tag" : "-67%",
+    "percentualDesconto" : 67.0,
+    "linkAfiliado" : "https://s.shopee.com.br/40flJN6RQk",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "42,90",
+    "menorPrecoEmDias" : false
   }, {
     "id" : 106313,
     "titulo" : "Kit 4 Peças Conjunto Infantil Estampa Los Angeles Moletom Flanelado 1/8 Menino e Menina Casaco/Calça",
@@ -9004,6 +9593,23 @@
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108208,
+    "titulo" : "Kit com 100 Unidades de Tampa De Plástico descartável para alimento",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mhua3erpy8ee79",
+    "precoOriginal" : "14,93",
+    "precoPromocao" : "10,00",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://s.shopee.com.br/5q7PV0b45C",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "10,00",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106300,
     "titulo" : "Kit Com 4 Cesto Caixa Organizadora Rattan Com Tampa  4 Litros Preto",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rd5h-lwvulhmfmpsp71",
@@ -9199,6 +9805,23 @@
     "precoAnterior" : "23,44",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108203,
+    "titulo" : "Kit Meia Infantil Escolar 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdxa-lxj4z66p4o2xbd",
+    "precoOriginal" : "27,14",
+    "precoPromocao" : "19,00",
+    "tag" : "-30%",
+    "percentualDesconto" : 30.0,
+    "linkAfiliado" : "https://s.shopee.com.br/1gHqX6x3Uh",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "19,00",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106345,
     "titulo" : "KIT NINHO REDUTOR BERCO | ALMOFADA AMAMENTACAO | TROCADOR PORTATIL | MENINO E MENINA | MICROPERCAL 400 FIOS",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lm-mqaqs4306s5d80",
@@ -9301,6 +9924,40 @@
     "precoAnterior" : "52,60",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108224,
+    "titulo" : "Kit Presilhas de Cabelo Estrela Coloridas Cores Sortidas 10 20 50 100 Unidades",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820mh-mpxpl22c3y825b",
+    "precoOriginal" : "20,41",
+    "precoPromocao" : "10,00",
+    "tag" : "-51%",
+    "percentualDesconto" : 51.0,
+    "linkAfiliado" : "https://s.shopee.com.br/1BLa0pJLeQ",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "10,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108373,
+    "titulo" : "Kit Sabonete em Barra Pom Pom Loção Hidratante com 5 unidades de 70g cada",
+    "imagem" : "https://m.media-amazon.com/images/I/61CYovAAZJL._AC_SL1500_.jpg",
+    "precoOriginal" : "24,52",
+    "precoPromocao" : "12,77",
+    "tag" : "-45%",
+    "percentualDesconto" : 45.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07Z55NZ7G?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:32",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "12,77",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107808,
     "titulo" : "Kit Shampoo Regular Johnson's Baby + Johnson's Baby Sabonete Líquido Glicerina Da Cabeça Aos Pés 750ml",
     "imagem" : "https://m.media-amazon.com/images/I/61LlrqiZbnL._AC_SL1500_.jpg",
@@ -9367,6 +10024,40 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "23,02",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108359,
+    "titulo" : "L'OR Café Solúvel Intense Pote De Vidro 130G",
+    "imagem" : "https://m.media-amazon.com/images/I/71074dqXr4L._AC_SL1500_.jpg",
+    "precoOriginal" : "39,65",
+    "precoPromocao" : "24,69",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C4M1HFTH?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:30",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "33,68",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108277,
+    "titulo" : "L'or, Café Solúvel Montanhas Capixabas Vidro 84g",
+    "imagem" : "https://m.media-amazon.com/images/I/81fqrsEBf+L._AC_SL1500_.jpg",
+    "precoOriginal" : "42,30",
+    "precoPromocao" : "20,79",
+    "tag" : "-50%",
+    "percentualDesconto" : 50.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BZWVSR3H?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:17",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "20,79",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107859,
@@ -9603,6 +10294,23 @@
     "precoAnterior" : "2.459,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108324,
+    "titulo" : "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
+    "imagem" : "https://m.media-amazon.com/images/I/81JnCaFLWkL._AC_SL1500_.jpg",
+    "precoOriginal" : "799,99",
+    "precoPromocao" : "490,99",
+    "tag" : "-38%",
+    "percentualDesconto" : 38.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CGY57KKM?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:25",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "490,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107784,
     "titulo" : "Leite em Pó Ninho Integral Instantâneo Sachê 575g",
     "imagem" : "https://m.media-amazon.com/images/I/81vyv1DU0iL._AC_SL1500_.jpg",
@@ -9652,6 +10360,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "13,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108309,
+    "titulo" : "Lenços Umedecidos JOHNSON'S® Baby Recém Nascido, 48 unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61jnuVSAOfL._AC_SL1500_.jpg",
+    "precoOriginal" : "22,29",
+    "precoPromocao" : "15,90",
+    "tag" : "-28%",
+    "percentualDesconto" : 28.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHSFWBL?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:22",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "15,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106871,
@@ -9937,6 +10662,23 @@
     "precoAnterior" : "33,75",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108357,
+    "titulo" : "Lillo Kit De Chupeta 100% Silicone Calming Brilha No Escuro Bico Simétrico 6+ Meses - Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/61EsHIz4qeL._AC_SL1500_.jpg",
+    "precoOriginal" : "49,90",
+    "precoPromocao" : "35,90",
+    "tag" : "-28%",
+    "percentualDesconto" : 28.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09YJ9BCRG?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:30",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "35,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 105969,
     "titulo" : "Limpador Perfumado Veja Tulipa da Holanda - 2L, Veja, Coral",
     "imagem" : "https://m.media-amazon.com/images/I/61oFBB1xDWL._AC_SL1500_.jpg",
@@ -10105,6 +10847,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "26,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108301,
+    "titulo" : "Listerine Enxaguante Bucal Melancia & Hortelã Sem Álcool, 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/51-lr6JrBYL._AC_SL1000_.jpg",
+    "precoOriginal" : "41,99",
+    "precoPromocao" : "29,39",
+    "tag" : "-30%",
+    "percentualDesconto" : 30.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FCGQF9X7?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:21",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "29,39",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106052,
@@ -10996,6 +11755,23 @@
     "precoAnterior" : "23,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108194,
+    "titulo" : "Mix Castanha Tropical Nuts Saudável Nozes, Amêndoas, Castanha Para/Caju Uva Passa Amendoim Gojiberry",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m1r5gzl6q4nc39",
+    "precoOriginal" : "39,92",
+    "precoPromocao" : "15,97",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://s.shopee.com.br/1VyQKURd5l",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "15,80",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107278,
     "titulo" : "Mix de Gergelim Branco, Preto e Integral 500gr - X Roots",
     "imagem" : "https://m.media-amazon.com/images/I/61MmoRLyEfL._AC_SL1500_.jpg",
@@ -11011,6 +11787,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "26,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108196,
+    "titulo" : "MIX DE NUTS SEM AMENDOIM",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m9kdo5172c5eda",
+    "precoOriginal" : "46,03",
+    "precoPromocao" : "29,00",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://s.shopee.com.br/4AzBVQ80Yg",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "29,00",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106285,
@@ -11335,6 +12128,23 @@
     "precoAnterior" : "199,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108213,
+    "titulo" : "Mouse Sem Fio Portátil Pilha Notebook Windows mac Linux",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lv-moze1i009bt1a7",
+    "precoOriginal" : "35,00",
+    "precoPromocao" : "18,90",
+    "tag" : "-46%",
+    "percentualDesconto" : 46.0,
+    "linkAfiliado" : "https://s.shopee.com.br/1VyQLOVPHZ",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "18,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107297,
     "titulo" : "Mustela Protetor Solar 200ml FPS 50+ Filtro Solar Rosto e Corpo Para Bebês, Crianças e Adultos - Alta Proteção Solar com Fórmula Hipoalergênica para Todos os Tipos de Pele",
     "imagem" : "https://m.media-amazon.com/images/I/51J-gBLPqvL._AC_SL1000_.jpg",
@@ -11488,6 +12298,23 @@
     "precoAnterior" : "17,81",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108361,
+    "titulo" : "NESCAFÉ DOLCE GUSTO Café em Cápsula Cappuccino 10 Cápsulas",
+    "imagem" : "https://m.media-amazon.com/images/I/61GgVRg4vtL._AC_SL1200_.jpg",
+    "precoOriginal" : "21,99",
+    "precoPromocao" : "16,90",
+    "tag" : "-23%",
+    "percentualDesconto" : 23.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08KSW92KS?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:30",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "16,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107700,
     "titulo" : "Nescafé, Café Solúvel, Matinal, Suave, 100g",
     "imagem" : "https://m.media-amazon.com/images/I/81gI9OIa07L._AC_SL1500_.jpg",
@@ -11520,6 +12347,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "71,45",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108319,
+    "titulo" : "Nestlé Creme De Leite Zero Lactose 200G",
+    "imagem" : "https://m.media-amazon.com/images/I/61L60UgxBhS._AC_SL1200_.jpg",
+    "precoOriginal" : "6,99",
+    "precoPromocao" : "4,59",
+    "tag" : "-34%",
+    "percentualDesconto" : 34.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07RM7X6M4?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:24",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "4,59",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107539,
@@ -11673,6 +12517,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "75,96",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108220,
+    "titulo" : "Novo A9 HD Mini com visão noturna Wifi Câmera 1080P Vigilância",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rd4q-lvm1unqfgtxccc",
+    "precoOriginal" : "45,43",
+    "precoPromocao" : "19,99",
+    "tag" : "-56%",
+    "percentualDesconto" : 56.0,
+    "linkAfiliado" : "https://s.shopee.com.br/4fvSB4Anq0",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "19,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 106261,
@@ -11983,6 +12844,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "26,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108299,
+    "titulo" : "Orfeu Café Bourbon Amarelo, 100% Arabica, Torra Média Clara, Cápsulas Espresso 20 unid. Compatível Nespresso®*",
+    "imagem" : "https://m.media-amazon.com/images/I/51gM5wuH82L._AC_SL1000_.jpg",
+    "precoOriginal" : "73,20",
+    "precoPromocao" : "51,90",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B089T3YHFF?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:21",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "51,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107706,
@@ -12447,6 +13325,23 @@
       "preco" : 18.99
     } ]
   }, {
+    "id" : 108225,
+    "titulo" : "Panos para óculos de leitura não devem ser comprados separadamente - 1 no total",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134201-820md-mqypmmhyf9jbdd",
+    "precoOriginal" : "63,33",
+    "precoPromocao" : "19,00",
+    "tag" : "-70%",
+    "percentualDesconto" : 70.0,
+    "linkAfiliado" : "https://s.shopee.com.br/W5tDecCjr",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "19,00",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107330,
     "titulo" : "Papa Bolinhas Portátil, para remoção de bolinhas das roupas, CST0146, Flash Limp",
     "imagem" : "https://m.media-amazon.com/images/I/41-K3fX2ksL._AC_SL1000_.jpg",
@@ -12589,6 +13484,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "36,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108212,
+    "titulo" : "Pen Drives e OTGs USB 8GB 16GB 32GB 64GB 128GB Cruzer Lâmina 2.0 Flash Drive Memory Stick Pen Drive",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-825zl-mm7uud3w0xzjd6",
+    "precoOriginal" : "44,71",
+    "precoPromocao" : "16,99",
+    "tag" : "-62%",
+    "percentualDesconto" : 62.0,
+    "linkAfiliado" : "https://s.shopee.com.br/4AzBWHUb18",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "22,98",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107672,
@@ -13416,6 +14328,23 @@
     "precoAnterior" : "19,59",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108248,
+    "titulo" : "Protex Baby Glicerina Natural Sabonete Líquido Refil, 800ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61akH2rcdHL._AC_SL1200_.jpg",
+    "precoOriginal" : "47,11",
+    "precoPromocao" : "31,49",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:12",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "31,49",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106394,
     "titulo" : "Quadriciclo Infantil Elétrico Carro Compact Carrinho de Passear 2 em 1 Controle e Manual Zippy Toys",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-meu5ccnht9tt12",
@@ -13552,6 +14481,23 @@
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108193,
+    "titulo" : "Rádio Caixa de Som Bluetooth Recarregável  Lanterna Retro Portátil FM AM USB SD Pilha",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820me-mogu34styw3n6e",
+    "precoOriginal" : "141,09",
+    "precoPromocao" : "64,90",
+    "tag" : "-54%",
+    "percentualDesconto" : 54.0,
+    "linkAfiliado" : "https://s.shopee.com.br/7fZ3flRpvm",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "64,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106699,
     "titulo" : "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
     "imagem" : "https://m.media-amazon.com/images/I/51gUvebZzeL._AC_SL1000_.jpg",
@@ -13568,6 +14514,82 @@
     "loja" : "Amazon",
     "precoAnterior" : "33,99",
     "menorPrecoEmDias" : false
+  }, {
+    "id" : 108356,
+    "titulo" : "Sabonete Líquido Glicerina Camomila JOHNSON’S® Baby, 180mL",
+    "imagem" : "https://m.media-amazon.com/images/I/71zGUIKAcCL._AC_SL1500_.jpg",
+    "precoOriginal" : "18,79",
+    "precoPromocao" : "12,69",
+    "tag" : "-32%",
+    "percentualDesconto" : 32.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D6C272X7?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:29",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 30,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "historico" : [ {
+      "data" : "20/07/2026"
+    }, {
+      "data" : "21/07/2026"
+    }, {
+      "data" : "22/07/2026"
+    }, {
+      "data" : "24/07/2026"
+    }, {
+      "data" : "25/07/2026"
+    }, {
+      "data" : "26/07/2026",
+      "preco" : 14.39
+    }, {
+      "data" : "28/07/2026",
+      "preco" : 14.39
+    }, {
+      "data" : "29/07/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "30/07/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "01/08/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "02/08/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "03/08/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 12.95
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 12.94
+    }, {
+      "data" : "10/08/2026"
+    }, {
+      "data" : "11/08/2026"
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "14/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 12.69
+    } ]
   }, {
     "id" : 107460,
     "titulo" : "Sabonete Líquido Glicerina Camomila JOHNSON’S® Baby, 400mL",
@@ -13773,6 +14795,23 @@
     "precoAnterior" : "59,70",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108206,
+    "titulo" : "Sandalia Infantil de menina emborachado papete feminina",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lx-moy94ixhjqx239",
+    "precoOriginal" : "59,50",
+    "precoPromocao" : "23,80",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://s.shopee.com.br/8pl14MyH9J",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "23,80",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 107681,
     "titulo" : "Sanduicheira Elétrica Cadence Click - 127V",
     "imagem" : "https://m.media-amazon.com/images/I/51UxR8FHe-L._AC_SL1000_.jpg",
@@ -13875,6 +14914,23 @@
     "precoAnterior" : "18,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108334,
+    "titulo" : "Santa Helena Vinho Reservado Malbec 750Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61sNLF0CmDL._AC_SL1500_.jpg",
+    "precoOriginal" : "52,90",
+    "precoPromocao" : "38,61",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XTRS4FK?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:26",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "38,61",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106417,
     "titulo" : "Sapatinho de bebe Menino  Recem Nascido Slip On",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m1y9xxvnu15rcc",
@@ -13972,6 +15028,23 @@
     "precoAnterior" : "15,18",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108191,
+    "titulo" : "Senbenbao X55 Fones De Ouvido TWS Sono Sem Fio Bluetooth Display Led Alta Fidelidade Estéreo Cancelamento Ruído À Prova ",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-825a1-mr8h8oeqo4r057",
+    "precoOriginal" : "35,74",
+    "precoPromocao" : "12,51",
+    "tag" : "-65%",
+    "percentualDesconto" : 65.0,
+    "linkAfiliado" : "https://s.shopee.com.br/80Bu4K1JQp",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:03",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "12,51",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 105903,
     "titulo" : "Sensodyne Creme Dental Branqueador Extra Fresh com Flúor, Leve 3 e Pague 2, Anti Tártaro, Contra Sensibilidade, 90g cada",
     "imagem" : "https://m.media-amazon.com/images/I/719m48opGVL._AC_SL1500_.jpg",
@@ -14020,6 +15093,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "19,49",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108337,
+    "titulo" : "Shampoo Para Bebê Johnson's Baby Para Cabelos Claros, 400ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61ZNprORA+L._AC_SL1500_.jpg",
+    "precoOriginal" : "34,99",
+    "precoPromocao" : "22,75",
+    "tag" : "-34%",
+    "percentualDesconto" : 34.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B077C2D43T?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:27",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "22,75",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107841,
@@ -14681,6 +15771,23 @@
     "precoAnterior" : "24,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108216,
+    "titulo" : "Tenis Masculino Escolar Academia Corrida Original FREEDOM Corrida Caminhada Lançamento EXCLUSIVO CINZA GRAVITE e LARANJA",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lu-mp1812w1byf511",
+    "precoOriginal" : "89,11",
+    "precoPromocao" : "40,99",
+    "tag" : "-54%",
+    "percentualDesconto" : 54.0,
+    "linkAfiliado" : "https://s.shopee.com.br/AAGOj1TEsu",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "40,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 106207,
     "titulo" : "Tenis Vizzano Feminino Casual Moda 1444.100",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8259d-mrpvjgt0vw2049",
@@ -14696,6 +15803,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "137,09",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108343,
+    "titulo" : "The Macallan Whisky Double Cask 12 Anos 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/515t45uNGZL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.135,00",
+    "precoPromocao" : "799,60",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B079FYVVLF?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:27",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "799,60",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107150,
@@ -15149,6 +16273,23 @@
     "destaque" : false,
     "loja" : "Mercado Livre",
     "precoAnterior" : "178,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108207,
+    "titulo" : "Tênis Branco para Bebê e Infantil: Conforto Estilo do 18 ao 33, Ideal para Todas as Idades!",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lg-mpv8r0zuxog214",
+    "precoOriginal" : "49,50",
+    "precoPromocao" : "19,80",
+    "tag" : "-60%",
+    "percentualDesconto" : 60.0,
+    "linkAfiliado" : "https://s.shopee.com.br/4fvS6kDKVK",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:04",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "19,80",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107830,
@@ -15884,6 +17025,23 @@
     "precoAnterior" : "62,89",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 108340,
+    "titulo" : "Whisky Bourbon Jim Beam Black 7 Anos 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/71gsuzWx3ZL._AC_SL1500_.jpg",
+    "precoOriginal" : "156,90",
+    "precoPromocao" : "119,90",
+    "tag" : "-23%",
+    "percentualDesconto" : 23.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DK623RFG?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:27",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "119,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 105958,
     "titulo" : "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
     "imagem" : "https://m.media-amazon.com/images/I/51pLvcYPoYL._AC_SL1000_.jpg",
@@ -16074,6 +17232,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "177,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108314,
+    "titulo" : "Whisky Johnnie Walker Red Label 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/41C6vb-0vwL._AC_SL1000_.jpg",
+    "precoOriginal" : "92,90",
+    "precoPromocao" : "57,99",
+    "tag" : "-37%",
+    "percentualDesconto" : 37.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0086LLUG8?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:23",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "57,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107015,
@@ -16327,6 +17502,40 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "7,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108218,
+    "titulo" : "Óculos De Natação Infantis Com Protetor De À Prova D'água , Antiembaçante E HD Para Meninos Meninas",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8261m-mlimqeeoao0388",
+    "precoOriginal" : "59,19",
+    "precoPromocao" : "21,90",
+    "tag" : "-63%",
+    "percentualDesconto" : 63.0,
+    "linkAfiliado" : "https://s.shopee.com.br/6pzwkyiAhd",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "21,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 108226,
+    "titulo" : "Óculos De Sol Fotocromáticos Masculinos UV400 Polarizados Para Dirigir Diurnos E Noturnos",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-823pk-mp4lwwgdkgzz36",
+    "precoOriginal" : "22,57",
+    "precoPromocao" : "11,96",
+    "tag" : "-47%",
+    "percentualDesconto" : 47.0,
+    "linkAfiliado" : "https://s.shopee.com.br/2BE7Cj9SO9",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "18/08/2026 12:05",
+    "destaque" : false,
+    "loja" : "Shopee",
+    "precoAnterior" : "11,96",
     "menorPrecoEmDias" : false
   }, {
     "id" : 107686,
