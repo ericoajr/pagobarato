@@ -589,8 +589,8 @@
     "tag" : "-45%",
     "percentualDesconto" : 45.0,
     "linkAfiliado" : "https://s.shopee.com.br/3qMSSrMFn4",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
     "ativo" : true,
     "dataOferta" : "21/08/2026 18:11",
     "destaque" : false,
@@ -2828,9 +2828,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 409.75
-    }, {
       "data" : "24/07/2026",
       "preco" : 409.75
     }, {
@@ -3095,8 +3092,8 @@
     "tag" : "-33%",
     "percentualDesconto" : 33.0,
     "linkAfiliado" : "https://meli.la/2iqc1dU",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
     "ativo" : true,
     "dataOferta" : "21/08/2026 19:46",
     "destaque" : false,
@@ -3317,8 +3314,8 @@
     "tag" : "-56%",
     "percentualDesconto" : 56.0,
     "linkAfiliado" : "https://meli.la/33xdqFS",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Moda",
+    "categoriaId" : 5,
     "ativo" : true,
     "dataOferta" : "21/08/2026 09:39",
     "destaque" : false,
@@ -5352,8 +5349,8 @@
     "tag" : "-38%",
     "percentualDesconto" : 38.0,
     "linkAfiliado" : "https://meli.la/2HuT9eo",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
     "ativo" : true,
     "dataOferta" : "20/08/2026 20:35",
     "destaque" : false,
@@ -5984,9 +5981,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 59.9
-    }, {
       "data" : "24/07/2026",
       "preco" : 59.9
     }, {
@@ -6272,8 +6266,8 @@
     "tag" : "-32%",
     "percentualDesconto" : 32.0,
     "linkAfiliado" : "https://meli.la/1iw6KkM",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Ferramentas e Materiais de Construção",
+    "categoriaId" : 98,
     "ativo" : true,
     "dataOferta" : "21/08/2026 09:36",
     "destaque" : false,
@@ -8988,9 +8982,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 239.9
-    }, {
       "data" : "23/07/2026",
       "preco" : 239.9
     }, {
@@ -9477,8 +9468,8 @@
     "tag" : "-36%",
     "percentualDesconto" : 36.0,
     "linkAfiliado" : "https://www.amazon.com.br/dp/B007QR1NK6?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
     "ativo" : true,
     "dataOferta" : "20/08/2026 19:50",
     "destaque" : false,
@@ -9675,9 +9666,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 47.0
-    }, {
       "data" : "24/07/2026",
       "preco" : 44.0
     }, {
@@ -9925,8 +9913,8 @@
     "tag" : "-51%",
     "percentualDesconto" : 51.0,
     "linkAfiliado" : "https://meli.la/1iqUM5S",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
     "ativo" : true,
     "dataOferta" : "21/08/2026 19:40",
     "destaque" : false,
@@ -10772,8 +10760,8 @@
     "tag" : "-40%",
     "percentualDesconto" : 40.0,
     "linkAfiliado" : "https://meli.la/17LeaAs",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
     "ativo" : true,
     "dataOferta" : "21/08/2026 19:34",
     "destaque" : false,
@@ -11476,8 +11464,8 @@
     "tag" : "-32%",
     "percentualDesconto" : 32.0,
     "linkAfiliado" : "https://www.amazon.com.br/dp/B008V6PVBS?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
     "ativo" : true,
     "dataOferta" : "21/08/2026 15:16",
     "destaque" : false,
@@ -12571,9 +12559,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 23.99
-    }, {
       "data" : "24/07/2026",
       "preco" : 23.99
     }, {
@@ -12887,9 +12872,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 78.8
-    }, {
       "data" : "24/07/2026",
       "preco" : 79.0
     }, {
@@ -13302,9 +13284,6 @@
     "menorPrecoDias" : 30,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "22/07/2026",
-      "preco" : 79.19
-    }, {
       "data" : "23/07/2026",
       "preco" : 79.19
     }, {
@@ -15062,8 +15041,8 @@
     "tag" : "-22%",
     "percentualDesconto" : 22.0,
     "linkAfiliado" : "https://www.amazon.com.br/dp/B003DKEL1I?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
     "ativo" : true,
     "dataOferta" : "20/08/2026 19:50",
     "destaque" : false,
@@ -17580,8 +17559,8 @@
     "tag" : "-57%",
     "percentualDesconto" : 57.0,
     "linkAfiliado" : "https://meli.la/2o7VQra",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Papelaria e Escritório",
+    "categoriaId" : 4,
     "ativo" : true,
     "dataOferta" : "21/08/2026 19:56",
     "destaque" : false,
@@ -17732,8 +17711,8 @@
     "tag" : "-58%",
     "percentualDesconto" : 58.0,
     "linkAfiliado" : "https://meli.la/2knGBaB",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Ferramentas e Materiais de Construção",
+    "categoriaId" : 98,
     "ativo" : true,
     "dataOferta" : "20/08/2026 19:06",
     "destaque" : false,
@@ -17765,8 +17744,8 @@
     "tag" : "-23%",
     "percentualDesconto" : 23.0,
     "linkAfiliado" : "https://meli.la/16q7AMN",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
     "ativo" : true,
     "dataOferta" : "21/08/2026 15:56",
     "destaque" : false,
@@ -17884,8 +17863,8 @@
     "tag" : "-40%",
     "percentualDesconto" : 40.0,
     "linkAfiliado" : "https://meli.la/1EZCuHe",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
     "ativo" : true,
     "dataOferta" : "21/08/2026 19:43",
     "destaque" : false,
