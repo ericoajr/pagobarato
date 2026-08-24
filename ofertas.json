@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "24/08/2026 15:41",
+  "ultimaAtualizacao" : "24/08/2026 17:46",
   "ofertas" : [ {
     "id" : 118724,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -3964,6 +3964,22 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "23,50",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 120587,
+    "titulo" : "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
+    "imagem" : "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1429_.jpg",
+    "precoOriginal" : "27,64",
+    "precoPromocao" : "9,90",
+    "tag" : "-64%",
+    "percentualDesconto" : 64.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DW4DKXT5?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "24/08/2026 17:43",
+    "destaque" : false,
+    "loja" : "Amazon",
     "menorPrecoEmDias" : false
   }, {
     "id" : 118846,
@@ -12737,6 +12753,22 @@
     "precoAnterior" : "97,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 120591,
+    "titulo" : "Máquina de Lavar Brastemp 14Kg Branca Smart Sensor- BWJ14AB",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_986650-MLA96608230621_102025-F.webp",
+    "precoOriginal" : "2.939,90",
+    "precoPromocao" : "1.852,40",
+    "tag" : "-36%",
+    "percentualDesconto" : 36.0,
+    "linkAfiliado" : "https://meli.la/1odX4zS",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "24/08/2026 17:46",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 118264,
     "titulo" : "Máquina de lavar Intuitive+ Panasonic 19kg Lavagem Eficiente SmartSense Sistema Ciclone Ciclo Pet Preta - NA-F190G1BA 127V",
     "imagem" : "https://m.media-amazon.com/images/I/61NBD9xxofL._AC_SL1500_.jpg",
@@ -14961,6 +14993,22 @@
     "destaque" : false,
     "loja" : "Mercado Livre",
     "precoAnterior" : "164,35",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 120588,
+    "titulo" : "Relógio de couro masculino Tommy Hilfiger 1710549",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_618629-MLU77158743844_072024-F.webp",
+    "precoOriginal" : "990,00",
+    "precoPromocao" : "485,00",
+    "tag" : "-51%",
+    "percentualDesconto" : 51.0,
+    "linkAfiliado" : "https://meli.la/1UohKGA",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "24/08/2026 17:43",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
     "menorPrecoEmDias" : false
   }, {
     "id" : 120579,
