@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "26/08/2026 13:44",
+  "ultimaAtualizacao" : "26/08/2026 14:14",
   "ofertas" : [ {
     "id" : 123663,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -1363,6 +1363,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "2.491,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124183,
+    "titulo" : "Bicicleta Infantil Caloi Power Rex, Aro 16, Preta",
+    "imagem" : "https://m.media-amazon.com/images/I/716y0CGPNLL._AC_SL1500_.jpg",
+    "precoOriginal" : "779,00",
+    "precoPromocao" : "459,22",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DQR3S8ZH?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:50",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "459,22",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122245,
@@ -3686,6 +3703,23 @@
     "precoAnterior" : "134,63",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124334,
+    "titulo" : "Carefree Protetor Diário Proteção Com Fragrância, 80un",
+    "imagem" : "https://m.media-amazon.com/images/I/71tfSCrfRrL._AC_SL1500_.jpg",
+    "precoOriginal" : "33,09",
+    "precoPromocao" : "23,99",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07F1X5GSR?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:13",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "23,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 123367,
     "titulo" : "Carmed Fini Minhocas Gel Dental com Flúor Sabor Maçã Verde 70g",
     "imagem" : "https://m.media-amazon.com/images/I/61rQKTmvM6L._AC_SL1429_.jpg",
@@ -3941,6 +3975,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "64,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124214,
+    "titulo" : "Casal Garcia Vinho Branco Verde Aveleda Sweet 750Ml Trajadura",
+    "imagem" : "https://m.media-amazon.com/images/I/71AxAKmfUtL._AC_SL1500_.jpg",
+    "precoOriginal" : "76,40",
+    "precoPromocao" : "46,99",
+    "tag" : "-38%",
+    "percentualDesconto" : 38.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08DPLVQRZ?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:55",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 123222,
@@ -4292,6 +4343,22 @@
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124258,
+    "titulo" : "Chocolate Twix Original Minis 180g",
+    "imagem" : "https://m.media-amazon.com/images/I/51S4Zme1pRL._AC_.jpg",
+    "precoOriginal" : "19,99",
+    "precoPromocao" : "14,49",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0G94HCD1K?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:01",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 123549,
     "titulo" : "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
     "imagem" : "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1200_.jpg",
@@ -4358,6 +4425,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "17,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124176,
+    "titulo" : "Cif Limpador Banheiro Sem Cloro 500Ml Gatilho",
+    "imagem" : "https://m.media-amazon.com/images/I/51EPOiGSxhL._AC_SL1500_.jpg",
+    "precoOriginal" : "22,90",
+    "precoPromocao" : "16,59",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08BFJL163?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:49",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "16,59",
     "menorPrecoEmDias" : false
   }, {
     "id" : 123588,
@@ -5653,6 +5737,23 @@
     "precoAnterior" : "93,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124174,
+    "titulo" : "Electrolux Mixer Misturador Multiuso 3 em 1 400W 2 velocidades 3 acessórios mini processador capacidade resistente temperatura 600ml livre BPA EIB10 preto 220v",
+    "imagem" : "https://m.media-amazon.com/images/I/711xy6JhdXL._AC_SL1500_.jpg",
+    "precoOriginal" : "269,90",
+    "precoPromocao" : "189,90",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09B2PTMSZ?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:49",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "189,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122912,
     "titulo" : "Electrolux Panela Elétrica Electrolux vapor arroz capacidade 2L 6 Xícaras 2 em 1 timer panela removivel antiaderente tampa com visor transparente ERC10 inox 127v por Rita Lobo",
     "imagem" : "https://m.media-amazon.com/images/I/71L6I3GZ5mL._AC_SL1500_.jpg",
@@ -6292,6 +6393,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "185,79",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124244,
+    "titulo" : "Finish Quantum All in 1 Detergente para Lava Louças em Tabletes 10 unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/614-Zl-2DZL._AC_SL1500_.jpg",
+    "precoOriginal" : "46,38",
+    "precoPromocao" : "36,29",
+    "tag" : "-21%",
+    "percentualDesconto" : 21.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0817FKSRK?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:59",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "36,29",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122789,
@@ -7171,6 +7289,23 @@
     "precoAnterior" : "2.526,41",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124147,
+    "titulo" : "Geonav Power Bank, Carregador Portátil Universal 20.000mAh, USB-A (até 18W) + USB-C (até 20W), Compacto, Carregamento Rápido, Pass Through, Led Indicador de Bateria, PB20K20WSG, Cinza espacial",
+    "imagem" : "https://m.media-amazon.com/images/I/719gCdfyVFL._AC_SL1500_.jpg",
+    "precoOriginal" : "299,00",
+    "precoPromocao" : "189,20",
+    "tag" : "-36%",
+    "percentualDesconto" : 36.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CNHBV6W5?tag=curadomus-20",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:45",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "189,20",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122957,
     "titulo" : "Gillette Desodorante Antitranspirante em Gel Antibacterial 82 g",
     "imagem" : "https://m.media-amazon.com/images/I/51KiDoel9qL._AC_SL1200_.jpg",
@@ -7852,6 +7987,40 @@
       "preco" : 10.49
     } ]
   }, {
+    "id" : 124246,
+    "titulo" : "Hellmann’s Molho pra Chuchar sabor Cebola, Salsa e Limão",
+    "imagem" : "https://m.media-amazon.com/images/I/71PkS68NKsL._AC_SL1500_.jpg",
+    "precoOriginal" : "17,99",
+    "precoPromocao" : "12,59",
+    "tag" : "-30%",
+    "percentualDesconto" : 30.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GWFCSNTV?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:59",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "12,59",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124243,
+    "titulo" : "Hemmer Ketchup Tradicional Bisnaga 1kg",
+    "imagem" : "https://m.media-amazon.com/images/I/51dHbhaKABL._AC_SL1200_.jpg",
+    "precoOriginal" : "21,69",
+    "precoPromocao" : "15,19",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XPCK5H5?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:59",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "15,19",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122911,
     "titulo" : "Hemmer Maionese Tradicional 290G",
     "imagem" : "https://m.media-amazon.com/images/I/51fR4YYr6GL._AC_SL1200_.jpg",
@@ -8262,6 +8431,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "24,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124252,
+    "titulo" : "Integralmedica Creatina Hardcore 60 Cápsulas Pura Monohidratada",
+    "imagem" : "https://m.media-amazon.com/images/I/71fLf6T5cNL._AC_SL1500_.jpg",
+    "precoOriginal" : "29,89",
+    "precoPromocao" : "17,99",
+    "tag" : "-39%",
+    "percentualDesconto" : 39.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07L5T3X9S?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:00",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122001,
@@ -9231,6 +9417,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "53,07",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124333,
+    "titulo" : "Kalassi Snack De Arroz Queijo E Cebola Sem Glúten Pacote 1 X 100G",
+    "imagem" : "https://m.media-amazon.com/images/I/51WSPV3uzYL._AC_SL1200_.jpg",
+    "precoOriginal" : "26,05",
+    "precoPromocao" : "11,99",
+    "tag" : "-53%",
+    "percentualDesconto" : 53.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YGTGSZW?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:13",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "11,99",
     "menorPrecoEmDias" : false
   }, {
     "id" : 124121,
@@ -10250,6 +10453,23 @@
     "precoAnterior" : "75,78",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124265,
+    "titulo" : "Kit Johnson's Reach Fio Dental Essencial Menta, 100m + Cotonetes Hastes Flexíveis,300un",
+    "imagem" : "https://m.media-amazon.com/images/I/717C6zVU1BL._AC_SL1500_.jpg",
+    "precoOriginal" : "42,98",
+    "precoPromocao" : "31,49",
+    "tag" : "-27%",
+    "percentualDesconto" : 27.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0F9MZKMXW?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:02",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "31,49",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122688,
     "titulo" : "Kit Meia Infantil Escolar 3, 6 ou 12 Pares Unissex Cano Médio Algodão Branco e Preto Menino Menina",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdxa-lxj4z66p4o2xbd",
@@ -10879,6 +11099,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "101,54",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124151,
+    "titulo" : "Licor Seco de Whisky Caramelo & Baunilha Ballantine's Sweet Blend Garrafa 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/618s7QDlcQL._AC_SL1500_.jpg",
+    "precoOriginal" : "84,90",
+    "precoPromocao" : "62,89",
+    "tag" : "-25%",
+    "percentualDesconto" : 25.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DZDVTJVZ?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:45",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "62,89",
     "menorPrecoEmDias" : false
   }, {
     "id" : 123309,
@@ -12283,6 +12520,23 @@
     "precoAnterior" : "71,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124145,
+    "titulo" : "MONDIAL Ventilador de Mesa 40cm Super Power, Preto/Prata, 140W, 110V - VSP-40-B",
+    "imagem" : "https://m.media-amazon.com/images/I/81r2JL+Ru5L._AC_SL1500_.jpg",
+    "precoOriginal" : "189,90",
+    "precoPromocao" : "128,66",
+    "tag" : "-32%",
+    "percentualDesconto" : 32.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09B15RDJ6?tag=curadomus-20",
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:44",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "128,66",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122635,
     "titulo" : "Monitor Gamer AOC Destiny 24,5 Polegadas 25G3ZM",
     "imagem" : "https://m.media-amazon.com/images/I/61aBgNvGk0L._AC_SL1000_.jpg",
@@ -12758,6 +13012,59 @@
     "loja" : "Amazon",
     "precoAnterior" : "74,99",
     "menorPrecoEmDias" : false
+  }, {
+    "id" : 124245,
+    "titulo" : "Neutrogena Sun Fresh Protetor Solar Facial Derm Care, Pele Oleosa, Sem Cor, FPS 70, 40g",
+    "imagem" : "https://m.media-amazon.com/images/I/4172WubM1kL._AC_SL1000_.jpg",
+    "precoOriginal" : "83,99",
+    "precoPromocao" : "44,90",
+    "tag" : "-44%",
+    "percentualDesconto" : 44.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08NVMP2YZ?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:59",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "precoAnterior" : "47,61",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 15,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 47.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 47.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 47.61
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 47.61
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 47.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 47.41
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 47.41
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 47.61
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 44.9
+    } ]
   }, {
     "id" : 122013,
     "titulo" : "NIVEA KIT Sabonete em Barra Vegetal Nutrição da Natureza 80g (6 unidades)",
@@ -13274,6 +13581,23 @@
     "precoAnterior" : "25,11",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124268,
+    "titulo" : "Ovomaltine Creme Crocante Pote 260g",
+    "imagem" : "https://m.media-amazon.com/images/I/61EnonAH9HL._AC_SL1200_.jpg",
+    "precoOriginal" : "25,90",
+    "precoPromocao" : "19,52",
+    "tag" : "-24%",
+    "percentualDesconto" : 24.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJCFN5D9?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:03",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "19,51",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 123985,
     "titulo" : "Pais & Filhos - Caiu Perdeu, 54 Pçs, idade mínima recomendada - 6 anos",
     "imagem" : "https://m.media-amazon.com/images/I/81QAJDzi7DL._AC_SL1500_.jpg",
@@ -13463,9 +13787,6 @@
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 49.0
-    }, {
       "data" : "12/08/2026",
       "preco" : 49.0
     }, {
@@ -13543,6 +13864,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "20,76",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124203,
+    "titulo" : "Pasta de Amendoim DR. Peanut Bombom Italiano 600G - Com Whey Protein",
+    "imagem" : "https://m.media-amazon.com/images/I/71F2XXPZe3L._AC_SL1500_.jpg",
+    "precoOriginal" : "59,90",
+    "precoPromocao" : "41,97",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CN9NZB43?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:53",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "41,97",
     "menorPrecoEmDias" : false
   }, {
     "id" : 121962,
@@ -14735,6 +15073,23 @@
     "precoAnterior" : "20,79",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124206,
+    "titulo" : "Sabonete Líquido de Glicerina Huggies Extra Suave 600 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51gUvebZzeL._AC_SL1000_.jpg",
+    "precoOriginal" : "47,24",
+    "precoPromocao" : "33,99",
+    "tag" : "-28%",
+    "percentualDesconto" : 28.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08GZBDWF4?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:54",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "33,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122826,
     "titulo" : "Sabonete Líquido Glicerina Camomila JOHNSON’S® Baby, 180mL",
     "imagem" : "https://m.media-amazon.com/images/I/71zGUIKAcCL._AC_SL1500_.jpg",
@@ -15226,6 +15581,23 @@
     "precoAnterior" : "39,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124335,
+    "titulo" : "Sempre Livre Absorvente Externo Adapt Plus Com Abas 32 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/81kOGE+lgIL._AC_SL1500_.jpg",
+    "precoOriginal" : "23,19",
+    "precoPromocao" : "14,36",
+    "tag" : "-38%",
+    "percentualDesconto" : 38.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GM25R4Z?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:13",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "14,36",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 123236,
     "titulo" : "Sensodyne Creme Dental Branqueador Extra Fresh com Flúor, Leve 3 e Pague 2, Anti Tártaro, Contra Sensibilidade, 90g cada",
     "imagem" : "https://m.media-amazon.com/images/I/719m48opGVL._AC_SL1500_.jpg",
@@ -15449,9 +15821,6 @@
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 1123.2
-    }, {
       "data" : "12/08/2026",
       "preco" : 1424.05
     }, {
@@ -15670,6 +16039,23 @@
     "precoAnterior" : "7,50",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124200,
+    "titulo" : "Stanley - Copo Térmico Texturizado para Cerveja, 354ml, para Bebidas Quentes ou Frias, Cranberry",
+    "imagem" : "https://m.media-amazon.com/images/I/51EfUvlZDFL._AC_SL1500_.jpg",
+    "precoOriginal" : "129,00",
+    "precoPromocao" : "99,90",
+    "tag" : "-22%",
+    "percentualDesconto" : 22.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GD33SKZK?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:53",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "99,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 123105,
     "titulo" : "Stanley - Copo Térmico Texturizado para Cerveja, 473ml, para Bebidas Quentes ou Frias, Ash",
     "imagem" : "https://m.media-amazon.com/images/I/51cqR6IFS2L._AC_SL1500_.jpg",
@@ -15685,6 +16071,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "107,70",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124144,
+    "titulo" : "Stanley - Quencher H2.0 FlowState 1,18L - Copo de aço inoxidável com isolamento a vácuo, tampa e canudo, para água, chá gelado, café, smoothies e muito mais, Cream",
+    "imagem" : "https://m.media-amazon.com/images/I/51zltUo+mqL._AC_SL1500_.jpg",
+    "precoOriginal" : "359,00",
+    "precoPromocao" : "250,26",
+    "tag" : "-30%",
+    "percentualDesconto" : 30.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BTHPGVWZ?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:44",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "250,26",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122107,
@@ -15772,6 +16175,40 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "229,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124227,
+    "titulo" : "Stanley Garrafa Térmica Aerolight Transit Cream, 591ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51QhwYZEDGL._AC_SL1500_.jpg",
+    "precoOriginal" : "259,00",
+    "precoPromocao" : "165,89",
+    "tag" : "-35%",
+    "percentualDesconto" : 35.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CZPSD2SC?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:57",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "165,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124222,
+    "titulo" : "Stanley Garrafa Térmica Aerolight Transit Rose Quartz, 591ml",
+    "imagem" : "https://m.media-amazon.com/images/I/412fZyNRe3L._AC_SL1200_.jpg",
+    "precoOriginal" : "259,00",
+    "precoPromocao" : "165,89",
+    "tag" : "-35%",
+    "percentualDesconto" : 35.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CZPVDMVD?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:56",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "165,89",
     "menorPrecoEmDias" : false
   }, {
     "id" : 123229,
@@ -15946,6 +16383,23 @@
     "destaque" : false,
     "loja" : "Shopee",
     "precoAnterior" : "79,90",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124201,
+    "titulo" : "Tapete Infantil de Atividades Sensorial para Bebê Interativo com 5 Móbiles e Piano Musical com Som e Luzes (Rosa)",
+    "imagem" : "https://m.media-amazon.com/images/I/71XmrB1DrEL._AC_SL1500_.jpg",
+    "precoOriginal" : "99,13",
+    "precoPromocao" : "69,90",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D9MV55T9?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:53",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "69,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 123771,
@@ -16135,9 +16589,6 @@
     "menorPrecoDias" : 15,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 49.99
-    }, {
       "data" : "12/08/2026",
       "preco" : 51.02
     }, {
@@ -16165,6 +16616,98 @@
     }, {
       "data" : "26/08/2026",
       "preco" : 47.52
+    } ]
+  }, {
+    "id" : 124241,
+    "titulo" : "Tira Manchas Vanish Líquido Multiuso para roupas coloridas Refil Econômico 500ml",
+    "imagem" : "https://m.media-amazon.com/images/I/81GieV5vpeL._AC_SL1500_.jpg",
+    "precoOriginal" : "18,63",
+    "precoPromocao" : "10,87",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00DX0FJXW?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:59",
+    "destaque" : true,
+    "loja" : "Amazon",
+    "precoAnterior" : "13,18",
+    "menorPrecoEmDias" : true,
+    "menorPrecoDias" : 30,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "historico" : [ {
+      "data" : "27/07/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "29/07/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "30/07/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "31/07/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "01/08/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "03/08/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 14.49
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 13.29
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 11.59
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 13.18
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 13.18
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 13.18
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 13.18
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 10.87
     } ]
   }, {
     "id" : 121960,
@@ -17066,6 +17609,57 @@
     "precoAnterior" : "104,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124180,
+    "titulo" : "Whisky Escocês Blended 10 Anos Ballantine's Garrafa 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51HRjDCtpuL._AC_SL1000_.jpg",
+    "precoOriginal" : "127,90",
+    "precoPromocao" : "89,89",
+    "tag" : "-29%",
+    "percentualDesconto" : 29.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D63KDTVT?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:50",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "89,89",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124257,
+    "titulo" : "Whisky Escocês Blended 21 Anos Royal Salute The Malts Blend Garrafa 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61NjX0IkUSL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.364,90",
+    "precoPromocao" : "799,99",
+    "tag" : "-41%",
+    "percentualDesconto" : 41.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07RGVLM7X?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:01",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "799,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124266,
+    "titulo" : "Whisky Jack Daniel's Bonded Tennessee Whiskey 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51iU7Vbrl2L._AC_SL1000_.jpg",
+    "precoOriginal" : "249,90",
+    "precoPromocao" : "193,99",
+    "tag" : "-22%",
+    "percentualDesconto" : 22.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09ZLS2VYH?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 14:02",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "193,99",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122247,
     "titulo" : "Whisky Jack Daniel's Honey Tennessee Whiskey 1L",
     "imagem" : "https://m.media-amazon.com/images/I/712aZkRXdML._AC_SL1500_.jpg",
@@ -17098,6 +17692,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "180,88",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124149,
+    "titulo" : "Whisky Johnnie Walker Black Label 12 Anos 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61S5PedMY6L._AC_SL1500_.jpg",
+    "precoOriginal" : "177,90",
+    "precoPromocao" : "123,99",
+    "tag" : "-30%",
+    "percentualDesconto" : 30.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00861CC7Y?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:45",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "129,57",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122305,
@@ -17168,6 +17779,23 @@
     "precoAnterior" : "399,99",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 124207,
+    "titulo" : "Whisky Johnnie Walker Red Label 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/51zNcnEgdFL._AC_SL1000_.jpg",
+    "precoOriginal" : "115,90",
+    "precoPromocao" : "78,90",
+    "tag" : "-31%",
+    "percentualDesconto" : 31.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B004Q47N5G?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:54",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "79,90",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 122215,
     "titulo" : "Whisky Johnnie Walker Red Label 750ml",
     "imagem" : "https://m.media-amazon.com/images/I/41C6vb-0vwL._AC_SL1000_.jpg",
@@ -17217,6 +17845,23 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "349,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 124184,
+    "titulo" : "Whisky Royal Salute 21 anos The Signature Blend Escocês - 700 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/518+lSygSkL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.364,90",
+    "precoPromocao" : "999,90",
+    "tag" : "-26%",
+    "percentualDesconto" : 26.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B005NEW08S?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "ativo" : true,
+    "dataOferta" : "26/08/2026 13:50",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "precoAnterior" : "999,90",
     "menorPrecoEmDias" : false
   }, {
     "id" : 122300,
