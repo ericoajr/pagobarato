@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "27/08/2026 07:41",
+  "ultimaAtualizacao" : "27/08/2026 08:12",
   "ofertas" : [ {
     "id" : 124422,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -8851,6 +8851,22 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "149,00",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 125314,
+    "titulo" : "Mixer Power Inox 3 Em 1 Elgin 1.000w",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_987273-MLA110948594511_042026-F.webp",
+    "precoOriginal" : "299,90",
+    "precoPromocao" : "169,91",
+    "tag" : "-43%",
+    "percentualDesconto" : 43.0,
+    "linkAfiliado" : "https://meli.la/2F2xExA",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 08:12",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
     "menorPrecoEmDias" : false
   }, {
     "id" : 124974,
