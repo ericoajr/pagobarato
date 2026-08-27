@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "27/08/2026 13:38",
+  "ultimaAtualizacao" : "27/08/2026 14:22",
   "ofertas" : [ {
     "id" : 124422,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -3422,6 +3422,22 @@
     "precoAnterior" : "40,00",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 126450,
+    "titulo" : "Camiseta Nike Sportswear Club Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_635254-MLB100383432194_122025-F-camiseta-nike-sportswear-club-masculina.webp",
+    "precoOriginal" : "129,99",
+    "precoPromocao" : "69,99",
+    "tag" : "-46%",
+    "percentualDesconto" : 46.0,
+    "linkAfiliado" : "https://meli.la/2dyiDMy",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 14:21",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 126372,
     "titulo" : "Camiseta Nike Sportswear Just Do It Masculina",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_964899-MLB100382159692_122025-F-camiseta-nike-sportswear-just-do-it-masculina.webp",
@@ -3437,6 +3453,22 @@
     "destaque" : false,
     "loja" : "Mercado Livre",
     "precoAnterior" : "63,99",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 126449,
+    "titulo" : "Camiseta Nike Sportswear Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_755244-MLB101173751893_122025-F-camiseta-nike-sportswear-masculina.webp",
+    "precoOriginal" : "129,99",
+    "precoPromocao" : "63,99",
+    "tag" : "-50%",
+    "percentualDesconto" : 50.0,
+    "linkAfiliado" : "https://meli.la/1Z2kaDM",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 14:20",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
     "menorPrecoEmDias" : false
   }, {
     "id" : 126187,
@@ -11777,6 +11809,22 @@
     "precoAnterior" : "102,89",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 126451,
+    "titulo" : "Micro-ondas Electrolux Prata 23L Efficient ME23S 127V",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_789869-MLA99700643206_122025-F.webp",
+    "precoOriginal" : "699,00",
+    "precoPromocao" : "513,13",
+    "tag" : "-26%",
+    "percentualDesconto" : 26.0,
+    "linkAfiliado" : "https://meli.la/187Sefh",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 14:22",
+    "destaque" : false,
+    "loja" : "Mercado Livre",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 124623,
     "titulo" : "Micro-ondas Mondial Mo-01-21-e 1200w 21 Litros",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m9zqs2hxtuki59",
@@ -12848,6 +12896,22 @@
     "precoAnterior" : "22,90",
     "menorPrecoEmDias" : false
   }, {
+    "id" : 126446,
+    "titulo" : "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml, Hidratação Intensa 48h, Pele Firme e Elasticidade, Corporal, Todos os Tipos de Pele",
+    "imagem" : "https://m.media-amazon.com/images/I/61nGxXzg-hL._AC_SL1500_.jpg",
+    "precoOriginal" : "36,90",
+    "precoPromocao" : "24,51",
+    "tag" : "-33%",
+    "percentualDesconto" : 33.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07F5RMGYW?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 14:17",
+    "destaque" : false,
+    "loja" : "Amazon",
+    "menorPrecoEmDias" : false
+  }, {
     "id" : 125571,
     "titulo" : "NIVEA SUN Protetor Solar Facial Toque Seco Antissinais FPS 70 40ml - Com muito alta proteção contra raios UVA/UVB, controla o brilho e previne o envelhecimento precoce",
     "imagem" : "https://m.media-amazon.com/images/I/613ze9ScETL._AC_SL1500_.jpg",
@@ -13226,6 +13290,22 @@
     "destaque" : false,
     "loja" : "Amazon",
     "precoAnterior" : "29,69",
+    "menorPrecoEmDias" : false
+  }, {
+    "id" : 126445,
+    "titulo" : "Oral-B Pasta de Dente 3D White Brilliant Fresh, 3 Unidades de 70 g",
+    "imagem" : "https://m.media-amazon.com/images/I/711PTsV+M1L._AC_SL1200_.jpg",
+    "precoOriginal" : "24,41",
+    "precoPromocao" : "13,99",
+    "tag" : "-42%",
+    "percentualDesconto" : 42.0,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GMDZX9M?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "ativo" : true,
+    "dataOferta" : "27/08/2026 14:17",
+    "destaque" : false,
+    "loja" : "Amazon",
     "menorPrecoEmDias" : false
   }, {
     "id" : 126371,
