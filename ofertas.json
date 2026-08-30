@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "29/08/2026 20:40",
+  "ultimaAtualizacao" : "29/08/2026 21:11",
   "ofertas" : [ {
     "id" : 129317,
     "titulo" : ".Esteira Bandeja Sofá Porta Copos Porta Controles Organizador MDF Flexível Suporte Braço Poltrona Luxo Universal Prática",
@@ -2726,6 +2726,30 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 3029.0
+    } ]
+  }, {
+    "id" : 131905,
+    "titulo" : "Ar Condicionado Split Inverter Hitachi Airhome 12.000 Btus Frio R-32",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_801611-MLA84185636896_052025-F.webp",
+    "precoOriginal" : "4.535,61",
+    "precoPromocao" : "1.852,00",
+    "tag" : "-59%",
+    "linkAfiliado" : "https://meli.la/2Nq4JPz",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "dataOferta" : "29/08/2026 21:05",
+    "destaque" : false,
+    "precoAnterior" : "1.999,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 1839.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 1999.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 1852.0
     } ]
   }, {
     "id" : 130229,
@@ -13089,6 +13113,54 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 63.99
+    } ]
+  }, {
+    "id" : 131902,
+    "titulo" : "Camiseta Polo Aramis Masculina Basic Piquet Preta",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_922255-MLB87713383909_072025-F-camiseta-polo-aramis-masculina-basic-piquet-preta.webp",
+    "precoOriginal" : "279,99",
+    "precoPromocao" : "147,89",
+    "tag" : "-47%",
+    "linkAfiliado" : "https://meli.la/1Hng3vL",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "29/08/2026 20:56",
+    "destaque" : false,
+    "precoAnterior" : "147,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 159.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 159.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 147.89
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 147.89
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 151.29
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 169.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 159.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 147.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 147.89
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 147.89
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 147.89
     } ]
   }, {
     "id" : 130213,
@@ -43206,6 +43278,54 @@
       "preco" : 13.9
     } ]
   }, {
+    "id" : 131898,
+    "titulo" : "Lente De Contato Soflens 59 Com Grau Miopia Ou Hipermetropia",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_911004-MLB80391501841_112024-F-lente-de-contato-soflens-59-com-grau-miopia-ou-hipermetropia.webp",
+    "precoOriginal" : "179,90",
+    "precoPromocao" : "139,90",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://meli.la/2bX2Vqh",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "29/08/2026 20:43",
+    "destaque" : false,
+    "precoAnterior" : "139,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 139.9
+    } ]
+  }, {
     "id" : 130657,
     "titulo" : "Lenços Umedecidos JOHNSON'S® Baby Recém Nascido, 48 unidades",
     "imagem" : "https://m.media-amazon.com/images/I/61jnuVSAOfL._AC_SL1500_.jpg",
@@ -48379,6 +48499,30 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 148.25
+    } ]
+  }, {
+    "id" : 131904,
+    "titulo" : "Mixer Power Inox 3 Em 1 Elgin 1.000w",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_987273-MLA110948594511_042026-F.webp",
+    "precoOriginal" : "299,90",
+    "precoPromocao" : "169,91",
+    "tag" : "-43%",
+    "linkAfiliado" : "https://meli.la/2F2xExA",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "dataOferta" : "29/08/2026 21:02",
+    "destaque" : false,
+    "precoAnterior" : "169,91",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 169.91
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 169.91
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 169.91
     } ]
   }, {
     "id" : 130664,
@@ -54096,6 +54240,30 @@
       "preco" : 144.9
     } ]
   }, {
+    "id" : 131907,
+    "titulo" : "Panela De Pressão Elétrica 5 Litros Kian Inox",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_851133-MLA99475264230_112025-F.webp",
+    "precoOriginal" : "459,90",
+    "precoPromocao" : "280,00",
+    "tag" : "-39%",
+    "linkAfiliado" : "https://meli.la/2h3JH3D",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "dataOferta" : "29/08/2026 21:11",
+    "destaque" : false,
+    "precoAnterior" : "280,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 280.0
+    } ]
+  }, {
     "id" : 129971,
     "titulo" : "Panela de Pressão Elétrica Digital 5 litros Preta ou Inox - Kian",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-81ztq-mkwjz2y8k4jk6d",
@@ -55454,6 +55622,54 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 30.0
+    } ]
+  }, {
+    "id" : 131899,
+    "titulo" : "Percarbonato De Sódio Tira Mancha 100% Poder O2 Calisul 3 Kg",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_882295-MLB90543952460_082025-F-percarbonato-de-sodio-tira-mancha-100-poder-o2-calisul-3-kg.webp",
+    "precoOriginal" : "78,00",
+    "precoPromocao" : "59,42",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://meli.la/1MfHAEc",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "29/08/2026 20:46",
+    "destaque" : false,
+    "precoAnterior" : "59,42",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 68.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 59.42
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 59.42
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 59.42
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 59.42
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 59.42
     } ]
   }, {
     "id" : 131695,
@@ -57815,6 +58031,54 @@
     }, {
       "data" : "28/08/2026",
       "preco" : 7.92
+    } ]
+  }, {
+    "id" : 131900,
+    "titulo" : "Processador Triturador Moedor De Alimentos Manual Alho 500ml",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_960678-MLB109373422399_032026-F-processador-triturador-moedor-de-alimentos-manual-alho-500ml.webp",
+    "precoOriginal" : "36,43",
+    "precoPromocao" : "15,92",
+    "tag" : "-56%",
+    "linkAfiliado" : "https://meli.la/2BV4pkR",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "29/08/2026 20:49",
+    "destaque" : false,
+    "precoAnterior" : "15,92",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 15.2
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 15.92
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 15.92
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 15.92
     } ]
   }, {
     "id" : 131895,
@@ -61465,6 +61729,54 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 12.99
+    } ]
+  }, {
+    "id" : 131901,
+    "titulo" : "Scanner Automotivo Bluetooth Obd2 Eml 327 Android Ios Obdii",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_886444-MLB95702648919_102025-F-scanner-automotivo-bluetooth-obd2-eml-327-android-ios-obdii.webp",
+    "precoOriginal" : "47,97",
+    "precoPromocao" : "16,72",
+    "tag" : "-65%",
+    "linkAfiliado" : "https://meli.la/1hjcYwm",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "29/08/2026 20:52",
+    "destaque" : false,
+    "precoAnterior" : "16,72",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 19.12
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 16.72
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 16.72
     } ]
   }, {
     "id" : 129271,
@@ -65413,6 +65725,30 @@
     }, {
       "data" : "29/08/2026",
       "preco" : 28.78
+    } ]
+  }, {
+    "id" : 131906,
+    "titulo" : "Torradeira Elétrica WAP WTE1 7 Níveis de Tostagem 900W 220V",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_660592-MLA99377430548_112025-F.webp",
+    "precoOriginal" : "189,65",
+    "precoPromocao" : "148,83",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://meli.la/2EfLxA8",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "dataOferta" : "29/08/2026 21:08",
+    "destaque" : false,
+    "precoAnterior" : "148,83",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 148.83
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 148.83
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 148.83
     } ]
   }, {
     "id" : 130187,
