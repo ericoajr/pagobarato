@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "31/08/2026 18:36",
+  "ultimaAtualizacao" : "31/08/2026 19:10",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 134992,
@@ -6624,9 +6624,6 @@
     "precoAnterior" : "24,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 20.42
-    }, {
       "data" : "03/08/2026",
       "preco" : 20.41
     }, {
@@ -10252,6 +10249,61 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 68.2
+    } ]
+  }, {
+    "pid" : 4241,
+    "id" : 136072,
+    "titulo" : "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite 110v",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_963009-MLA115435050388_082026-F.webp",
+    "precoOriginal" : "679,90",
+    "precoPromocao" : "426,55",
+    "tag" : "-37%",
+    "linkAfiliado" : "https://meli.la/2cXevck",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "31/08/2026 18:56",
+    "destaque" : false,
+    "precoAnterior" : "499,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 449.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 449.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 439.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 427.4
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 427.4
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 427.4
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 436.05
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 436.05
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 499.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 426.55
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 499.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 426.55
     } ]
   }, {
     "pid" : 1597,
@@ -14983,6 +15035,116 @@
       "preco" : 79.99
     } ]
   }, {
+    "pid" : 3406,
+    "id" : 136070,
+    "titulo" : "Chuteira Infantil Society Penalty",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_736660-MLB79379499535_092024-F-chuteira-infantil-society-penalty.webp",
+    "precoOriginal" : "144,00",
+    "precoPromocao" : "112,40",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://meli.la/2q1mGnL",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "31/08/2026 18:50",
+    "destaque" : false,
+    "precoAnterior" : "112,40",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 122.4
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 112.4
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 112.4
+    } ]
+  }, {
+    "pid" : 3398,
+    "id" : 136068,
+    "titulo" : "Chuteira R2 Futsal Salão Quadra Infantil Costurada 24 Ao 33",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_994484-MLB109133599854_042026-F-chuteira-r2-futsal-salo-quadra-infantil-costurada-24-ao-33.webp",
+    "precoOriginal" : "68,90",
+    "precoPromocao" : "36,80",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://meli.la/2ZkYzj7",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "31/08/2026 18:44",
+    "destaque" : false,
+    "precoAnterior" : "36,80",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.8
+    } ]
+  }, {
     "pid" : 1598,
     "id" : 135791,
     "titulo" : "CIF Cremoso Limpeza Milagrosa Laranja 450 ml",
@@ -19311,9 +19473,6 @@
     "precoAnterior" : "29,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 36.09
-    }, {
       "data" : "03/08/2026",
       "preco" : 25.89
     }, {
@@ -20696,9 +20855,6 @@
     "precoAnterior" : "185,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 185.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 185.9
     }, {
@@ -24577,9 +24733,6 @@
     "precoAnterior" : "909,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 1349.0
-    }, {
       "data" : "03/08/2026"
     }, {
       "data" : "04/08/2026"
@@ -25244,9 +25397,6 @@
     "precoAnterior" : "93,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 92.35
-    }, {
       "data" : "03/08/2026",
       "preco" : 92.35
     }, {
@@ -33776,6 +33926,61 @@
       "preco" : 62.93
     } ]
   }, {
+    "pid" : 3403,
+    "id" : 136069,
+    "titulo" : "Kit 3 Shorts Masculino Bermuda Linho Verão Envio Imediato",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_763679-MLB109838174226_042026-F-kit-3-shorts-masculino-bermuda-linho-vero-envio-imediato.webp",
+    "precoOriginal" : "119,90",
+    "precoPromocao" : "60,00",
+    "tag" : "-49%",
+    "linkAfiliado" : "https://meli.la/2NYE5XK",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "31/08/2026 18:47",
+    "destaque" : false,
+    "precoAnterior" : "60,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 67.94
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 67.94
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 70.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 60.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 60.0
+    } ]
+  }, {
     "pid" : 6165,
     "id" : 135305,
     "titulo" : "Kit 4 Calça Moletom Infantil Apeluciada Menina, com Punho 1 a 16 anos",
@@ -35809,9 +36014,6 @@
     "precoAnterior" : "34,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 49.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 34.92
     }, {
@@ -39390,9 +39592,6 @@
     "precoAnterior" : "101,54",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 101.36
-    }, {
       "data" : "03/08/2026",
       "preco" : 101.36
     }, {
@@ -39481,9 +39680,6 @@
     "precoAnterior" : "62,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 59.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 59.9
     }, {
@@ -42687,9 +42883,6 @@
     "precoAnterior" : "445,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 448.43
-    }, {
       "data" : "03/08/2026",
       "preco" : 448.43
     }, {
@@ -44691,9 +44884,6 @@
     "precoAnterior" : "129,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 134.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 122.0
     }, {
@@ -46690,9 +46880,6 @@
     "precoAnterior" : "49,47",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 48.01
-    }, {
       "data" : "03/08/2026",
       "preco" : 49.47
     }, {
@@ -50902,9 +51089,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 249.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 249.01
     }, {
@@ -54759,9 +54943,6 @@
     "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 12.58
-    }, {
       "data" : "03/08/2026",
       "preco" : 12.6
     }, {
@@ -55144,9 +55325,6 @@
     "precoAnterior" : "39,82",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 38.03
-    }, {
       "data" : "03/08/2026",
       "preco" : 28.98
     }, {
@@ -61517,9 +61695,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 10.79
-    }, {
       "data" : "03/08/2026",
       "preco" : 10.79
     }, {
@@ -61882,6 +62057,61 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 29.43
+    } ]
+  }, {
+    "pid" : 3396,
+    "id" : 136067,
+    "titulo" : "Vinho Francês Piscine Rosé 750ml",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_612759-MLB89905629501_082025-F-vinho-frances-piscine-rose-750ml.webp",
+    "precoOriginal" : "59,00",
+    "precoPromocao" : "37,60",
+    "tag" : "-36%",
+    "linkAfiliado" : "https://meli.la/1Htn6iq",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "31/08/2026 18:41",
+    "destaque" : false,
+    "precoAnterior" : "37,60",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 39.36
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 39.36
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 39.52
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 39.52
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 39.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 37.6
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 37.6
     } ]
   }, {
     "pid" : 1682,
@@ -62636,9 +62866,6 @@
     "precoAnterior" : "74,24",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 72.3
-    }, {
       "data" : "03/08/2026",
       "preco" : 72.3
     }, {
@@ -62727,9 +62954,6 @@
     "precoAnterior" : "124,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 109.89
-    }, {
       "data" : "03/08/2026",
       "preco" : 114.0
     }, {
@@ -63387,9 +63611,6 @@
     "precoAnterior" : "634,60",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 719.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 599.99
     }, {
@@ -63478,9 +63699,6 @@
     "precoAnterior" : "123,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 119.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 118.9
     }, {
