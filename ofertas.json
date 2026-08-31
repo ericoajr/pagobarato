@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "31/08/2026 19:10",
+  "ultimaAtualizacao" : "31/08/2026 19:40",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 134992,
@@ -2048,9 +2048,6 @@
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 119.38
-    }, {
       "data" : "03/08/2026",
       "preco" : 119.38
     }, {
@@ -3018,9 +3015,6 @@
     "precoAnterior" : "47,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 48.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 50.29
     }, {
@@ -5207,9 +5201,6 @@
     "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 29.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 28.49
     }, {
@@ -7767,9 +7758,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 13.09
-    }, {
       "data" : "03/08/2026",
       "preco" : 13.09
     }, {
@@ -11840,6 +11828,58 @@
       "preco" : 59.0
     } ]
   }, {
+    "pid" : 5173,
+    "id" : 136078,
+    "titulo" : "Camiseta Algodão Pica-pau Patriota Reserva",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_689437-MLB96516562079_102025-F-camiseta-algodo-pica-pau-patriota-reserva.webp",
+    "precoOriginal" : "149,00",
+    "precoPromocao" : "79,90",
+    "tag" : "-46%",
+    "linkAfiliado" : "https://meli.la/2ABd1hR",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "31/08/2026 19:19",
+    "destaque" : false,
+    "precoAnterior" : "79,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 79.9
+    } ]
+  }, {
     "pid" : 8987,
     "id" : 134501,
     "titulo" : "Camiseta Ayrton Senna F1 Jhon Player Special Dry Tec",
@@ -12276,6 +12316,58 @@
       "preco" : 39.99
     } ]
   }, {
+    "pid" : 5415,
+    "id" : 136083,
+    "titulo" : "Capacete De Moto Masculino Preto Fosco New Liberty 4 Fechado",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_767623-MLB89704413626_082025-F-capacete-de-moto-masculino-preto-fosco-new-liberty-4-fechado.webp",
+    "precoOriginal" : "129,90",
+    "precoPromocao" : "72,12",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://meli.la/1YYKFEp",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "31/08/2026 19:35",
+    "destaque" : false,
+    "precoAnterior" : "72,12",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 72.12
+    } ]
+  }, {
     "pid" : 6311,
     "id" : 135333,
     "titulo" : "Capacete Moto Fechado Masculino E Feminino Pro Tork R8 Viseira Fumê",
@@ -12382,9 +12474,6 @@
     "precoAnterior" : "23,50",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 24.59
-    }, {
       "data" : "03/08/2026",
       "preco" : 22.14
     }, {
@@ -13029,9 +13118,6 @@
     "precoAnterior" : "1.900,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 2000.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 2000.0
     }, {
@@ -13545,9 +13631,6 @@
     "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 52.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 52.9
     }, {
@@ -14412,9 +14495,6 @@
     "precoAnterior" : "36,69",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 36.69
-    }, {
       "data" : "03/08/2026",
       "preco" : 36.69
     }, {
@@ -14749,8 +14829,6 @@
     "precoAnterior" : "14,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026"
-    }, {
       "data" : "03/08/2026"
     }, {
       "data" : "04/08/2026"
@@ -16189,9 +16267,6 @@
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 16.43
-    }, {
       "data" : "04/08/2026",
       "preco" : 15.99
     }, {
@@ -17451,9 +17526,6 @@
     "precoAnterior" : "47,87",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 50.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 49.75
     }, {
@@ -18253,9 +18325,6 @@
     "precoAnterior" : "16,50",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 14.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 14.99
     }, {
@@ -22954,6 +23023,67 @@
       "preco" : 53.64
     } ]
   }, {
+    "pid" : 8421,
+    "id" : 136086,
+    "titulo" : "Flybb Cadeira de Alimentação Bebê Infantil Portátil Dobrável Segura e Confortável para Refeições em",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lp-moyuhdvf553a97",
+    "precoOriginal" : "706,45",
+    "precoPromocao" : "219,00",
+    "tag" : "-69%",
+    "linkAfiliado" : "https://s.shopee.com.br/7VFbYITcZx",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "31/08/2026 19:40",
+    "destaque" : false,
+    "precoAnterior" : "219,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/08/2026",
+      "preco" : 359.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 359.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 219.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 219.0
+    } ]
+  }, {
     "pid" : 7106,
     "id" : 134514,
     "titulo" : "Fogão Elétrico Portátil Cooktop Elgin Double Cook 2 Bocas - 110V",
@@ -24046,6 +24176,61 @@
     }, {
       "data" : "30/08/2026",
       "preco" : 169.87
+    } ]
+  }, {
+    "pid" : 4250,
+    "id" : 136076,
+    "titulo" : "Fralda Huggies Máx Proteção M 24 Un. Canais De Absorção 12h",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_786757-MLB109273395417_032026-F-fralda-huggies-max-protecao-m-24-un-canais-de-absorcao-12h.webp",
+    "precoOriginal" : "54,49",
+    "precoPromocao" : "42,86",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://meli.la/1GXaxfb",
+    "categoria" : "Fraldas",
+    "categoriaId" : 9,
+    "dataOferta" : "31/08/2026 19:13",
+    "destaque" : false,
+    "precoAnterior" : "42,86",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 44.49
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 44.49
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 44.49
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 42.86
     } ]
   }, {
     "pid" : 3385,
@@ -26427,9 +26612,6 @@
     "precoAnterior" : "72,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 74.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 74.9
     }, {
@@ -26505,9 +26687,6 @@
     "precoAnterior" : "93,48",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 94.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 88.67
     }, {
@@ -26590,9 +26769,6 @@
     "precoAnterior" : "41,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 41.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 41.0
     }, {
@@ -28345,9 +28521,6 @@
     "precoAnterior" : "10,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 10.49
-    }, {
       "data" : "03/08/2026",
       "preco" : 10.49
     }, {
@@ -28508,9 +28681,6 @@
     "precoAnterior" : "12,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 12.59
-    }, {
       "data" : "03/08/2026",
       "preco" : 12.59
     }, {
@@ -30235,6 +30405,61 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 146.54
+    } ]
+  }, {
+    "pid" : 5443,
+    "id" : 136085,
+    "titulo" : "Jogo 2/4/6 Taças Vidro Diamond Bico Jaca Abacaxi Conjunto Taça Para Água Vinho Tinto Suco Diamante",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lp-mldnylumwikm80",
+    "precoOriginal" : "49,71",
+    "precoPromocao" : "18,89",
+    "tag" : "-62%",
+    "linkAfiliado" : "https://s.shopee.com.br/50XZAboxRJ",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "31/08/2026 19:40",
+    "destaque" : false,
+    "precoAnterior" : "18,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "01/08/2026",
+      "preco" : 14.89
+    }, {
+      "data" : "03/08/2026",
+      "preco" : 14.89
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 14.89
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 14.89
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 18.89
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 18.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 18.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 18.89
     } ]
   }, {
     "pid" : 7722,
@@ -32821,9 +33046,6 @@
     "precoAnterior" : "24,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 22.85
-    }, {
       "data" : "03/08/2026",
       "preco" : 19.08
     }, {
@@ -33617,6 +33839,58 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 59.9
+    } ]
+  }, {
+    "pid" : 5167,
+    "id" : 136077,
+    "titulo" : "Kit 2 Camisetas Brasa Pica Pau Bordado Reserva",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_979770-MLB114759958418_082026-F-kit-2-camisetas-brasa-pica-pau-bordado-reserva.webp",
+    "precoOriginal" : "258,00",
+    "precoPromocao" : "179,00",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://meli.la/1m8LvvK",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "31/08/2026 19:16",
+    "destaque" : false,
+    "precoAnterior" : "179,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 179.55
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 179.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 179.0
     } ]
   }, {
     "pid" : 7267,
@@ -37500,9 +37774,6 @@
     "precoAnterior" : "27,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 21.44
-    }, {
       "data" : "03/08/2026",
       "preco" : 21.44
     }, {
@@ -38576,8 +38847,6 @@
     "precoAnterior" : "28,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026"
-    }, {
       "data" : "03/08/2026"
     }, {
       "data" : "04/08/2026",
@@ -41343,9 +41612,6 @@
     "precoAnterior" : "38,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 35.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 32.56
     }, {
@@ -41639,9 +41905,6 @@
     "precoAnterior" : "19,73",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 27.97
-    }, {
       "data" : "03/08/2026",
       "preco" : 27.97
     }, {
@@ -42287,6 +42550,58 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 116.79
+    } ]
+  }, {
+    "pid" : 6468,
+    "id" : 136084,
+    "titulo" : "Mala De Viagem Kit 10+23+frasqueira Kit Com 3 Peças",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_851256-MLB106400973485_022026-F-mala-de-viagem-kit-1023frasqueira--kit-com-3-pecas.webp",
+    "precoOriginal" : "639,99",
+    "precoPromocao" : "489,00",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://meli.la/1srxAKy",
+    "categoria" : "Esporte, Aventura e Lazer",
+    "categoriaId" : 194,
+    "dataOferta" : "31/08/2026 19:38",
+    "destaque" : false,
+    "precoAnterior" : "489,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 392.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 381.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 381.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 474.05
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 474.05
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 499.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 489.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 489.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 489.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 489.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 489.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 489.0
     } ]
   }, {
     "pid" : 5564,
@@ -44296,9 +44611,6 @@
     "precoAnterior" : "100,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 124.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 124.0
     }, {
@@ -46679,9 +46991,6 @@
     "precoAnterior" : "49,31",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 44.08
-    }, {
       "data" : "03/08/2026",
       "preco" : 39.61
     }, {
@@ -47286,9 +47595,6 @@
     "precoAnterior" : "97,56",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 129.6
-    }, {
       "data" : "03/08/2026",
       "preco" : 129.6
     }, {
@@ -47417,9 +47723,6 @@
     "precoAnterior" : "15,67",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 15.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 15.99
     }, {
@@ -48226,9 +48529,6 @@
     "precoAnterior" : "34,64",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 31.68
-    }, {
       "data" : "03/08/2026",
       "preco" : 26.69
     }, {
@@ -51931,9 +52231,6 @@
     "precoAnterior" : "13,34",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 15.87
-    }, {
       "data" : "03/08/2026",
       "preco" : 8.72
     }, {
@@ -54782,9 +55079,6 @@
     "precoAnterior" : "33,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 34.14
-    }, {
       "data" : "03/08/2026",
       "preco" : 34.14
     }, {
@@ -58069,9 +58363,6 @@
     "precoAnterior" : "194,05",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 237.0
-    }, {
       "data" : "03/08/2026",
       "preco" : 237.0
     }, {
@@ -58410,9 +58701,6 @@
     "precoAnterior" : "150,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 158.52
-    }, {
       "data" : "03/08/2026",
       "preco" : 155.02
     }, {
@@ -59618,9 +59906,6 @@
     "precoAnterior" : "9,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 14.49
-    }, {
       "data" : "03/08/2026",
       "preco" : 14.49
     }, {
@@ -59853,6 +60138,58 @@
     }, {
       "data" : "30/08/2026",
       "preco" : 39.89
+    } ]
+  }, {
+    "pid" : 5198,
+    "id" : 136080,
+    "titulo" : "Top Puma Academia Fitness Original Nadador Alta Sustentação",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_643675-MLB115305176788_082026-F-top-puma-academia-fitness-original-nadador-alta-sustentaco.webp",
+    "precoOriginal" : "69,62",
+    "precoPromocao" : "44,99",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://meli.la/2e3DjHu",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "31/08/2026 19:25",
+    "destaque" : false,
+    "precoAnterior" : "44,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 39.19
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 39.19
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 39.18
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 39.18
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 39.18
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 39.18
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 39.19
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 44.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 44.99
     } ]
   }, {
     "pid" : 5525,
@@ -61063,6 +61400,58 @@
       "preco" : 89.79
     } ]
   }, {
+    "pid" : 5220,
+    "id" : 136081,
+    "titulo" : "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_811481-MLB110898969045_042026-F-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
+    "precoOriginal" : "289,99",
+    "precoPromocao" : "129,90",
+    "tag" : "-55%",
+    "linkAfiliado" : "https://meli.la/1zwWHzc",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "31/08/2026 19:28",
+    "destaque" : false,
+    "precoAnterior" : "129,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 127.7
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 127.7
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 129.9
+    } ]
+  }, {
     "pid" : 8976,
     "id" : 134424,
     "titulo" : "Tênis Lacoste Baseshot - Original",
@@ -62217,9 +62606,6 @@
     "precoAnterior" : "74,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "01/08/2026",
-      "preco" : 84.61
-    }, {
       "data" : "04/08/2026",
       "preco" : 78.9
     }, {
