@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "01/09/2026 14:30",
+  "ultimaAtualizacao" : "01/09/2026 14:41",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 134992,
@@ -41864,6 +41864,24 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 109.99
+    } ]
+  }, {
+    "pid" : 9195,
+    "id" : 137799,
+    "titulo" : "Liquidificador Oster Full 3,2L 220V 1400W Preto OLIQ610",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_702461-MLA100061718683_122025-F.webp",
+    "precoOriginal" : "271,50",
+    "precoPromocao" : "176,90",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://meli.la/2TaDb3d",
+    "categoria" : "Geral",
+    "categoriaId" : 258,
+    "dataOferta" : "01/09/2026 14:34",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "01/09/2026",
+      "preco" : 176.9
     } ]
   }, {
     "pid" : 1804,
