@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "01/09/2026 12:32",
+  "ultimaAtualizacao" : "01/09/2026 13:31",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 134992,
@@ -1386,6 +1386,91 @@
       "preco" : 15.9
     } ]
   }, {
+    "pid" : 2953,
+    "id" : 137410,
+    "titulo" : "Absorvente Intimus Toda Protegida Noturno Suave Com abas 45 un",
+    "imagem" : "https://m.media-amazon.com/images/I/61mN9e4PvWL._AC_SL1000_.jpg",
+    "precoOriginal" : "33,99",
+    "precoPromocao" : "24,24",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D8BXVYNJ?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "01/09/2026 13:27",
+    "destaque" : false,
+    "precoAnterior" : "23,74",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 22.49
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 22.49
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 22.49
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 24.5
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 28.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 22.48
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 23.74
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 23.74
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 23.74
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 24.24
+    } ]
+  }, {
     "pid" : 8554,
     "id" : 136108,
     "titulo" : "Adaptador Conector Tipo C para USB 3.0 OTG Conversor Macho USB-C Adaptador de Sincronização-de Dados",
@@ -2352,9 +2437,6 @@
     "precoAnterior" : "3.029,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 3023.1
-    }, {
       "data" : "03/08/2026",
       "preco" : 3359.0
     }, {
@@ -2911,6 +2993,95 @@
       "preco" : 69.99
     } ]
   }, {
+    "pid" : 3077,
+    "id" : 137416,
+    "titulo" : "Azeite Italiano Extra Virgem Paganini 500ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71PjJ9NrKEL._AC_SL1500_.jpg",
+    "precoOriginal" : "69,99",
+    "precoPromocao" : "46,99",
+    "tag" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XHY3M6J?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:28",
+    "destaque" : true,
+    "precoAnterior" : "47,89",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 50.29
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 50.29
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 48.0
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 54.13
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 54.17
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 54.17
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 54.17
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 47.89
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 46.99
+    } ]
+  }, {
     "pid" : 6379,
     "id" : 135358,
     "titulo" : "Babuche Feminina Luxo em EVA Sandália com Enfeites Personalizados Ortopédica Enfermagem",
@@ -3013,9 +3184,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 18.8
-    }, {
       "data" : "03/08/2026",
       "preco" : 18.8
     }, {
@@ -4837,9 +5005,6 @@
     "precoAnterior" : "56,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 61.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 73.29
     }, {
@@ -4905,6 +5070,91 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 47.41
+    } ]
+  }, {
+    "pid" : 3208,
+    "id" : 137425,
+    "titulo" : "Bis Original Ao Leite - Kit com 3 unidades de 100,8g",
+    "imagem" : "https://m.media-amazon.com/images/I/71hFk5aKMYL._AC_SL1500_.jpg",
+    "precoOriginal" : "23,29",
+    "precoPromocao" : "16,99",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CDCKJQFM?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:29",
+    "destaque" : false,
+    "precoAnterior" : "16,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 29.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 15.98
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 29.98
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 29.98
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 29.98
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 29.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 29.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 28.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 15.98
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 15.98
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 28.49
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 16.99
     } ]
   }, {
     "pid" : 5097,
@@ -5234,9 +5484,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 174.17
-    }, {
       "data" : "03/08/2026",
       "preco" : 173.36
     }, {
@@ -6392,6 +6639,91 @@
       "preco" : 21.96
     } ]
   }, {
+    "pid" : 1439,
+    "id" : 137307,
+    "titulo" : "Buba Garrafinha Aventuras Princesa 400 Ml Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/61+O3VA6yhL._AC_SL1500_.jpg",
+    "precoOriginal" : "37,90",
+    "precoPromocao" : "23,79",
+    "tag" : "-37%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BBJM19ZB?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:10",
+    "destaque" : false,
+    "precoAnterior" : "23,79",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 29.82
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 29.81
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 31.33
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 29.66
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 29.42
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 28.5
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 28.3
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 24.96
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 23.4
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 25.92
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 25.35
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 25.35
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 25.28
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 25.39
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 27.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 27.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 27.66
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 27.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 27.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 23.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 23.79
+    } ]
+  }, {
     "pid" : 3186,
     "id" : 136948,
     "titulo" : "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
@@ -6654,9 +6986,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 41.21
-    }, {
       "data" : "03/08/2026",
       "preco" : 41.21
     }, {
@@ -7123,6 +7452,91 @@
       "preco" : 13.0
     } ]
   }, {
+    "pid" : 1673,
+    "id" : 137353,
+    "titulo" : "Buba Pote Termico C/Colher - Gumy Rosa Buba Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/41TOR1cRICL._AC_SL1000_.jpg",
+    "precoOriginal" : "151,90",
+    "precoPromocao" : "78,24",
+    "tag" : "-48%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08JXND5C7?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:17",
+    "destaque" : false,
+    "precoAnterior" : "80,76",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 86.0
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 86.0
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 86.0
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 80.88
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 80.83
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 80.88
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 80.88
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 80.88
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 80.78
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 80.78
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 80.82
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 76.5
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 76.5
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 76.5
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 79.68
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 87.29
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 86.08
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 78.96
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 83.47
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 80.45
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 78.27
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 80.76
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 78.24
+    } ]
+  }, {
     "pid" : 4561,
     "id" : 137131,
     "titulo" : "Buba Redutor De Assento Dobravel",
@@ -7536,6 +7950,92 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 68.7
+    } ]
+  }, {
+    "pid" : 3159,
+    "id" : 137421,
+    "titulo" : "Buchanan's Whisky Escocês Blended Deluxe Garrafa 750Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61pkETLYLaL._AC_SL1200_.jpg",
+    "precoOriginal" : "189,90",
+    "precoPromocao" : "127,99",
+    "tag" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B001QZ5GUW?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "01/09/2026 13:29",
+    "destaque" : true,
+    "precoAnterior" : "169,90",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 129.97
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 135.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 135.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 135.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 135.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 135.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 127.99
     } ]
   }, {
     "pid" : 5730,
@@ -9692,6 +10192,94 @@
       "preco" : 39.9
     } ]
   }, {
+    "pid" : 1428,
+    "id" : 137297,
+    "titulo" : "Camesa Edredom Ecopluma Toque de Pluma Queen 240x260cm - Bege, Poliéster",
+    "imagem" : "https://m.media-amazon.com/images/I/71RDq03-uQL._AC_SL1200_.jpg",
+    "precoOriginal" : "299,00",
+    "precoPromocao" : "213,88",
+    "tag" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D51LLZSN?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:08",
+    "destaque" : false,
+    "precoAnterior" : "213,88",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 237.4
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 239.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 239.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 239.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 246.97
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 246.95
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 246.95
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 246.95
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 266.49
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 246.98
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 246.93
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 246.93
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 246.93
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 213.88
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 213.88
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 213.88
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 213.88
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 213.88
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 213.88
+    } ]
+  }, {
     "pid" : 1866,
     "id" : 135897,
     "titulo" : "Camesa Edredom Ecopluma Toque de Pluma Queen 240x260cm - Cinza, Poliéster",
@@ -11516,6 +12104,91 @@
       "preco" : 79.79
     } ]
   }, {
+    "pid" : 1451,
+    "id" : 137313,
+    "titulo" : "Casa Perini Espumante Moskatel Aquarela 750 Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61QKikkfp0L._AC_SL1500_.jpg",
+    "precoOriginal" : "76,90",
+    "precoPromocao" : "46,90",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XTR5C65?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "01/09/2026 13:11",
+    "destaque" : false,
+    "precoAnterior" : "46,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 52.89
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 52.89
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 52.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 49.91
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 49.91
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 46.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 50.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 46.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 46.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 46.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 46.9
+    } ]
+  }, {
     "pid" : 5628,
     "id" : 135161,
     "titulo" : "Casaco Cacharrel Teddy Blusa De Pelinho Inverno Peludo Sherpa Frio",
@@ -12536,9 +13209,6 @@
     "precoAnterior" : "46,20",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 44.06
-    }, {
       "data" : "03/08/2026",
       "preco" : 44.06
     }, {
@@ -12658,6 +13328,94 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 19.9
+    } ]
+  }, {
+    "pid" : 3290,
+    "id" : 137434,
+    "titulo" : "Chocolate Lacta Laka Com 12 Unidades De 28g",
+    "imagem" : "https://m.media-amazon.com/images/I/51+QAjnQc+L._AC_SL1000_.jpg",
+    "precoOriginal" : "56,28",
+    "precoPromocao" : "36,69",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DTJ4D8NH?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:31",
+    "destaque" : false,
+    "precoAnterior" : "36,69",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.69
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 36.69
     } ]
   }, {
     "pid" : 2773,
@@ -12885,6 +13643,84 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 14.49
+    } ]
+  }, {
+    "pid" : 3282,
+    "id" : 137432,
+    "titulo" : "Chupeta Ultra Soft Uniatária Seda Bege 6-18M Philips Avent",
+    "imagem" : "https://m.media-amazon.com/images/I/61Rfe+hKrfL._AC_SL1200_.jpg",
+    "precoOriginal" : "55,90",
+    "precoPromocao" : "28,70",
+    "tag" : "-48%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09JZSPQCM?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:30",
+    "destaque" : false,
+    "precoAnterior" : "28,70",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026"
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "10/08/2026"
+    }, {
+      "data" : "11/08/2026"
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "14/08/2026"
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "16/08/2026"
+    }, {
+      "data" : "18/08/2026"
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 28.7
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 28.7
     } ]
   }, {
     "pid" : 5612,
@@ -13166,6 +14002,91 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 15.74
+    } ]
+  }, {
+    "pid" : 1452,
+    "id" : 137314,
+    "titulo" : "Cif Cremoso Limpeza Milagrosa Remove 100% Da Sujeira 450 Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/611kXr75+ZL._AC_SL1500_.jpg",
+    "precoOriginal" : "22,40",
+    "precoPromocao" : "14,25",
+    "tag" : "-36%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTNB6SY?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:11",
+    "destaque" : false,
+    "precoAnterior" : "14,25",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 13.99
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 22.4
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 14.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 14.25
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 14.25
     } ]
   }, {
     "pid" : 1860,
@@ -13760,6 +14681,91 @@
       "preco" : 15.99
     } ]
   }, {
+    "pid" : 3126,
+    "id" : 137418,
+    "titulo" : "Concha y Toro Reservado Cabernet Sauvignon 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61B-RdsyzBL._AC_SL1500_.jpg",
+    "precoOriginal" : "39,90",
+    "precoPromocao" : "24,96",
+    "tag" : "-37%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XLMJHRN?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "01/09/2026 13:28",
+    "destaque" : false,
+    "precoAnterior" : "22,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 22.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 22.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 22.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 24.96
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 24.96
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 24.96
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 22.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 24.96
+    } ]
+  }, {
     "pid" : 8610,
     "id" : 136030,
     "titulo" : "Concha y Toro Reservado Vinho Chileno Merlot 750ml",
@@ -13824,9 +14830,6 @@
     "precoAnterior" : "45,41",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 45.09
-    }, {
       "data" : "03/08/2026",
       "preco" : 40.56
     }, {
@@ -14970,9 +15973,6 @@
     "precoAnterior" : "236,81",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 128.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 128.99
     }, {
@@ -16033,9 +17033,6 @@
     "precoAnterior" : "48,39",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 49.2
-    }, {
       "data" : "03/08/2026",
       "preco" : 49.2
     }, {
@@ -16839,9 +17836,6 @@
     "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 56.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 47.45
     }, {
@@ -17246,6 +18240,88 @@
       "preco" : 66.74
     } ]
   }, {
+    "pid" : 1440,
+    "id" : 137308,
+    "titulo" : "Desitin Proteção Diária Creme Preventivo De Assaduras Creamy, 57g",
+    "imagem" : "https://m.media-amazon.com/images/I/6100v+hZFgL._AC_SL1500_.jpg",
+    "precoOriginal" : "57,99",
+    "precoPromocao" : "37,49",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHQZPZV?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:10",
+    "destaque" : false,
+    "precoAnterior" : "37,49",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 37.98
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 37.98
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 37.98
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 37.98
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 38.35
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 37.49
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 37.49
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 37.49
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 37.49
+    } ]
+  }, {
     "pid" : 2872,
     "id" : 136865,
     "titulo" : "Dolce Gusto Nescafe Lungo 10 Capsulas 70G",
@@ -17404,6 +18480,91 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 20.45
+    } ]
+  }, {
+    "pid" : 1664,
+    "id" : 137351,
+    "titulo" : "Dove Sabonete Em Barra Branco 90G - 8 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/71bR8jBRL7L._AC_SL1500_.jpg",
+    "precoOriginal" : "44,72",
+    "precoPromocao" : "32,99",
+    "tag" : "-26%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B088Z64C82?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "01/09/2026 13:17",
+    "destaque" : false,
+    "precoAnterior" : "32,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 46.18
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 46.16
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 46.15
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 46.13
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 46.13
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 46.11
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 46.11
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 46.07
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 44.8
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 45.88
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 45.88
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 45.88
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 45.84
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 45.82
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 45.82
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 44.69
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 44.69
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 32.99
     } ]
   }, {
     "pid" : 3127,
@@ -17954,6 +19115,81 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 899.0
+    } ]
+  }, {
+    "pid" : 1606,
+    "id" : 137329,
+    "titulo" : "Electrolux Kit 8 Potes Herméticos Plástico Multiuso Vedação Silicone",
+    "imagem" : "https://m.media-amazon.com/images/I/51wgNlpJxjL._AC_SL1000_.jpg",
+    "precoOriginal" : "89,90",
+    "precoPromocao" : "69,90",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09XJK1XS1?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "01/09/2026 13:13",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 66.98
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 67.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 67.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "18/08/2026"
+    }, {
+      "data" : "20/08/2026"
+    }, {
+      "data" : "21/08/2026"
+    }, {
+      "data" : "22/08/2026"
+    }, {
+      "data" : "24/08/2026"
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 69.9
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "28/08/2026"
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "31/08/2026"
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 69.9
     } ]
   }, {
     "pid" : 2068,
@@ -19396,9 +20632,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 657.27
-    }, {
       "data" : "03/08/2026",
       "preco" : 664.47
     }, {
@@ -20922,6 +22155,95 @@
       "preco" : 103.12
     } ]
   }, {
+    "pid" : 304,
+    "id" : 137281,
+    "titulo" : "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
+    "imagem" : "https://m.media-amazon.com/images/I/818MarZ6OOL._AC_SL1500_.jpg",
+    "precoOriginal" : "113,25",
+    "precoPromocao" : "79,99",
+    "tag" : "-29%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08GZNWJ17?tag=curadomus-20",
+    "categoria" : "Fraldas",
+    "categoriaId" : 9,
+    "dataOferta" : "01/09/2026 13:05",
+    "destaque" : true,
+    "precoAnterior" : "84,98",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "02/08/2026",
+      "preco" : 108.53
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 83.61
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 83.61
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 83.61
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 83.61
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 84.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 84.98
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 84.98
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 84.98
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 84.98
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 79.99
+    } ]
+  }, {
     "pid" : 745,
     "id" : 136223,
     "titulo" : "Fralda Pants Huggies Supreme Care, Tamanho G, 9-12,5 kg, 60 Unidades, Estilo Roupinha com Cintura Acolchoada",
@@ -21093,6 +22415,88 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 48.99
+    } ]
+  }, {
+    "pid" : 3226,
+    "id" : 137428,
+    "titulo" : "Freso Carrinho de Bebê Confort Modelo Compacto, Leve e Dobrável, com Assento Reclinável até 150°, Freio Duplo, Cinto de 5 Pontos e Toldo com Proteção UV. Ideal para Crianças de 6 a 36 Meses, Perfeito para o Dia a Dia e Viagens",
+    "imagem" : "https://m.media-amazon.com/images/I/61iQxRM96NL._AC_SL1500_.jpg",
+    "precoOriginal" : "1.135,99",
+    "precoPromocao" : "872,03",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0G547BSFY?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:30",
+    "destaque" : false,
+    "precoAnterior" : "872,03",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 515.0
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 515.0
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 515.0
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 515.0
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 599.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 872.03
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 872.03
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 872.03
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 872.03
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 872.03
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 872.03
     } ]
   }, {
     "pid" : 5527,
@@ -21994,6 +23398,92 @@
       "preco" : 159.9
     } ]
   }, {
+    "pid" : 1737,
+    "id" : 137369,
+    "titulo" : "G-Tech, Termômetro Digital de Ponta Flexível - Alimentado por pilha/bateria",
+    "imagem" : "https://m.media-amazon.com/images/I/31buJmSfVYL._AC_SL1000_.jpg",
+    "precoOriginal" : "26,50",
+    "precoPromocao" : "14,25",
+    "tag" : "-26%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076VYL3PX?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "01/09/2026 13:20",
+    "destaque" : true,
+    "precoAnterior" : "19,27",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 17.04
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 17.04
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 16.13
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 16.13
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 16.75
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 16.75
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 16.75
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 16.45
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 16.16
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 16.16
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 16.16
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 16.16
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 15.57
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 19.27
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 19.27
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 19.27
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 14.25
+    } ]
+  }, {
     "pid" : 7491,
     "id" : 135402,
     "titulo" : "Game Stick M15 Pro 4k 64GB com 2 controles sem fio +20.000 jogos",
@@ -22080,6 +23570,88 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 123.99
+    } ]
+  }, {
+    "pid" : 2285,
+    "id" : 137385,
+    "titulo" : "Garmin Relógio Forerunner 55 com Monitor Cardíaco de Pulso e GPS",
+    "imagem" : "https://m.media-amazon.com/images/I/51-D8JBR8+L._AC_SL1000_.jpg",
+    "precoOriginal" : "2.199,00",
+    "precoPromocao" : "1.699,00",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0953X73TP?tag=curadomus-20",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "01/09/2026 13:22",
+    "destaque" : false,
+    "precoAnterior" : "1.699,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "04/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 1579.0
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 1579.0
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 1579.0
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 1498.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 1699.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 2042.49
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 1699.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 1699.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 1699.0
     } ]
   }, {
     "pid" : 977,
@@ -22441,9 +24013,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 28.94
-    }, {
       "data" : "03/08/2026",
       "preco" : 25.86
     }, {
@@ -23504,6 +25073,88 @@
       "preco" : 18.71
     } ]
   }, {
+    "pid" : 1594,
+    "id" : 137325,
+    "titulo" : "Granado Sabonete Líquido Glicerinado Bebê, 250ml",
+    "imagem" : "https://m.media-amazon.com/images/I/41MPcws2ekL._AC_SL1000_.jpg",
+    "precoOriginal" : "30,48",
+    "precoPromocao" : "19,99",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B000VWJMW4?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:13",
+    "destaque" : false,
+    "precoAnterior" : "19,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 22.04
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 22.04
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 19.99
+    } ]
+  }, {
     "pid" : 3982,
     "id" : 137032,
     "titulo" : "Granado Shampoo Bebê, Lavanda, 250ml",
@@ -23584,6 +25235,91 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 15.21
+    } ]
+  }, {
+    "pid" : 3254,
+    "id" : 137431,
+    "titulo" : "Granado Talco Infantil Bebê, 100g",
+    "imagem" : "https://m.media-amazon.com/images/I/41DrYTgAgoL._AC_SL1000_.jpg",
+    "precoOriginal" : "20,70",
+    "precoPromocao" : "14,90",
+    "tag" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07FFC3YTN?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:30",
+    "destaque" : false,
+    "precoAnterior" : "14,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 14.46
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 14.45
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 14.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 14.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 14.9
     } ]
   }, {
     "pid" : 4572,
@@ -23685,9 +25421,6 @@
     "precoAnterior" : "199,69",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 161.1
-    }, {
       "data" : "03/08/2026",
       "preco" : 199.91
     }, {
@@ -23998,6 +25731,169 @@
       "preco" : 21.59
     } ]
   }, {
+    "pid" : 2590,
+    "id" : 137390,
+    "titulo" : "Hellmann’s Molho pra Chuchar sabor Cebola, Salsa e Limão",
+    "imagem" : "https://m.media-amazon.com/images/I/71PkS68NKsL._AC_SL1500_.jpg",
+    "precoOriginal" : "17,99",
+    "precoPromocao" : "12,59",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GWFCSNTV?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:23",
+    "destaque" : false,
+    "precoAnterior" : "12,59",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 12.59
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 12.59
+    } ]
+  }, {
+    "pid" : 1442,
+    "id" : 137310,
+    "titulo" : "Hidratante Nutritivo Derma Protect JOHNSON'S® Baby 200mL",
+    "imagem" : "https://m.media-amazon.com/images/I/61yrgeNQn6L._AC_SL1000_.jpg",
+    "precoOriginal" : "86,99",
+    "precoPromocao" : "67,09",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C9W32C1J?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:10",
+    "destaque" : false,
+    "precoAnterior" : "67,09",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 44.98
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 63.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 59.4
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 59.39
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 59.39
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 63.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 63.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 59.97
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 59.97
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 59.97
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 59.97
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 59.97
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 74.61
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 53.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 53.99
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 67.09
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 67.09
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 67.09
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 67.09
+    } ]
+  }, {
     "pid" : 1600,
     "id" : 135793,
     "titulo" : "Hipoglós Creme Preventivo de Assaduras Transparente, Leve 120g Pague 80g",
@@ -24249,6 +26145,91 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 19.56
+    } ]
+  }, {
+    "pid" : 1601,
+    "id" : 137326,
+    "titulo" : "HIPOGLÓS® Transparente Creme Preventivo De Assaduras, 30g",
+    "imagem" : "https://m.media-amazon.com/images/I/518FaPzfPCL._AC_SL1000_.jpg",
+    "precoOriginal" : "33,89",
+    "precoPromocao" : "20,99",
+    "tag" : "-38%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B089YLCYBZ?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:13",
+    "destaque" : false,
+    "precoAnterior" : "20,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 20.88
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 20.88
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 24.92
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 24.92
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 24.92
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 24.92
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 24.96
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 24.92
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 24.88
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 24.88
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 21.16
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 20.99
     } ]
   }, {
     "pid" : 684,
@@ -28298,9 +30279,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 23.59
-    }, {
       "data" : "03/08/2026",
       "preco" : 18.51
     }, {
@@ -28381,9 +30359,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 23.18
-    }, {
       "data" : "04/08/2026",
       "preco" : 20.68
     }, {
@@ -28446,6 +30421,89 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 19.99
+    } ]
+  }, {
+    "pid" : 1657,
+    "id" : 137347,
+    "titulo" : "Johnson's Baby Shampoo Para Bebê Para Cabelos Claros, 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61JDPIEuNLL._AC_SL1500_.jpg",
+    "precoOriginal" : "62,99",
+    "precoPromocao" : "48,89",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHRHZDR?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:16",
+    "destaque" : true,
+    "precoAnterior" : "52,93",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 34.11
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 34.11
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 34.11
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 34.11
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 34.11
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 53.88
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 52.93
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 48.89
     } ]
   }, {
     "pid" : 757,
@@ -31872,6 +33930,94 @@
       "preco" : 64.99
     } ]
   }, {
+    "pid" : 1412,
+    "id" : 137286,
+    "titulo" : "Kit com 5 Sacos para Lavagem de Roupas Delicadas e Íntimas – Protege Peças na Máquina de Lavar, Fecho com Zíper Reforçado, Multi-Tamanhos, Ideal para Lingerie, Meias e Camisetas",
+    "imagem" : "https://m.media-amazon.com/images/I/61afJKLn+wL._AC_SL1024_.jpg",
+    "precoOriginal" : "49,90",
+    "precoPromocao" : "34,92",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FTNP6VWW?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:06",
+    "destaque" : false,
+    "precoAnterior" : "34,92",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 34.92
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 34.92
+    } ]
+  }, {
     "pid" : 6345,
     "id" : 135345,
     "titulo" : "Kit Conjunto De Potes de Vidro Resistente Organizadores De Cozinha Multiuso",
@@ -32239,9 +34385,6 @@
     "precoAnterior" : "75,78",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 54.87
-    }, {
       "data" : "04/08/2026",
       "preco" : 54.87
     }, {
@@ -33015,6 +35158,85 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 19.9
+    } ]
+  }, {
+    "pid" : 2876,
+    "id" : 137408,
+    "titulo" : "L'OR Café Torrado E Moído Equilibrado Torras 100% Arábica L'Or Sachê 250 G",
+    "imagem" : "https://m.media-amazon.com/images/I/51jK3I7YTuL._AC_SL1000_.jpg",
+    "precoOriginal" : "46,63",
+    "precoPromocao" : "29,89",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C6BLQD7G?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:27",
+    "destaque" : false,
+    "precoAnterior" : "29,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 19.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 21.44
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 21.44
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 21.44
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 21.44
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 21.44
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 36.9
+    }, {
+      "data" : "12/08/2026"
+    }, {
+      "data" : "14/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 36.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 29.89
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 46.63
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 46.63
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 29.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 29.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 29.89
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 29.89
     } ]
   }, {
     "pid" : 2544,
@@ -34556,6 +36778,97 @@
       "preco" : 148.11
     } ]
   }, {
+    "pid" : 1416,
+    "id" : 137289,
+    "titulo" : "Licor Frangelico 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61eABXoPVkL._AC_SL1500_.jpg",
+    "precoOriginal" : "167,90",
+    "precoPromocao" : "101,54",
+    "tag" : "-39%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B003XI0N4E?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "01/09/2026 13:07",
+    "destaque" : false,
+    "precoAnterior" : "101,54",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 101.36
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 101.36
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 101.54
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 101.54
+    } ]
+  }, {
     "pid" : 2296,
     "id" : 135963,
     "titulo" : "Licor Seco de Whisky Caramelo & Baunilha Ballantine's Sweet Blend Garrafa 700ml",
@@ -34772,9 +37085,6 @@
     "precoAnterior" : "35,87",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 39.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 50.0
     }, {
@@ -36027,6 +38337,90 @@
       "preco" : 38.0
     } ]
   }, {
+    "pid" : 1469,
+    "id" : 137316,
+    "titulo" : "Lumai Suporte Sevilha para Pendurar Roupa Toalhas Cabide de Parede Robusto em Aço Inox 304 Legitimo",
+    "imagem" : "https://m.media-amazon.com/images/I/41Qq+wk1dKL._AC_SL1500_.jpg",
+    "precoOriginal" : "79,99",
+    "precoPromocao" : "59,90",
+    "tag" : "-25%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BVN198SY?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:11",
+    "destaque" : false,
+    "precoAnterior" : "59,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "23/08/2026"
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 59.3
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 59.9
+    } ]
+  }, {
     "pid" : 4528,
     "id" : 135006,
     "titulo" : "Luva Moto Motoqueiro Impermeável Térmica Inverno Frio Touch",
@@ -37147,6 +39541,92 @@
       "preco" : 29.9
     } ]
   }, {
+    "pid" : 2599,
+    "id" : 137392,
+    "titulo" : "MamyPoko Lenços Umedecidos Toque Suave 200 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/71+9tzmgRyL._AC_SL1500_.jpg",
+    "precoOriginal" : "43,90",
+    "precoPromocao" : "31,79",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B088P9S98P?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:23",
+    "destaque" : true,
+    "precoAnterior" : "36,78",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 38.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 38.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.78
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 31.79
+    } ]
+  }, {
     "pid" : 4883,
     "id" : 137200,
     "titulo" : "Maxi Baby Móbile Para Carrinho e Berço com Chocalho Ocean",
@@ -37162,8 +39642,6 @@
     "precoAnterior" : "73,62",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026"
-    }, {
       "data" : "03/08/2026"
     }, {
       "data" : "05/08/2026",
@@ -38872,9 +41350,6 @@
     "precoAnterior" : "99,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 85.93
-    }, {
       "data" : "03/08/2026",
       "preco" : 85.93
     }, {
@@ -39537,9 +42012,6 @@
     "precoAnterior" : "199,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 208.99
-    }, {
       "data" : "03/08/2026",
       "preco" : 208.99
     }, {
@@ -40432,9 +42904,6 @@
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 16.73
-    }, {
       "data" : "03/08/2026",
       "preco" : 16.73
     }, {
@@ -40517,9 +42986,6 @@
     "precoAnterior" : "17,02",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 16.73
-    }, {
       "data" : "03/08/2026",
       "preco" : 16.73
     }, {
@@ -40663,6 +43129,90 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 4.49
+    } ]
+  }, {
+    "pid" : 3292,
+    "id" : 137435,
+    "titulo" : "Nestlé Farinha Láctea Tradicional 600G",
+    "imagem" : "https://m.media-amazon.com/images/I/61NZUgk0AwL._AC_SL1433_.jpg",
+    "precoOriginal" : "28,99",
+    "precoPromocao" : "21,59",
+    "tag" : "-25%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B082JG1T2L?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:31",
+    "destaque" : false,
+    "precoAnterior" : "21,59",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 18.69
+    }, {
+      "data" : "05/08/2026"
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 18.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 15.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 21.39
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 20.24
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 20.24
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 20.24
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 20.24
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 20.24
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 24.75
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 21.59
     } ]
   }, {
     "pid" : 1801,
@@ -41848,6 +44398,88 @@
       "preco" : 15.47
     } ]
   }, {
+    "pid" : 2775,
+    "id" : 137405,
+    "titulo" : "OFF! Kids Loção Repelente de Insetos e Mosquitos, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51pgneajSjL._AC_SL1200_.jpg",
+    "precoOriginal" : "23,16",
+    "precoPromocao" : "17,73",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07D2FT1G6?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "01/09/2026 13:26",
+    "destaque" : false,
+    "precoAnterior" : "17,92",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 17.79
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 17.53
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 17.53
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 17.62
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 17.62
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 17.73
+    } ]
+  }, {
     "pid" : 3223,
     "id" : 136964,
     "titulo" : "OMO Lava-Roupas Líquido Ultra Power Frasco 1,8L",
@@ -41943,6 +44575,91 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 43.15
+    } ]
+  }, {
+    "pid" : 1658,
+    "id" : 137348,
+    "titulo" : "Oral-B Escova de Dente Clean Indicator, 4 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61f8eFcG-IL._AC_SL1200_.jpg",
+    "precoOriginal" : "30,73",
+    "precoPromocao" : "20,99",
+    "tag" : "-31%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07FT5X4FV?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:17",
+    "destaque" : false,
+    "precoAnterior" : "20,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 23.19
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 23.19
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 23.19
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 25.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 25.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 25.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 23.8
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 25.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 26.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 26.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 26.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 20.99
     } ]
   }, {
     "pid" : 9009,
@@ -42129,6 +44846,88 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 33.74
+    } ]
+  }, {
+    "pid" : 1796,
+    "id" : 137370,
+    "titulo" : "Orfeu Café Bourbon Amarelo, 100% Arabica, Torra Média Clara, Cápsulas Espresso 10 unid. Compatível Nespresso®*",
+    "imagem" : "https://m.media-amazon.com/images/I/5106X6NoGKL._AC_SL1000_.jpg",
+    "precoOriginal" : "40,70",
+    "precoPromocao" : "27,08",
+    "tag" : "-33%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B089T3CBKQ?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "01/09/2026 13:20",
+    "destaque" : false,
+    "precoAnterior" : "27,08",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 27.08
     } ]
   }, {
     "pid" : 2951,
@@ -42400,9 +45199,6 @@
     "precoAnterior" : "31,46",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 26.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 26.9
     }, {
@@ -44791,6 +47587,90 @@
       "preco" : 279.9
     } ]
   }, {
+    "pid" : 1539,
+    "id" : 137320,
+    "titulo" : "Philco Secador de Cabelos Bivolt 2200W PSC2450 Íons Tourmaline Bivolt Tecnologia iónica e Botão de t Plástico Preto com Dourado",
+    "imagem" : "https://m.media-amazon.com/images/I/519GvFTMYjL._AC_SL1200_.jpg",
+    "precoOriginal" : "177,45",
+    "precoPromocao" : "119,00",
+    "tag" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D9R7NYPG?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "01/09/2026 13:12",
+    "destaque" : false,
+    "precoAnterior" : "119,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 123.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 123.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 117.7
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 117.7
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 119.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 119.0
+    } ]
+  }, {
     "pid" : 4170,
     "id" : 137072,
     "titulo" : "Philips Colgate SonicPro 35 Escova de Dente Elétrica, 2 Unidades",
@@ -45131,6 +48011,88 @@
       "preco" : 69.98
     } ]
   }, {
+    "pid" : 2598,
+    "id" : 137391,
+    "titulo" : "Pilha Alcalina AAA com 8 unidades Elgin Palito",
+    "imagem" : "https://m.media-amazon.com/images/I/61yW9+kFVWL._AC_SL1000_.jpg",
+    "precoOriginal" : "22,05",
+    "precoPromocao" : "13,34",
+    "tag" : "-39%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09MSQGXFR?tag=curadomus-20",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "01/09/2026 13:23",
+    "destaque" : false,
+    "precoAnterior" : "13,34",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 8.72
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 8.72
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 8.72
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 15.87
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 16.1
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 16.1
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 16.1
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 16.1
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 16.1
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 15.69
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 15.69
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 16.48
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 16.48
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 13.34
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 13.34
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 13.34
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 13.34
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 13.34
+    } ]
+  }, {
     "pid" : 6893,
     "id" : 135390,
     "titulo" : "Pilha Alcalina Aaa Duracell 8 Unidades",
@@ -45410,9 +48372,6 @@
     "precoAnterior" : "47,91",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 52.41
-    }, {
       "data" : "03/08/2026",
       "preco" : 51.24
     }, {
@@ -46306,9 +49265,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 95.94
-    }, {
       "data" : "03/08/2026",
       "preco" : 104.49
     }, {
@@ -47155,9 +50111,6 @@
     "precoAnterior" : "31,16",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 30.72
-    }, {
       "data" : "03/08/2026",
       "preco" : 30.72
     }, {
@@ -47286,9 +50239,6 @@
     "precoAnterior" : "23,79",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 20.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 24.36
     }, {
@@ -47683,9 +50633,6 @@
     "precoAnterior" : "13,64",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 19.49
-    }, {
       "data" : "04/08/2026",
       "preco" : 19.49
     }, {
@@ -49659,9 +52606,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 49.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 49.9
     }, {
@@ -51881,9 +54825,6 @@
     "precoAnterior" : "799,60",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 779.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 779.9
     }, {
@@ -52238,9 +55179,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 52.32
-    }, {
       "data" : "03/08/2026",
       "preco" : 52.32
     }, {
@@ -52491,9 +55429,6 @@
     "precoAnterior" : "39,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 49.98
-    }, {
       "data" : "03/08/2026",
       "preco" : 49.98
     }, {
@@ -53051,6 +55986,84 @@
     }, {
       "data" : "31/08/2026",
       "preco" : 749.9
+    } ]
+  }, {
+    "pid" : 3185,
+    "id" : 137422,
+    "titulo" : "Travel System Cosco Kids, Reverse Trio, Rosa Onda",
+    "imagem" : "https://m.media-amazon.com/images/I/61DxCQilQML._AC_SL1000_.jpg",
+    "precoOriginal" : "1.399,00",
+    "precoPromocao" : "1.099,90",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FJ2W99ZF?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "01/09/2026 13:29",
+    "destaque" : false,
+    "precoAnterior" : "1.099,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 768.41
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 768.41
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 768.41
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 768.41
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 994.96
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 994.96
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 828.15
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 828.44
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 839.84
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 839.84
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 850.91
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 851.56
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 999.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 999.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 999.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 999.0
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 1099.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 1099.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 1099.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 1099.9
     } ]
   }, {
     "pid" : 6061,
@@ -54528,6 +57541,74 @@
       "preco" : 109.9
     } ]
   }, {
+    "pid" : 2092,
+    "id" : 137383,
+    "titulo" : "Veja Limpador para Limpeza Pesada Cloro Ativo 2 em 1 - 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/61H+VOwrfML._AC_SL1500_.jpg",
+    "precoOriginal" : "25,24",
+    "precoPromocao" : "10,79",
+    "tag" : "-57%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DYYC9NR?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "01/09/2026 13:22",
+    "destaque" : false,
+    "precoAnterior" : "10,79",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "04/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026"
+    }, {
+      "data" : "08/08/2026"
+    }, {
+      "data" : "09/08/2026"
+    }, {
+      "data" : "11/08/2026"
+    }, {
+      "data" : "12/08/2026"
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "19/08/2026"
+    }, {
+      "data" : "21/08/2026"
+    }, {
+      "data" : "22/08/2026"
+    }, {
+      "data" : "23/08/2026"
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026"
+    }, {
+      "data" : "29/08/2026"
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 10.79
+    } ]
+  }, {
     "pid" : 5703,
     "id" : 135189,
     "titulo" : "Ventilador Aromatizador Luminária 25w 5 Folhas Grande de Teto Silencioso Controle Remoto E27 Bivolt",
@@ -54751,9 +57832,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 2305.41
-    }, {
       "data" : "03/08/2026",
       "preco" : 2305.41
     }, {
@@ -56349,6 +59427,81 @@
       "preco" : 229.99
     } ]
   }, {
+    "pid" : 1731,
+    "id" : 137367,
+    "titulo" : "Whisky Johnnie Walker Green Label 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51o-TPxHPiL._AC_SL1200_.jpg",
+    "precoOriginal" : "576,90",
+    "precoPromocao" : "449,99",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07ZJWSKS9?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "01/09/2026 13:20",
+    "destaque" : false,
+    "precoAnterior" : "479,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 576.9
+    }, {
+      "data" : "05/08/2026"
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026"
+    }, {
+      "data" : "08/08/2026"
+    }, {
+      "data" : "10/08/2026"
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 469.09
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 469.09
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026"
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "19/08/2026"
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 479.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 449.99
+    } ]
+  }, {
     "pid" : 2513,
     "id" : 136018,
     "titulo" : "Whisky Johnnie Walker Red Label 1L",
@@ -56758,6 +59911,94 @@
       "preco" : 69.89
     } ]
   }, {
+    "pid" : 1425,
+    "id" : 137294,
+    "titulo" : "WOLFF - Garrafa Térmica de Plástico com Cabo de Madeira Nórdica 1L Branca - Mesa Posta - Itens Para Casa - Utensílios de Cozinha - Perfeita Para Café e Chá",
+    "imagem" : "https://m.media-amazon.com/images/I/41oYLWpphGL._AC_SL1500_.jpg",
+    "precoOriginal" : "91,60",
+    "precoPromocao" : "51,90",
+    "tag" : "-43%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09CC39PR1?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "01/09/2026 13:08",
+    "destaque" : false,
+    "precoAnterior" : "51,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 57.57
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 57.57
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 56.89
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 57.57
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 58.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 55.1
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 51.9
+    } ]
+  }, {
     "pid" : 4555,
     "id" : 137125,
     "titulo" : "WOLFF - Meleira de Cristal com Colher - 10cm x 10cm x 11cm - Linha Pearl - 200ml",
@@ -56773,9 +60014,6 @@
     "precoAnterior" : "23,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "02/08/2026",
-      "preco" : 18.9
-    }, {
       "data" : "03/08/2026",
       "preco" : 18.9
     }, {
