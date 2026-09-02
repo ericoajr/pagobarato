@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "02/09/2026 14:49",
+  "ultimaAtualizacao" : "02/09/2026 15:18",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 137955,
@@ -13910,6 +13910,61 @@
       "preco" : 107.97
     } ]
   }, {
+    "pid" : 8529,
+    "id" : 139913,
+    "titulo" : "Caixa Som Jbl Go 5 Bluetooth Portátil Original Prova D'água",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_995974-MLB112649325583_062026-F-caixa-som-jbl-go-5-bluetooth-portatil-original-prova-dagua.webp",
+    "precoOriginal" : "500,00",
+    "precoPromocao" : "314,84",
+    "tag" : "-37%",
+    "linkAfiliado" : "https://meli.la/2iqc1dU",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "02/09/2026 15:02",
+    "destaque" : false,
+    "precoAnterior" : "314,84",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 306.36
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 306.36
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 331.41
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 331.41
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 314.84
+    } ]
+  }, {
     "pid" : 2294,
     "id" : 139181,
     "titulo" : "Caixa Sonho de Valsa e Ouro Branco Sortidos 220g",
@@ -13926,9 +13981,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.49
-    }, {
       "data" : "05/08/2026",
       "preco" : 18.49
     }, {
@@ -17487,17 +17539,21 @@
     "titulo" : "Cereal Matinal Nescau Extra Cacau 170g",
     "imagem" : "https://m.media-amazon.com/images/I/81NZfNFn9PL._AC_SL1500_.jpg",
     "precoOriginal" : "12,89",
-    "precoPromocao" : "8,99",
-    "tag" : "-30%",
+    "precoPromocao" : "9,90",
+    "tag" : "-23%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0C9V2DY7B?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "01/09/2026 14:04",
+    "dataOferta" : "02/09/2026 14:57",
     "destaque" : false,
+    "precoAnterior" : "8,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "01/09/2026",
       "preco" : 8.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 9.9
     } ]
   }, {
     "pid" : 7005,
@@ -22672,7 +22728,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CKKN7GLT?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "01/09/2026 20:17",
+    "dataOferta" : "02/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
@@ -22690,6 +22746,9 @@
       "preco" : 59.9
     }, {
       "data" : "01/09/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "02/09/2026",
       "preco" : 59.9
     } ]
   }, {
@@ -33909,9 +33968,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00RIZHZEE?tag=curadomus-20",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "01/09/2026 20:16",
+    "dataOferta" : "02/09/2026 14:52",
     "destaque" : false,
-    "precoAnterior" : "78,67",
+    "precoAnterior" : "78,66",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "27/08/2026",
@@ -33927,6 +33986,9 @@
       "preco" : 78.67
     }, {
       "data" : "01/09/2026",
+      "preco" : 78.66
+    }, {
+      "data" : "02/09/2026",
       "preco" : 78.66
     } ]
   }, {
@@ -42202,6 +42264,61 @@
       "preco" : 566.9
     } ]
   }, {
+    "pid" : 8527,
+    "id" : 139907,
+    "titulo" : "Kit 24 Forminhas de Silicone para Cupcake, Muffin e Bolinho – Ponte Lar Utilidades",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_907182-MLA114251840097_072026-F.webp",
+    "precoOriginal" : "42,90",
+    "precoPromocao" : "20,72",
+    "tag" : "-51%",
+    "linkAfiliado" : "https://meli.la/1iqUM5S",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "02/09/2026 14:56",
+    "destaque" : false,
+    "precoAnterior" : "20,72",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 20.1
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 20.1
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 20.1
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 20.72
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 20.72
+    } ]
+  }, {
     "pid" : 7724,
     "id" : 138167,
     "titulo" : "Kit 2PCS Faca de Frutas Faca Cutelo Churrasco Carne de Cozinha Faca para Cortar Churrasco Com Bainha",
@@ -46371,12 +46488,12 @@
     "titulo" : "L'OR Café L'Or Cápsula Estremo - 10 Unidades - 52 Gramas",
     "imagem" : "https://m.media-amazon.com/images/I/71v41dPLTvL._AC_SL1500_.jpg",
     "precoOriginal" : "30,82",
-    "precoPromocao" : "19,90",
-    "tag" : "-35%",
+    "precoPromocao" : "16,00",
+    "tag" : "-48%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07P8V6MSB?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "01/09/2026 20:16",
+    "dataOferta" : "02/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -46395,6 +46512,9 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 19.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 16.0
     } ]
   }, {
     "pid" : 2876,
@@ -47106,9 +47226,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B008S5ICJ0?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "01/09/2026 20:16",
+    "dataOferta" : "02/09/2026 14:52",
     "destaque" : false,
-    "precoAnterior" : "59,90",
+    "precoAnterior" : "67,55",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "27/08/2026",
@@ -47124,6 +47244,9 @@
       "preco" : 59.9
     }, {
       "data" : "01/09/2026",
+      "preco" : 67.55
+    }, {
+      "data" : "02/09/2026",
       "preco" : 67.55
     } ]
   }, {
@@ -48798,6 +48921,34 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 32.99
+    } ]
+  }, {
+    "pid" : 9125,
+    "id" : 138663,
+    "titulo" : "Limpador Perfumado Veja Tulipa da Holanda - 500ml, Veja, Coral",
+    "imagem" : "https://m.media-amazon.com/images/I/61W2mBvY2LL._AC_SL1500_.jpg",
+    "precoOriginal" : "11,62",
+    "precoPromocao" : "5,20",
+    "tag" : "-55%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08JK13R61?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "02/09/2026 14:55",
+    "destaque" : false,
+    "precoAnterior" : "17,24",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "30/08/2026",
+      "preco" : 5.2
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 5.2
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 5.2
     } ]
   }, {
     "pid" : 3090,
@@ -52193,6 +52344,58 @@
       "preco" : 69.99
     } ]
   }, {
+    "pid" : 8619,
+    "id" : 139918,
+    "titulo" : "Microondas Panasonic Nn-st66nbru Black Glass 34L Dupla Refeição",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_721450-MLA99469504130_112025-F.webp",
+    "precoOriginal" : "949,00",
+    "precoPromocao" : "689,00",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://meli.la/1cJp68V",
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
+    "dataOferta" : "02/09/2026 15:18",
+    "destaque" : false,
+    "precoAnterior" : "642,16",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 659.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 709.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 939.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 939.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 949.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 889.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 642.16
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 688.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 642.16
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 663.1
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 642.16
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 689.0
+    } ]
+  }, {
     "pid" : 5081,
     "id" : 137495,
     "titulo" : "Mili Toalhas Umedecidas Love & Care Premium, Para Bebê, Com Aloe Vera e Calêndula, Dermatologicamente Testadas, 96 Unidades",
@@ -53800,6 +54003,28 @@
       "preco" : 47.49
     } ]
   }, {
+    "pid" : 9188,
+    "id" : 139908,
+    "titulo" : "MONDIAL Batedeira Prática, Preto, 400W, 110V - B-44-B",
+    "imagem" : "https://m.media-amazon.com/images/I/71a-aiH-n+L._AC_SL1500_.jpg",
+    "precoOriginal" : "139,90",
+    "precoPromocao" : "78,99",
+    "tag" : "-43%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08BXBFCTN?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "02/09/2026 14:57",
+    "destaque" : false,
+    "precoAnterior" : "79,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "01/09/2026",
+      "preco" : 79.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 78.99
+    } ]
+  }, {
     "pid" : 8867,
     "id" : 138641,
     "titulo" : "MONDIAL Espremedor Premium, Preto, 30W, 220V - E-02",
@@ -55352,9 +55577,6 @@
     "precoAnterior" : "218,87",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 218.87
-    }, {
       "data" : "04/08/2026",
       "preco" : 218.87
     }, {
@@ -55537,9 +55759,6 @@
     "precoAnterior" : "133,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 348.9
-    }, {
       "data" : "04/08/2026",
       "preco" : 134.99
     }, {
@@ -56881,37 +57100,6 @@
       "preco" : 55.9
     } ]
   }, {
-    "pid" : 9006,
-    "id" : 138655,
-    "titulo" : "NIVEA Hidratante Labial Original Care 4,8g, Hidratação Intensa 24h, Protege contra Ressecamento, Cuidado Diário, Manteiga de Karité",
-    "imagem" : "https://m.media-amazon.com/images/I/71UGgJgeicL._AC_SL1500_.jpg",
-    "precoOriginal" : "24,10",
-    "precoPromocao" : "18,90",
-    "tag" : "-21%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B00UYG172U?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "01/09/2026 20:17",
-    "destaque" : false,
-    "precoAnterior" : "18,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "27/08/2026",
-      "preco" : 18.49
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 18.49
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 18.49
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 18.9
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 18.9
-    } ]
-  }, {
     "pid" : 7298,
     "id" : 138130,
     "titulo" : "NIVEA KIT Sabonete em Barra Vegetal Nutrição da Natureza 80g (6 unidades)",
@@ -58116,6 +58304,36 @@
       "preco" : 119.9
     } ]
   }, {
+    "pid" : 8998,
+    "id" : 139899,
+    "titulo" : "Omo Sabão em Pó Lavagem Perfeita 4Kg",
+    "imagem" : "https://m.media-amazon.com/images/I/71JZpQqtFbL._AC_SL1500_.jpg",
+    "precoOriginal" : "60,99",
+    "precoPromocao" : "43,15",
+    "tag" : "-29%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09Z68GWC7?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "02/09/2026 14:52",
+    "destaque" : false,
+    "precoAnterior" : "43,15",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 43.15
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 43.15
+    }, {
+      "data" : "30/08/2026"
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 43.15
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 43.15
+    } ]
+  }, {
     "pid" : 3598,
     "id" : 139479,
     "titulo" : "OMO Sabão Líquido Refil Omo Lavagem Perfeita Refil 900Ml",
@@ -58367,7 +58585,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07GMDZX9M?tag=curadomus-20",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "01/09/2026 20:17",
+    "dataOferta" : "02/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "13,99",
     "menorPrecoEmDias" : false,
@@ -58385,6 +58603,9 @@
       "preco" : 13.99
     }, {
       "data" : "01/09/2026",
+      "preco" : 13.99
+    }, {
+      "data" : "02/09/2026",
       "preco" : 13.99
     } ]
   }, {
@@ -61924,31 +62145,6 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 135.9
-    } ]
-  }, {
-    "pid" : 9123,
-    "id" : 138661,
-    "titulo" : "Philco Aspirador Pó Vertical Power Clean 2000W PAS4000V 220V",
-    "imagem" : "https://m.media-amazon.com/images/I/41El3TMO04L._AC_SL1200_.jpg",
-    "precoOriginal" : "434,90",
-    "precoPromocao" : "246,72",
-    "tag" : "-43%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B088MV7YB5?tag=curadomus-20",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "01/09/2026 20:17",
-    "destaque" : false,
-    "precoAnterior" : "204,25",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "30/08/2026",
-      "preco" : 204.25
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 204.25
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 246.72
     } ]
   }, {
     "pid" : 1539,
@@ -66556,11 +66752,15 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0HBRPYMQN?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "01/09/2026 17:50",
+    "dataOferta" : "02/09/2026 14:58",
     "destaque" : false,
+    "precoAnterior" : "27,29",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "01/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "02/09/2026",
       "preco" : 27.29
     } ]
   }, {
@@ -70834,9 +71034,6 @@
     "precoAnterior" : "215,67",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 204.77
-    }, {
       "data" : "05/08/2026",
       "preco" : 204.77
     }, {
@@ -72347,6 +72544,61 @@
       "preco" : 39.3
     } ]
   }, {
+    "pid" : 8532,
+    "id" : 139916,
+    "titulo" : "Tinta Guache 12 Cores 15 Ml Não Tóxica Acrilex + 2 Pincéis",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_896595-MLB95982331396_102025-F-tinta-guache-12-cores-15-ml-nao-toxica-acrilex--2-pinceis.webp",
+    "precoOriginal" : "41,65",
+    "precoPromocao" : "21,58",
+    "tag" : "-48%",
+    "linkAfiliado" : "https://meli.la/2o7VQra",
+    "categoria" : "Papelaria e Escritório",
+    "categoriaId" : 4,
+    "dataOferta" : "02/09/2026 15:12",
+    "destaque" : false,
+    "precoAnterior" : "21,58",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 21.58
+    } ]
+  }, {
     "pid" : 6758,
     "id" : 139864,
     "titulo" : "Tiny Love, Chocalho mordedor Teether Rattle, Leonardo",
@@ -73195,6 +73447,61 @@
       "preco" : 66.14
     } ]
   }, {
+    "pid" : 8530,
+    "id" : 139914,
+    "titulo" : "Trave Futebol Kit 2 Mini Golzinhos Gol Infantil Bola E Bomba Branco",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_656560-MLA99992295847_112025-F.webp",
+    "precoOriginal" : "119,90",
+    "precoPromocao" : "64,90",
+    "tag" : "-45%",
+    "linkAfiliado" : "https://meli.la/1s7zkW4",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "02/09/2026 15:05",
+    "destaque" : false,
+    "precoAnterior" : "64,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 61.29
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 62.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 62.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 64.9
+    } ]
+  }, {
     "pid" : 490,
     "id" : 138374,
     "titulo" : "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Preto Bronze",
@@ -73630,6 +73937,61 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 26.89
+    } ]
+  }, {
+    "pid" : 8528,
+    "id" : 139912,
+    "titulo" : "Tábua De Corte De Vidro Fácil De Limpar Sem Cheiro",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_841731-MLB116976785453_082026-F-tabua-de-corte-de-vidro-facil-de-limpar-sem-cheiro.webp",
+    "precoOriginal" : "39,90",
+    "precoPromocao" : "23,94",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://meli.la/1EZCuHe",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "02/09/2026 14:59",
+    "destaque" : false,
+    "precoAnterior" : "23,94",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 23.94
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.94
     } ]
   }, {
     "pid" : 5548,
@@ -78473,9 +78835,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 84.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 81.69
     }, {
