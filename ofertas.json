@@ -135,9 +135,6 @@
     "precoAnterior" : "10,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 10.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 10.0
     }, {
@@ -1966,89 +1963,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 43.55
-    } ]
-  }, {
-    "pid" : 2612,
-    "id" : 136680,
-    "titulo" : "Apresentamos o Kindle Colorsoft (16 GB) - Com tela colorida e temperatura de luz ajustável - Cor Preta",
-    "imagem" : "https://m.media-amazon.com/images/I/71lORNHYWLL._AC_SL1500_.jpg",
-    "precoOriginal" : "1.499,00",
-    "precoPromocao" : "1.119,00",
-    "tag" : "-25%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CX8MT2M2?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "31/08/2026 23:13",
-    "destaque" : true,
-    "precoAnterior" : "1.309,00",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
-    "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "05/08/2026",
-      "preco" : 1329.0
-    }, {
-      "data" : "06/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "08/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "12/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 1339.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 1309.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 1119.0
     } ]
   }, {
     "pid" : 7820,
@@ -5359,8 +5273,6 @@
     "precoAnterior" : "105,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
       "data" : "04/08/2026"
     }, {
       "data" : "05/08/2026"
@@ -6374,9 +6286,6 @@
     "precoAnterior" : "39,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 39.99
-    }, {
       "data" : "04/08/2026",
       "preco" : 39.99
     }, {
@@ -7301,9 +7210,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 81.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 80.99
     }, {
@@ -8791,61 +8697,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 229.49
-    } ]
-  }, {
-    "pid" : 4566,
-    "id" : 136676,
-    "titulo" : "Cadeira De Escritório Ergonômica Mônaco Bt07 Luvinco Malha Respirável Com Suporte Lombar Adaptável Apoio Para Pés Retrátil Encosto Ajustável Seis Posições Cor Preta Suporta 200kg",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_746934-MLA96570636272_112025-F.webp",
-    "precoOriginal" : "1.624,87",
-    "precoPromocao" : "1.089,90",
-    "tag" : "-32%",
-    "linkAfiliado" : "https://meli.la/2r2aGKw",
-    "categoria" : "Papelaria e Escritório",
-    "categoriaId" : 4,
-    "dataOferta" : "31/08/2026 23:13",
-    "destaque" : false,
-    "precoAnterior" : "1.099,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 1099.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 1089.9
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 1099.9
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 1089.9
     } ]
   }, {
     "pid" : 5873,
@@ -12312,9 +12163,6 @@
     "precoAnterior" : "79,79",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 79.79
-    }, {
       "data" : "04/08/2026",
       "preco" : 79.79
     }, {
@@ -13839,71 +13687,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 14.99
-    } ]
-  }, {
-    "pid" : 2606,
-    "id" : 136677,
-    "titulo" : "Chocolate Twix Original Minis 180g",
-    "imagem" : "https://m.media-amazon.com/images/I/51S4Zme1pRL._AC_.jpg",
-    "precoOriginal" : "19,99",
-    "precoPromocao" : "14,49",
-    "tag" : "-27%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0G94HCD1K?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "31/08/2026 23:13",
-    "destaque" : false,
-    "precoAnterior" : "14,49",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
-      "data" : "04/08/2026"
-    }, {
-      "data" : "06/08/2026"
-    }, {
-      "data" : "07/08/2026"
-    }, {
-      "data" : "08/08/2026"
-    }, {
-      "data" : "10/08/2026"
-    }, {
-      "data" : "11/08/2026"
-    }, {
-      "data" : "12/08/2026"
-    }, {
-      "data" : "13/08/2026"
-    }, {
-      "data" : "15/08/2026"
-    }, {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "17/08/2026"
-    }, {
-      "data" : "19/08/2026"
-    }, {
-      "data" : "21/08/2026"
-    }, {
-      "data" : "22/08/2026"
-    }, {
-      "data" : "23/08/2026"
-    }, {
-      "data" : "25/08/2026"
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 14.49
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 14.49
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 14.49
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 14.49
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 14.49
     } ]
   }, {
     "pid" : 3282,
@@ -17386,9 +17169,6 @@
     "precoAnterior" : "35,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 35.9
-    }, {
       "data" : "04/08/2026",
       "preco" : 35.9
     }, {
@@ -20775,88 +20555,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 145.18
-    } ]
-  }, {
-    "pid" : 2587,
-    "id" : 136645,
-    "titulo" : "Finish Quantum All in 1 Detergente para Lava Louças em Tabletes 10 unidades",
-    "imagem" : "https://m.media-amazon.com/images/I/614-Zl-2DZL._AC_SL1500_.jpg",
-    "precoOriginal" : "46,38",
-    "precoPromocao" : "36,29",
-    "tag" : "-21%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0817FKSRK?tag=curadomus-20",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "31/08/2026 23:09",
-    "destaque" : false,
-    "precoAnterior" : "34,63",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 31.99
-    }, {
-      "data" : "05/08/2026",
-      "preco" : 31.99
-    }, {
-      "data" : "06/08/2026",
-      "preco" : 31.99
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "08/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "12/08/2026",
-      "preco" : 27.99
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 27.99
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 36.29
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 34.63
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 34.63
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 36.29
     } ]
   }, {
     "pid" : 4584,
@@ -26121,85 +25819,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 24.99
-    } ]
-  }, {
-    "pid" : 2597,
-    "id" : 136651,
-    "titulo" : "Integralmedica Creatina Hardcore 60 Cápsulas Pura Monohidratada",
-    "imagem" : "https://m.media-amazon.com/images/I/71fLf6T5cNL._AC_SL1500_.jpg",
-    "precoOriginal" : "29,89",
-    "precoPromocao" : "17,99",
-    "tag" : "-39%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07L5T3X9S?tag=curadomus-20",
-    "categoria" : "Saúde e Bem-Estar",
-    "categoriaId" : 97,
-    "dataOferta" : "31/08/2026 23:10",
-    "destaque" : false,
-    "precoAnterior" : "17,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 25.97
-    }, {
-      "data" : "05/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 23.01
-    }, {
-      "data" : "08/08/2026",
-      "preco" : 25.15
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 23.01
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "12/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 22.13
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 17.52
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 17.99
     } ]
   }, {
     "pid" : 6855,
@@ -36609,61 +36228,6 @@
       "preco" : 28.5
     } ]
   }, {
-    "pid" : 4553,
-    "id" : 136643,
-    "titulo" : "Macacão Bebê Suspensório Menino Nika Baby",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_757284-MLB111040060643_042026-F-macacao-bebe-suspensorio-menino-nika-baby.webp",
-    "precoOriginal" : "59,90",
-    "precoPromocao" : "47,28",
-    "tag" : "-21%",
-    "linkAfiliado" : "https://meli.la/2eSLrfz",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "31/08/2026 23:08",
-    "destaque" : false,
-    "precoAnterior" : "46,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 47.5
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 47.28
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 47.28
-    } ]
-  }, {
     "pid" : 7116,
     "id" : 137575,
     "titulo" : "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter'sMeninas",
@@ -41075,91 +40639,6 @@
       "preco" : 69.36
     } ]
   }, {
-    "pid" : 2588,
-    "id" : 136646,
-    "titulo" : "Neutrogena Sun Fresh Protetor Solar Facial Derm Care, Pele Oleosa, Sem Cor, FPS 70, 40g",
-    "imagem" : "https://m.media-amazon.com/images/I/4172WubM1kL._AC_SL1000_.jpg",
-    "precoOriginal" : "83,99",
-    "precoPromocao" : "46,71",
-    "tag" : "-43%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B08NVMP2YZ?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "31/08/2026 23:09",
-    "destaque" : false,
-    "precoAnterior" : "49,31",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 39.61
-    }, {
-      "data" : "04/08/2026",
-      "preco" : 44.07
-    }, {
-      "data" : "05/08/2026",
-      "preco" : 43.1
-    }, {
-      "data" : "06/08/2026",
-      "preco" : 43.11
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 43.11
-    }, {
-      "data" : "08/08/2026",
-      "preco" : 43.11
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 44.08
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 44.08
-    }, {
-      "data" : "12/08/2026",
-      "preco" : 47.9
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 47.9
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 47.61
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 47.61
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 47.9
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 47.41
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 47.41
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 47.61
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 44.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 49.31
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 49.31
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 46.71
-    } ]
-  }, {
     "pid" : 9006,
     "id" : 138655,
     "titulo" : "NIVEA Hidratante Labial Original Care 4,8g, Hidratação Intensa 24h, Protege contra Ressecamento, Cuidado Diário, Manteiga de Karité",
@@ -44940,9 +44419,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 109.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 109.0
     }, {
@@ -48511,89 +47987,6 @@
     }, {
       "data" : "01/09/2026",
       "preco" : 59.7
-    } ]
-  }, {
-    "pid" : 2596,
-    "id" : 136650,
-    "titulo" : "Salton Espumante Brut Rose 750 Ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51n4513WLpL._AC_SL1200_.jpg",
-    "precoOriginal" : "54,00",
-    "precoPromocao" : "29,90",
-    "tag" : "-44%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B007BQPH8G?tag=curadomus-20",
-    "categoria" : "Bebidas Alcoólicas",
-    "categoriaId" : 8,
-    "dataOferta" : "31/08/2026 23:10",
-    "destaque" : true,
-    "precoAnterior" : "40,99",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
-    "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 50.0
-    }, {
-      "data" : "05/08/2026",
-      "preco" : 50.0
-    }, {
-      "data" : "06/08/2026",
-      "preco" : 50.0
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 41.99
-    }, {
-      "data" : "08/08/2026",
-      "preco" : 41.99
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 50.0
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 46.9
-    }, {
-      "data" : "12/08/2026",
-      "preco" : 46.9
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 46.84
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 43.69
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 43.3
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 45.99
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 45.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 44.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 44.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 44.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 43.75
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 43.75
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 43.73
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 40.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 40.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 29.9
     } ]
   }, {
     "pid" : 2868,
