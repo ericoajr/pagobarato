@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "02/09/2026 16:17",
+  "ultimaAtualizacao" : "02/09/2026 16:42",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 137955,
@@ -1726,9 +1726,6 @@
     "precoAnterior" : "17,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 20.46
-    }, {
       "data" : "05/08/2026",
       "preco" : 20.46
     }, {
@@ -1976,9 +1973,6 @@
     "precoAnterior" : "20,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 19.9
     }, {
@@ -3659,9 +3653,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 37.91
-    }, {
       "data" : "05/08/2026",
       "preco" : 40.99
     }, {
@@ -4152,9 +4143,6 @@
     "precoAnterior" : "22,76",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.8
-    }, {
       "data" : "06/08/2026",
       "preco" : 28.98
     }, {
@@ -5566,9 +5554,6 @@
     "precoAnterior" : "57,42",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 59.39
-    }, {
       "data" : "05/08/2026",
       "preco" : 59.39
     }, {
@@ -6791,9 +6776,6 @@
     "precoAnterior" : "47,41",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 73.29
-    }, {
       "data" : "05/08/2026",
       "preco" : 73.29
     }, {
@@ -7872,9 +7854,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 28.89
-    }, {
       "data" : "05/08/2026",
       "preco" : 28.89
     }, {
@@ -11678,9 +11657,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 509.9
-    }, {
       "data" : "06/08/2026",
       "preco" : 492.0
     }, {
@@ -15450,6 +15426,37 @@
       "preco" : 43.82
     } ]
   }, {
+    "pid" : 9014,
+    "id" : 139935,
+    "titulo" : "Camiseta Nike Sportswear Club Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_635254-MLB100383432194_122025-F-camiseta-nike-sportswear-club-masculina.webp",
+    "precoOriginal" : "129,99",
+    "precoPromocao" : "79,99",
+    "tag" : "-38%",
+    "linkAfiliado" : "https://meli.la/2dyiDMy",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "02/09/2026 16:33",
+    "destaque" : false,
+    "precoAnterior" : "69,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 79.99
+    } ]
+  }, {
     "pid" : 6885,
     "id" : 139874,
     "titulo" : "Camiseta Nike Sportswear Just Do It Masculina",
@@ -15503,6 +15510,37 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 69.99
+    } ]
+  }, {
+    "pid" : 9013,
+    "id" : 139934,
+    "titulo" : "Camiseta Nike Sportswear Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_755244-MLB101173751893_122025-F-camiseta-nike-sportswear-masculina.webp",
+    "precoOriginal" : "129,99",
+    "precoPromocao" : "79,99",
+    "tag" : "-38%",
+    "linkAfiliado" : "https://meli.la/1Z2kaDM",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "02/09/2026 16:30",
+    "destaque" : false,
+    "precoAnterior" : "63,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 79.99
     } ]
   }, {
     "pid" : 5064,
@@ -18282,9 +18320,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 44.06
-    }, {
       "data" : "05/08/2026",
       "preco" : 61.57
     }, {
@@ -19278,9 +19313,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 26.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 26.9
     }, {
@@ -19620,8 +19652,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
       "data" : "05/08/2026",
       "preco" : 31.9
     }, {
@@ -20420,9 +20450,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 33.65
-    }, {
       "data" : "05/08/2026",
       "preco" : 31.31
     }, {
@@ -22468,9 +22495,6 @@
     "precoAnterior" : "236,81",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 128.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 128.99
     }, {
@@ -23626,9 +23650,6 @@
     "precoAnterior" : "48,39",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 49.2
-    }, {
       "data" : "05/08/2026",
       "preco" : 55.9
     }, {
@@ -24603,9 +24624,6 @@
     "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 47.45
-    }, {
       "data" : "07/08/2026",
       "preco" : 47.45
     }, {
@@ -25916,9 +25934,6 @@
     "precoAnterior" : "51,03",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 46.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 46.9
     }, {
@@ -26567,9 +26582,6 @@
     "precoAnterior" : "189,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 179.92
-    }, {
       "data" : "05/08/2026",
       "preco" : 161.11
     }, {
@@ -28368,9 +28380,6 @@
     "precoAnterior" : "509,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 664.47
-    }, {
       "data" : "05/08/2026",
       "preco" : 664.47
     }, {
@@ -32779,9 +32788,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 25.86
-    }, {
       "data" : "05/08/2026",
       "preco" : 28.94
     }, {
@@ -33008,9 +33014,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 34.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 34.9
     }, {
@@ -34782,9 +34785,6 @@
     "precoAnterior" : "161,10",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 199.91
-    }, {
       "data" : "07/08/2026",
       "preco" : 200.8
     }, {
@@ -41449,9 +41449,6 @@
     "precoAnterior" : "19,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.51
-    }, {
       "data" : "06/08/2026",
       "preco" : 24.61
     }, {
@@ -46258,9 +46255,6 @@
     "precoAnterior" : "13,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 14.39
-    }, {
       "data" : "07/08/2026",
       "preco" : 14.19
     }, {
@@ -46335,9 +46329,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 75.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 75.9
     }, {
@@ -46746,9 +46737,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 25.03
-    }, {
       "data" : "05/08/2026",
       "preco" : 25.03
     }, {
@@ -48034,9 +48022,6 @@
     "precoAnterior" : "19,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 32.88
-    }, {
       "data" : "05/08/2026"
     }, {
       "data" : "06/08/2026"
@@ -48507,8 +48492,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
       "data" : "07/08/2026"
     }, {
       "data" : "09/08/2026"
@@ -48822,9 +48805,6 @@
     "precoAnterior" : "35,87",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 50.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 35.9
     }, {
@@ -49533,11 +49513,15 @@
     "linkAfiliado" : "https://meli.la/2TaDb3d",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "01/09/2026 14:34",
+    "dataOferta" : "02/09/2026 16:42",
     "destaque" : false,
+    "precoAnterior" : "176,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "01/09/2026",
+      "preco" : 176.9
+    }, {
+      "data" : "02/09/2026",
       "preco" : 176.9
     } ]
   }, {
@@ -50722,9 +50706,6 @@
     "precoAnterior" : "17,84",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.79
-    }, {
       "data" : "05/08/2026",
       "preco" : 18.79
     }, {
@@ -52049,8 +52030,6 @@
     "precoAnterior" : "75,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
       "data" : "05/08/2026",
       "preco" : 74.9
     }, {
@@ -54351,9 +54330,6 @@
     "precoAnterior" : "99,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 85.93
-    }, {
       "data" : "05/08/2026",
       "preco" : 85.93
     }, {
@@ -55275,9 +55251,6 @@
     "precoAnterior" : "199,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 208.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 165.48
     }, {
@@ -56221,9 +56194,6 @@
     "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 16.73
-    }, {
       "data" : "05/08/2026",
       "preco" : 16.9
     }, {
@@ -56306,9 +56276,6 @@
     "precoAnterior" : "17,02",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 16.73
-    }, {
       "data" : "05/08/2026",
       "preco" : 16.73
     }, {
@@ -56389,9 +56356,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 23.79
-    }, {
       "data" : "05/08/2026"
     }, {
       "data" : "06/08/2026",
@@ -59485,9 +59449,6 @@
     "precoAnterior" : "31,46",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 26.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 31.99
     }, {
@@ -59975,6 +59936,37 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 144.9
+    } ]
+  }, {
+    "pid" : 9001,
+    "id" : 139931,
+    "titulo" : "Panela De Pressão Elétrica 5 Litros Kian Inox",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_851133-MLA99475264230_112025-F.webp",
+    "precoOriginal" : "459,90",
+    "precoPromocao" : "280,00",
+    "tag" : "-39%",
+    "linkAfiliado" : "https://meli.la/2h3JH3D",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "02/09/2026 16:21",
+    "destaque" : false,
+    "precoAnterior" : "280,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 280.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 280.0
     } ]
   }, {
     "pid" : 5973,
@@ -63407,9 +63399,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 51.24
-    }, {
       "data" : "05/08/2026",
       "preco" : 51.24
     }, {
@@ -63986,9 +63975,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 16.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 16.9
     }, {
@@ -64833,9 +64819,6 @@
     "precoAnterior" : "69,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 104.49
-    }, {
       "data" : "05/08/2026",
       "preco" : 103.54
     }, {
@@ -65388,9 +65371,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 12.49
-    }, {
       "data" : "05/08/2026",
       "preco" : 12.49
     }, {
@@ -65805,9 +65785,6 @@
     "precoAnterior" : "427,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 405.39
-    }, {
       "data" : "05/08/2026",
       "preco" : 405.39
     }, {
@@ -66092,9 +66069,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 24.36
-    }, {
       "data" : "05/08/2026",
       "preco" : 24.37
     }, {
@@ -66926,9 +66900,6 @@
     "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 12.95
-    }, {
       "data" : "05/08/2026",
       "preco" : 12.95
     }, {
@@ -69060,9 +69031,6 @@
     "precoAnterior" : "38,60",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 37.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 37.9
     }, {
@@ -69751,9 +69719,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.51
-    }, {
       "data" : "07/08/2026",
       "preco" : 24.56
     }, {
@@ -69827,9 +69792,6 @@
     "precoAnterior" : "13,29",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 13.85
-    }, {
       "data" : "05/08/2026"
     }, {
       "data" : "07/08/2026",
@@ -69905,9 +69867,6 @@
     "precoAnterior" : "15,61",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 20.53
-    }, {
       "data" : "05/08/2026",
       "preco" : 20.53
     }, {
@@ -72432,9 +72391,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 779.9
-    }, {
       "data" : "06/08/2026",
       "preco" : 779.9
     }, {
@@ -72795,9 +72751,6 @@
     "precoAnterior" : "45,81",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 52.32
-    }, {
       "data" : "05/08/2026",
       "preco" : 50.89
     }, {
@@ -76147,9 +76100,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 36.07
-    }, {
       "data" : "05/08/2026",
       "preco" : 36.07
     }, {
@@ -79199,9 +79149,6 @@
     "precoAnterior" : "19,30",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 19.9
     }, {
@@ -79365,9 +79312,6 @@
     "precoAnterior" : "23,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 18.9
     }, {
@@ -79450,9 +79394,6 @@
     "precoAnterior" : "35,10",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 37.97
-    }, {
       "data" : "05/08/2026",
       "preco" : 37.97
     }, {
