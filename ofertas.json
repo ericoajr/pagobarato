@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "02/09/2026 15:18",
+  "ultimaAtualizacao" : "02/09/2026 15:46",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 137955,
@@ -932,9 +932,6 @@
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.39
-    }, {
       "data" : "05/08/2026",
       "preco" : 18.39
     }, {
@@ -1647,9 +1644,6 @@
     "precoAnterior" : "15,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 15.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 15.9
     }, {
@@ -1811,9 +1805,6 @@
     "precoAnterior" : "24,24",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 24.5
-    }, {
       "data" : "05/08/2026",
       "preco" : 24.5
     }, {
@@ -2726,9 +2717,6 @@
     "precoAnterior" : "1.119,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 1339.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 1329.0
     }, {
@@ -9060,9 +9048,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 75.26
-    }, {
       "data" : "06/08/2026",
       "preco" : 75.26
     }, {
@@ -9399,9 +9384,6 @@
     "precoAnterior" : "46,68",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 46.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 46.0
     }, {
@@ -15049,6 +15031,55 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 207.94
+    } ]
+  }, {
+    "pid" : 8680,
+    "id" : 139921,
+    "titulo" : "Camisa Brasil Masculina Versão Retrô Comemorativa",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_984557-MLB113963852157_062026-F-camisa-brasil-masculina-verso-retr-comemorativa.webp",
+    "precoOriginal" : "199,00",
+    "precoPromocao" : "89,90",
+    "tag" : "-54%",
+    "linkAfiliado" : "https://meli.la/33xdqFS",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "02/09/2026 15:27",
+    "destaque" : false,
+    "precoAnterior" : "89,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "19/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 94.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
     } ]
   }, {
     "pid" : 6022,
@@ -24228,6 +24259,52 @@
       "preco" : 24.99
     } ]
   }, {
+    "pid" : 8679,
+    "id" : 139920,
+    "titulo" : "Cubo Sensorial Educativo 10 Em 1 Para Habilidades Motoras",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_689624-MLB110978735735_042026-F-cubo-sensorial-educativo-10-em-1-para-habilidades-motoras.webp",
+    "precoOriginal" : "60,00",
+    "precoPromocao" : "37,84",
+    "tag" : "-36%",
+    "linkAfiliado" : "https://meli.la/2HuT9eo",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "02/09/2026 15:24",
+    "destaque" : false,
+    "precoAnterior" : "36,80",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "19/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 37.84
+    } ]
+  }, {
     "pid" : 1462,
     "id" : 138483,
     "titulo" : "Cápsulas de Café Clássico Baggio Café, compatível com Nespresso, contém 20 cápsulas",
@@ -24637,9 +24714,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 18.86
-    }, {
       "data" : "05/08/2026",
       "preco" : 18.86
     }, {
@@ -25244,9 +25318,6 @@
     "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 17.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 16.9
     }, {
@@ -25962,9 +26033,6 @@
     "precoAnterior" : "51,07",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 45.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 45.99
     }, {
@@ -28168,9 +28236,6 @@
     "precoAnterior" : "36,29",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 31.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 31.99
     }, {
@@ -31513,6 +31578,46 @@
       "preco" : 269.0
     } ]
   }, {
+    "pid" : 8866,
+    "id" : 139922,
+    "titulo" : "Fritadeira Air Fryer Philco 4L Redstone 1500W Paf40A",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_984549-MLA82506859088_022025-F.webp",
+    "precoOriginal" : "379,90",
+    "precoPromocao" : "213,42",
+    "tag" : "-43%",
+    "linkAfiliado" : "https://meli.la/18eRqd9",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "02/09/2026 15:30",
+    "destaque" : false,
+    "precoAnterior" : "213,42",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "23/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 213.42
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 213.42
+    } ]
+  }, {
     "pid" : 7532,
     "id" : 138144,
     "titulo" : "Fritadeira Elétrica Air Fryer Philco PAF55A 5,5 L 1500W",
@@ -34007,9 +34112,6 @@
     "precoAnterior" : "17,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 15.83
-    }, {
       "data" : "05/08/2026",
       "preco" : 15.82
     }, {
@@ -34601,9 +34703,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 256.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 255.0
     }, {
@@ -37448,9 +37547,6 @@
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 25.97
-    }, {
       "data" : "05/08/2026",
       "preco" : 22.13
     }, {
@@ -38136,9 +38232,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 82.91
-    }, {
       "data" : "05/08/2026",
       "preco" : 89.9
     }, {
@@ -40080,6 +40173,46 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 89.59
+    } ]
+  }, {
+    "pid" : 8868,
+    "id" : 139923,
+    "titulo" : "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul Marinho",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_881368-MLA99701327430_122025-F.webp",
+    "precoOriginal" : "229,90",
+    "precoPromocao" : "179,90",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://meli.la/23FzenB",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "02/09/2026 15:34",
+    "destaque" : false,
+    "precoAnterior" : "229,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "23/08/2026",
+      "preco" : 119.92
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 179.9
     } ]
   }, {
     "pid" : 5614,
@@ -45778,8 +45911,6 @@
     "precoAnterior" : "25,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026"
-    }, {
       "data" : "05/08/2026",
       "preco" : 25.99
     }, {
@@ -46532,9 +46663,6 @@
     "precoAnterior" : "29,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 21.44
     }, {
@@ -46823,9 +46951,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 30.2
-    }, {
       "data" : "05/08/2026",
       "preco" : 30.2
     }, {
@@ -48523,9 +48648,6 @@
     "precoAnterior" : "4,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 6.59
-    }, {
       "data" : "05/08/2026",
       "preco" : 6.59
     }, {
@@ -49694,9 +49816,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 24.3
-    }, {
       "data" : "05/08/2026",
       "preco" : 24.3
     }, {
@@ -51926,9 +52045,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 36.78
-    }, {
       "data" : "05/08/2026",
       "preco" : 36.78
     }, {
@@ -53505,6 +53621,55 @@
       "preco" : 154.99
     } ]
   }, {
+    "pid" : 8621,
+    "id" : 139919,
+    "titulo" : "Mixer Bmx360 2 Em 1 350w Com Lâminas Pro Maxx Preto Britânia",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_727049-MLU72675475750_112023-F.webp",
+    "precoOriginal" : "206,90",
+    "precoPromocao" : "150,90",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://meli.la/1RrgzSv",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "02/09/2026 15:21",
+    "destaque" : false,
+    "precoAnterior" : "140,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 128.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 139.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 169.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 140.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 140.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 140.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 140.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 140.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 150.9
+    } ]
+  }, {
     "pid" : 6827,
     "id" : 137533,
     "titulo" : "Mixer de Mão 200W Elgin Compacto e Leve, ergonômico e fácil de limpar Branco 110v",
@@ -53766,9 +53931,6 @@
     "precoAnterior" : "189,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 198.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 189.0
     }, {
@@ -54993,9 +55155,6 @@
     "precoAnterior" : "122,69",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 109.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 122.89
     }, {
@@ -57998,9 +58157,6 @@
     "precoAnterior" : "17,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 17.79
-    }, {
       "data" : "05/08/2026",
       "preco" : 17.43
     }, {
@@ -59733,9 +59889,6 @@
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 14.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 14.99
     }, {
@@ -60352,9 +60505,6 @@
     "precoAnterior" : "18,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 26.51
-    }, {
       "data" : "05/08/2026",
       "preco" : 26.51
     }, {
@@ -60662,9 +60812,6 @@
     "precoAnterior" : "42,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 42.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 42.0
     }, {
@@ -63256,9 +63403,6 @@
     "precoAnterior" : "169,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 149.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 164.89
     }, {
@@ -64440,9 +64584,6 @@
     "precoAnterior" : "89,34",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 79.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 79.9
     }, {
@@ -64598,9 +64739,6 @@
     "precoAnterior" : "7,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 9.7
-    }, {
       "data" : "06/08/2026",
       "preco" : 9.7
     }, {
@@ -67593,9 +67731,6 @@
     "precoAnterior" : "22,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 27.99
-    }, {
       "data" : "05/08/2026",
       "preco" : 27.99
     }, {
@@ -67769,9 +67904,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 968.91
-    }, {
       "data" : "05/08/2026",
       "preco" : 968.91
     }, {
@@ -68332,9 +68464,6 @@
     "precoAnterior" : "29,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 50.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 50.0
     }, {
@@ -68417,9 +68546,6 @@
     "precoAnterior" : "3.289,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 3332.22
-    }, {
       "data" : "05/08/2026",
       "preco" : 2998.99
     }, {
@@ -70106,9 +70232,6 @@
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 66.4
-    }, {
       "data" : "05/08/2026",
       "preco" : 66.4
     }, {
@@ -71374,9 +71497,6 @@
     "precoAnterior" : "154,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 158.97
-    }, {
       "data" : "06/08/2026",
       "preco" : 160.12
     }, {
@@ -77073,9 +77193,6 @@
     "precoAnterior" : "306,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 339.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 343.64
     }, {
@@ -77417,9 +77534,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 149.99
-    }, {
       "data" : "06/08/2026"
     }, {
       "data" : "07/08/2026",
@@ -77745,9 +77859,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 89.9
-    }, {
       "data" : "05/08/2026",
       "preco" : 89.9
     }, {
@@ -77830,9 +77941,6 @@
     "precoAnterior" : "1.099,98",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 766.26
-    }, {
       "data" : "05/08/2026",
       "preco" : 766.26
     }, {
@@ -78668,9 +78776,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 77.7
-    }, {
       "data" : "05/08/2026",
       "preco" : 74.71
     }, {
