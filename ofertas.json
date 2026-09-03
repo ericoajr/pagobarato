@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "03/09/2026 13:09",
+  "ultimaAtualizacao" : "03/09/2026 13:40",
   "ofertas" : [ {
     "pid" : 6796,
     "id" : 140836,
@@ -582,6 +582,43 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 119.9
+    } ]
+  }, {
+    "pid" : 8984,
+    "id" : 141102,
+    "titulo" : "Basike Fone De Ouvido Sem Fio Bluetooth Para Bluetooth 5.3",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_690574-MLB100520428706_122025-F-basike-fone-de-ouvido-sem-fio-bluetooth-para-bluetooth-53.webp",
+    "precoOriginal" : "99,70",
+    "precoPromocao" : "55,54",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://meli.la/1NrjNjx",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "03/09/2026 13:28",
+    "destaque" : false,
+    "precoAnterior" : "65,54",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 65.54
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 55.54
     } ]
   }, {
     "pid" : 4569,
@@ -11331,6 +11368,43 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 75.99
+    } ]
+  }, {
+    "pid" : 8976,
+    "id" : 141101,
+    "titulo" : "Tênis Lacoste Baseshot - Original",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_758865-MLB99841856819_112025-F-tnis-lacoste-baseshot-original.webp",
+    "precoOriginal" : "549,00",
+    "precoPromocao" : "191,00",
+    "tag" : "-65%",
+    "linkAfiliado" : "https://meli.la/1N534Ly",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "03/09/2026 13:25",
+    "destaque" : false,
+    "precoAnterior" : "191,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 191.0
     } ]
   }, {
     "pid" : 8518,
