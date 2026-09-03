@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "03/09/2026 09:07",
+  "ultimaAtualizacao" : "03/09/2026 09:36",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 140135,
@@ -1360,7 +1360,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DX7BHGWP?tag=curadomus-20",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "02/09/2026 12:03",
+    "dataOferta" : "03/09/2026 09:34",
     "destaque" : false,
     "precoAnterior" : "15,90",
     "menorPrecoEmDias" : false,
@@ -1429,6 +1429,9 @@
       "preco" : 15.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 15.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 15.9
     } ]
   }, {
@@ -6175,7 +6178,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GTG4LCVT?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 12:04",
+    "dataOferta" : "03/09/2026 09:35",
     "destaque" : false,
     "precoAnterior" : "105,00",
     "menorPrecoEmDias" : false,
@@ -6235,6 +6238,9 @@
       "preco" : 105.0
     }, {
       "data" : "02/09/2026",
+      "preco" : 105.0
+    }, {
+      "data" : "03/09/2026",
       "preco" : 105.0
     } ]
   }, {
@@ -7155,11 +7161,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07THDVKQP?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 12:01",
-    "destaque" : true,
-    "precoAnterior" : "77,97",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "dataOferta" : "03/09/2026 09:31",
+    "destaque" : false,
+    "precoAnterior" : "66,00",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "06/08/2026",
       "preco" : 75.26
@@ -7221,6 +7226,9 @@
       "preco" : 77.97
     }, {
       "data" : "02/09/2026",
+      "preco" : 66.0
+    }, {
+      "data" : "03/09/2026",
       "preco" : 66.0
     } ]
   }, {
@@ -8277,6 +8285,91 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 15.9
+    } ]
+  }, {
+    "pid" : 2912,
+    "id" : 139326,
+    "titulo" : "Buba Porta Frutinha Buba Azul",
+    "imagem" : "https://m.media-amazon.com/images/I/51736d7KPOL._AC_SL1000_.jpg",
+    "precoOriginal" : "24,90",
+    "precoPromocao" : "13,00",
+    "tag" : "-47%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08JDTYFFB?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "03/09/2026 09:35",
+    "destaque" : false,
+    "precoAnterior" : "21,19",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 13.09
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 13.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 13.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 21.19
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 13.0
     } ]
   }, {
     "pid" : 508,
@@ -14674,6 +14767,92 @@
       "preco" : 19.9
     } ]
   }, {
+    "pid" : 2773,
+    "id" : 140747,
+    "titulo" : "Chocolate Milka Bubbly White 100G",
+    "imagem" : "https://m.media-amazon.com/images/I/71t0Mv6CsqL._AC_SL1500_.jpg",
+    "precoOriginal" : "29,22",
+    "precoPromocao" : "16,98",
+    "tag" : "-41%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B01JZDXO8C?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "03/09/2026 09:24",
+    "destaque" : true,
+    "precoAnterior" : "22,82",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 26.79
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 29.22
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 26.79
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 26.79
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 26.79
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 26.88
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 22.94
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 22.85
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 22.82
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 22.82
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 16.98
+    } ]
+  }, {
     "pid" : 3247,
     "id" : 139430,
     "titulo" : "Chocolate Snickers Variedades Minis 180g",
@@ -18040,11 +18219,10 @@
     "linkAfiliado" : "https://meli.la/1PXPCBD",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "02/09/2026 12:13",
-    "destaque" : true,
-    "precoAnterior" : "159,90",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "dataOferta" : "03/09/2026 09:35",
+    "destaque" : false,
+    "precoAnterior" : "129,58",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 133.9
@@ -18083,6 +18261,9 @@
       "preco" : 159.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 129.58
+    }, {
+      "data" : "03/09/2026",
       "preco" : 129.58
     } ]
   }, {
@@ -19708,7 +19889,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BRJVRZ6L?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "02/09/2026 12:02",
+    "dataOferta" : "03/09/2026 09:32",
     "destaque" : false,
     "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
@@ -19777,6 +19958,9 @@
       "preco" : 16.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "03/09/2026",
       "preco" : 16.99
     } ]
   }, {
@@ -20260,7 +20444,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0C6NJWJ11?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "02/09/2026 12:05",
+    "dataOferta" : "03/09/2026 09:36",
     "destaque" : false,
     "precoAnterior" : "51,07",
     "menorPrecoEmDias" : false,
@@ -20326,6 +20510,9 @@
       "preco" : 51.07
     }, {
       "data" : "02/09/2026",
+      "preco" : 51.07
+    }, {
+      "data" : "03/09/2026",
       "preco" : 51.07
     } ]
   }, {
@@ -26359,7 +26546,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07RRXQJYN?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "02/09/2026 12:01",
+    "dataOferta" : "03/09/2026 09:31",
     "destaque" : false,
     "precoAnterior" : "40,90",
     "menorPrecoEmDias" : false,
@@ -26428,6 +26615,9 @@
       "preco" : 40.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 40.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 40.9
     } ]
   }, {
@@ -26859,7 +27049,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 12:04",
+    "dataOferta" : "03/09/2026 09:35",
     "destaque" : false,
     "precoAnterior" : "17,49",
     "menorPrecoEmDias" : false,
@@ -26925,6 +27115,9 @@
       "preco" : 17.49
     }, {
       "data" : "02/09/2026",
+      "preco" : 17.49
+    }, {
+      "data" : "03/09/2026",
       "preco" : 17.49
     } ]
   }, {
@@ -29145,7 +29338,7 @@
     "linkAfiliado" : "https://meli.la/2ufs9KW",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "02/09/2026 11:47",
+    "dataOferta" : "03/09/2026 09:09",
     "destaque" : false,
     "precoAnterior" : "109,00",
     "menorPrecoEmDias" : false,
@@ -29184,6 +29377,9 @@
       "preco" : 109.0
     }, {
       "data" : "02/09/2026",
+      "preco" : 109.0
+    }, {
+      "data" : "03/09/2026",
       "preco" : 109.0
     } ]
   }, {
@@ -33453,6 +33649,91 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 50.91
+    } ]
+  }, {
+    "pid" : 2774,
+    "id" : 140748,
+    "titulo" : "Kalassi Snack De Arroz Queijo E Cebola Sem Glúten Pacote 1 X 100G",
+    "imagem" : "https://m.media-amazon.com/images/I/51WSPV3uzYL._AC_SL1200_.jpg",
+    "precoOriginal" : "18,70",
+    "precoPromocao" : "11,99",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YGTGSZW?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "03/09/2026 09:24",
+    "destaque" : false,
+    "precoAnterior" : "11,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 12.01
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 12.01
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 12.01
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 11.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 11.99
     } ]
   }, {
     "pid" : 8547,
@@ -47480,6 +47761,88 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 15.47
+    } ]
+  }, {
+    "pid" : 2775,
+    "id" : 140749,
+    "titulo" : "OFF! Kids Loção Repelente de Insetos e Mosquitos, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51pgneajSjL._AC_SL1200_.jpg",
+    "precoOriginal" : "23,16",
+    "precoPromocao" : "18,29",
+    "tag" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07D2FT1G6?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "03/09/2026 09:24",
+    "destaque" : false,
+    "precoAnterior" : "17,73",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 17.43
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 17.53
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 17.53
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 17.62
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 17.62
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.09
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 17.83
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 17.92
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 17.73
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 18.29
     } ]
   }, {
     "pid" : 4186,
@@ -63016,11 +63379,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00MTFIL0U?tag=curadomus-20",
     "categoria" : "Bebidas Alcoólicas",
     "categoriaId" : 8,
-    "dataOferta" : "02/09/2026 12:04",
-    "destaque" : true,
-    "precoAnterior" : "172,99",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "dataOferta" : "03/09/2026 09:34",
+    "destaque" : false,
+    "precoAnterior" : "139,90",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "06/08/2026"
     }, {
@@ -63074,6 +63436,9 @@
       "preco" : 172.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 139.9
     } ]
   }, {
