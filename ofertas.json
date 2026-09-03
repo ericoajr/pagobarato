@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "03/09/2026 11:08",
+  "ultimaAtualizacao" : "03/09/2026 11:37",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 140135,
@@ -6251,20 +6251,39 @@
       "preco" : 49.99
     } ]
   }, {
+    "pid" : 9286,
+    "id" : 140824,
+    "titulo" : "Body 7-pack Long Sleeve Bodysuit Simple Joys by Carter'sbebê-unissex",
+    "imagem" : "https://m.media-amazon.com/images/I/81Bq2HU-oEL._AC_SL1500_.jpg",
+    "precoOriginal" : "163,73",
+    "precoPromocao" : "127,40",
+    "tag" : "-22%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FNPKFFZZ?tag=curadomus-20",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "03/09/2026 11:17",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/09/2026",
+      "preco" : 127.4
+    } ]
+  }, {
     "pid" : 5195,
     "id" : 139816,
     "titulo" : "Body Pacote com 8 bodies de manga curta Simple Joys by Carter'sUnisex Bebê",
     "imagem" : "https://m.media-amazon.com/images/I/81yDahe4h6L._AC_SL1500_.jpg",
-    "precoOriginal" : "168,24",
-    "precoPromocao" : "122,36",
+    "precoOriginal" : "165,17",
+    "precoPromocao" : "120,12",
     "tag" : "-27%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08G8WMN4D?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 13:47",
-    "destaque" : false,
+    "dataOferta" : "03/09/2026 11:25",
+    "destaque" : true,
     "precoAnterior" : "122,36",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
       "data" : "07/08/2026",
       "preco" : 174.17
@@ -6325,6 +6344,9 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 122.36
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 120.12
     } ]
   }, {
     "pid" : 5062,
@@ -12869,9 +12891,9 @@
     "linkAfiliado" : "https://meli.la/2ZJurhB",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "02/09/2026 14:15",
+    "dataOferta" : "03/09/2026 11:34",
     "destaque" : false,
-    "precoAnterior" : "63,99",
+    "precoAnterior" : "69,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -12911,6 +12933,9 @@
       "preco" : 63.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "03/09/2026",
       "preco" : 69.99
     } ]
   }, {
@@ -13283,9 +13308,9 @@
     "linkAfiliado" : "https://meli.la/1YYKFEp",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "02/09/2026 13:53",
+    "dataOferta" : "03/09/2026 11:15",
     "destaque" : false,
-    "precoAnterior" : "72,12",
+    "precoAnterior" : "89,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -13325,6 +13350,9 @@
       "preco" : 72.12
     }, {
       "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 89.9
     } ]
   }, {
@@ -17518,11 +17546,10 @@
     "linkAfiliado" : "https://meli.la/1RmfCCg",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "02/09/2026 14:12",
-    "destaque" : true,
-    "precoAnterior" : "129,99",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "dataOferta" : "03/09/2026 11:31",
+    "destaque" : false,
+    "precoAnterior" : "119,99",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 169.99
@@ -17561,6 +17588,9 @@
       "preco" : 129.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "03/09/2026",
       "preco" : 119.99
     } ]
   }, {
@@ -18527,6 +18557,89 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 149.9
+    } ]
+  }, {
+    "pid" : 5160,
+    "id" : 140826,
+    "titulo" : "COPO OWALA TUMBLER STAINLESS STEEL TERMICA 24OZ / 710ML - GREEN HIP CACTUS",
+    "imagem" : "https://m.media-amazon.com/images/I/51yQQHsz8zL._AC_SL1500_.jpg",
+    "precoOriginal" : "299,90",
+    "precoPromocao" : "128,99",
+    "tag" : "-56%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CZTRP3S1?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "03/09/2026 11:21",
+    "destaque" : true,
+    "precoAnterior" : "236,81",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 128.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 128.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 265.96
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 265.96
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 265.96
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 265.96
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 250.87
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 259.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 259.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 250.87
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 250.87
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 269.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 269.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 237.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 237.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 236.81
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 128.99
     } ]
   }, {
     "pid" : 5921,
@@ -21095,12 +21208,12 @@
     "titulo" : "Downy Amaciante Concentrado Frescor Da Primavera 3L Rende 12L",
     "imagem" : "https://m.media-amazon.com/images/I/6128SQWxddL._AC_SL1200_.jpg",
     "precoOriginal" : "71,82",
-    "precoPromocao" : "55,55",
-    "tag" : "-22%",
+    "precoPromocao" : "54,99",
+    "tag" : "-23%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07MLQ34YP?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "02/09/2026 13:54",
+    "dataOferta" : "03/09/2026 11:32",
     "destaque" : false,
     "precoAnterior" : "55,55",
     "menorPrecoEmDias" : false,
@@ -21158,6 +21271,9 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 55.55
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 54.99
     } ]
   }, {
     "pid" : 4545,
@@ -25318,6 +25434,24 @@
       "preco" : 183.18
     } ]
   }, {
+    "pid" : 9287,
+    "id" : 140825,
+    "titulo" : "Fralda Pampers Premium Care Tamanho XXXG 104 Unidades",
+    "imagem" : "https://m.media-amazon.com/images/I/61QL2i2DAbL._AC_SL1200_.jpg",
+    "precoOriginal" : "242,27",
+    "precoPromocao" : "159,67",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DDTYKDKX?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "03/09/2026 11:17",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "03/09/2026",
+      "preco" : 159.67
+    } ]
+  }, {
     "pid" : 304,
     "id" : 140487,
     "titulo" : "Fralda Pants Huggies Proteção Acolchoada, Tamanho M, 72 unidades, Estilo Roupinha, Cintura Macia, Fácil de Colocar",
@@ -27216,7 +27350,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B074T2L1GX?tag=curadomus-20",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "02/09/2026 13:45",
+    "dataOferta" : "03/09/2026 11:22",
     "destaque" : false,
     "precoAnterior" : "23,90",
     "menorPrecoEmDias" : false,
@@ -27279,6 +27413,9 @@
       "preco" : 23.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 23.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 23.9
     } ]
   }, {
@@ -28679,6 +28816,82 @@
       "preco" : 133.84
     } ]
   }, {
+    "pid" : 5033,
+    "id" : 140820,
+    "titulo" : "Growler 1,9L Preto",
+    "imagem" : "https://m.media-amazon.com/images/I/71aFn0xnL-L._AC_SL1500_.jpg",
+    "precoOriginal" : "359,90",
+    "precoPromocao" : "161,10",
+    "tag" : "-55%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08YRXP1CM?tag=curadomus-20",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "03/09/2026 11:11",
+    "destaque" : false,
+    "precoAnterior" : "161,10",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "07/08/2026",
+      "preco" : 200.8
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 200.8
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 200.8
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 200.8
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 200.59
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 200.59
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 199.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 198.11
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 199.69
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 199.69
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 199.69
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 161.1
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 161.1
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 161.1
+    } ]
+  }, {
     "pid" : 6321,
     "id" : 140265,
     "titulo" : "Guarda Roupas Casal Grande 8 Portas 4 Gav. Com Pés Moderno Marrom",
@@ -29490,7 +29703,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08BD61QK7?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "02/09/2026 13:36",
+    "dataOferta" : "03/09/2026 11:12",
     "destaque" : false,
     "precoAnterior" : "10,10",
     "menorPrecoEmDias" : false,
@@ -29550,6 +29763,9 @@
       "preco" : 10.1
     }, {
       "data" : "02/09/2026",
+      "preco" : 10.1
+    }, {
+      "data" : "03/09/2026",
       "preco" : 10.1
     } ]
   }, {
@@ -31176,86 +31392,6 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 146.84
-    } ]
-  }, {
-    "pid" : 5219,
-    "id" : 139821,
-    "titulo" : "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 530BT, Sem Fio, Até 76 Horas de Bateria - Preto",
-    "imagem" : "https://m.media-amazon.com/images/I/61TNh5cVcsL._AC_SL1500_.jpg",
-    "precoOriginal" : "299,00",
-    "precoPromocao" : "177,65",
-    "tag" : "-33%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GM1LSHQF?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "02/09/2026 13:48",
-    "destaque" : true,
-    "precoAnterior" : "189,00",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
-    "historico" : [ {
-      "data" : "05/08/2026",
-      "preco" : 172.0
-    }, {
-      "data" : "07/08/2026",
-      "preco" : 172.0
-    }, {
-      "data" : "09/08/2026",
-      "preco" : 183.2
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 194.65
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 193.8
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 190.4
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 190.4
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 224.0
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 202.9
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 209.67
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 224.0
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 198.55
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 192.83
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 191.25
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 191.25
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 189.48
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 188.86
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 187.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 183.14
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 189.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 177.65
     } ]
   }, {
     "pid" : 3344,
@@ -35852,7 +35988,7 @@
     "linkAfiliado" : "https://meli.la/25YTWsC",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "02/09/2026 14:03",
+    "dataOferta" : "03/09/2026 11:25",
     "destaque" : false,
     "precoAnterior" : "49,00",
     "menorPrecoEmDias" : false,
@@ -35894,6 +36030,9 @@
       "preco" : 49.0
     }, {
       "data" : "02/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "03/09/2026",
       "preco" : 49.0
     } ]
   }, {
@@ -47477,9 +47616,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07H45XJ2D?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "02/09/2026 13:31",
+    "dataOferta" : "03/09/2026 11:08",
     "destaque" : false,
-    "precoAnterior" : "16,99",
+    "precoAnterior" : "17,02",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "05/08/2026",
@@ -47546,6 +47685,9 @@
       "preco" : 16.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 17.02
+    }, {
+      "data" : "03/09/2026",
       "preco" : 17.02
     } ]
   }, {
@@ -53292,6 +53434,91 @@
       "preco" : 26.9
     } ]
   }, {
+    "pid" : 6762,
+    "id" : 140834,
+    "titulo" : "Play-Doh Kit com 10 cores básicas de massinha, refil",
+    "imagem" : "https://m.media-amazon.com/images/I/61OOaAhc6jL._AC_SL1500_.jpg",
+    "precoOriginal" : "19,99",
+    "precoPromocao" : "12,99",
+    "tag" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJDRPNVS?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "03/09/2026 11:37",
+    "destaque" : false,
+    "precoAnterior" : "12,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "04/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 16.97
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 16.97
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 16.97
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 16.97
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 19.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 12.99
+    } ]
+  }, {
     "pid" : 5319,
     "id" : 139828,
     "titulo" : "Play-Doh, Massinha de Modelar Infantil, Mini Sorveteria Divertida - Conjunto de Brinquedo com Acessórios e 2 Potes - A partir de 3 Anos",
@@ -53363,6 +53590,90 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 41.99
+    } ]
+  }, {
+    "pid" : 6754,
+    "id" : 140832,
+    "titulo" : "Play-Doh, Massinha de Modelar Infantil, Pet Shop - Conjunto de Brinquedo com Figura de Cachorro, Acessórios e 5 Potes - A partir de 3 Anos",
+    "imagem" : "https://m.media-amazon.com/images/I/71lDVTJ5YAL._AC_SL1500_.jpg",
+    "precoOriginal" : "177,90",
+    "precoPromocao" : "98,73",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09P1YY3JP?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "03/09/2026 11:35",
+    "destaque" : false,
+    "precoAnterior" : "98,73",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "04/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 82.5
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 99.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 99.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 99.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 96.08
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 96.08
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 99.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 99.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 98.73
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 98.73
     } ]
   }, {
     "pid" : 5934,
@@ -62189,7 +62500,7 @@
     "linkAfiliado" : "https://meli.la/1NzDbb5",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "02/09/2026 14:00",
+    "dataOferta" : "03/09/2026 11:22",
     "destaque" : false,
     "precoAnterior" : "179,90",
     "menorPrecoEmDias" : false,
@@ -62231,6 +62542,9 @@
       "preco" : 179.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 179.9
     } ]
   }, {
@@ -62840,14 +63154,14 @@
     "pid" : 5220,
     "id" : 139815,
     "titulo" : "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_811481-MLB110898969045_042026-F-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_788146-MLB116537413239_082026-F-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
     "precoOriginal" : "289,99",
     "precoPromocao" : "129,90",
     "tag" : "-55%",
     "linkAfiliado" : "https://meli.la/1zwWHzc",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "02/09/2026 13:47",
+    "dataOferta" : "03/09/2026 11:09",
     "destaque" : false,
     "precoAnterior" : "129,90",
     "menorPrecoEmDias" : false,
@@ -62889,6 +63203,9 @@
       "preco" : 129.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 129.9
     } ]
   }, {
@@ -62957,7 +63274,7 @@
     "linkAfiliado" : "https://meli.la/2rzSfK4",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "02/09/2026 14:18",
+    "dataOferta" : "03/09/2026 11:37",
     "destaque" : false,
     "precoAnterior" : "239,99",
     "menorPrecoEmDias" : false,
@@ -62999,6 +63316,9 @@
       "preco" : 239.99
     }, {
       "data" : "02/09/2026",
+      "preco" : 239.99
+    }, {
+      "data" : "03/09/2026",
       "preco" : 239.99
     } ]
   }, {
@@ -64085,6 +64405,88 @@
       "preco" : 79.9
     } ]
   }, {
+    "pid" : 6755,
+    "id" : 140833,
+    "titulo" : "Vinagre de Álcool Concentrado 6% Castelo 5l",
+    "imagem" : "https://m.media-amazon.com/images/I/71d4qLpOf5L._AC_SL1500_.jpg",
+    "precoOriginal" : "39,82",
+    "precoPromocao" : "24,89",
+    "tag" : "-37%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B084BXFGJN?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "03/09/2026 11:36",
+    "destaque" : false,
+    "precoAnterior" : "24,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 24.89
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 24.89
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 34.7
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 34.5
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 34.45
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 34.45
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 33.6
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 33.63
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 30.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 30.03
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 31.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 31.8
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 31.98
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 31.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 31.85
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 29.4
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 29.4
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 29.43
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 29.43
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 24.89
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 24.89
+    } ]
+  }, {
     "pid" : 4013,
     "id" : 139531,
     "titulo" : "Vinho Chileno Marco Polo Cabernet Sauvignon 750ml",
@@ -64474,6 +64876,88 @@
       "preco" : 104.72
     }, {
       "data" : "02/09/2026",
+      "preco" : 79.9
+    } ]
+  }, {
+    "pid" : 5200,
+    "id" : 140828,
+    "titulo" : "Vodka Absolut Vanilia - 750 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61kRgGBakLL._AC_SL1500_.jpg",
+    "precoOriginal" : "117,90",
+    "precoPromocao" : "79,90",
+    "tag" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0058GVP9Q?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "03/09/2026 11:25",
+    "destaque" : false,
+    "precoAnterior" : "79,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 74.99
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 74.99
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 74.99
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 77.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 79.89
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 79.89
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 79.9
     } ]
   }, {
@@ -67182,6 +67666,81 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 20.87
+    } ]
+  }, {
+    "pid" : 5171,
+    "id" : 139804,
+    "titulo" : "Ypê Amaciante Tradicional Aconchego 5L (Embalagem pode variar)",
+    "imagem" : "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1080_.jpg",
+    "precoOriginal" : "29,26",
+    "precoPromocao" : "19,49",
+    "tag" : "-33%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07HZL4D72?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "03/09/2026 11:22",
+    "destaque" : true,
+    "precoAnterior" : "25,72",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 19.49
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 19.49
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 19.49
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 21.38
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 18.19
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 18.19
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 18.19
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 18.19
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 21.38
+    }, {
+      "data" : "20/08/2026"
+    }, {
+      "data" : "21/08/2026"
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 30.63
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 28.51
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 21.38
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 21.65
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 25.72
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 25.72
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 25.72
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 25.72
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 19.49
     } ]
   }, {
     "pid" : 8561,
