@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "03/09/2026 08:07",
+  "ultimaAtualizacao" : "03/09/2026 08:37",
   "ofertas" : [ {
     "pid" : 5864,
     "id" : 140135,
@@ -9126,7 +9126,7 @@
     "linkAfiliado" : "https://meli.la/2r2aGKw",
     "categoria" : "Papelaria e Escritório",
     "categoriaId" : 4,
-    "dataOferta" : "02/09/2026 11:07",
+    "dataOferta" : "03/09/2026 08:29",
     "destaque" : false,
     "precoAnterior" : "1.089,90",
     "menorPrecoEmDias" : false,
@@ -9171,6 +9171,9 @@
       "preco" : 1089.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 1089.9
+    }, {
+      "data" : "03/09/2026",
       "preco" : 1089.9
     } ]
   }, {
@@ -21181,6 +21184,94 @@
       "preco" : 43.7
     } ]
   }, {
+    "pid" : 1848,
+    "id" : 140692,
+    "titulo" : "Extrator de Leite Manual Essential Philips Avent | Com Recipiente de 125 ml, Almofada de Silicone, Portátil, Leve e Ergonômico",
+    "imagem" : "https://m.media-amazon.com/images/I/61eeN8cHNWL._AC_SL1500_.jpg",
+    "precoOriginal" : "239,90",
+    "precoPromocao" : "159,00",
+    "tag" : "-33%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DCS72VX5?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "03/09/2026 08:23",
+    "destaque" : false,
+    "precoAnterior" : "159,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 143.0
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 151.57
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 179.93
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 179.93
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 195.78
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 195.78
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 217.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 217.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 218.8
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 195.78
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 192.93
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 235.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 192.93
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 192.93
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 192.93
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 192.93
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 195.78
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 159.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 159.0
+    } ]
+  }, {
     "pid" : 217,
     "id" : 138813,
     "titulo" : "Faber-Castell Lápis De Cor Supersoft com 12 Cores - Ecolápis super mácio com cores mais vivas, excelente cobertura",
@@ -26279,7 +26370,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07NPYD9KF?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 11:01",
+    "dataOferta" : "03/09/2026 08:26",
     "destaque" : false,
     "precoAnterior" : "22,39",
     "menorPrecoEmDias" : false,
@@ -26348,6 +26439,9 @@
       "preco" : 22.39
     }, {
       "data" : "02/09/2026",
+      "preco" : 22.39
+    }, {
+      "data" : "03/09/2026",
       "preco" : 22.39
     } ]
   }, {
@@ -26771,14 +26865,14 @@
     "titulo" : "Grill E Sanduicheira PGR21PI Maxx Clean 1000W Cinza Philco",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_742609-MLA95694260070_102025-F.webp",
     "precoOriginal" : "179,99",
-    "precoPromocao" : "131,72",
-    "tag" : "-26%",
+    "precoPromocao" : "133,84",
+    "tag" : "-25%",
     "linkAfiliado" : "https://meli.la/2siDK4T",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "02/09/2026 10:51",
+    "dataOferta" : "03/09/2026 08:13",
     "destaque" : false,
-    "precoAnterior" : "157,19",
+    "precoAnterior" : "131,72",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -26819,6 +26913,9 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 131.72
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 133.84
     } ]
   }, {
     "pid" : 6321,
@@ -34169,7 +34266,7 @@
     "linkAfiliado" : "https://meli.la/1Vdx6TT",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "02/09/2026 10:48",
+    "dataOferta" : "03/09/2026 08:10",
     "destaque" : false,
     "precoAnterior" : "33,97",
     "menorPrecoEmDias" : false,
@@ -34211,6 +34308,9 @@
       "preco" : 33.97
     }, {
       "data" : "02/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "03/09/2026",
       "preco" : 33.97
     } ]
   }, {
@@ -40504,7 +40604,7 @@
     "linkAfiliado" : "https://meli.la/1cC59C5",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "02/09/2026 10:54",
+    "dataOferta" : "03/09/2026 08:16",
     "destaque" : false,
     "precoAnterior" : "18,55",
     "menorPrecoEmDias" : false,
@@ -40546,6 +40646,9 @@
       "preco" : 18.55
     }, {
       "data" : "02/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "03/09/2026",
       "preco" : 18.55
     } ]
   }, {
@@ -41185,7 +41288,7 @@
     "linkAfiliado" : "https://meli.la/2eSLrfz",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "02/09/2026 11:04",
+    "dataOferta" : "03/09/2026 08:25",
     "destaque" : false,
     "precoAnterior" : "47,28",
     "menorPrecoEmDias" : false,
@@ -41230,6 +41333,9 @@
       "preco" : 47.28
     }, {
       "data" : "02/09/2026",
+      "preco" : 47.28
+    }, {
+      "data" : "03/09/2026",
       "preco" : 47.28
     } ]
   }, {
@@ -43580,6 +43686,94 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 129.0
+    } ]
+  }, {
+    "pid" : 1803,
+    "id" : 140686,
+    "titulo" : "MONDIAL Sanduicheira Fast Grill & Sandwich, Preto, 750W, 220V - S-12",
+    "imagem" : "https://m.media-amazon.com/images/I/716iLMhJVuL._AC_SL1500_.jpg",
+    "precoOriginal" : "144,90",
+    "precoPromocao" : "80,08",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076FGX8GR?tag=curadomus-20",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "03/09/2026 08:20",
+    "destaque" : false,
+    "precoAnterior" : "79,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 76.53
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 79.0
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 75.63
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 75.63
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 75.63
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 75.63
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 78.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 78.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 78.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 78.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 78.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 74.95
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 71.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 71.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 71.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 71.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 71.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 74.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 80.08
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 79.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 80.08
     } ]
   }, {
     "pid" : 2283,
@@ -47233,6 +47427,97 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 116.7
+    } ]
+  }, {
+    "pid" : 1829,
+    "id" : 140689,
+    "titulo" : "Orfeu Café Intenso em Grãos, 100% Arabica, Torra Escura, 250g",
+    "imagem" : "https://m.media-amazon.com/images/I/51qKvUVLDeL._AC_SL1000_.jpg",
+    "precoOriginal" : "48,40",
+    "precoPromocao" : "34,90",
+    "tag" : "-27%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07VKHBLG2?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "03/09/2026 08:21",
+    "destaque" : false,
+    "precoAnterior" : "34,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 39.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 39.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 41.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 41.9
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 41.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 46.5
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 42.78
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 42.73
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 42.73
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 42.68
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 42.68
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 46.5
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 34.9
     } ]
   }, {
     "pid" : 1686,
@@ -59317,9 +59602,9 @@
     "linkAfiliado" : "https://meli.la/15m9hpR",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "02/09/2026 11:10",
+    "dataOferta" : "03/09/2026 08:32",
     "destaque" : false,
-    "precoAnterior" : "53,90",
+    "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -59359,6 +59644,9 @@
       "preco" : 53.9
     }, {
       "data" : "02/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "03/09/2026",
       "preco" : 49.99
     } ]
   }, {
@@ -60578,6 +60866,74 @@
     }, {
       "data" : "03/09/2026",
       "preco" : 99.9
+    } ]
+  }, {
+    "pid" : 2092,
+    "id" : 140698,
+    "titulo" : "Veja Limpador para Limpeza Pesada Cloro Ativo 2 em 1 - 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/61H+VOwrfML._AC_SL1500_.jpg",
+    "precoOriginal" : "25,24",
+    "precoPromocao" : "10,79",
+    "tag" : "-57%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DYYC9NR?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "03/09/2026 08:36",
+    "destaque" : false,
+    "precoAnterior" : "10,79",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026"
+    }, {
+      "data" : "08/08/2026"
+    }, {
+      "data" : "09/08/2026"
+    }, {
+      "data" : "11/08/2026"
+    }, {
+      "data" : "12/08/2026"
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "19/08/2026"
+    }, {
+      "data" : "21/08/2026"
+    }, {
+      "data" : "22/08/2026"
+    }, {
+      "data" : "23/08/2026"
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026"
+    }, {
+      "data" : "29/08/2026"
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 10.79
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 10.79
     } ]
   }, {
     "pid" : 5703,
@@ -62824,6 +63180,84 @@
     }, {
       "data" : "02/09/2026",
       "preco" : 169.9
+    } ]
+  }, {
+    "pid" : 1731,
+    "id" : 140681,
+    "titulo" : "Whisky Johnnie Walker Green Label 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51o-TPxHPiL._AC_SL1200_.jpg",
+    "precoOriginal" : "576,90",
+    "precoPromocao" : "379,90",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07ZJWSKS9?tag=curadomus-20",
+    "categoria" : "Bebidas Alcoólicas",
+    "categoriaId" : 8,
+    "dataOferta" : "03/09/2026 08:17",
+    "destaque" : false,
+    "precoAnterior" : "379,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "05/08/2026"
+    }, {
+      "data" : "06/08/2026"
+    }, {
+      "data" : "07/08/2026"
+    }, {
+      "data" : "08/08/2026"
+    }, {
+      "data" : "10/08/2026"
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 469.09
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 469.09
+    }, {
+      "data" : "13/08/2026"
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026"
+    }, {
+      "data" : "17/08/2026"
+    }, {
+      "data" : "19/08/2026"
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 399.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 429.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 479.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 449.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 379.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 379.9
     } ]
   }, {
     "pid" : 2513,
