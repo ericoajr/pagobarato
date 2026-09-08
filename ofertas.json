@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "08/09/2026 15:35",
+  "ultimaAtualizacao" : "08/09/2026 16:34",
   "ofertas" : [ {
     "pid" : 5445,
     "id" : 159872,
@@ -179,6 +179,82 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 29.89
+    } ]
+  }, {
+    "pid" : 8386,
+    "id" : 161051,
+    "titulo" : "3 Corações Cappuccino Sabor Chocolate, 200g",
+    "imagem" : "https://m.media-amazon.com/images/I/61R6jv+8TwL._AC_SL1200_.jpg",
+    "precoOriginal" : "21,72",
+    "precoPromocao" : "14,99",
+    "tag" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00MU6E8BY?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 15:56",
+    "destaque" : true,
+    "precoAnterior" : "15,99",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 16.82
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.01
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 16.39
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 15.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 14.99
     } ]
   }, {
     "pid" : 578,
@@ -3777,14 +3853,14 @@
     "titulo" : "Bateria 5ah Cg 125ks Cg 150 Titan 150 Ks Biz 125ks Mour Moto",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_925303-MLB89944129513_082025-F-bateria-5ah-cg-125ks-cg-150-titan-150-ks-biz-125ks-mour-moto.webp",
     "precoOriginal" : "199,90",
-    "precoPromocao" : "159,90",
-    "tag" : "-20%",
+    "precoPromocao" : "129,86",
+    "tag" : "-35%",
     "linkAfiliado" : "https://meli.la/14wxnP6",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "08/09/2026 08:24",
+    "dataOferta" : "08/09/2026 16:31",
     "destaque" : false,
-    "precoAnterior" : "129,86",
+    "precoAnterior" : "159,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -3845,7 +3921,7 @@
       "preco" : 129.86
     }, {
       "data" : "08/09/2026",
-      "preco" : 159.9
+      "preco" : 129.86
     } ]
   }, {
     "pid" : 4546,
@@ -7507,6 +7583,89 @@
       "preco" : 27.0
     } ]
   }, {
+    "pid" : 5066,
+    "id" : 161059,
+    "titulo" : "Buba Mantinha Ovelhinha Azul Buba Azul",
+    "imagem" : "https://m.media-amazon.com/images/I/61wmHxoZfsL._AC_SL1000_.jpg",
+    "precoOriginal" : "64,90",
+    "precoPromocao" : "35,75",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09888TC4W?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "08/09/2026 16:03",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 41.21
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 40.2
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 39.64
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 39.64
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 38.75
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 38.75
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 38.75
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 36.75
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 36.92
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.55
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 36.21
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 36.21
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 35.82
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 36.21
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 35.48
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 35.48
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 35.12
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 33.5
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 33.5
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 35.75
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 35.75
+    }, {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 35.75
+    } ]
+  }, {
     "pid" : 8543,
     "id" : 159460,
     "titulo" : "BUBA Mordedor Com Agua Maozinha Colorido",
@@ -9439,6 +9598,88 @@
       "preco" : 639.0
     } ]
   }, {
+    "pid" : 5096,
+    "id" : 161061,
+    "titulo" : "Cadeira Para Auto KidFit Adapt Plus 2 em 1 Preto - 7079728860070",
+    "imagem" : "https://m.media-amazon.com/images/I/51zybo4VRIL._AC_SL1000_.jpg",
+    "precoOriginal" : "1.199,00",
+    "precoPromocao" : "918,00",
+    "tag" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BS4C1TTM?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "08/09/2026 16:04",
+    "destaque" : true,
+    "precoAnterior" : "919,00",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 997.0
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 968.0
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 968.0
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 1079.1
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 1199.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 1199.0
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 919.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 918.0
+    } ]
+  }, {
     "pid" : 1062,
     "id" : 160729,
     "titulo" : "Cadeira Portátil Cake - Voyage (Cinza)",
@@ -10779,14 +11020,14 @@
     "titulo" : "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_799787-MLB85664619217_062025-F-calca-mom-jeans-feminina-cintura-alta-marmorizada.webp",
     "precoOriginal" : "99,99",
-    "precoPromocao" : "55,00",
-    "tag" : "-44%",
+    "precoPromocao" : "45,00",
+    "tag" : "-55%",
     "linkAfiliado" : "https://meli.la/14Z9Rbw",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 08:02",
+    "dataOferta" : "08/09/2026 16:09",
     "destaque" : false,
-    "precoAnterior" : "45,00",
+    "precoAnterior" : "55,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -10850,7 +11091,7 @@
       "preco" : 45.0
     }, {
       "data" : "08/09/2026",
-      "preco" : 55.0
+      "preco" : 45.0
     } ]
   }, {
     "pid" : 6016,
@@ -15548,7 +15789,7 @@
     "linkAfiliado" : "https://meli.la/2q1mGnL",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 07:46",
+    "dataOferta" : "08/09/2026 15:53",
     "destaque" : false,
     "precoAnterior" : "112,40",
     "menorPrecoEmDias" : false,
@@ -15624,7 +15865,7 @@
     "linkAfiliado" : "https://meli.la/2ZkYzj7",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 07:40",
+    "dataOferta" : "08/09/2026 15:47",
     "destaque" : false,
     "precoAnterior" : "42,36",
     "menorPrecoEmDias" : false,
@@ -19981,7 +20222,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08FVVH9BC?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:19",
+    "dataOferta" : "08/09/2026 15:44",
     "destaque" : false,
     "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false,
@@ -27509,97 +27750,6 @@
       "preco" : 8.99
     } ]
   }, {
-    "pid" : 130,
-    "id" : 159741,
-    "titulo" : "Granado Colônia Bebê, Tradicional, 100ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51mnExslh6L._AC_SL1000_.jpg",
-    "precoOriginal" : "99,68",
-    "precoPromocao" : "63,40",
-    "tag" : "-24%",
-    "linkAfiliado" : "https://amzn.to/43VKOKF",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:16",
-    "destaque" : false,
-    "precoAnterior" : "69,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "09/08/2026",
-      "preco" : 59.99
-    }, {
-      "data" : "10/08/2026",
-      "preco" : 59.99
-    }, {
-      "data" : "11/08/2026",
-      "preco" : 59.99
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 59.99
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 55.56
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 55.56
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 55.56
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 55.56
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 55.56
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 61.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 60.08
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 69.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 69.9
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 62.91
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 63.4
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 63.4
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 69.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 63.4
-    } ]
-  }, {
     "pid" : 1897,
     "id" : 160841,
     "titulo" : "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 50g",
@@ -27852,6 +28002,90 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 119.0
+    } ]
+  }, {
+    "pid" : 4572,
+    "id" : 159739,
+    "titulo" : "GROW - Jogo Senha - 2 ou mais Jogadores - A partir de 8 anos",
+    "imagem" : "https://m.media-amazon.com/images/I/61hEfptrf6L._AC_SL1200_.jpg",
+    "precoOriginal" : "104,22",
+    "precoPromocao" : "57,64",
+    "tag" : "-44%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0F24ZK9V4?tag=curadomus-20",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "08/09/2026 15:40",
+    "destaque" : false,
+    "precoAnterior" : "54,13",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 64.79
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 61.03
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 61.03
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 62.31
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 64.24
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 57.22
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 57.22
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 57.22
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 57.22
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 57.64
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 57.64
     } ]
   }, {
     "pid" : 6321,
@@ -33282,9 +33516,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHSFK5T?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:17",
+    "dataOferta" : "08/09/2026 15:41",
     "destaque" : false,
-    "precoAnterior" : "19,94",
+    "precoAnterior" : "20,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "09/08/2026",
@@ -34816,7 +35050,7 @@
     "linkAfiliado" : "https://meli.la/2NYE5XK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 07:43",
+    "dataOferta" : "08/09/2026 15:50",
     "destaque" : false,
     "precoAnterior" : "67,94",
     "menorPrecoEmDias" : false,
@@ -35966,11 +36200,10 @@
     "linkAfiliado" : "https://meli.la/2XdVAsi",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 07:59",
-    "destaque" : true,
-    "precoAnterior" : "142,51",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "dataOferta" : "08/09/2026 16:06",
+    "destaque" : false,
+    "precoAnterior" : "119,51",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 149.99
@@ -42587,6 +42820,85 @@
       "preco" : 115.08
     } ]
   }, {
+    "pid" : 7404,
+    "id" : 161071,
+    "titulo" : "Macacão de dormir para bebês Cotton Sleep and Play, Pack of 2 Simple Joys by Carter'sMeninas",
+    "imagem" : "https://m.media-amazon.com/images/I/81akbZpB4SL._AC_SL1500_.jpg",
+    "precoOriginal" : "137,67",
+    "precoPromocao" : "115,52",
+    "tag" : "-16%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07ZPPSND6?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "08/09/2026 16:20",
+    "destaque" : false,
+    "precoAnterior" : "115,52",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 143.52
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 143.52
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 146.27
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 146.27
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 146.27
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 146.27
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 146.27
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 145.31
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 145.31
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 145.31
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 145.31
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 145.25
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 145.25
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 115.52
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 115.52
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 115.52
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 115.52
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 115.52
+    } ]
+  }, {
     "pid" : 2595,
     "id" : 159673,
     "titulo" : "Macacão de dormir para bebês Fleece Footed Sleep and Play, Pack of 2 Simple Joys by Carter'sMeninas",
@@ -46650,12 +46962,12 @@
     "titulo" : "Máquina De Costura Elgin Jx-4035 Genius Plus 31 Pontos Cor Branco",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_841781-MLA99935859263_112025-F.webp",
     "precoOriginal" : "949,00",
-    "precoPromocao" : "719,90",
-    "tag" : "-24%",
+    "precoPromocao" : "585,90",
+    "tag" : "-38%",
     "linkAfiliado" : "https://meli.la/1LNQiLT",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:08",
+    "dataOferta" : "08/09/2026 16:15",
     "destaque" : false,
     "precoAnterior" : "719,90",
     "menorPrecoEmDias" : false,
@@ -46721,7 +47033,7 @@
       "preco" : 719.9
     }, {
       "data" : "08/09/2026",
-      "preco" : 719.9
+      "preco" : 585.9
     } ]
   }, {
     "pid" : 7530,
@@ -47153,6 +47465,26 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 49.0
+    } ]
+  }, {
+    "pid" : 9543,
+    "id" : 161058,
+    "titulo" : "Nescafé Café Solúvel Tradição 100G",
+    "imagem" : "https://m.media-amazon.com/images/I/81MBqtxU5vL._AC_SL1500_.jpg",
+    "precoOriginal" : "26,99",
+    "precoPromocao" : "17,81",
+    "tag" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B001ZDDJIQ?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 16:02",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 17.81
     } ]
   }, {
     "pid" : 4288,
@@ -50258,6 +50590,37 @@
       "preco" : 30.38
     } ]
   }, {
+    "pid" : 9457,
+    "id" : 161045,
+    "titulo" : "Papel higiênico Neve Toque da Seda folha dupla 20 m de 10 un",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_988879-MLA99373076168_112025-F.webp",
+    "precoOriginal" : "39,22",
+    "precoPromocao" : "31,38",
+    "tag" : "-19%",
+    "linkAfiliado" : "https://meli.la/13qkGym",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "08/09/2026 15:41",
+    "destaque" : false,
+    "precoAnterior" : "31,38",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "04/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 31.38
+    } ]
+  }, {
     "pid" : 6378,
     "id" : 160209,
     "titulo" : "Patinete infantil 3 rodas com led ajustável scooter dobrável menino menina",
@@ -52778,7 +53141,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07F6RDZ67?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:21",
+    "dataOferta" : "08/09/2026 15:47",
     "destaque" : false,
     "precoAnterior" : "12,79",
     "menorPrecoEmDias" : false,
@@ -54288,15 +54651,15 @@
     "id" : 159731,
     "titulo" : "Purificador De Água Fr600 Speciale Branco Ibbl",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_675613-MLA99969949771_112025-F.webp",
-    "precoOriginal" : "1.039,00",
-    "precoPromocao" : "775,03",
-    "tag" : "-25%",
+    "precoOriginal" : "999,90",
+    "precoPromocao" : "808,90",
+    "tag" : "-19%",
     "linkAfiliado" : "https://meli.la/17auf33",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:15",
+    "dataOferta" : "08/09/2026 16:21",
     "destaque" : false,
-    "precoAnterior" : "808,90",
+    "precoAnterior" : "775,03",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -54360,7 +54723,7 @@
       "preco" : 808.9
     }, {
       "data" : "08/09/2026",
-      "preco" : 775.03
+      "preco" : 808.9
     } ]
   }, {
     "pid" : 7533,
@@ -55353,7 +55716,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CRZ8FZBP?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:17",
+    "dataOferta" : "08/09/2026 15:42",
     "destaque" : false,
     "precoAnterior" : "1.200,00",
     "menorPrecoEmDias" : false,
@@ -55525,6 +55888,85 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 24.8
+    } ]
+  }, {
+    "pid" : 8327,
+    "id" : 161050,
+    "titulo" : "Salgadinho Batata Frita Pringles Tripack Festa do Futebol 322g",
+    "imagem" : "https://m.media-amazon.com/images/I/61SfzYSXHbL._AC_SL1080_.jpg",
+    "precoOriginal" : "32,90",
+    "precoPromocao" : "24,90",
+    "tag" : "-24%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GTRLTK16?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 15:55",
+    "destaque" : false,
+    "precoAnterior" : "24,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 28.88
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 28.88
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 28.88
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 28.88
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 28.88
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 24.9
     } ]
   }, {
     "pid" : 8334,
@@ -56715,7 +57157,7 @@
     "linkAfiliado" : "https://meli.la/2VmaWyF",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "08/09/2026 08:11",
+    "dataOferta" : "08/09/2026 16:18",
     "destaque" : false,
     "precoAnterior" : "109,73",
     "menorPrecoEmDias" : false,
@@ -61358,7 +61800,7 @@
     "linkAfiliado" : "https://meli.la/1F9udbd",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 08:05",
+    "dataOferta" : "08/09/2026 16:12",
     "destaque" : false,
     "precoAnterior" : "89,89",
     "menorPrecoEmDias" : false,
@@ -62422,7 +62864,7 @@
     "linkAfiliado" : "https://meli.la/1ZYK82J",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 08:18",
+    "dataOferta" : "08/09/2026 16:24",
     "destaque" : false,
     "precoAnterior" : "399,99",
     "menorPrecoEmDias" : false,
@@ -63751,6 +64193,82 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 21.1
+    } ]
+  }, {
+    "pid" : 3396,
+    "id" : 161046,
+    "titulo" : "Vinho Francês Piscine Rosé 750ml",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_612759-MLB89905629501_082025-F-vinho-frances-piscine-rose-750ml.webp",
+    "precoOriginal" : "59,00",
+    "precoPromocao" : "49,00",
+    "tag" : "-16%",
+    "linkAfiliado" : "https://meli.la/1Htn6iq",
+    "categoria" : "Vinhos",
+    "categoriaId" : 11,
+    "dataOferta" : "08/09/2026 15:44",
+    "destaque" : false,
+    "precoAnterior" : "49,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 39.36
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 39.36
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 39.68
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 39.52
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 39.52
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 39.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 37.6
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 37.6
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 49.0
     } ]
   }, {
     "pid" : 1682,
