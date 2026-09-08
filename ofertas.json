@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "08/09/2026 16:34",
+  "ultimaAtualizacao" : "08/09/2026 17:33",
   "ofertas" : [ {
     "pid" : 5445,
     "id" : 159872,
@@ -2173,6 +2173,24 @@
       "preco" : 1999.0
     } ]
   }, {
+    "pid" : 9636,
+    "id" : 161081,
+    "titulo" : "Ar-Condicionado Electrolux Split 18.000 BTUs Color Adapt Frio com Wi-fi (YI18F/YE18F) 220V",
+    "imagem" : "https://m.media-amazon.com/images/I/515GghlFTKL._AC_SL1482_.jpg",
+    "precoOriginal" : "4.277,94",
+    "precoPromocao" : "2.539,00",
+    "tag" : "-40%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CLQ1QXCF?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "08/09/2026 16:59",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "08/09/2026",
+      "preco" : 2539.0
+    } ]
+  }, {
     "pid" : 8329,
     "id" : 159443,
     "titulo" : "Aranha Lançador De Seda Pulseira Brinquedo Elétrico Automático , Octonauts Dino Mini Basquete Sensorial Fidget Caixa Ceg",
@@ -3688,7 +3706,7 @@
     "linkAfiliado" : "https://meli.la/1SCDTNT",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "08/09/2026 09:01",
+    "dataOferta" : "08/09/2026 17:08",
     "destaque" : false,
     "precoAnterior" : "290,99",
     "menorPrecoEmDias" : false,
@@ -10087,16 +10105,17 @@
     "id" : 160230,
     "titulo" : "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite 110v",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_963009-MLA115435050388_082026-F.webp",
-    "precoOriginal" : "1.099,99",
-    "precoPromocao" : "449,00",
-    "tag" : "-59%",
+    "precoOriginal" : "679,90",
+    "precoPromocao" : "413,91",
+    "tag" : "-39%",
     "linkAfiliado" : "https://meli.la/2cXevck",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "08/09/2026 08:49",
-    "destaque" : false,
+    "dataOferta" : "08/09/2026 16:56",
+    "destaque" : true,
     "precoAnterior" : "449,00",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 449.0
@@ -10156,7 +10175,7 @@
       "preco" : 449.0
     }, {
       "data" : "08/09/2026",
-      "preco" : 449.0
+      "preco" : 413.91
     } ]
   }, {
     "pid" : 5158,
@@ -12007,7 +12026,7 @@
     "linkAfiliado" : "https://meli.la/2ABd1hR",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 09:17",
+    "dataOferta" : "08/09/2026 17:24",
     "destaque" : false,
     "precoAnterior" : "71,95",
     "menorPrecoEmDias" : false,
@@ -24404,7 +24423,7 @@
     "linkAfiliado" : "https://meli.la/1GXaxfb",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "08/09/2026 09:05",
+    "dataOferta" : "08/09/2026 17:11",
     "destaque" : false,
     "precoAnterior" : "42,86",
     "menorPrecoEmDias" : false,
@@ -26791,9 +26810,9 @@
     "linkAfiliado" : "https://meli.la/2FyXr6f",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:52",
+    "dataOferta" : "08/09/2026 16:59",
     "destaque" : false,
-    "precoAnterior" : "4.089,00",
+    "precoAnterior" : "4.013,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -34221,14 +34240,14 @@
     "titulo" : "Kit 2 Camisetas Brasa Pica Pau Bordado Reserva",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_979770-MLB114759958418_082026-F-kit-2-camisetas-brasa-pica-pau-bordado-reserva.webp",
     "precoOriginal" : "258,00",
-    "precoPromocao" : "179,99",
-    "tag" : "-30%",
+    "precoPromocao" : "169,99",
+    "tag" : "-34%",
     "linkAfiliado" : "https://meli.la/1m8LvvK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 09:14",
+    "dataOferta" : "08/09/2026 17:21",
     "destaque" : false,
-    "precoAnterior" : "169,99",
+    "precoAnterior" : "179,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -34286,7 +34305,7 @@
       "preco" : 169.99
     }, {
       "data" : "08/09/2026",
-      "preco" : 179.99
+      "preco" : 169.99
     } ]
   }, {
     "pid" : 9250,
@@ -35314,7 +35333,7 @@
     "linkAfiliado" : "https://meli.la/1Ez6yXK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 08:46",
+    "dataOferta" : "08/09/2026 16:52",
     "destaque" : false,
     "precoAnterior" : "63,99",
     "menorPrecoEmDias" : false,
@@ -39830,15 +39849,16 @@
     "titulo" : "Lava-louça Electrolux 10 Serviços Inox Lava E Seca 50' Ls10e Prateado",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_723686-MLA100004922283_112025-F.webp",
     "precoOriginal" : "3.979,00",
-    "precoPromocao" : "2.929,84",
-    "tag" : "-26%",
+    "precoPromocao" : "2.896,55",
+    "tag" : "-27%",
     "linkAfiliado" : "https://meli.la/23kUwuP",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:36",
-    "destaque" : false,
+    "dataOferta" : "08/09/2026 16:43",
+    "destaque" : true,
     "precoAnterior" : "2.929,84",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 2929.84
@@ -39898,7 +39918,7 @@
       "preco" : 2929.84
     }, {
       "data" : "08/09/2026",
-      "preco" : 2929.84
+      "preco" : 2896.55
     } ]
   }, {
     "pid" : 8986,
@@ -39960,7 +39980,7 @@
     "linkAfiliado" : "https://meli.la/2hHvXSR",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:40",
+    "dataOferta" : "08/09/2026 16:46",
     "destaque" : false,
     "precoAnterior" : "3.909,02",
     "menorPrecoEmDias" : false,
@@ -40159,12 +40179,12 @@
     "titulo" : "Lava-Louças Electrolux 14 Serviços Preta Experience com Função Higienizar Compras LL14P",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_961151-MLA95638694336_102025-F.webp",
     "precoOriginal" : "4.259,00",
-    "precoPromocao" : "3.572,89",
-    "tag" : "-16%",
+    "precoPromocao" : "3.514,90",
+    "tag" : "-17%",
     "linkAfiliado" : "https://meli.la/2dSrxb2",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "08/09/2026 08:55",
+    "dataOferta" : "08/09/2026 17:02",
     "destaque" : false,
     "precoAnterior" : "3.572,89",
     "menorPrecoEmDias" : false,
@@ -40227,7 +40247,7 @@
       "preco" : 3572.89
     }, {
       "data" : "08/09/2026",
-      "preco" : 3572.89
+      "preco" : 3514.9
     } ]
   }, {
     "pid" : 3297,
@@ -41399,9 +41419,9 @@
     "linkAfiliado" : "https://meli.la/1u49irz",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "08/09/2026 09:20",
+    "dataOferta" : "08/09/2026 17:27",
     "destaque" : false,
-    "precoAnterior" : "190,57",
+    "precoAnterior" : "178,37",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -42590,7 +42610,7 @@
     "linkAfiliado" : "https://meli.la/2t4gsdR",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "08/09/2026 08:30",
+    "dataOferta" : "08/09/2026 16:37",
     "destaque" : false,
     "precoAnterior" : "59,80",
     "menorPrecoEmDias" : false,
@@ -47465,6 +47485,24 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 49.0
+    } ]
+  }, {
+    "pid" : 9637,
+    "id" : 161082,
+    "titulo" : "NAUTICA VOYAGE N83 EDT 100ML V2",
+    "imagem" : "https://m.media-amazon.com/images/I/61VzkViM52L._AC_SL1500_.jpg",
+    "precoOriginal" : "199,00",
+    "precoPromocao" : "68,23",
+    "tag" : "-65%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GJ67M26?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "08/09/2026 16:59",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "08/09/2026",
+      "preco" : 68.23
     } ]
   }, {
     "pid" : 9543,
@@ -60372,7 +60410,7 @@
     "linkAfiliado" : "https://meli.la/2e3DjHu",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "08/09/2026 09:23",
+    "dataOferta" : "08/09/2026 17:30",
     "destaque" : false,
     "precoAnterior" : "39,18",
     "menorPrecoEmDias" : false,
@@ -61575,7 +61613,7 @@
     "linkAfiliado" : "https://meli.la/1sYT8kP",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 09:11",
+    "dataOferta" : "08/09/2026 17:18",
     "destaque" : false,
     "precoAnterior" : "301,99",
     "menorPrecoEmDias" : false,
@@ -62362,7 +62400,7 @@
     "linkAfiliado" : "https://meli.la/1zwWHzc",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "08/09/2026 09:27",
+    "dataOferta" : "08/09/2026 17:33",
     "destaque" : false,
     "precoAnterior" : "129,90",
     "menorPrecoEmDias" : false,
