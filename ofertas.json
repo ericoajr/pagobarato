@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "08/09/2026 23:25",
+  "ultimaAtualizacao" : "08/09/2026 23:37",
   "ofertas" : [ {
     "pid" : 1650,
     "id" : 161583,
@@ -709,6 +709,99 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 79.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 1830,
+    "id" : 161843,
+    "titulo" : "Barilla N.5 - Macarrão Grano Duro, Spaguetti, 500g",
+    "imagem" : "https://m.media-amazon.com/images/I/61CZWMrlfkL._AC_SL1500_.jpg",
+    "precoOriginal" : "14,00",
+    "precoPromocao" : "9,99",
+    "desconto" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B003CNW172?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:35",
+    "destaque" : true,
+    "precoAnterior" : "11,24",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 10.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 8.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 8.99
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 8.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 8.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 8.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 11.24
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 9.99
     } ],
     "tags" : [ ]
   }, {
@@ -1549,6 +1642,98 @@
     } ],
     "tags" : [ ]
   }, {
+    "pid" : 1835,
+    "id" : 161845,
+    "titulo" : "Br Spices Sal Parrilla Uruguaio Salsa Criolla 1,010Kg",
+    "imagem" : "https://m.media-amazon.com/images/I/61fv9e7fAUL._AC_SL1200_.jpg",
+    "precoOriginal" : "20,79",
+    "precoPromocao" : "15,88",
+    "desconto" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B095QGCK63?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:36",
+    "destaque" : false,
+    "precoAnterior" : "15,88",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 13.5
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 13.5
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 19.74
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 19.74
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 19.74
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 15.88
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 15.88
+    } ],
+    "tags" : [ ]
+  }, {
     "pid" : 541,
     "id" : 161120,
     "titulo" : "Buba Bolsa Termica Instantanea Em Gel Modelo:14517, Cor: Azul",
@@ -2307,6 +2492,86 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 56.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 3793,
+    "id" : 161831,
+    "titulo" : "Calça Mom Jeans Feminina Cintura Alta Marmorizada",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_799787-MLB85664619217_062025-F-calca-mom-jeans-feminina-cintura-alta-marmorizada.webp",
+    "precoOriginal" : "99,99",
+    "precoPromocao" : "45,00",
+    "desconto" : "-55%",
+    "linkAfiliado" : "https://meli.la/14Z9Rbw",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "08/09/2026 23:33",
+    "destaque" : false,
+    "precoAnterior" : "45,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 42.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 45.0
     } ],
     "tags" : [ ]
   }, {
@@ -5588,6 +5853,95 @@
     } ],
     "tags" : [ ]
   }, {
+    "pid" : 1894,
+    "id" : 161849,
+    "titulo" : "Heinz Molho de Tomate Rústico Tradicional em vidro, 320G",
+    "imagem" : "https://m.media-amazon.com/images/I/51J1ae35X6L._AC_SL1000_.jpg",
+    "precoOriginal" : "15,79",
+    "precoPromocao" : "12,99",
+    "desconto" : "-17%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DD8NFTHM?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:36",
+    "destaque" : false,
+    "precoAnterior" : "12,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 16.81
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 16.81
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 16.81
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 16.81
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 16.81
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.69
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 17.69
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 17.69
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.69
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 11.89
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 11.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 11.89
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 11.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 11.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 17.69
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 12.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 12.99
+    } ],
+    "tags" : [ ]
+  }, {
     "pid" : 752,
     "id" : 161139,
     "titulo" : "HIPOGLÓS® Creme Preventivo De Assaduras, 40g",
@@ -6509,6 +6863,86 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 33.97
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 3791,
+    "id" : 161814,
+    "titulo" : "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_946503-MLB82989859698_032025-F-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.webp",
+    "precoOriginal" : "288,63",
+    "precoPromocao" : "119,51",
+    "desconto" : "-58%",
+    "linkAfiliado" : "https://meli.la/2XdVAsi",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "08/09/2026 23:30",
+    "destaque" : false,
+    "precoAnterior" : "119,51",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 122.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 122.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 122.35
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 122.35
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 149.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 147.19
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 139.19
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 154.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 131.66
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 144.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 142.51
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 142.51
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 119.51
     } ],
     "tags" : [ ]
   }, {
@@ -9053,6 +9487,98 @@
     } ],
     "tags" : [ ]
   }, {
+    "pid" : 1718,
+    "id" : 161838,
+    "titulo" : "NESCAU Achoc Po Cilindro 670g",
+    "imagem" : "https://m.media-amazon.com/images/I/71QCIZbj0tL._AC_SL1500_.jpg",
+    "precoOriginal" : "21,79",
+    "precoPromocao" : "17,24",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CFM438ZQ?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:34",
+    "destaque" : false,
+    "precoAnterior" : "17,24",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 19.59
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 19.59
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 19.59
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 19.59
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 17.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 17.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 17.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 17.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 17.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 17.24
+    } ],
+    "tags" : [ ]
+  }, {
     "pid" : 1665,
     "id" : 161587,
     "titulo" : "Nesfit 0 Adição Açucar Cereal Matinal 220g",
@@ -10302,6 +10828,187 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 34.85
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 1796,
+    "id" : 161840,
+    "titulo" : "Orfeu Café Bourbon Amarelo, 100% Arabica, Torra Média Clara, Cápsulas Espresso 10 unid. Compatível Nespresso®*",
+    "imagem" : "https://m.media-amazon.com/images/I/5106X6NoGKL._AC_SL1000_.jpg",
+    "precoOriginal" : "40,70",
+    "precoPromocao" : "25,60",
+    "desconto" : "-37%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B089T3CBKQ?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:35",
+    "destaque" : false,
+    "precoAnterior" : "25,60",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 37.99
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 27.08
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 25.6
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 25.6
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 1829,
+    "id" : 161842,
+    "titulo" : "Orfeu Café Intenso em Grãos, 100% Arabica, Torra Escura, 250g",
+    "imagem" : "https://m.media-amazon.com/images/I/51qKvUVLDeL._AC_SL1000_.jpg",
+    "precoOriginal" : "48,40",
+    "precoPromocao" : "34,90",
+    "desconto" : "-27%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07VKHBLG2?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:35",
+    "destaque" : false,
+    "precoAnterior" : "34,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "10/08/2026",
+      "preco" : 46.5
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 42.78
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 42.73
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 42.73
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 42.68
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 42.68
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 46.5
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 40.95
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 34.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 34.9
     } ],
     "tags" : [ ]
   }, {
@@ -12946,6 +13653,92 @@
     } ],
     "tags" : [ ]
   }, {
+    "pid" : 1899,
+    "id" : 161850,
+    "titulo" : "Tabasco Molho de Pimenta Vermelho Original 60ml",
+    "imagem" : "https://m.media-amazon.com/images/I/81Z2-8pqQuL._AC_SL1500_.jpg",
+    "precoOriginal" : "27,50",
+    "precoPromocao" : "21,99",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YM5GTC5?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "08/09/2026 23:37",
+    "destaque" : false,
+    "precoAnterior" : "21,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 27.49
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 22.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 21.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 21.99
+    } ],
+    "tags" : [ ]
+  }, {
     "pid" : 224,
     "id" : 161110,
     "titulo" : "Tela De Pintura, Souza & Cia, 20cm X 30cm, Branco",
@@ -13193,6 +13986,86 @@
     }, {
       "data" : "08/09/2026",
       "preco" : 49.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "pid" : 3795,
+    "id" : 161851,
+    "titulo" : "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_727838-MLA106862284149_022026-F-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
+    "precoOriginal" : "229,99",
+    "precoPromocao" : "89,89",
+    "desconto" : "-60%",
+    "linkAfiliado" : "https://meli.la/1F9udbd",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "08/09/2026 23:37",
+    "destaque" : false,
+    "precoAnterior" : "89,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 76.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 76.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 76.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 85.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 75.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 99.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 75.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 98.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 75.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.89
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.89
     } ],
     "tags" : [ ]
   }, {
