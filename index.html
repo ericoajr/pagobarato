@@ -659,9 +659,9 @@
         const [h, min] = (hora || '00:00').split(':').map(Number);
         return new Date(y, m - 1, d, h, min).getTime();
     }
-    function extrairDescontoPercentual(tag) {
-        if (!tag) return 0;
-        const match = String(tag).match(/-?(\d+)%/);
+    function extrairDescontoPercentual(desconto) {
+        if (!desconto) return 0;
+        const match = String(desconto).match(/-?(\d+)%/);
         return match ? parseInt(match[1], 10) : 0;
     }
 
@@ -768,7 +768,7 @@
         if (abaAtiva === 'destaques') {
             const destacadas = lista.filter(i => i.destaque === true);
             return destacadas.length ? destacadas
-                : [...lista].sort((a,b) => extrairDescontoPercentual(b.tag) - extrairDescontoPercentual(a.tag)).slice(0, 24);
+                : [...lista].sort((a,b) => extrairDescontoPercentual(b.desconto) - extrairDescontoPercentual(a.desconto)).slice(0, 24);
         }
         if (abaAtiva === 'recentes') {
             return [...lista].sort((a, b) => parseDataBR(b.dataOferta) - parseDataBR(a.dataOferta)).slice(0, 24);
@@ -783,7 +783,7 @@
         const l = [...lista];
         switch (ordenacao) {
             case 'desconto':
-                return l.sort((a,b) => extrairDescontoPercentual(b.tag) - extrairDescontoPercentual(a.tag));
+                return l.sort((a,b) => extrairDescontoPercentual(b.desconto) - extrairDescontoPercentual(a.desconto));
             case 'preco-asc':
                 return l.sort((a,b) => parsePrecoBR(a.precoPromocao) - parsePrecoBR(b.precoPromocao));
             case 'preco-desc':
@@ -844,7 +844,7 @@
                     <button class="btn-copiar-mini" data-cupom="${promo.cupom}">Copiar</button>
                    </div>`
                 : '';
-            const tagEspecial = promo.tag ? `<span class="tag-promo">${promo.tag.trim()}</span>` : '';
+            const tagEspecial = promo.desconto ? `<span class="tag-promo">${promo.desconto.trim()}</span>` : '';
             const menorPrecoBadge = promo.menorPrecoEmDias === true
                 ? `<div class="badge-menor-preco">
                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"/><polyline points="17 18 23 18 23 12"/></svg>
