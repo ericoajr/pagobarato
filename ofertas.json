@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "10/09/2026 19:10",
+  "ultimaAtualizacao" : "10/09/2026 19:11",
   "ofertas" : [ {
     "id" : 168357,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -4738,82 +4738,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 167911,
-    "titulo" : "Buba Copo Dino Com Alça Azul",
-    "imagem" : "https://m.media-amazon.com/images/I/51TJo8vaR0L._AC_SL1200_.jpg",
-    "precoOriginal" : "67,90",
-    "precoPromocao" : "46,68",
-    "desconto" : "-31%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B082MQBCNN?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:13",
-    "destaque" : false,
-    "precoAnterior" : "46,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 46.63
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 46.63
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 46.63
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 46.63
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 46.69
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 46.69
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 46.69
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 46.69
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 46.68
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 46.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 46.68
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 168039,
     "titulo" : "Buba Garrafinha De Aluminio Animal Fun Macaco Colorido",
     "imagem" : "https://m.media-amazon.com/images/I/51I9KBS9ALL._AC_SL1000_.jpg",
@@ -5167,9 +5091,6 @@
     "precoAnterior" : "35,75",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 40.2
-    }, {
       "data" : "13/08/2026",
       "preco" : 39.64
     }, {
@@ -6245,95 +6166,6 @@
     }, {
       "data" : "10/09/2026",
       "preco" : 457.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 167915,
-    "titulo" : "Burigotto Cercado Brinkaki Colorido",
-    "imagem" : "https://m.media-amazon.com/images/I/81Qgd4nrcqL._AC_SL1500_.jpg",
-    "precoOriginal" : "499,00",
-    "precoPromocao" : "354,00",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B08R8YJ8D1?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:14",
-    "destaque" : true,
-    "precoAnterior" : "379,99",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "13/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 379.04
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 379.04
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 482.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 436.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 466.14
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 466.14
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 436.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 473.28
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 430.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 379.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 354.0
     } ],
     "tags" : [ ]
   }, {
@@ -7426,9 +7258,6 @@
     "precoAnterior" : "918,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 968.0
-    }, {
       "data" : "13/08/2026",
       "preco" : 968.0
     }, {
@@ -21610,88 +21439,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 167904,
-    "titulo" : "Granado Refil Sabonete Bebê, Camomila, 250ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51QJNQL14wL._AC_SL1000_.jpg",
-    "precoOriginal" : "24,89",
-    "precoPromocao" : "17,39",
-    "desconto" : "-30%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07NPYFPYZ?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:12",
-    "destaque" : false,
-    "precoAnterior" : "17,39",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 15.74
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 15.74
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 15.29
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 17.49
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 17.49
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 17.49
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 17.49
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 17.39
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 17.39
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 17.39
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 17.39
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 169220,
     "titulo" : "Grill E Sanduicheira PGR21PI Maxx Clean 1000W Cinza Philco",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_742609-MLA95694260070_102025-F.webp",
@@ -31255,9 +31002,6 @@
     "precoAnterior" : "14,19",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 12.77
-    }, {
       "data" : "13/08/2026",
       "preco" : 12.77
     }, {
@@ -34410,6 +34154,85 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 169251,
+    "titulo" : "Luva Moto Motoqueiro Impermeável Térmica Inverno Frio Touch",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_716659-MLB92660996033_092025-F-luva-moto-motoqueiro-impermeavel-termica-inverno-frio-touch.webp",
+    "precoOriginal" : "54,90",
+    "precoPromocao" : "18,55",
+    "desconto" : "-66%",
+    "linkAfiliado" : "https://meli.la/1cC59C5",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "10/09/2026 19:11",
+    "destaque" : false,
+    "precoAnterior" : "18,55",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 24.97
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 18.55
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 168872,
     "titulo" : "LYOR - Bandeja de Bambu Hire Marrom Natural 20cm - Mesa Posta - Organização - Utensílios de Cozinha - Enxoval - Decoração - Travessa Retangular - Petisqueira - Utilidades Domésticas",
     "imagem" : "https://m.media-amazon.com/images/I/61IXPSaGdBL._AC_SL1500_.jpg",
@@ -35418,9 +35241,6 @@
     "precoAnterior" : "12,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 9.53
-    }, {
       "data" : "13/08/2026",
       "preco" : 9.53
     }, {
@@ -38987,88 +38807,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 167914,
-    "titulo" : "PAMPERS SAB LIQ CPO GLICERINA 200ml",
-    "imagem" : "https://m.media-amazon.com/images/I/61Ej1tO1KlL._AC_SL1500_.jpg",
-    "precoOriginal" : "24,90",
-    "precoPromocao" : "14,99",
-    "desconto" : "-39%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CPT8CMSM?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:14",
-    "destaque" : false,
-    "precoAnterior" : "13,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 14.99
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 168278,
     "titulo" : "PAMPERS SABONETE LÍQUIDO RELAXAMENTO 400ml",
     "imagem" : "https://m.media-amazon.com/images/I/61LzL7dZTVL._AC_SL1500_.jpg",
@@ -39840,89 +39578,6 @@
     }, {
       "data" : "10/09/2026",
       "preco" : 450.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 167909,
-    "titulo" : "Paninho de Boca Bebê Papi Soft Estampado 28x28 cm – Contém 6 Unidades, Rosa",
-    "imagem" : "https://m.media-amazon.com/images/I/41FVVVY43-L._AC_SL1080_.jpg",
-    "precoOriginal" : "26,51",
-    "precoPromocao" : "18,99",
-    "desconto" : "-28%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FS9NB4MY?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:13",
-    "destaque" : false,
-    "precoAnterior" : "18,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 26.51
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 21.18
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 21.18
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 19.73
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 20.96
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 20.96
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 21.18
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 21.18
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 21.18
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "06/09/2026"
-    }, {
-      "data" : "07/09/2026"
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 18.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 18.99
     } ],
     "tags" : [ ]
   }, {
@@ -43853,87 +43508,6 @@
     }, {
       "data" : "10/09/2026",
       "preco" : 25.6
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 167913,
-    "titulo" : "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson's Baby, 380ml",
-    "imagem" : "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
-    "precoOriginal" : "36,99",
-    "precoPromocao" : "23,09",
-    "desconto" : "-37%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B085CZ2F4J?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "10/09/2026 13:14",
-    "destaque" : false,
-    "precoAnterior" : "21,94",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "12/08/2026",
-      "preco" : 24.23
-    }, {
-      "data" : "14/08/2026",
-      "preco" : 24.23
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 24.23
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 18.38
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 24.23
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 18.14
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 25.89
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 25.89
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 21.94
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 23.09
     } ],
     "tags" : [ ]
   }, {
@@ -50957,9 +50531,6 @@
     "precoAnterior" : "32,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "11/08/2026",
-      "preco" : 38.0
-    }, {
       "data" : "13/08/2026",
       "preco" : 37.99
     }, {
