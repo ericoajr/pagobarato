@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "11/09/2026 15:56",
+  "ultimaAtualizacao" : "11/09/2026 16:09",
   "ofertas" : [ {
     "id" : 170680,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -11553,6 +11553,28 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 131.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171932,
+    "titulo" : "Camiseta Rothmans Masculina Adulto Corrida Sportiza",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_844992-MLB76376806830_052024-F-camiseta-rothmans-masculina-adulto-corrida-sportiza.webp",
+    "precoOriginal" : "67,67",
+    "precoPromocao" : "48,19",
+    "desconto" : "-28%",
+    "linkAfiliado" : "https://meli.la/2BYgigu",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "11/09/2026 15:59",
+    "destaque" : false,
+    "precoAnterior" : "57,67",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 57.67
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 48.19
     } ],
     "tags" : [ ]
   }, {
