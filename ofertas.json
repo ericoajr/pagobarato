@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "11/09/2026 10:48",
+  "ultimaAtualizacao" : "11/09/2026 10:54",
   "ofertas" : [ {
     "id" : 170680,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -2247,6 +2247,91 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 171385,
+    "titulo" : "Bacardi, Rum 8 anos Reserva Ocho, 750 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61TOSd1e4qL._AC_SL1500_.jpg",
+    "precoOriginal" : "243,90",
+    "precoPromocao" : "158,80",
+    "desconto" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0051LRFB0?tag=curadomus-20",
+    "categoria" : "Destilados",
+    "categoriaId" : 12,
+    "dataOferta" : "11/09/2026 10:48",
+    "destaque" : false,
+    "precoAnterior" : "149,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 158.8
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 141.94
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 141.94
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 144.26
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 152.24
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 152.24
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 148.73
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 149.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 158.8
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 171117,
     "titulo" : "Bala Dura Canela Santa Fé 600g",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-824hg-mea2pcf57evb47",
@@ -2612,6 +2697,67 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 10.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171398,
+    "titulo" : "Basike Fone De Ouvido Sem Fio Bluetooth Para Bluetooth 5.3",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_690574-MLB100520428706_122025-F-basike-fone-de-ouvido-sem-fio-bluetooth-para-bluetooth-53.webp",
+    "precoOriginal" : "99,70",
+    "precoPromocao" : "55,80",
+    "desconto" : "-44%",
+    "linkAfiliado" : "https://meli.la/1NrjNjx",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "11/09/2026 10:53",
+    "destaque" : false,
+    "precoAnterior" : "55,80",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 65.54
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 55.8
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 55.8
     } ],
     "tags" : [ ]
   }, {
@@ -11215,6 +11361,97 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 171397,
+    "titulo" : "Clear Shampoo Men Anticaspa Ice Cool Menthol 400Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/71cW-39wjXL._AC_SL1500_.jpg",
+    "precoOriginal" : "31,99",
+    "precoPromocao" : "21,49",
+    "desconto" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07LFGWRC7?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "11/09/2026 10:53",
+    "destaque" : false,
+    "precoAnterior" : "21,49",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 23.83
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 23.83
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 23.83
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 23.83
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 23.83
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 22.06
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 21.94
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 20.86
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 20.86
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 20.86
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 20.86
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 20.86
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 19.82
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 21.49
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 21.49
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 21.49
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 171085,
     "titulo" : "Cobertura Fracionada Ao Leite Hershey’s 1,01kg | Moedas | Ideal para Confeitaria",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820m7-mnni7exehhc05f",
@@ -14780,6 +15017,87 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 59.98
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171392,
+    "titulo" : "Dove Óleo de Banho Hidratação Intensa e Limpeza Delicada, Glicerinado com 96% Ingredientes de Origem Natural 240 ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61k0+bqK+LL._AC_SL1500_.jpg",
+    "precoOriginal" : "42,34",
+    "precoPromocao" : "29,59",
+    "desconto" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DC74428B?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "11/09/2026 10:51",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "15/08/2026"
+    }, {
+      "data" : "16/08/2026"
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 32.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 33.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 33.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 33.79
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 32.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "03/09/2026"
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "05/09/2026"
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "09/09/2026"
+    }, {
+      "data" : "10/09/2026"
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 29.59
     } ],
     "tags" : [ ]
   }, {
@@ -19285,6 +19603,93 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 4013.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171391,
+    "titulo" : "Gillette Mach3 Aparelho de Barbear com 3 Lâminas 1 Unidade",
+    "imagem" : "https://m.media-amazon.com/images/I/61pS714aabL._AC_SL1200_.jpg",
+    "precoOriginal" : "28,52",
+    "precoPromocao" : "19,84",
+    "desconto" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B004HCJWEC?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "11/09/2026 10:50",
+    "destaque" : false,
+    "precoAnterior" : "19,84",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 18.78
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 18.78
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 20.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 20.9
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 20.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 20.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 20.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.04
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 21.5
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 21.5
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 19.84
     } ],
     "tags" : [ ]
   }, {
@@ -44256,6 +44661,67 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 146.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171388,
+    "titulo" : "Tênis Lacoste Baseshot - Original",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_640892-MLB99358736628_112025-F-tnis-lacoste-baseshot-original.webp",
+    "precoOriginal" : "549,00",
+    "precoPromocao" : "191,00",
+    "desconto" : "-65%",
+    "linkAfiliado" : "https://meli.la/1N534Ly",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "11/09/2026 10:50",
+    "destaque" : false,
+    "precoAnterior" : "191,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 191.0
     } ],
     "tags" : [ ]
   }, {
