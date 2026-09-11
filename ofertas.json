@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "11/09/2026 16:09",
+  "ultimaAtualizacao" : "11/09/2026 17:57",
   "ofertas" : [ {
     "id" : 170680,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -104,7 +104,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08S1NXKS1?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:59",
+    "dataOferta" : "11/09/2026 17:38",
     "destaque" : false,
     "precoAnterior" : "29,89",
     "menorPrecoEmDias" : false,
@@ -277,7 +277,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CN3K431G?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:57",
+    "dataOferta" : "11/09/2026 17:36",
     "destaque" : false,
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
@@ -371,7 +371,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DDQNKR4C?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:57",
+    "dataOferta" : "11/09/2026 17:36",
     "destaque" : false,
     "precoAnterior" : "18,09",
     "menorPrecoEmDias" : false,
@@ -1254,7 +1254,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DVM8YHQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:02",
+    "dataOferta" : "11/09/2026 17:42",
     "destaque" : false,
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
@@ -1953,7 +1953,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08FD2RSFT?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:03",
+    "dataOferta" : "11/09/2026 17:43",
     "destaque" : false,
     "precoAnterior" : "35,99",
     "menorPrecoEmDias" : false,
@@ -3274,7 +3274,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B003OH8F6M?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:59",
+    "dataOferta" : "11/09/2026 17:38",
     "destaque" : false,
     "precoAnterior" : "10,99",
     "menorPrecoEmDias" : false,
@@ -3941,6 +3941,93 @@
     }, {
       "data" : "11/09/2026",
       "preco" : 999.0
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 171967,
+    "titulo" : "BIC, Lápis de Cor Sextavado, Evolution, 24 Cores",
+    "imagem" : "https://m.media-amazon.com/images/I/61m1k3wVSWL._AC_SL1000_.jpg",
+    "precoOriginal" : "28,91",
+    "precoPromocao" : "23,90",
+    "desconto" : "-17%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0778T3SRK?tag=curadomus-20",
+    "categoria" : "Papelaria",
+    "categoriaId" : 4,
+    "dataOferta" : "11/09/2026 17:52",
+    "destaque" : false,
+    "precoAnterior" : "23,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "12/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 16.5
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 24.73
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 24.73
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 24.73
+    }, {
+      "data" : "09/09/2026"
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 23.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 23.9
     } ],
     "tags" : [ ]
   }, {
@@ -6031,7 +6118,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTN9W36?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:07",
+    "dataOferta" : "11/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "24,99",
     "menorPrecoEmDias" : false,
@@ -10352,7 +10439,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0D51LLZSN?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:07",
+    "dataOferta" : "11/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "213,88",
     "menorPrecoEmDias" : false,
@@ -11781,7 +11868,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077J2FKQN?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:10",
+    "dataOferta" : "11/09/2026 17:49",
     "destaque" : false,
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
@@ -11863,6 +11950,97 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 171969,
+    "titulo" : "CANSON Escolar, Papel Vegetal Semitransparente em Bloco, Tamanho A4",
+    "imagem" : "https://m.media-amazon.com/images/I/81awCD5TV0L._AC_SL1500_.jpg",
+    "precoOriginal" : "29,99",
+    "precoPromocao" : "23,84",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B076HXYZ9J?tag=curadomus-20",
+    "categoria" : "Papelaria",
+    "categoriaId" : 4,
+    "dataOferta" : "11/09/2026 17:53",
+    "destaque" : false,
+    "precoAnterior" : "23,84",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 26.4
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 26.4
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 23.84
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 23.84
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 170520,
     "titulo" : "CANSON Iris Vivaldi, Papel Colorido A4 Sortido em Pacote de 25 Folhas Soltas, Cores Agua, 185 g/m²",
     "imagem" : "https://m.media-amazon.com/images/I/711bn2HT+-L._AC_SL1500_.jpg",
@@ -11872,7 +12050,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BNVXPS5V?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:14",
+    "dataOferta" : "11/09/2026 17:53",
     "destaque" : false,
     "precoAnterior" : "25,50",
     "menorPrecoEmDias" : false,
@@ -13336,7 +13514,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B075X4K638?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:12",
+    "dataOferta" : "11/09/2026 17:50",
     "destaque" : false,
     "precoAnterior" : "18,00",
     "menorPrecoEmDias" : false,
@@ -14904,7 +15082,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTNB6SY?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:07",
+    "dataOferta" : "11/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
@@ -15180,7 +15358,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DD2N22F?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:13",
+    "dataOferta" : "11/09/2026 17:52",
     "destaque" : false,
     "precoAnterior" : "12,74",
     "menorPrecoEmDias" : false,
@@ -15266,15 +15444,16 @@
     "titulo" : "Cola Glitter 23 g, Acrilex, 02923, Multicor",
     "imagem" : "https://m.media-amazon.com/images/I/61Lb7mvDbgL._AC_SL1000_.jpg",
     "precoOriginal" : "26,67",
-    "precoPromocao" : "20,55",
-    "desconto" : "-22%",
+    "precoPromocao" : "19,00",
+    "desconto" : "-28%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077J1CFZH?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:12",
-    "destaque" : false,
+    "dataOferta" : "11/09/2026 17:50",
+    "destaque" : true,
     "precoAnterior" : "20,55",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
       "data" : "13/08/2026",
       "preco" : 21.6
@@ -15352,7 +15531,7 @@
       "preco" : 20.55
     }, {
       "data" : "11/09/2026",
-      "preco" : 20.55
+      "preco" : 19.0
     } ],
     "tags" : [ ]
   }, {
@@ -15719,15 +15898,16 @@
     "titulo" : "Comfort Amaciante Concentrado Lavanda 1,5L",
     "imagem" : "https://m.media-amazon.com/images/I/71cxwvUrWEL._AC_SL1500_.jpg",
     "precoOriginal" : "36,99",
-    "precoPromocao" : "25,99",
-    "desconto" : "-29%",
+    "precoPromocao" : "22,99",
+    "desconto" : "-37%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CKKSJXM6?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:08",
-    "destaque" : false,
+    "dataOferta" : "11/09/2026 17:47",
+    "destaque" : true,
     "precoAnterior" : "25,99",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
       "data" : "13/08/2026",
       "preco" : 24.9
@@ -15797,7 +15977,7 @@
       "preco" : 25.99
     }, {
       "data" : "11/09/2026",
-      "preco" : 25.99
+      "preco" : 22.99
     } ],
     "tags" : [ ]
   }, {
@@ -19566,7 +19746,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07MBXDB51?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:05",
+    "dataOferta" : "11/09/2026 17:44",
     "destaque" : false,
     "precoAnterior" : "45,90",
     "menorPrecoEmDias" : false,
@@ -19651,7 +19831,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CS7XK3DX?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:05",
+    "dataOferta" : "11/09/2026 17:44",
     "destaque" : false,
     "precoAnterior" : "47,90",
     "menorPrecoEmDias" : false,
@@ -19740,7 +19920,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08FD3B2KQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:02",
+    "dataOferta" : "11/09/2026 17:42",
     "destaque" : false,
     "precoAnterior" : "33,65",
     "menorPrecoEmDias" : false,
@@ -21310,7 +21490,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B078TH4RQL?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:02",
+    "dataOferta" : "11/09/2026 17:42",
     "destaque" : false,
     "precoAnterior" : "18,90",
     "menorPrecoEmDias" : false,
@@ -23891,7 +24071,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0953X73TP?tag=curadomus-20",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "11/09/2026 08:15",
+    "dataOferta" : "11/09/2026 17:54",
     "destaque" : false,
     "precoAnterior" : "1.498,00",
     "menorPrecoEmDias" : false,
@@ -24480,7 +24660,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CGCDZRBL?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:08",
+    "dataOferta" : "11/09/2026 17:47",
     "destaque" : false,
     "precoAnterior" : "9,90",
     "menorPrecoEmDias" : false,
@@ -25253,7 +25433,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FFNC1T6Z?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:57",
+    "dataOferta" : "11/09/2026 17:37",
     "destaque" : false,
     "precoAnterior" : "22,69",
     "menorPrecoEmDias" : false,
@@ -25347,7 +25527,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07YN9SQR9?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:58",
+    "dataOferta" : "11/09/2026 17:37",
     "destaque" : false,
     "precoAnterior" : "15,87",
     "menorPrecoEmDias" : false,
@@ -27970,7 +28150,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzMuoK6K",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:48",
+    "dataOferta" : "11/09/2026 17:57",
     "destaque" : false,
     "precoAnterior" : "12,50",
     "menorPrecoEmDias" : false,
@@ -39201,6 +39381,96 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 171966,
+    "titulo" : "Lumai Suporte Sevilha para Pendurar Roupa Toalhas Cabide de Parede Robusto em Aço Inox 304 Legitimo",
+    "imagem" : "https://m.media-amazon.com/images/I/41Qq+wk1dKL._AC_SL1500_.jpg",
+    "precoOriginal" : "59,90",
+    "precoPromocao" : "46,00",
+    "desconto" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BVN198SY?tag=curadomus-20",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "11/09/2026 17:46",
+    "destaque" : false,
+    "precoAnterior" : "46,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "23/08/2026"
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 59.3
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 59.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 47.38
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 47.38
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 47.38
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 46.0
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 171669,
     "titulo" : "Luva Moto Motoqueiro Impermeável Térmica Inverno Frio Touch",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_716659-MLB92660996033_092025-F-luva-moto-motoqueiro-impermeavel-termica-inverno-frio-touch.webp",
@@ -39292,7 +39562,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08X1P11KS?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:04",
+    "dataOferta" : "11/09/2026 17:43",
     "destaque" : false,
     "precoAnterior" : "13,00",
     "menorPrecoEmDias" : false,
@@ -39386,7 +39656,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CP2XNQL5?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:04",
+    "dataOferta" : "11/09/2026 17:43",
     "destaque" : false,
     "precoAnterior" : "24,15",
     "menorPrecoEmDias" : false,
@@ -41071,7 +41341,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yIpamI",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "11/09/2026 08:48",
+    "dataOferta" : "11/09/2026 17:57",
     "destaque" : false,
     "precoAnterior" : "68,99",
     "menorPrecoEmDias" : false,
@@ -44951,6 +45221,100 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 170405,
+    "titulo" : "Orfeu Café Clássico Torrado e Moído, 100% Arabica, Torra Média, 250g",
+    "imagem" : "https://m.media-amazon.com/images/I/51sgHRw7N6L._AC_SL1000_.jpg",
+    "precoOriginal" : "45,00",
+    "precoPromocao" : "36,80",
+    "desconto" : "-18%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0783NPFQ2?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "11/09/2026 17:35",
+    "destaque" : false,
+    "precoAnterior" : "33,12",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 38.99
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 38.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 38.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 33.74
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 33.74
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 33.74
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 33.74
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 33.74
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 27.5
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 35.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 35.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 36.8
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 170438,
     "titulo" : "ORFEU Café em Grãos Intenso Torra Escura 1 kg",
     "imagem" : "https://m.media-amazon.com/images/I/51NhdIkrmYL._AC_SL1000_.jpg",
@@ -45054,7 +45418,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07YBNQKJ9?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "11/09/2026 07:55",
+    "dataOferta" : "11/09/2026 17:35",
     "destaque" : false,
     "precoAnterior" : "25,11",
     "menorPrecoEmDias" : false,
@@ -46924,7 +47288,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FWCTHSWQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:08",
+    "dataOferta" : "11/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "28,00",
     "menorPrecoEmDias" : false,
@@ -50056,6 +50420,96 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 171964,
+    "titulo" : "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
+    "imagem" : "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1080_.jpg",
+    "precoOriginal" : "32,90",
+    "precoPromocao" : "27,50",
+    "desconto" : "-16%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "11/09/2026 17:40",
+    "destaque" : false,
+    "precoAnterior" : "32,66",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 28.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 24.8
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 32.66
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 27.5
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 170658,
     "titulo" : "Salton Espumante Brut Rose 750 Ml",
     "imagem" : "https://m.media-amazon.com/images/I/51n4513WLpL._AC_SL1200_.jpg",
@@ -51888,14 +52342,14 @@
     "titulo" : "Snob Papel toalha multiuso folha dupla branca hiper 360fls, 3 rolos",
     "imagem" : "https://m.media-amazon.com/images/I/71QqJWEdmOL._AC_SL1500_.jpg",
     "precoOriginal" : "25,99",
-    "precoPromocao" : "16,99",
-    "desconto" : "-34%",
+    "precoPromocao" : "18,99",
+    "desconto" : "-26%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CFSDVHFR?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:06",
+    "dataOferta" : "11/09/2026 17:45",
     "destaque" : false,
-    "precoAnterior" : "18,99",
+    "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "13/08/2026",
@@ -51971,7 +52425,7 @@
       "preco" : 18.99
     }, {
       "data" : "11/09/2026",
-      "preco" : 16.99
+      "preco" : 18.99
     } ],
     "tags" : [ ]
   }, {
@@ -52078,7 +52532,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077PY5ZDN?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:13",
+    "dataOferta" : "11/09/2026 17:51",
     "destaque" : false,
     "precoAnterior" : "134,70",
     "menorPrecoEmDias" : false,
@@ -52172,7 +52626,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07PFXRG29?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:13",
+    "dataOferta" : "11/09/2026 17:52",
     "destaque" : false,
     "precoAnterior" : "64,50",
     "menorPrecoEmDias" : false,
@@ -52263,7 +52717,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09TRVN94V?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:13",
+    "dataOferta" : "11/09/2026 17:51",
     "destaque" : false,
     "precoAnterior" : "8,90",
     "menorPrecoEmDias" : false,
@@ -53283,7 +53737,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077QBNC9H?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "11/09/2026 08:09",
+    "dataOferta" : "11/09/2026 17:48",
     "destaque" : false,
     "precoAnterior" : "40,00",
     "menorPrecoEmDias" : false,
@@ -57060,7 +57514,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DZ8VXQY?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:05",
+    "dataOferta" : "11/09/2026 17:45",
     "destaque" : false,
     "precoAnterior" : "18,23",
     "menorPrecoEmDias" : false,
@@ -57154,7 +57608,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07B9ZPRG2?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "11/09/2026 08:06",
+    "dataOferta" : "11/09/2026 17:45",
     "destaque" : false,
     "precoAnterior" : "17,17",
     "menorPrecoEmDias" : false,
@@ -58998,7 +59452,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07GFVTKS4?tag=curadomus-20",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "11/09/2026 08:17",
+    "dataOferta" : "11/09/2026 17:55",
     "destaque" : false,
     "precoAnterior" : "499,90",
     "menorPrecoEmDias" : false,
