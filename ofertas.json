@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "12/09/2026 12:19",
+  "ultimaAtualizacao" : "12/09/2026 12:36",
   "ofertas" : [ {
     "id" : 174901,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -6219,6 +6219,93 @@
     }, {
       "data" : "12/09/2026",
       "preco" : 34.08
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 175593,
+    "titulo" : "Buba Kit Lixa De Unha Elétrico, Multicolorido",
+    "imagem" : "https://m.media-amazon.com/images/I/51RgNWiRVtL._AC_SL1000_.jpg",
+    "precoOriginal" : "93,90",
+    "precoPromocao" : "61,98",
+    "desconto" : "-33%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09LRFCSGF?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "12/09/2026 12:22",
+    "destaque" : false,
+    "precoAnterior" : "61,11",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 61.5
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 61.33
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 54.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 61.98
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 61.11
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 61.98
     } ],
     "tags" : [ ]
   }, {
@@ -13525,6 +13612,78 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 175610,
+    "titulo" : "Comfort Amaciante Concentrado 36 Segredos 1L",
+    "imagem" : "https://m.media-amazon.com/images/I/713Tldi+IOL._AC_SL1500_.jpg",
+    "precoOriginal" : "24,99",
+    "precoPromocao" : "17,99",
+    "desconto" : "-28%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CJJZPLDQ?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "12/09/2026 12:28",
+    "destaque" : false,
+    "precoAnterior" : "17,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 18.71
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 18.71
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 18.71
+    }, {
+      "data" : "24/08/2026"
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 30.99
+    }, {
+      "data" : "28/08/2026"
+    }, {
+      "data" : "29/08/2026"
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 30.99
+    }, {
+      "data" : "01/09/2026"
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 21.77
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 20.68
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 17.99
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 175561,
     "titulo" : "Comfort Amaciante Concentrado Frescor Intenso 1 L",
     "imagem" : "https://m.media-amazon.com/images/I/71l23E7GvML._AC_SL1500_.jpg",
@@ -14127,6 +14286,96 @@
     }, {
       "data" : "12/09/2026",
       "preco" : 22.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 175598,
+    "titulo" : "Condicionador Infantil Johnson's Gotas De Brilho, 200ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61WidFSVeOL._AC_SL1500_.jpg",
+    "precoOriginal" : "28,89",
+    "precoPromocao" : "17,99",
+    "desconto" : "-37%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B077C4JWCK?tag=curadomus-20",
+    "categoria" : "Beleza",
+    "categoriaId" : 33,
+    "dataOferta" : "12/09/2026 12:24",
+    "destaque" : false,
+    "precoAnterior" : "17,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/08/2026",
+      "preco" : 19.19
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 19.19
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 19.19
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 23.39
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 23.39
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 23.39
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 23.39
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "27/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 17.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 17.99
     } ],
     "tags" : [ ]
   }, {
@@ -23380,9 +23629,6 @@
     "precoAnterior" : "5,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "13/08/2026",
-      "preco" : 6.83
-    }, {
       "data" : "14/08/2026",
       "preco" : 6.83
     }, {
@@ -24483,6 +24729,31 @@
     }, {
       "data" : "12/09/2026",
       "preco" : 798.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 175614,
+    "titulo" : "Impressora multifuncional cor Epson EcoTank L3250",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_827740-MLA99943629541_112025-F.webp",
+    "precoOriginal" : "1.526,25",
+    "precoPromocao" : "955,70",
+    "desconto" : "-37%",
+    "linkAfiliado" : "https://meli.la/1gjJJoz",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "dataOferta" : "12/09/2026 12:31",
+    "destaque" : false,
+    "precoAnterior" : "1.064,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 977.41
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 1064.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 955.7
     } ],
     "tags" : [ ]
   }, {
@@ -30592,6 +30863,103 @@
     }, {
       "data" : "12/09/2026",
       "preco" : 79.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 175651,
+    "titulo" : "Kit 5 Calças Jeans Masculina Trabalho/Passeio Elastano Lycra Direto Da Fábrica",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mcgmmx0byha9a7",
+    "precoOriginal" : "398,94",
+    "precoPromocao" : "211,44",
+    "desconto" : "-47%",
+    "linkAfiliado" : "https://s.shopee.com.br/8fQrXYIH0M",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "12/09/2026 12:36",
+    "destaque" : false,
+    "precoAnterior" : "211,44",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 215.42
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 211.44
     } ],
     "tags" : [ ]
   }, {
@@ -37632,6 +38000,91 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 175604,
+    "titulo" : "Mili Papel Higiênico Folha Dupla Max Neutro, Picotado e Texturizado, 6 Rolos de 60 metros",
+    "imagem" : "https://m.media-amazon.com/images/I/71t8U8lnPTL._AC_SL1500_.jpg",
+    "precoOriginal" : "30,32",
+    "precoPromocao" : "25,08",
+    "desconto" : "-17%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07G9JCYT3?tag=curadomus-20",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "12/09/2026 12:25",
+    "destaque" : false,
+    "precoAnterior" : "24,64",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/08/2026",
+      "preco" : 29.07
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 29.07
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 28.94
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 28.94
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 27.15
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 27.14
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 26.74
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 26.74
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 26.23
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 25.14
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 25.11
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 25.11
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 25.1
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 24.71
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 24.71
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 24.51
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 24.51
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 24.51
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 24.51
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 24.51
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 24.64
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 25.08
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 174309,
     "titulo" : "Mini Aspirador de Pó Portátil Automotivo Casa Sem Fio 3 em 1 Potente 6000Pa Recarregável",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mchtrv2cdczlfc",
@@ -41454,9 +41907,6 @@
     "precoAnterior" : "85,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "13/08/2026",
-      "preco" : 67.65
-    }, {
       "data" : "14/08/2026",
       "preco" : 67.65
     }, {
@@ -41829,9 +42279,6 @@
     "precoAnterior" : "49,47",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "13/08/2026",
-      "preco" : 49.47
-    }, {
       "data" : "14/08/2026",
       "preco" : 49.47
     }, {
@@ -43741,6 +44188,46 @@
     }, {
       "data" : "12/09/2026",
       "preco" : 29.59
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 175602,
+    "titulo" : "Papel higiênico Neve Toque da Seda folha dupla 20 m de 10 un",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_988879-MLA99373076168_112025-F.webp",
+    "precoOriginal" : "39,22",
+    "precoPromocao" : "31,38",
+    "desconto" : "-19%",
+    "linkAfiliado" : "https://meli.la/13qkGym",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "12/09/2026 12:25",
+    "destaque" : false,
+    "precoAnterior" : "31,38",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "04/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 31.38
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 31.38
     } ],
     "tags" : [ ]
   }, {
@@ -52783,6 +53270,103 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 175652,
+    "titulo" : "Umidificador De Ar Com Grande Capacidade Para Casa/Escritório Com Atmosfera Led Luz Noturna Lâmpada Casa Para Quarto",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81ztc-mk0acr2oz1ts8a",
+    "precoOriginal" : "29,81",
+    "precoPromocao" : "16,99",
+    "desconto" : "-43%",
+    "linkAfiliado" : "https://s.shopee.com.br/8V7RLFIuLN",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "12/09/2026 12:36",
+    "destaque" : false,
+    "precoAnterior" : "16,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "13/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 17.59
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 16.99
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 174920,
     "titulo" : "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
@@ -53223,7 +53807,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7KvTx6NLiE",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "12/09/2026 08:20",
+    "dataOferta" : "12/09/2026 12:36",
     "destaque" : false,
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
@@ -54558,9 +55142,6 @@
     "precoAnterior" : "74,24",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "13/08/2026",
-      "preco" : 74.24
-    }, {
       "data" : "14/08/2026",
       "preco" : 74.24
     }, {
@@ -54744,9 +55325,6 @@
     "precoAnterior" : "114,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "13/08/2026",
-      "preco" : 107.0
-    }, {
       "data" : "14/08/2026",
       "preco" : 107.0
     }, {
