@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "13/09/2026 14:39",
+  "ultimaAtualizacao" : "13/09/2026 15:38",
   "ofertas" : [ {
     "id" : 178660,
     "titulo" : "05 Potes de Vidro Hermético Transparente Tampa Bambu Porta Alimentos",
@@ -10,9 +10,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuilzqE7H",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
-    "precoAnterior" : "59,90",
+    "precoAnterior" : "74,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -288,7 +288,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1qb9cltNF5",
     "categoria" : "Vinhos",
     "categoriaId" : 11,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "50,90",
     "menorPrecoEmDias" : false,
@@ -729,7 +729,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/LmSxCsjAy",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "7,49",
     "menorPrecoEmDias" : false,
@@ -823,7 +823,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qT4asghoy",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "332,99",
     "menorPrecoEmDias" : false,
@@ -1013,9 +1013,6 @@
     "precoAnterior" : "17,09",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 19.69
-    }, {
       "data" : "15/08/2026",
       "preco" : 19.69
     }, {
@@ -1086,7 +1083,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VF9xiUcfj",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "65,89",
     "menorPrecoEmDias" : false,
@@ -1168,7 +1165,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkjGBr5gs",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -1436,94 +1433,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179755,
-    "titulo" : "Apple iPhone 16 (128 GB) – Ultramarino",
-    "imagem" : "https://m.media-amazon.com/images/I/71Q3GA4-J9L._AC_SL1500_.jpg",
-    "precoOriginal" : "6.799,00",
-    "precoPromocao" : "5.443,33",
-    "desconto" : "-19%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJFRYWK8?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 09:15",
-    "destaque" : false,
-    "precoAnterior" : "5.443,33",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 4898.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 4598.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 5443.33
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 5443.33
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179763,
     "titulo" : "Apple iPhone 17 de 256 GB — Branco",
     "imagem" : "https://m.media-amazon.com/images/I/41i8XYawSOL._AC_SL1000_.jpg",
@@ -1703,7 +1612,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GQWP9K1G?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 09:19",
+    "dataOferta" : "13/09/2026 15:32",
     "destaque" : false,
     "precoAnterior" : "6.220,00",
     "menorPrecoEmDias" : false,
@@ -1799,9 +1708,6 @@
     "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 99.0
-    }, {
       "data" : "15/08/2026",
       "preco" : 99.0
     }, {
@@ -1976,7 +1882,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3qMSSrMFn4",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "1.984,78",
     "menorPrecoEmDias" : false,
@@ -2170,7 +2076,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6fgQu5h2BV",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "49,26",
     "menorPrecoEmDias" : false,
@@ -2267,7 +2173,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9V18ErkctS",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false,
@@ -2322,7 +2228,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySBGw5Ah",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "78,59",
     "menorPrecoEmDias" : false,
@@ -2419,7 +2325,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3LPLBkq3EM",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "409,99",
     "menorPrecoEmDias" : false,
@@ -2516,7 +2422,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/70JfOBrBST",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "49,98",
     "menorPrecoEmDias" : false,
@@ -2583,9 +2489,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/3qMlQR5aXX",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
-    "precoAnterior" : "71,90",
+    "precoAnterior" : "77,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "01/09/2026",
@@ -2970,7 +2876,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40f1zyW1z8",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "34,40",
     "menorPrecoEmDias" : false,
@@ -3145,7 +3051,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfLJ5FqK",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "241,99",
     "menorPrecoEmDias" : false,
@@ -3247,9 +3153,6 @@
     "precoAnterior" : "148,73",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 119.9
-    }, {
       "data" : "15/08/2026",
       "preco" : 119.9
     }, {
@@ -3330,7 +3233,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5VUZ5ufipe",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "8,99",
     "menorPrecoEmDias" : false,
@@ -3424,9 +3327,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzN6W8hN",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
-    "precoAnterior" : "32,97",
+    "precoAnterior" : "33,97",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -3695,6 +3598,73 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180562,
+    "titulo" : "Basike Fone De Ouvido Sem Fio Bluetooth Para Bluetooth 5.3",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_690574-MLB100520428706_122025-F-basike-fone-de-ouvido-sem-fio-bluetooth-para-bluetooth-53.webp",
+    "precoOriginal" : "99,70",
+    "precoPromocao" : "54,19",
+    "desconto" : "-45%",
+    "linkAfiliado" : "https://meli.la/1NrjNjx",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "13/09/2026 15:33",
+    "destaque" : false,
+    "precoAnterior" : "55,54",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 54.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 65.54
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 55.8
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 55.8
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 55.54
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 54.19
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 178926,
     "titulo" : "Batedeira Planetaria Britania 900w Bbp900a",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_937537-MLA114111696892_082026-F.webp",
@@ -3886,7 +3856,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AN88SGuao",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "18,99",
     "menorPrecoEmDias" : false,
@@ -4521,7 +4491,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9UzyX6ayFZ",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "744,00",
     "menorPrecoEmDias" : false,
@@ -4618,7 +4588,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1gH7Kk0NN3",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "575,00",
     "menorPrecoEmDias" : false,
@@ -4715,7 +4685,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2g9eOXjFUn",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "749,00",
     "menorPrecoEmDias" : false,
@@ -4812,7 +4782,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7KvTx8lye5",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "699,90",
     "menorPrecoEmDias" : false,
@@ -4909,7 +4879,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/BSJPj7MFa",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "459,99",
     "menorPrecoEmDias" : false,
@@ -5003,9 +4973,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXYn4WT",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
-    "precoAnterior" : "69,90",
+    "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -5100,9 +5070,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/7prkY0i7ji",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
-    "precoAnterior" : "2.899,99",
+    "precoAnterior" : "2.491,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -5287,7 +5257,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimDtN44",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "749,99",
     "menorPrecoEmDias" : false,
@@ -5366,9 +5336,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPZDngm7",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
-    "precoAnterior" : "1.500,00",
+    "precoAnterior" : "459,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -5457,7 +5427,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjuJrea",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "466,66",
     "menorPrecoEmDias" : false,
@@ -5908,7 +5878,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gAOVHjq",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "55,99",
     "menorPrecoEmDias" : false,
@@ -6005,7 +5975,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2LWnzhz6r3",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
@@ -6102,7 +6072,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfKAGTRZ",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "34,83",
     "menorPrecoEmDias" : false,
@@ -6199,7 +6169,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AN88Sd326",
     "categoria" : "Jardim e Piscina",
     "categoriaId" : 100,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "25,90",
     "menorPrecoEmDias" : false,
@@ -6296,7 +6266,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySB4s88E",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "177,27",
     "menorPrecoEmDias" : false,
@@ -6484,7 +6454,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BaOJ2St",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
@@ -6581,7 +6551,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1gH7CgwOcK",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "19,59",
     "menorPrecoEmDias" : false,
@@ -6848,7 +6818,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fRqOS2E2a",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "18,99",
     "menorPrecoEmDias" : false,
@@ -7361,7 +7331,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3LQ4W6AKVP",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "15,99",
     "menorPrecoEmDias" : false,
@@ -7460,9 +7430,6 @@
     "precoAnterior" : "37,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 37.89
-    }, {
       "data" : "15/08/2026",
       "preco" : 37.89
     }, {
@@ -7924,7 +7891,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B5uzRdDAr",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "25,99",
     "menorPrecoEmDias" : false,
@@ -8294,7 +8261,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXZe8wS",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "370,99",
     "menorPrecoEmDias" : false,
@@ -8391,7 +8358,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4VbIZuKfch",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "229,49",
     "menorPrecoEmDias" : false,
@@ -8579,7 +8546,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/gOa0rZGPM",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "188,00",
     "menorPrecoEmDias" : false,
@@ -8676,7 +8643,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9pcovYHk7b",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "500,99",
     "menorPrecoEmDias" : false,
@@ -8773,7 +8740,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V7RLHhXHO",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "469,00",
     "menorPrecoEmDias" : false,
@@ -8870,7 +8837,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUsViupZQi",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 07:43",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false,
@@ -8967,7 +8934,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qT4ap19sJ",
     "categoria" : "Escritório",
     "categoriaId" : 14,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "386,90",
     "menorPrecoEmDias" : false,
@@ -9064,7 +9031,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjtypQr",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "639,00",
     "menorPrecoEmDias" : false,
@@ -9247,7 +9214,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1qbO551hR0",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
@@ -9605,7 +9572,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/18tDbpoBq",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "99,99",
     "menorPrecoEmDias" : false,
@@ -9690,6 +9657,91 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 99.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 180537,
+    "titulo" : "Caixa Som Jbl Go 5 Bluetooth Portátil Original Prova D'água",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_995974-MLB112649325583_062026-F-caixa-som-jbl-go-5-bluetooth-portatil-original-prova-dagua.webp",
+    "precoOriginal" : "500,00",
+    "precoPromocao" : "279,65",
+    "desconto" : "-44%",
+    "linkAfiliado" : "https://meli.la/2iqc1dU",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "13/09/2026 14:40",
+    "destaque" : false,
+    "precoAnterior" : "312,55",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 306.36
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 306.36
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 331.41
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 331.41
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 321.41
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 314.84
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 311.53
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 311.53
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 311.53
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 311.53
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 311.53
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 312.55
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 279.65
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 279.65
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 312.55
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 279.65
     } ],
     "tags" : [ ]
   }, {
@@ -9790,7 +9842,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySHFZXEI",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "25,00",
     "menorPrecoEmDias" : false,
@@ -9878,96 +9930,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179369,
-    "titulo" : "Calvin Klein Ck One Eau De Toilette 200Ml,",
-    "imagem" : "https://m.media-amazon.com/images/I/51YSvBcFRHL._AC_SL1500_.jpg",
-    "precoOriginal" : "387,59",
-    "precoPromocao" : "274,32",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B000068DWZ?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:45",
-    "destaque" : false,
-    "precoAnterior" : "274,32",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026"
-    }, {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "18/08/2026"
-    }, {
-      "data" : "19/08/2026"
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 390.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 390.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 390.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 390.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 380.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 380.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 380.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 380.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 514.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 514.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 400.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 274.32
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 274.32
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179305,
     "titulo" : "Calça Jeans Feminina Cintura Alta Wide Leg Com Bolso",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-lzgasnra2tdtb4",
@@ -9977,7 +9939,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimFEgsO",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
@@ -10165,7 +10127,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimDK2Hk",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "48,00",
     "menorPrecoEmDias" : false,
@@ -10262,7 +10224,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1qaXP334gm",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "39,98",
     "menorPrecoEmDias" : false,
@@ -10453,7 +10415,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5VTpllC3js",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -10550,7 +10512,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VEu9RlLJ6",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "46,99",
     "menorPrecoEmDias" : false,
@@ -10647,7 +10609,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yWJOwn",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "58,07",
     "menorPrecoEmDias" : false,
@@ -10744,7 +10706,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fRawUboob",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -10829,6 +10791,88 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180551,
+    "titulo" : "Camisa Brasil Masculina Versão Retrô Comemorativa",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_984557-MLB113963852157_062026-F-camisa-brasil-masculina-verso-retr-comemorativa.webp",
+    "precoOriginal" : "199,00",
+    "precoPromocao" : "89,90",
+    "desconto" : "-54%",
+    "linkAfiliado" : "https://meli.la/33xdqFS",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "13/09/2026 15:05",
+    "destaque" : false,
+    "precoAnterior" : "89,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "19/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 86.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 94.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 99.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 89.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 179271,
     "titulo" : "Camisa Polo Paris de Manga Curta Masculina, Casual",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m9fz10i1zz0ied",
@@ -10838,7 +10882,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VMMxb8FiA",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
@@ -10935,7 +10979,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B5uzU1q6s",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "29,98",
     "menorPrecoEmDias" : false,
@@ -11296,7 +11340,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yXEb5w",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "30,37",
     "menorPrecoEmDias" : false,
@@ -11785,7 +11829,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B6TqlmJRp",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "21,67",
     "menorPrecoEmDias" : false,
@@ -11882,7 +11926,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AN89TCMUn",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "48,99",
     "menorPrecoEmDias" : false,
@@ -12254,7 +12298,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilO3pPtP",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "41,99",
     "menorPrecoEmDias" : false,
@@ -12439,11 +12483,10 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuinBzepn",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:44",
-    "destaque" : true,
-    "precoAnterior" : "149,90",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "dataOferta" : "13/09/2026 14:48",
+    "destaque" : false,
+    "precoAnterior" : "142,00",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 134.63
@@ -12628,7 +12671,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/903hw9vHTJ",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "60,00",
     "menorPrecoEmDias" : false,
@@ -12725,7 +12768,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BaMbJ9s",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "46,69",
     "menorPrecoEmDias" : false,
@@ -12822,7 +12865,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPZRqphc",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "28,88",
     "menorPrecoEmDias" : false,
@@ -12919,7 +12962,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LHsNRcgI2",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "31,99",
     "menorPrecoEmDias" : false,
@@ -13016,7 +13059,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7Ac3kp5iM6",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "44,50",
     "menorPrecoEmDias" : false,
@@ -13113,7 +13156,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPZQiRBT",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "56,34",
     "menorPrecoEmDias" : false,
@@ -13210,7 +13253,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VFvv1up02",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "1.049,99",
     "menorPrecoEmDias" : false,
@@ -13277,7 +13320,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AKZ5WbYbfT",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "79,79",
     "menorPrecoEmDias" : false,
@@ -13379,9 +13422,6 @@
     "precoAnterior" : "159,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 159.0
-    }, {
       "data" : "15/08/2026",
       "preco" : 159.0
     }, {
@@ -13462,7 +13502,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjqeJi0",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "44,99",
     "menorPrecoEmDias" : false,
@@ -13559,7 +13599,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2VqEDDbk1d",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "56,00",
     "menorPrecoEmDias" : false,
@@ -13920,9 +13960,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/1LepfOB9pw",
     "categoria" : "Cervejas",
     "categoriaId" : 13,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
-    "precoAnterior" : "115,90",
+    "precoAnterior" : "104,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -14017,7 +14057,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AOUVrlxcJ",
     "categoria" : "Cervejas",
     "categoriaId" : 13,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "114,99",
     "menorPrecoEmDias" : false,
@@ -14048,7 +14088,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AN88TGMzR",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:43",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false,
@@ -14145,7 +14185,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7fYKLZPzWM",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "58,99",
     "menorPrecoEmDias" : false,
@@ -14247,9 +14287,6 @@
     "precoAnterior" : "54,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 52.9
-    }, {
       "data" : "15/08/2026",
       "preco" : 52.9
     }, {
@@ -14485,7 +14522,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LHsNbcu71",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "31,28",
     "menorPrecoEmDias" : false,
@@ -14582,7 +14619,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5fnFxpmQ69",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "52,19",
     "menorPrecoEmDias" : false,
@@ -14679,9 +14716,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/gOa0hqdid",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
-    "precoAnterior" : "67,90",
+    "precoAnterior" : "69,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -14776,7 +14813,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9fJOjORwO9",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -14873,7 +14910,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6L3g5gWUR4",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "16,90",
     "menorPrecoEmDias" : false,
@@ -15058,7 +15095,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUswjBMqx2",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "56,90",
     "menorPrecoEmDias" : false,
@@ -15245,7 +15282,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjWYwoT7E",
     "categoria" : "Jardim e Piscina",
     "categoriaId" : 100,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
@@ -15638,7 +15675,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3LPo7IaomK",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false,
@@ -15923,7 +15960,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V8pNwJRuW",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:57",
     "destaque" : false,
     "precoAnterior" : "43,99",
     "menorPrecoEmDias" : false,
@@ -15951,7 +15988,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AkU2TKmGh",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "38,89",
     "menorPrecoEmDias" : false,
@@ -16024,7 +16061,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2BE77ruisC",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "58,90",
     "menorPrecoEmDias" : false,
@@ -16118,7 +16155,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1qaXOziHsj",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "115,90",
     "menorPrecoEmDias" : false,
@@ -16306,9 +16343,6 @@
     "precoAnterior" : "37,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 39.9
-    }, {
       "data" : "15/08/2026",
       "preco" : 39.9
     }, {
@@ -16490,8 +16524,6 @@
     "precoAnterior" : "22,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026"
-    }, {
       "data" : "16/08/2026"
     }, {
       "data" : "17/08/2026"
@@ -17198,15 +17230,15 @@
     "id" : 179327,
     "titulo" : "Conjunto Alfaiataria Cropped Tomara que Caia Social Elegante Calça Pantalona Blusa Elástico Lastex Botão Verão Feminino",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-825a5-mspy9oulce893d",
-    "precoOriginal" : "99,86",
-    "precoPromocao" : "69,90",
+    "precoOriginal" : "99,99",
+    "precoPromocao" : "69,99",
     "desconto" : "-30%",
     "linkAfiliado" : "https://s.shopee.com.br/903hwDbn8z",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
-    "precoAnterior" : "59,90",
+    "precoAnterior" : "69,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -17288,7 +17320,7 @@
       "preco" : 59.9
     }, {
       "data" : "13/09/2026",
-      "preco" : 69.9
+      "preco" : 69.99
     } ],
     "tags" : [ ]
   }, {
@@ -17301,7 +17333,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QPSPjhV",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "48,90",
     "menorPrecoEmDias" : false,
@@ -17486,7 +17518,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUsViuXyKU",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "27,90",
     "menorPrecoEmDias" : false,
@@ -17583,7 +17615,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40f1ylslTD",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "224,90",
     "menorPrecoEmDias" : false,
@@ -17680,7 +17712,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjWYkkW5C",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "219,67",
     "menorPrecoEmDias" : false,
@@ -17777,7 +17809,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3qLbmictn8",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "189,00",
     "menorPrecoEmDias" : false,
@@ -17874,7 +17906,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXa00JJ",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "72,46",
     "menorPrecoEmDias" : false,
@@ -17971,7 +18003,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gANrggc",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "76,58",
     "menorPrecoEmDias" : false,
@@ -18068,7 +18100,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5ArihcLiG6",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "31,59",
     "menorPrecoEmDias" : false,
@@ -18162,7 +18194,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BaMomYO",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
@@ -18259,7 +18291,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QRHeRtY",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "269,89",
     "menorPrecoEmDias" : false,
@@ -18356,7 +18388,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07K8WF98V?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:12",
+    "dataOferta" : "13/09/2026 15:24",
     "destaque" : false,
     "precoAnterior" : "45,48",
     "menorPrecoEmDias" : false,
@@ -18440,7 +18472,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZAoAVa9",
     "categoria" : "Jardim e Piscina",
     "categoriaId" : 100,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false,
@@ -18537,7 +18569,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2LWnzvkWAR",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "49,89",
     "menorPrecoEmDias" : false,
@@ -18634,7 +18666,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/W59oWnuAv",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "24,98",
     "menorPrecoEmDias" : false,
@@ -18797,7 +18829,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9UzyX6JEcT",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "59,89",
     "menorPrecoEmDias" : false,
@@ -18894,7 +18926,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2LWo0ucNMa",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "38,22",
     "menorPrecoEmDias" : false,
@@ -18991,7 +19023,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gAMXC3f",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "34,99",
     "menorPrecoEmDias" : false,
@@ -19358,7 +19390,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1BKqclgojV",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "29,98",
     "menorPrecoEmDias" : false,
@@ -19455,7 +19487,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXLb00R",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "29,98",
     "menorPrecoEmDias" : false,
@@ -19552,9 +19584,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B081VVJ9FW?tag=curadomus-20",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:53",
+    "dataOferta" : "13/09/2026 15:02",
     "destaque" : false,
-    "precoAnterior" : "31,38",
+    "precoAnterior" : "36,97",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "14/08/2026",
@@ -19641,7 +19673,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9zwF7rH6mW",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "32,90",
     "menorPrecoEmDias" : false,
@@ -19738,7 +19770,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrYYEGVi",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "29,90",
     "menorPrecoEmDias" : false,
@@ -20181,6 +20213,85 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180548,
+    "titulo" : "Cubo Sensorial Educativo 10 Em 1 Para Habilidades Motoras",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_689624-MLB110978735735_042026-F-cubo-sensorial-educativo-10-em-1-para-habilidades-motoras.webp",
+    "precoOriginal" : "60,00",
+    "precoPromocao" : "44,99",
+    "desconto" : "-25%",
+    "linkAfiliado" : "https://meli.la/2HuT9eo",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "13/09/2026 15:02",
+    "destaque" : false,
+    "precoAnterior" : "44,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "19/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 46.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 37.84
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 44.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 44.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 44.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 44.99
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 179886,
     "titulo" : "Cápsulas de Café Clássico Baggio Café, compatível com Nespresso, contém 20 cápsulas",
     "imagem" : "https://m.media-amazon.com/images/I/61c0hnt-WkL._AC_SL1500_.jpg",
@@ -20365,7 +20476,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4Ayux9pUUQ",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "17,96",
     "menorPrecoEmDias" : false,
@@ -20462,7 +20573,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1BKqhjkxJc",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "59,98",
     "menorPrecoEmDias" : false,
@@ -20887,7 +20998,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0D8X4C7QR?tag=curadomus-20",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:59",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -21478,7 +21589,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6pzDMAlvlQ",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "19,99",
     "menorPrecoEmDias" : false,
@@ -21575,7 +21686,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9UzyX5F6JT",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:43",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
@@ -21672,7 +21783,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZAfa8w6",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "40,99",
     "menorPrecoEmDias" : false,
@@ -21769,7 +21880,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPZQzlI1",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "61,99",
     "menorPrecoEmDias" : false,
@@ -21866,7 +21977,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/gOa0pnGpu",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "61,69",
     "menorPrecoEmDias" : false,
@@ -21963,9 +22074,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXXex2z",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
-    "precoAnterior" : "34,99",
+    "precoAnterior" : "34,30",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -22197,7 +22308,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUsViwFQal",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "54,00",
     "menorPrecoEmDias" : false,
@@ -22294,7 +22405,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B5v5PdLGC",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "26,99",
     "menorPrecoEmDias" : false,
@@ -22391,7 +22502,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9UzyX5SZj8",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "34,80",
     "menorPrecoEmDias" : false,
@@ -22479,6 +22590,94 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180543,
+    "titulo" : "Fechadura Digital Biométrica Senha App Tuya Keltech Kt-1000",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_808119-MLB107530751114_032026-F-fechadura-digital-biometrica-senha-app-tuya-keltech-kt1000.webp",
+    "precoOriginal" : "437,00",
+    "precoPromocao" : "317,75",
+    "desconto" : "-27%",
+    "linkAfiliado" : "https://meli.la/1iw6KkM",
+    "categoria" : "Ferramentas e Materiais de Construção",
+    "categoriaId" : 98,
+    "dataOferta" : "13/09/2026 14:53",
+    "destaque" : false,
+    "precoAnterior" : "317,75",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 295.86
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 295.86
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 295.86
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 295.86
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 295.86
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 437.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 322.12
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 322.12
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 322.12
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 322.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 322.12
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 427.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 317.75
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 317.75
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 317.75
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 317.75
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 317.75
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 179647,
     "titulo" : "Fechadura Digital de Sobrepor, Abertura por senha ou tag, Pop, Preta, DS1100V, Elsys",
     "imagem" : "https://m.media-amazon.com/images/I/51lahumSRyL._AC_SL1200_.jpg",
@@ -22488,7 +22687,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CW98VY4C?tag=curadomus-20",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:58",
+    "dataOferta" : "13/09/2026 15:08",
     "destaque" : false,
     "precoAnterior" : "227,87",
     "menorPrecoEmDias" : false,
@@ -22578,7 +22777,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5ArbawsOdg",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "299,00",
     "menorPrecoEmDias" : false,
@@ -22763,7 +22962,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7psDTOjqz9",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "129,00",
     "menorPrecoEmDias" : false,
@@ -23211,7 +23410,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8KoQKVovis",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "10,00",
     "menorPrecoEmDias" : false,
@@ -23402,7 +23601,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VFbYITcZx",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "229,00",
     "menorPrecoEmDias" : false,
@@ -23585,7 +23784,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7psTs2Ek7u",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "40,99",
     "menorPrecoEmDias" : false,
@@ -23679,7 +23878,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilO3bwUt",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "47,98",
     "menorPrecoEmDias" : false,
@@ -23776,7 +23975,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1Vxh0OW5iL",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "72,00",
     "menorPrecoEmDias" : false,
@@ -23873,7 +24072,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXXwY9H",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "62,99",
     "menorPrecoEmDias" : false,
@@ -23970,7 +24169,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40f1yxwiVe",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "42,89",
     "menorPrecoEmDias" : false,
@@ -24161,7 +24360,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2LWnztgvS4",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "47,99",
     "menorPrecoEmDias" : false,
@@ -24258,7 +24457,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzO7OHzu",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "18,99",
     "menorPrecoEmDias" : false,
@@ -24355,7 +24554,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1LefIhDI66",
     "categoria" : "Jardim e Piscina",
     "categoriaId" : 100,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "399,90",
     "menorPrecoEmDias" : false,
@@ -25999,7 +26198,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6L2wl7V4EE",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "37,86",
     "menorPrecoEmDias" : false,
@@ -26096,9 +26295,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DLJF5D89?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:09",
+    "dataOferta" : "13/09/2026 15:21",
     "destaque" : false,
-    "precoAnterior" : "44,12",
+    "precoAnterior" : "44,22",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -26278,7 +26477,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FJHZWJ3V?tag=curadomus-20",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 09:04",
+    "dataOferta" : "13/09/2026 15:15",
     "destaque" : false,
     "precoAnterior" : "911,90",
     "menorPrecoEmDias" : false,
@@ -26450,86 +26649,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179808,
-    "titulo" : "Fritadeira Elétrica Air Fryer Facilita Fry Elgin - 3.5 Litros, 220V",
-    "imagem" : "https://m.media-amazon.com/images/I/41vdvIk7YvL._AC_SL1000_.jpg",
-    "precoOriginal" : "412,20",
-    "precoPromocao" : "229,08",
-    "desconto" : "-44%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DTW24HGR?tag=curadomus-20",
-    "categoria" : "Eletroportáteis",
-    "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 09:24",
-    "destaque" : false,
-    "precoAnterior" : "229,08",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 239.19
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 239.19
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 239.19
-    }, {
-      "data" : "19/08/2026"
-    }, {
-      "data" : "21/08/2026"
-    }, {
-      "data" : "22/08/2026"
-    }, {
-      "data" : "23/08/2026"
-    }, {
-      "data" : "25/08/2026"
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "29/08/2026"
-    }, {
-      "data" : "30/08/2026"
-    }, {
-      "data" : "31/08/2026"
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 170.9
-    }, {
-      "data" : "02/09/2026"
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 209.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 166.25
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 229.08
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 229.08
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179444,
     "titulo" : "Fritadeira Elétrica Air Fryer Philco PAF55A 5,5 L 1500W",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mc9i8mhwrl5s2e",
@@ -26539,7 +26658,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7fYiqi6HwE",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "319,90",
     "menorPrecoEmDias" : false,
@@ -26636,7 +26755,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/BSJPwslZ2",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false,
@@ -27205,7 +27324,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAG1yKGUPq",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "123,99",
     "menorPrecoEmDias" : false,
@@ -27471,100 +27590,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179709,
-    "titulo" : "Garrafa Térmica de Inox Parede Dupla Prata 500ml",
-    "imagem" : "https://m.media-amazon.com/images/I/61izSU+MChL._AC_SL1500_.jpg",
-    "precoOriginal" : "80,00",
-    "precoPromocao" : "28,00",
-    "desconto" : "-65%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B083YFGCL4?tag=curadomus-20",
-    "categoria" : "Cozinha",
-    "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:07",
-    "destaque" : false,
-    "precoAnterior" : "28,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 30.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 29.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 35.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 30.01
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 30.01
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 30.01
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 28.0
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179181,
     "titulo" : "Garrafa Térmica Nórdica 1 Litro Café Chá Cabo de Madeira",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-ltf9t19vu4hk86",
@@ -27574,9 +27599,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qT4aprxFD",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
-    "precoAnterior" : "38,90",
+    "precoAnterior" : "39,97",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -27671,7 +27696,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3LPLFdKYgP",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "99,99",
     "menorPrecoEmDias" : false,
@@ -28117,6 +28142,101 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180538,
+    "titulo" : "Gin Tanqueray Sevilla 700ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51cn1cLRg1L._AC_SL1000_.jpg",
+    "precoOriginal" : "124,90",
+    "precoPromocao" : "84,99",
+    "desconto" : "-31%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07C8NJV9P?tag=curadomus-20",
+    "categoria" : "Destilados",
+    "categoriaId" : 12,
+    "dataOferta" : "13/09/2026 14:42",
+    "destaque" : false,
+    "precoAnterior" : "84,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 96.89
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 96.89
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 96.89
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 96.89
+    }, {
+      "data" : "26/08/2026"
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 96.91
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 109.97
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 109.98
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "06/09/2026"
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 84.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 84.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 84.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 84.99
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 179521,
     "titulo" : "Goma Gomets Sortido Dori 500g",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-825at-ms1t8jbg6ltw24",
@@ -28126,7 +28246,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6pzwgKfZvj",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "8,99",
     "menorPrecoEmDias" : false,
@@ -28220,7 +28340,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9KghfKsHZL",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "34,79",
     "menorPrecoEmDias" : false,
@@ -28746,7 +28866,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5fnFz2MNyR",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "797,05",
     "menorPrecoEmDias" : false,
@@ -30333,9 +30453,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/2gANjbuDTM",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
-    "precoAnterior" : "549,90",
+    "precoAnterior" : "539,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -30427,7 +30547,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8Ko18zeKUv",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "116,00",
     "menorPrecoEmDias" : false,
@@ -30524,9 +30644,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QQSe9Rz",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
-    "precoAnterior" : "24,99",
+    "precoAnterior" : "25,88",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -30712,7 +30832,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3LPSJ0guUK",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "5.973,00",
     "menorPrecoEmDias" : false,
@@ -30885,7 +31005,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7KvTy5gyte",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "195,00",
     "menorPrecoEmDias" : false,
@@ -30982,7 +31102,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfKLFC0e",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "146,84",
     "menorPrecoEmDias" : false,
@@ -31169,9 +31289,6 @@
     "precoAnterior" : "191,77",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 190.4
-    }, {
       "data" : "15/08/2026",
       "preco" : 224.0
     }, {
@@ -31343,7 +31460,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5ArS89OlDh",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "82,99",
     "menorPrecoEmDias" : false,
@@ -31440,7 +31557,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8Ko18xNfzO",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "399,99",
     "menorPrecoEmDias" : false,
@@ -31537,7 +31654,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9zwhszpddo",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "38,99",
     "menorPrecoEmDias" : false,
@@ -31628,13 +31745,13 @@
     "id" : 179478,
     "titulo" : "Jogo da memoria sonoro e visual,memory game tipo genius luz e som Pura Nostalgia",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-82605-mlyxk9clrhtw13",
-    "precoOriginal" : "46,76",
-    "precoPromocao" : "15,90",
-    "desconto" : "-66%",
+    "precoOriginal" : "46,80",
+    "precoPromocao" : "19,19",
+    "desconto" : "-59%",
     "linkAfiliado" : "https://s.shopee.com.br/4fvBhG47qg",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "15,90",
     "menorPrecoEmDias" : false,
@@ -31718,7 +31835,7 @@
       "preco" : 15.9
     }, {
       "data" : "13/09/2026",
-      "preco" : 15.9
+      "preco" : 19.19
     } ],
     "tags" : [ ]
   }, {
@@ -31731,9 +31848,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gACWyFD",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
-    "precoAnterior" : "30,90",
+    "precoAnterior" : "29,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -31828,7 +31945,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/80BAkJz5V5",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "28,99",
     "menorPrecoEmDias" : false,
@@ -31925,7 +32042,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/80BAkJLLxd",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "50,60",
     "menorPrecoEmDias" : false,
@@ -32110,7 +32227,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/20txbILvfr",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "13,70",
     "menorPrecoEmDias" : false,
@@ -32207,7 +32324,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/30mUn9ziQx",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "13,90",
     "menorPrecoEmDias" : false,
@@ -32304,7 +32421,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimBuB9q",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "58,90",
     "menorPrecoEmDias" : false,
@@ -32401,9 +32518,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/20txb60NX1",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
-    "precoAnterior" : "177,90",
+    "precoAnterior" : "199,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -32498,9 +32615,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/7fYKLkkhyB",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
-    "precoAnterior" : "135,99",
+    "precoAnterior" : "140,03",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -32595,7 +32712,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/70IdYLSWsI",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "224,90",
     "menorPrecoEmDias" : false,
@@ -32692,7 +32809,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9zwF81Z4Ea",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "191,90",
     "menorPrecoEmDias" : false,
@@ -32780,100 +32897,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179712,
-    "titulo" : "Jogo de Panelas Brinox 5 Peças Ceramic Life Easy Cinza",
-    "imagem" : "https://m.media-amazon.com/images/I/41vLN82-hsL._AC_SL1000_.jpg",
-    "precoOriginal" : "587,69",
-    "precoPromocao" : "303,00",
-    "desconto" : "-48%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CYHHY6NB?tag=curadomus-20",
-    "categoria" : "Cozinha",
-    "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:08",
-    "destaque" : false,
-    "precoAnterior" : "303,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 332.4
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 340.1
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 340.1
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 337.15
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 349.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 332.4
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 332.4
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 275.02
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 303.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 308.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 292.5
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 287.85
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 287.85
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 271.7
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 280.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 266.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 266.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 266.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 285.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 285.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 287.85
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 287.85
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 266.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 266.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 303.9
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 303.0
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179396,
     "titulo" : "Jogo De Panelas Inducao 3x Mais Antiaderente Cerâmica 7peças  Livre De Pfoa Vanila Premium",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-821fl-mgn7gebajevhf3",
@@ -32883,7 +32906,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5fnG40TpBw",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "350,00",
     "menorPrecoEmDias" : false,
@@ -32980,9 +33003,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/6L2wlHn1fm",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
-    "precoAnterior" : "253,99",
+    "precoAnterior" : "278,60",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -33077,7 +33100,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1BKqbo9SAI",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "7,99",
     "menorPrecoEmDias" : false,
@@ -33156,7 +33179,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LHsNbLIxe",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "28,98",
     "menorPrecoEmDias" : false,
@@ -33253,7 +33276,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfKKuIGS",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "89,59",
     "menorPrecoEmDias" : false,
@@ -33341,6 +33364,79 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180553,
+    "titulo" : "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul Marinho",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_881368-MLA99701327430_122025-F.webp",
+    "precoOriginal" : "229,90",
+    "precoPromocao" : "169,91",
+    "desconto" : "-26%",
+    "linkAfiliado" : "https://meli.la/23FzenB",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "13/09/2026 15:11",
+    "destaque" : false,
+    "precoAnterior" : "169,91",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "23/08/2026",
+      "preco" : 119.92
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 169.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 143.92
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 140.71
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 140.71
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 140.71
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 159.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 199.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 169.91
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 169.91
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 178750,
     "titulo" : "Jogo de Xícaras de Café com Pires de Madeira Coração Cantinho do Café Kit Presente Feminino",
     "imagem" : "https://cf.shopee.com.br/file/br-11134201-820lf-mqxa6g4hv9qf8b",
@@ -33350,7 +33446,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VMMxYnCRK",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "48,00",
     "menorPrecoEmDias" : false,
@@ -33447,7 +33543,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9AN88UKVId",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "115,90",
     "menorPrecoEmDias" : false,
@@ -33544,9 +33640,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/70IdYVkUJq",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
-    "precoAnterior" : "262,99",
+    "precoAnterior" : "299,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -33641,7 +33737,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/70IdYUtPuV",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "329,00",
     "menorPrecoEmDias" : false,
@@ -33927,7 +34023,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B5uzUfR94",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "14,89",
     "menorPrecoEmDias" : false,
@@ -34024,7 +34120,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AUawQcu1O",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -34492,7 +34588,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjsLlyX",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
@@ -34589,7 +34685,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AVKH7JDjL",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "38,90",
     "menorPrecoEmDias" : false,
@@ -34683,7 +34779,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yVB8v8",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "18,49",
     "menorPrecoEmDias" : false,
@@ -34780,7 +34876,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySB8dJcz",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "19,94",
     "menorPrecoEmDias" : false,
@@ -34877,9 +34973,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VEu9QiaIr",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
-    "precoAnterior" : "144,90",
+    "precoAnterior" : "147,78",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -35150,7 +35246,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VNYySJr76",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "27,90",
     "menorPrecoEmDias" : false,
@@ -35202,9 +35298,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VMftMFIpM",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
-    "precoAnterior" : "589,90",
+    "precoAnterior" : "566,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -35299,7 +35395,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8plRX93XsM",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -35442,7 +35538,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q78w97Ik9",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "13,33",
     "menorPrecoEmDias" : false,
@@ -35539,7 +35635,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AUawUO5VN",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "62,93",
     "menorPrecoEmDias" : false,
@@ -35636,7 +35732,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2LXXKjOQ6Y",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
@@ -36000,7 +36096,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/qi0Cx4ote",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "49,89",
     "menorPrecoEmDias" : false,
@@ -36097,7 +36193,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7KvTx94XTA",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "69,89",
     "menorPrecoEmDias" : false,
@@ -36373,9 +36469,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/40flJN6RQk",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
-    "precoAnterior" : "56,90",
+    "precoAnterior" : "48,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -36467,7 +36563,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1LeGp4gBOM",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "94,99",
     "menorPrecoEmDias" : false,
@@ -36564,7 +36660,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AyX8NQQXj",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "47,99",
     "menorPrecoEmDias" : false,
@@ -36661,7 +36757,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LIL9aq1Zm",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "28,69",
     "menorPrecoEmDias" : false,
@@ -36758,7 +36854,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40f1zxtfeo",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
@@ -36855,11 +36951,10 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXYIH0M",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:39",
-    "destaque" : true,
-    "precoAnterior" : "211,44",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "dataOferta" : "13/09/2026 14:43",
+    "destaque" : false,
+    "precoAnterior" : "211,43",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 215.42
@@ -36953,7 +37048,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QPSlSZc",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "65,68",
     "menorPrecoEmDias" : false,
@@ -37050,7 +37145,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZAnsuTs",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "38,99",
     "menorPrecoEmDias" : false,
@@ -37241,7 +37336,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3qM4YQgO6p",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "10,00",
     "menorPrecoEmDias" : false,
@@ -37338,7 +37433,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4VbIZwsvHY",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
@@ -37523,7 +37618,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50YAOVRPfg",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "34,99",
     "menorPrecoEmDias" : false,
@@ -37620,7 +37715,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/70IdYW6Lh5",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "35,90",
     "menorPrecoEmDias" : false,
@@ -37717,7 +37812,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2BEZofwaB8",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "27,99",
     "menorPrecoEmDias" : false,
@@ -37769,7 +37864,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6pzDM2TADF",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "139,90",
     "menorPrecoEmDias" : false,
@@ -37866,7 +37961,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7prkXsPMBP",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "54,90",
     "menorPrecoEmDias" : false,
@@ -37963,7 +38058,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8Ko18jcGgP",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "59,99",
     "menorPrecoEmDias" : false,
@@ -38060,7 +38155,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/70IdYWnFJz",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "17,90",
     "menorPrecoEmDias" : false,
@@ -38157,7 +38252,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5fnFy3XpOc",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
@@ -38254,7 +38349,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySBI4CfB",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "60,79",
     "menorPrecoEmDias" : false,
@@ -38351,7 +38446,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yYE3XR",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "76,90",
     "menorPrecoEmDias" : false,
@@ -38448,7 +38543,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/qi0D9QN2U",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
@@ -38545,7 +38640,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9pcovhRJ3A",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -38642,7 +38737,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q7PV0b45C",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "10,00",
     "menorPrecoEmDias" : false,
@@ -38736,7 +38831,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPaQNeeL",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "31,99",
     "menorPrecoEmDias" : false,
@@ -38921,7 +39016,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/18tEchxTp",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "28,90",
     "menorPrecoEmDias" : false,
@@ -39018,7 +39113,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimCXV7y",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "58,99",
     "menorPrecoEmDias" : false,
@@ -39115,7 +39210,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/18tDfDtWz",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "198,99",
     "menorPrecoEmDias" : false,
@@ -39212,7 +39307,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZApIlbq",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "24,73",
     "menorPrecoEmDias" : false,
@@ -39309,7 +39404,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DR3BLGF5?tag=curadomus-20",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:58",
     "destaque" : false,
     "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
@@ -39479,7 +39574,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1gHqX6x3Uh",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "12,80",
     "menorPrecoEmDias" : false,
@@ -39573,7 +39668,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7prpCwM6kQ",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "57,90",
     "menorPrecoEmDias" : false,
@@ -39758,9 +39853,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/qi0DCAiqC",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
-    "precoAnterior" : "39,89",
+    "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -39855,7 +39950,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2g9eOVfem6",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
@@ -39952,7 +40047,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzT5VjCW",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "52,60",
     "menorPrecoEmDias" : false,
@@ -40049,7 +40144,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1BLa0pJLeQ",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "10,00",
     "menorPrecoEmDias" : false,
@@ -40143,7 +40238,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VEu9PMiNH",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
@@ -40228,97 +40323,6 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 79.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 179659,
-    "titulo" : "Kärcher Lavadora de Alta pressão Prática Black, 1500 PSI/Libras, 1400W, 300L/h com Aplicador de Detergente e Lança Regulável 127V, Energia elétrica",
-    "imagem" : "https://m.media-amazon.com/images/I/71Vmy52AhJL._AC_SL1500_.jpg",
-    "precoOriginal" : "459,00",
-    "precoPromocao" : "324,63",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DYQ7GZBC?tag=curadomus-20",
-    "categoria" : "Jardim e Piscina",
-    "categoriaId" : 100,
-    "dataOferta" : "13/09/2026 09:00",
-    "destaque" : false,
-    "precoAnterior" : "324,63",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "15/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 319.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 341.18
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 324.63
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 324.63
     } ],
     "tags" : [ ]
   }, {
@@ -40688,7 +40692,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9zwg8CM2cF",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "65,35",
     "menorPrecoEmDias" : false,
@@ -40785,7 +40789,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/20uZpDT2JT",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false,
@@ -40882,7 +40886,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/20v7F4Chnh",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "32,90",
     "menorPrecoEmDias" : false,
@@ -40937,7 +40941,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzN80OdT",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "42,99",
     "menorPrecoEmDias" : false,
@@ -41034,7 +41038,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1LeGo84yhj",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "8.000,00",
     "menorPrecoEmDias" : false,
@@ -41131,9 +41135,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BTFCXSMS?tag=curadomus-20",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 09:05",
+    "dataOferta" : "13/09/2026 15:17",
     "destaque" : false,
-    "precoAnterior" : "1.798,99",
+    "precoAnterior" : "1.857,76",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026"
@@ -41216,7 +41220,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q82vcycuo",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "3.299,00",
     "menorPrecoEmDias" : false,
@@ -41247,7 +41251,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilO5Jfno",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "99,89",
     "menorPrecoEmDias" : false,
@@ -41457,7 +41461,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1qawaZ9H7f",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "2.098,37",
     "menorPrecoEmDias" : false,
@@ -41683,7 +41687,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BgKbRFN",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "13,90",
     "menorPrecoEmDias" : false,
@@ -41953,7 +41957,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2gB3AnZEDf",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:57",
     "destaque" : false,
     "precoAnterior" : "52,94",
     "menorPrecoEmDias" : false,
@@ -41969,96 +41973,6 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 52.94
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 179145,
-    "titulo" : "Licor Baileys Original, 750ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51DPV5YOdxL._AC_SL1200_.jpg",
-    "precoOriginal" : "166,90",
-    "precoPromocao" : "139,99",
-    "desconto" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B004CY6VLC?tag=curadomus-20",
-    "categoria" : "Destilados",
-    "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:36",
-    "destaque" : false,
-    "precoAnterior" : "139,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 149.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 139.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 139.99
     } ],
     "tags" : [ ]
   }, {
@@ -42156,7 +42070,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B003XI0N4E?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:35",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "101,54",
     "menorPrecoEmDias" : false,
@@ -42327,7 +42241,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilO46k0z",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "27,90",
     "menorPrecoEmDias" : false,
@@ -42424,7 +42338,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BaPIUuM",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "121,42",
     "menorPrecoEmDias" : false,
@@ -42521,7 +42435,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZArr1Gb",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "121,42",
     "menorPrecoEmDias" : false,
@@ -42618,7 +42532,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXZMPJU",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "112,27",
     "menorPrecoEmDias" : false,
@@ -42715,7 +42629,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3B5uzTfqD0",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "109,99",
     "menorPrecoEmDias" : false,
@@ -42891,103 +42805,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179615,
-    "titulo" : "Listerine Enxaguante Bucal Cool Mint Sem Álcool, 1L",
-    "imagem" : "https://m.media-amazon.com/images/I/615Cb1legyL._AC_SL1500_.jpg",
-    "precoOriginal" : "41,99",
-    "precoPromocao" : "28,69",
-    "desconto" : "-31%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DQ25G714?tag=curadomus-20",
-    "categoria" : "Saúde e Bem-Estar",
-    "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:53",
-    "destaque" : false,
-    "precoAnterior" : "28,69",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 26.99
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 26.99
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 26.99
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 29.39
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 29.39
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 29.23
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 29.23
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 29.23
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 32.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 32.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 32.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 32.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 29.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 32.74
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 25.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 24.08
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 28.69
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 28.69
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 28.69
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 28.69
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 178684,
     "titulo" : "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mccb5id6es7v2d",
@@ -42997,7 +42814,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/qi0D0q0Ne",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "59,88",
     "menorPrecoEmDias" : false,
@@ -43094,7 +42911,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2VqECESHgd",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "29,90",
     "menorPrecoEmDias" : false,
@@ -43270,7 +43087,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9pcoviZhZf",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "69,99",
     "menorPrecoEmDias" : false,
@@ -43367,7 +43184,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gAKpjn8",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "68,99",
     "menorPrecoEmDias" : false,
@@ -43464,7 +43281,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUsVimFClf",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "45,88",
     "menorPrecoEmDias" : false,
@@ -43918,7 +43735,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1Vxh0Mk691",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "28,50",
     "menorPrecoEmDias" : false,
@@ -44288,7 +44105,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2BDNnahYn5",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "148,50",
     "menorPrecoEmDias" : false,
@@ -44385,7 +44202,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AUawfinxI",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false,
@@ -44576,7 +44393,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8KoWyHXLwa",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "39,88",
     "menorPrecoEmDias" : false,
@@ -44678,9 +44495,6 @@
     "precoAnterior" : "84,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 74.09
-    }, {
       "data" : "15/08/2026",
       "preco" : 74.09
     }, {
@@ -44827,7 +44641,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjdJImbhH",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "609,99",
     "menorPrecoEmDias" : false,
@@ -45011,7 +44825,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/80BAkBOiqK",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "69,99",
     "menorPrecoEmDias" : false,
@@ -45108,7 +44922,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AUawgMP0W",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "26,97",
     "menorPrecoEmDias" : false,
@@ -45205,7 +45019,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QPTXzjS",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "22,88",
     "menorPrecoEmDias" : false,
@@ -45396,7 +45210,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1BLDG9ffRJ",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "56,99",
     "menorPrecoEmDias" : false,
@@ -45493,7 +45307,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjqIBGi",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "33,66",
     "menorPrecoEmDias" : false,
@@ -45590,7 +45404,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/80BAkJhUOn",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "32,99",
     "menorPrecoEmDias" : false,
@@ -45687,7 +45501,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7VEuFNMqTH",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "56,88",
     "menorPrecoEmDias" : false,
@@ -45784,9 +45598,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/3qLyQumQ2K",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
-    "precoAnterior" : "13,35",
+    "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -45881,7 +45695,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9pcovi0MoF",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
@@ -45978,7 +45792,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzN6sH8v",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "23,88",
     "menorPrecoEmDias" : false,
@@ -46075,7 +45889,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1VyQKURd5l",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
@@ -46169,7 +45983,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AzBVQ80Yg",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "28,90",
     "menorPrecoEmDias" : false,
@@ -46263,7 +46077,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pl13yhZW1",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "27,90",
     "menorPrecoEmDias" : false,
@@ -46357,7 +46171,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8AUawgexpu",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "154,99",
     "menorPrecoEmDias" : false,
@@ -46543,15 +46357,16 @@
     "titulo" : "Mixer Misturador Multiuso Electrolux 3 em 1 400W 2 velocidades 3 acessórios mini processador capacidade resistente temperatura 600ml livre BPA EIB10 preto 220v",
     "imagem" : "https://m.media-amazon.com/images/I/711xy6JhdXL._AC_SL1500_.jpg",
     "precoOriginal" : "269,90",
-    "precoPromocao" : "179,90",
-    "desconto" : "-33%",
+    "precoPromocao" : "176,61",
+    "desconto" : "-34%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09B2PTMSZ?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:10",
-    "destaque" : false,
+    "dataOferta" : "13/09/2026 15:22",
+    "destaque" : true,
     "precoAnterior" : "179,90",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
       "data" : "15/08/2026",
       "preco" : 178.99
@@ -46626,7 +46441,7 @@
       "preco" : 179.9
     }, {
       "data" : "13/09/2026",
-      "preco" : 179.9
+      "preco" : 176.61
     } ],
     "tags" : [ ]
   }, {
@@ -46897,7 +46712,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2g9eOWJOJX",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "49,40",
     "menorPrecoEmDias" : false,
@@ -47173,7 +46988,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09B17MQLC?tag=curadomus-20",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 09:05",
+    "dataOferta" : "13/09/2026 15:16",
     "destaque" : false,
     "precoAnterior" : "113,05",
     "menorPrecoEmDias" : false,
@@ -47354,14 +47169,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FPDWQF8G?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "13/09/2026 09:21",
+    "dataOferta" : "13/09/2026 15:34",
     "destaque" : false,
     "precoAnterior" : "3.977,77",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 3510.22
-    }, {
       "data" : "15/08/2026",
       "preco" : 3510.21
     }, {
@@ -47445,9 +47257,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 529.87
-    }, {
       "data" : "15/08/2026",
       "preco" : 529.64
     }, {
@@ -47793,15 +47602,15 @@
     "id" : 179361,
     "titulo" : "Moto Elétrica Infantil Motinha Criança Luz Menino Menina",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820m2-mr7ern9irqbr01",
-    "precoOriginal" : "559,31",
-    "precoPromocao" : "329,99",
-    "desconto" : "-41%",
+    "precoOriginal" : "555,54",
+    "precoPromocao" : "349,99",
+    "desconto" : "-37%",
     "linkAfiliado" : "https://s.shopee.com.br/4qE8zVPYfo",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
-    "precoAnterior" : "348,98",
+    "precoAnterior" : "329,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -47883,94 +47692,7 @@
       "preco" : 348.98
     }, {
       "data" : "13/09/2026",
-      "preco" : 329.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 179787,
-    "titulo" : "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED com 6 Botões Programáveis e Até 12.000 DPI - Preto",
-    "imagem" : "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
-    "precoOriginal" : "299,90",
-    "precoPromocao" : "199,99",
-    "desconto" : "-33%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GPRWFC5?tag=curadomus-20",
-    "categoria" : "Computadores e Informática",
-    "categoriaId" : 161,
-    "dataOferta" : "13/09/2026 09:20",
-    "destaque" : false,
-    "precoAnterior" : "199,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 189.98
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "06/09/2026"
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 199.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 199.99
+      "preco" : 349.99
     } ],
     "tags" : [ ]
   }, {
@@ -47983,7 +47705,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1VyQLOVPHZ",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "18,90",
     "menorPrecoEmDias" : false,
@@ -48502,7 +48224,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6fgBDoJA5q",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "218,87",
     "menorPrecoEmDias" : false,
@@ -48599,7 +48321,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qTXW1L4WE",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "108,00",
     "menorPrecoEmDias" : false,
@@ -48790,7 +48512,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/qiOhoNBan",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "97,99",
     "menorPrecoEmDias" : false,
@@ -48887,7 +48609,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fRFbh65kQ",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "134,99",
     "menorPrecoEmDias" : false,
@@ -48984,7 +48706,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gAKTbLR",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "20,99",
     "menorPrecoEmDias" : false,
@@ -49081,7 +48803,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AUsaLesemL",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "49,00",
     "menorPrecoEmDias" : false,
@@ -49898,7 +49620,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07YNFRZK9?tag=curadomus-20",
     "categoria" : "Beleza",
     "categoriaId" : 33,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "34,27",
     "menorPrecoEmDias" : false,
@@ -50091,9 +49813,6 @@
     "precoAnterior" : "45,58",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 65.69
-    }, {
       "data" : "15/08/2026",
       "preco" : 54.78
     }, {
@@ -50237,7 +49956,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXPMBUO",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "79,96",
     "menorPrecoEmDias" : false,
@@ -50334,7 +50053,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fvSB4Anq0",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "19,99",
     "menorPrecoEmDias" : false,
@@ -50428,7 +50147,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1Vxh0Q8BUO",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "137,27",
     "menorPrecoEmDias" : false,
@@ -50610,7 +50329,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09JCQLC7D?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:12",
+    "dataOferta" : "13/09/2026 15:24",
     "destaque" : false,
     "precoAnterior" : "111,23",
     "menorPrecoEmDias" : false,
@@ -51673,9 +51392,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjWZ08yq5",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
-    "precoAnterior" : "21,99",
+    "precoAnterior" : "27,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -51853,7 +51572,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qT4bpaTM3",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "144,90",
     "menorPrecoEmDias" : false,
@@ -51950,9 +51669,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/8Ko18xfPcU",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
-    "precoAnterior" : "325,90",
+    "precoAnterior" : "328,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -52047,7 +51766,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V7RLEJRwk",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "321,90",
     "menorPrecoEmDias" : false,
@@ -52144,7 +51863,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50XZAoWES0",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "348,90",
     "menorPrecoEmDias" : false,
@@ -52241,7 +51960,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySBKGatF",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "299,90",
     "menorPrecoEmDias" : false,
@@ -52338,7 +52057,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2qTT5snwYw",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "309,90",
     "menorPrecoEmDias" : false,
@@ -52435,7 +52154,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAG6KPWM0a",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "449,00",
     "menorPrecoEmDias" : false,
@@ -52552,14 +52271,14 @@
     "titulo" : "Papa Bolinhas Portátil, para Remoção de Bolinhas das Roupas, CST0146, Flash Limp - ABS Verde Agua",
     "imagem" : "https://m.media-amazon.com/images/I/41-K3fX2ksL._AC_SL1000_.jpg",
     "precoOriginal" : "44,98",
-    "precoPromocao" : "29,19",
-    "desconto" : "-35%",
+    "precoPromocao" : "31,52",
+    "desconto" : "-29%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07NQ8DTKQ?tag=curadomus-20",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 15:01",
     "destaque" : false,
-    "precoAnterior" : "30,29",
+    "precoAnterior" : "29,19",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -52634,7 +52353,7 @@
       "preco" : 30.29
     }, {
       "data" : "13/09/2026",
-      "preco" : 29.19
+      "preco" : 31.52
     } ],
     "tags" : [ ]
   }, {
@@ -52690,9 +52409,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/4VbIatU7yD",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
-    "precoAnterior" : "54,90",
+    "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -52787,7 +52506,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9fJOkO79rL",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "36,90",
     "menorPrecoEmDias" : false,
@@ -52884,9 +52603,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/111QPRm09w",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
-    "precoAnterior" : "16,90",
+    "precoAnterior" : "16,50",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -52981,7 +52700,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2g9eOZhL9x",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "16,79",
     "menorPrecoEmDias" : false,
@@ -53078,7 +52797,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/qiT8Z5Qpz",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "19,89",
     "menorPrecoEmDias" : false,
@@ -53784,7 +53503,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/80BAkM2Xf7",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "69,98",
     "menorPrecoEmDias" : false,
@@ -54061,7 +53780,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7fYSfYlHDT",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "47,90",
     "menorPrecoEmDias" : false,
@@ -54163,9 +53882,6 @@
     "precoAnterior" : "21,79",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 23.0
-    }, {
       "data" : "15/08/2026",
       "preco" : 23.0
     }, {
@@ -54240,7 +53956,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5LAPZPrdo1",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "66,81",
     "menorPrecoEmDias" : false,
@@ -54337,9 +54053,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/W59pXjM5J",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
-    "precoAnterior" : "65,90",
+    "precoAnterior" : "66,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -54519,7 +54235,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9pdSg64PLF",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "344,90",
     "menorPrecoEmDias" : false,
@@ -54616,7 +54332,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LITbJkT0k",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "26,90",
     "menorPrecoEmDias" : false,
@@ -54810,9 +54526,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 59.95
-    }, {
       "data" : "15/08/2026",
       "preco" : 59.95
     }, {
@@ -54893,7 +54606,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yWb068",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "35,99",
     "menorPrecoEmDias" : false,
@@ -55081,7 +54794,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gANAn3y",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "31,99",
     "menorPrecoEmDias" : false,
@@ -55178,7 +54891,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilO6J8FJ",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "34,90",
     "menorPrecoEmDias" : false,
@@ -55275,7 +54988,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/9fJOjPwCHL",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "37,89",
     "menorPrecoEmDias" : false,
@@ -55372,7 +55085,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8Ko18yiAcN",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "29,80",
     "menorPrecoEmDias" : false,
@@ -55469,7 +55182,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B094S8TXCT?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:11",
+    "dataOferta" : "13/09/2026 15:23",
     "destaque" : false,
     "precoAnterior" : "89,90",
     "menorPrecoEmDias" : false,
@@ -55735,7 +55448,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHjqvuoI",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "185,99",
     "menorPrecoEmDias" : false,
@@ -55926,7 +55639,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5fnFz2Pgbp",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "59,97",
     "menorPrecoEmDias" : false,
@@ -56473,7 +56186,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2a5NpqE8",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "759,00",
     "menorPrecoEmDias" : false,
@@ -56570,7 +56283,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/111tAOTmKJ",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "569,90",
     "menorPrecoEmDias" : false,
@@ -56843,7 +56556,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6L2wmGJqcV",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "51,99",
     "menorPrecoEmDias" : false,
@@ -56940,7 +56653,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AKZ5WdtevX",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
@@ -57037,7 +56750,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07HCK1656?tag=curadomus-20",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 15:01",
     "destaque" : false,
     "precoAnterior" : "60,90",
     "menorPrecoEmDias" : false,
@@ -57125,7 +56838,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7fZ3flRpvm",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "64,90",
     "menorPrecoEmDias" : false,
@@ -57981,9 +57694,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/8plGarqEsR",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
-    "precoAnterior" : "19,46",
+    "precoAnterior" : "19,96",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "25/08/2026",
@@ -58054,7 +57767,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pl14MyH9J",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
@@ -58412,7 +58125,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4AySBHDgGw",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 07:42",
+    "dataOferta" : "13/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "74,90",
     "menorPrecoEmDias" : false,
@@ -58509,7 +58222,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3VilP3Xw0F",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "74,90",
     "menorPrecoEmDias" : false,
@@ -58606,7 +58319,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8pkHw3xyBG",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:46",
+    "dataOferta" : "13/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "60,00",
     "menorPrecoEmDias" : false,
@@ -58794,7 +58507,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50YI6y2TC4",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "18,90",
     "menorPrecoEmDias" : false,
@@ -58979,7 +58692,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2gAGyB9jm9",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:49",
+    "dataOferta" : "13/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "27,40",
     "menorPrecoEmDias" : false,
@@ -59258,7 +58971,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjWYyVvNl",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:40",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
@@ -59446,7 +59159,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V7nzpi6GZ",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:47",
+    "dataOferta" : "13/09/2026 14:51",
     "destaque" : false,
     "precoAnterior" : "39,99",
     "menorPrecoEmDias" : false,
@@ -59815,9 +59528,6 @@
     "precoAnterior" : "3.499,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 3599.1
-    }, {
       "data" : "15/08/2026",
       "preco" : 3599.1
     }, {
@@ -59986,7 +59696,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4LIL9dxgIn",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "219,99",
     "menorPrecoEmDias" : false,
@@ -61098,7 +60808,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AKZ5Xc4cVP",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:44",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "12,89",
     "menorPrecoEmDias" : false,
@@ -61289,7 +60999,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5q6gANVgnm",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "47,99",
     "menorPrecoEmDias" : false,
@@ -61386,9 +61096,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/903hw9HXvn",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
-    "precoAnterior" : "69,90",
+    "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -61483,7 +61193,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VMMxZ4nY4",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:43",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "24,90",
     "menorPrecoEmDias" : false,
@@ -61580,7 +61290,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAGOj1TEsu",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "39,99",
     "menorPrecoEmDias" : false,
@@ -61674,7 +61384,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/W59oYrUt8",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:41",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "137,09",
     "menorPrecoEmDias" : false,
@@ -61852,6 +61562,94 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180541,
+    "titulo" : "Tinta Guache 12 Cores 15 Ml Não Tóxica Acrilex + 2 Pincéis",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_896595-MLB95982331396_102025-F-tinta-guache-12-cores-15-ml-nao-toxica-acrilex--2-pinceis.webp",
+    "precoOriginal" : "41,65",
+    "precoPromocao" : "21,59",
+    "desconto" : "-48%",
+    "linkAfiliado" : "https://meli.la/2o7VQra",
+    "categoria" : "Papelaria",
+    "categoriaId" : 4,
+    "dataOferta" : "13/09/2026 14:49",
+    "destaque" : false,
+    "precoAnterior" : "21,59",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 17.77
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 21.58
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 19.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 21.59
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 21.59
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 180208,
     "titulo" : "Tira Manchas em Pó Vanish Oxi Action Pink Refil 1kg para Roupas Coloridas, Sem Cloro, com Percarbonato, Remove Manchas Difíceis, Preserva as Cores e Deixa as Roupas Como Novas",
     "imagem" : "https://m.media-amazon.com/images/I/81QEkA4BQSL._AC_SL1500_.jpg",
@@ -62013,7 +61811,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/BSJQvkclH",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "33,90",
     "menorPrecoEmDias" : false,
@@ -62198,7 +61996,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/60Q6MVWKu8",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "69,99",
     "menorPrecoEmDias" : false,
@@ -62386,7 +62184,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7AcWVePmfZ",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "13/09/2026 08:48",
+    "dataOferta" : "13/09/2026 14:52",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -62651,6 +62449,94 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 180539,
+    "titulo" : "Trave Futebol Kit 2 Mini Golzinhos Gol Infantil Bola E Bomba Branco",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_656560-MLA99992295847_112025-F.webp",
+    "precoOriginal" : "119,90",
+    "precoPromocao" : "64,90",
+    "desconto" : "-45%",
+    "linkAfiliado" : "https://meli.la/1s7zkW4",
+    "categoria" : "Brinquedos e Jogos",
+    "categoriaId" : 6,
+    "dataOferta" : "13/09/2026 14:43",
+    "destaque" : false,
+    "precoAnterior" : "64,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 61.29
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 51.29
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 62.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 62.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 64.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 64.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 180309,
     "titulo" : "Trocador Americano De Cômoda Rosa + Rosa 3 Peças",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_629678-MLB93563718661_092025-F-trocador-americano-de-cmoda-rosa-rosa-3-pecas.webp",
@@ -62842,7 +62728,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6AjWYzUQ7k",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 08:42",
+    "dataOferta" : "13/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "14,89",
     "menorPrecoEmDias" : false,
@@ -62939,7 +62825,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfK6VHxq",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "26,89",
     "menorPrecoEmDias" : false,
@@ -63124,7 +63010,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fuimBY2iI",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 07:40",
+    "dataOferta" : "13/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "64,90",
     "menorPrecoEmDias" : false,
@@ -63309,7 +63195,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4fvS6kDKVK",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -63585,7 +63471,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/AAFfKIqq6g",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 07:43",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "170,51",
     "menorPrecoEmDias" : false,
@@ -63682,7 +63568,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5VTplir0T2",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 07:41",
+    "dataOferta" : "13/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "76,59",
     "menorPrecoEmDias" : false,
@@ -63779,7 +63665,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8fQrXazSlo",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:43",
+    "dataOferta" : "13/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "138,55",
     "menorPrecoEmDias" : false,
@@ -63876,7 +63762,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V7RLFWNkm",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "89,79",
     "menorPrecoEmDias" : false,
@@ -63973,7 +63859,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/gPdcNf6aA",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "47,18",
     "menorPrecoEmDias" : false,
@@ -64037,7 +63923,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/50YWe8lfII",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "39,90",
     "menorPrecoEmDias" : false,
@@ -64186,6 +64072,73 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 136.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 180560,
+    "titulo" : "Tênis Lacoste Baseshot - Original",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_640892-MLB99358736628_112025-F-tnis-lacoste-baseshot-original.webp",
+    "precoOriginal" : "549,00",
+    "precoPromocao" : "191,00",
+    "desconto" : "-65%",
+    "linkAfiliado" : "https://meli.la/1N534Ly",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "13/09/2026 15:30",
+    "destaque" : false,
+    "precoAnterior" : "191,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "26/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 191.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 191.0
     } ],
     "tags" : [ ]
   }, {
@@ -64817,7 +64770,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40gCBAVoHe",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:52",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "58,32",
     "menorPrecoEmDias" : false,
@@ -64872,7 +64825,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VNMn0YZAu",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "34,90",
     "menorPrecoEmDias" : false,
@@ -64942,7 +64895,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/3g2BbMXIfE",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "13/09/2026 08:45",
+    "dataOferta" : "13/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "59,00",
     "menorPrecoEmDias" : false,
@@ -65039,7 +64992,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/8V7RLFIuLN",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "16,99",
     "menorPrecoEmDias" : false,
@@ -65305,9 +65258,9 @@
     "linkAfiliado" : "https://s.shopee.com.br/5VTplWn3R8",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
-    "precoAnterior" : "91,90",
+    "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -65483,7 +65436,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/7KvTx6NLiE",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
@@ -65580,7 +65533,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6VMMxMjFPE",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 07:39",
+    "dataOferta" : "13/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "149,90",
     "menorPrecoEmDias" : false,
@@ -65677,7 +65630,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/40g3ypqEpH",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "32,23",
     "menorPrecoEmDias" : false,
@@ -65830,7 +65783,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5VUrUHdiT5",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "40,27",
     "menorPrecoEmDias" : false,
@@ -65897,7 +65850,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/1VyjBWGRHN",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:56",
     "destaque" : false,
     "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
@@ -65969,9 +65922,6 @@
     "precoAnterior" : "23,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "14/08/2026",
-      "preco" : 32.99
-    }, {
       "data" : "15/08/2026",
       "preco" : 33.6
     }, {
@@ -66362,90 +66312,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179133,
-    "titulo" : "Vodka Absolut Raspberri - 750 ml",
-    "imagem" : "https://m.media-amazon.com/images/I/61Eb2qGG4zL._AC_SL1500_.jpg",
-    "precoOriginal" : "117,90",
-    "precoPromocao" : "73,18",
-    "desconto" : "-37%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B09W65NNN6?tag=curadomus-20",
-    "categoria" : "Destilados",
-    "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:34",
-    "destaque" : false,
-    "precoAnterior" : "73,18",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026"
-    }, {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 73.4
-    }, {
-      "data" : "19/08/2026"
-    }, {
-      "data" : "20/08/2026"
-    }, {
-      "data" : "22/08/2026"
-    }, {
-      "data" : "23/08/2026"
-    }, {
-      "data" : "24/08/2026"
-    }, {
-      "data" : "25/08/2026"
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026"
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 73.18
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 73.18
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 180022,
     "titulo" : "Vodka Absolut Tabasco 750ml",
     "imagem" : "https://m.media-amazon.com/images/I/61K6fX-wiML._AC_SL1500_.jpg",
@@ -66542,7 +66408,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2BDNnbh1Cl",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "13/09/2026 08:39",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "118,99",
     "menorPrecoEmDias" : false,
@@ -66634,12 +66500,12 @@
     "titulo" : "WAP Aspirador de Pó Automotivo Car 12V2, Portátil, 420ml, com Recipiente Removível e Filtro Lavável, 180W 12VDC",
     "imagem" : "https://m.media-amazon.com/images/I/71zj-+xJrbL._AC_SL1500_.jpg",
     "precoOriginal" : "119,90",
-    "precoPromocao" : "89,91",
-    "desconto" : "-25%",
+    "precoPromocao" : "92,80",
+    "desconto" : "-22%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CLDRS18S?tag=curadomus-20",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 15:00",
     "destaque" : false,
     "precoAnterior" : "89,91",
     "menorPrecoEmDias" : false,
@@ -66720,7 +66586,7 @@
       "preco" : 89.91
     }, {
       "data" : "13/09/2026",
-      "preco" : 89.91
+      "preco" : 92.8
     } ],
     "tags" : [ ]
   }, {
@@ -66733,7 +66599,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0B9PSBNYL?tag=curadomus-20",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "13/09/2026 09:03",
+    "dataOferta" : "13/09/2026 15:14",
     "destaque" : false,
     "precoAnterior" : "359,90",
     "menorPrecoEmDias" : false,
@@ -67096,98 +66962,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179134,
-    "titulo" : "Whisky Ballantine's Finest Blended Escocês - 750 ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51eQv8xcN-L._AC_SL1000_.jpg",
-    "precoOriginal" : "84,90",
-    "precoPromocao" : "64,90",
-    "desconto" : "-23%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YNYMP5B?tag=curadomus-20",
-    "categoria" : "Destilados",
-    "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:34",
-    "destaque" : false,
-    "precoAnterior" : "64,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 62.89
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 62.89
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 62.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "06/09/2026"
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 64.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 64.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 64.9
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 64.9
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 179153,
     "titulo" : "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
     "imagem" : "https://m.media-amazon.com/images/I/51pLvcYPoYL._AC_SL1000_.jpg",
@@ -67197,7 +66971,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B075QHV5LD?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:37",
+    "dataOferta" : "13/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "114,90",
     "menorPrecoEmDias" : false,
@@ -67550,94 +67324,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 179203,
-    "titulo" : "Whisky Jack Daniel's Bonded Tennessee Whiskey 700ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51iU7Vbrl2L._AC_SL1000_.jpg",
-    "precoOriginal" : "249,90",
-    "precoPromocao" : "190,12",
-    "desconto" : "-23%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B09ZLS2VYH?tag=curadomus-20",
-    "categoria" : "Destilados",
-    "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:40",
-    "destaque" : false,
-    "precoAnterior" : "190,12",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 220.63
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 220.65
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 189.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 193.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 190.12
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 190.12
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 190.12
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 190.12
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 190.12
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 190.12
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 180016,
     "titulo" : "Whisky Jack Daniel's Honey Tennessee Whiskey 1L",
     "imagem" : "https://m.media-amazon.com/images/I/712aZkRXdML._AC_SL1500_.jpg",
@@ -67817,7 +67503,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00861CC7Y?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:38",
+    "dataOferta" : "13/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "119,71",
     "menorPrecoEmDias" : false,
@@ -67990,9 +67676,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08VBXJY7P?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "13/09/2026 08:37",
+    "dataOferta" : "13/09/2026 14:43",
     "destaque" : false,
-    "precoAnterior" : "67,94",
+    "precoAnterior" : "66,12",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/08/2026",
@@ -68158,6 +67844,97 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 206.45
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 179156,
+    "titulo" : "Whisky Old Parr 12 anos 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51IQlv4pAdL._AC_SL1000_.jpg",
+    "precoOriginal" : "126,90",
+    "precoPromocao" : "99,90",
+    "desconto" : "-21%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B00E0EUP66?tag=curadomus-20",
+    "categoria" : "Destilados",
+    "categoriaId" : 12,
+    "dataOferta" : "13/09/2026 14:44",
+    "destaque" : false,
+    "precoAnterior" : "99,98",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "15/08/2026",
+      "preco" : 103.99
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 103.99
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 103.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 93.68
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 99.65
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 99.65
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 99.89
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 99.98
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 99.98
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 99.98
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 99.9
     } ],
     "tags" : [ ]
   }, {
@@ -68514,7 +68291,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09CC39PR1?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "13/09/2026 09:08",
+    "dataOferta" : "13/09/2026 15:20",
     "destaque" : false,
     "precoAnterior" : "51,90",
     "menorPrecoEmDias" : false,
@@ -68695,7 +68472,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/6pzwkyiAhd",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "13/09/2026 08:50",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "19,80",
     "menorPrecoEmDias" : false,
@@ -68789,7 +68566,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/2BE7Cj9SO9",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "13/09/2026 08:51",
+    "dataOferta" : "13/09/2026 14:55",
     "destaque" : false,
     "precoAnterior" : "13,92",
     "menorPrecoEmDias" : false,
