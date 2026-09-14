@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "14/09/2026 17:03",
+  "ultimaAtualizacao" : "14/09/2026 18:03",
   "ofertas" : [ {
     "id" : 182993,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -738,9 +738,6 @@
     "precoAnterior" : "16,35",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 22.87
-    }, {
       "data" : "16/08/2026",
       "preco" : 22.87
     }, {
@@ -1000,7 +997,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B003WIG5J2?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
+    "dataOferta" : "14/09/2026 18:02",
     "destaque" : false,
     "precoAnterior" : "68,90",
     "menorPrecoEmDias" : false,
@@ -1168,9 +1165,6 @@
     "precoAnterior" : "18,61",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 17.09
-    }, {
       "data" : "16/08/2026",
       "preco" : 17.09
     }, {
@@ -1339,8 +1333,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FV5TLY9Z?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:17",
+    "dataOferta" : "14/09/2026 17:29",
     "destaque" : false,
+    "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -1718,9 +1713,6 @@
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.69
-    }, {
       "data" : "16/08/2026",
       "preco" : 19.69
     }, {
@@ -2222,179 +2214,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 181882,
-    "titulo" : "Apple iPhone 16 (128 GB) – Ultramarino",
-    "imagem" : "https://m.media-amazon.com/images/I/71Q3GA4-J9L._AC_SL1500_.jpg",
-    "precoOriginal" : "6.799,00",
-    "precoPromocao" : "5.443,33",
-    "desconto" : "-19%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJFRYWK8?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:54",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 4898.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 4598.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 4599.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 5443.33
-    }, {
-      "data" : "13/09/2026"
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 5443.33
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 181891,
-    "titulo" : "Apple iPhone 17 de 256 GB — Branco",
-    "imagem" : "https://m.media-amazon.com/images/I/41i8XYawSOL._AC_SL1000_.jpg",
-    "precoOriginal" : "7.999,00",
-    "precoPromocao" : "6.220,00",
-    "desconto" : "-22%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GQWK8Y7F?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:55",
-    "destaque" : false,
-    "precoAnterior" : "6.220,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 5309.1
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 5309.1
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 5309.1
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 5309.1
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 5309.1
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "12/09/2026"
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 6220.0
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 182781,
     "titulo" : "Apple iPhone 17 de 256 GB — Lavanda",
     "imagem" : "https://m.media-amazon.com/images/I/41OcUUYkgbL._AC_SL1000_.jpg",
@@ -2479,97 +2298,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 181906,
-    "titulo" : "Apple iPhone 17 de 256 GB — Sálvia",
-    "imagem" : "https://m.media-amazon.com/images/I/41k9Fkg0r7L._AC_SL1000_.jpg",
-    "precoOriginal" : "7.999,00",
-    "precoPromocao" : "6.220,00",
-    "desconto" : "-22%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GQWP9K1G?tag=curadomus-20",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:58",
-    "destaque" : false,
-    "precoAnterior" : "6.220,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 5598.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 5593.39
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 5593.39
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 5593.39
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 5593.38
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 5299.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 6220.0
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 6220.0
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 181773,
     "titulo" : "Aquecedor A Ar, Mondial, Cinza/Branco, 2000W, 220V - A-08",
     "imagem" : "https://m.media-amazon.com/images/I/61Af2D6mMzL._AC_SL1000_.jpg",
@@ -2584,9 +2312,6 @@
     "precoAnterior" : "103,56",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 99.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 99.0
     }, {
@@ -3150,9 +2875,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 73.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 73.9
     }, {
@@ -4549,9 +4271,6 @@
     "precoAnterior" : "148,73",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 119.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 119.9
     }, {
@@ -5082,7 +4801,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B003CNW172?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:21",
+    "dataOferta" : "14/09/2026 17:33",
     "destaque" : false,
     "precoAnterior" : "11,24",
     "menorPrecoEmDias" : false,
@@ -5416,7 +5135,7 @@
     "linkAfiliado" : "https://meli.la/1SCDTNT",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 07:14",
+    "dataOferta" : "14/09/2026 17:44",
     "destaque" : false,
     "precoAnterior" : "332,47",
     "menorPrecoEmDias" : false,
@@ -5512,9 +5231,6 @@
     "precoAnterior" : "329,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 272.49
-    }, {
       "data" : "16/08/2026",
       "preco" : 272.49
     }, {
@@ -5592,7 +5308,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07WMJZXRZ?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:08",
+    "dataOferta" : "14/09/2026 17:21",
     "destaque" : false,
     "precoAnterior" : "332,47",
     "menorPrecoEmDias" : false,
@@ -5776,7 +5492,7 @@
     "linkAfiliado" : "https://meli.la/14wxnP6",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "14/09/2026 06:36",
+    "dataOferta" : "14/09/2026 17:06",
     "destaque" : false,
     "precoAnterior" : "144,90",
     "menorPrecoEmDias" : false,
@@ -6047,12 +5763,12 @@
     "titulo" : "Bepantol Baby Pomada Assadura Bebe, Hipoalergênica, 100g",
     "imagem" : "https://m.media-amazon.com/images/I/61m5QAg1xHL._AC_SL1500_.jpg",
     "precoOriginal" : "59,99",
-    "precoPromocao" : "44,25",
-    "desconto" : "-30%",
+    "precoPromocao" : "46,58",
+    "desconto" : "-22%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07MQG6SWC?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:36",
+    "dataOferta" : "14/09/2026 17:50",
     "destaque" : false,
     "precoAnterior" : "44,25",
     "menorPrecoEmDias" : false,
@@ -6133,7 +5849,7 @@
       "preco" : 44.25
     }, {
       "data" : "14/09/2026",
-      "preco" : 44.25
+      "preco" : 46.58
     } ],
     "tags" : [ ]
   }, {
@@ -7084,9 +6800,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0B4YFBNJF?tag=curadomus-20",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "14/09/2026 08:01",
+    "dataOferta" : "14/09/2026 17:14",
     "destaque" : false,
-    "precoAnterior" : "161,49",
+    "precoAnterior" : "205,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -7782,7 +7498,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B076151Z3M?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:04",
+    "dataOferta" : "14/09/2026 17:17",
     "destaque" : false,
     "precoAnterior" : "93,32",
     "menorPrecoEmDias" : false,
@@ -7960,9 +7676,6 @@
     "precoAnterior" : "40,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 21.34
-    }, {
       "data" : "17/08/2026",
       "preco" : 21.34
     }, {
@@ -8245,9 +7958,6 @@
     "precoAnterior" : "89,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 82.93
-    }, {
       "data" : "16/08/2026",
       "preco" : 82.93
     }, {
@@ -8505,9 +8215,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 27.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 27.9
     }, {
@@ -9376,9 +9083,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B095QGCK63?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:21",
+    "dataOferta" : "14/09/2026 17:34",
     "destaque" : false,
-    "precoAnterior" : "15,88",
+    "precoAnterior" : "17,38",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -9661,7 +9368,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0H29V3KSM?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:34",
+    "dataOferta" : "14/09/2026 17:48",
     "destaque" : false,
     "precoAnterior" : "68,00",
     "menorPrecoEmDias" : false,
@@ -9905,7 +9612,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0779LGJG3?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:34",
+    "dataOferta" : "14/09/2026 17:48",
     "destaque" : false,
     "precoAnterior" : "25,90",
     "menorPrecoEmDias" : false,
@@ -10133,14 +9840,14 @@
     "titulo" : "Buba Bolsa Termica Instantanea Em Gel Modelo:14517, Cor: Azul",
     "imagem" : "https://m.media-amazon.com/images/I/61-4y+JP1YL._AC_SL1000_.jpg",
     "precoOriginal" : "27,90",
-    "precoPromocao" : "21,80",
+    "precoPromocao" : "21,90",
     "desconto" : "-21%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BBJTNTKH?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:35",
+    "dataOferta" : "14/09/2026 17:49",
     "destaque" : false,
-    "precoAnterior" : "21,50",
+    "precoAnterior" : "21,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -10216,7 +9923,7 @@
       "preco" : 21.5
     }, {
       "data" : "14/09/2026",
-      "preco" : 21.8
+      "preco" : 21.9
     } ],
     "tags" : [ ]
   }, {
@@ -10928,9 +10635,6 @@
     "precoAnterior" : "37,40",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 38.75
-    }, {
       "data" : "16/08/2026",
       "preco" : 38.75
     }, {
@@ -11106,14 +10810,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07PXN3S35?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:32",
+    "dataOferta" : "14/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "37,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 37.89
-    }, {
       "data" : "16/08/2026",
       "preco" : 37.89
     }, {
@@ -11283,9 +10984,6 @@
     "precoAnterior" : "75,50",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 80.78
-    }, {
       "data" : "16/08/2026",
       "preco" : 80.82
     }, {
@@ -11787,97 +11485,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 182172,
-    "titulo" : "Buba Troninho Infantil - Cinza Cinza",
-    "imagem" : "https://m.media-amazon.com/images/I/41IOVWxMvjL._AC_SL1000_.jpg",
-    "precoOriginal" : "82,90",
-    "precoPromocao" : "49,99",
-    "desconto" : "-39%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B087NNJ55R?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:36",
-    "destaque" : false,
-    "precoAnterior" : "48,50",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 41.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 44.6
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 44.6
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 44.6
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 44.6
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 44.6
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 41.1
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 33.18
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 48.5
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 48.5
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 49.99
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 183231,
     "titulo" : "Buba Tucano Musical De Atividades",
     "imagem" : "https://m.media-amazon.com/images/I/61Y+Qyzo86L._AC_SL1000_.jpg",
@@ -11970,14 +11577,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CWJ2SCW4?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:33",
+    "dataOferta" : "14/09/2026 17:46",
     "destaque" : false,
-    "precoAnterior" : "44,00",
+    "precoAnterior" : "43,50",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 49.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 49.88
     }, {
@@ -12241,9 +11845,6 @@
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 50.05
-    }, {
       "data" : "17/08/2026",
       "preco" : 49.96
     }, {
@@ -12401,12 +12002,12 @@
     "titulo" : "Buddemeyer Travesseiro 50x70cm, Toque de Pluma Algodão Branco",
     "imagem" : "https://m.media-amazon.com/images/I/31UgUp3LBaL._AC_SL1000_.jpg",
     "precoOriginal" : "149,90",
-    "precoPromocao" : "117,61",
-    "desconto" : "-21%",
+    "precoPromocao" : "119,90",
+    "desconto" : "-20%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07BDNVZ4W?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:23",
+    "dataOferta" : "14/09/2026 17:35",
     "destaque" : false,
     "precoAnterior" : "117,61",
     "menorPrecoEmDias" : false,
@@ -12487,7 +12088,7 @@
       "preco" : 117.61
     }, {
       "data" : "14/09/2026",
-      "preco" : 117.61
+      "preco" : 119.9
     } ],
     "tags" : [ ]
   }, {
@@ -12745,9 +12346,6 @@
     "precoAnterior" : "299,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 299.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 299.9
     }, {
@@ -13796,9 +13394,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 919.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 919.0
     }, {
@@ -14298,94 +13893,86 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 181042,
-    "titulo" : "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite 110v",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_963009-MLA115435050388_082026-F.webp",
-    "precoOriginal" : "679,90",
-    "precoPromocao" : "436,90",
-    "desconto" : "-35%",
-    "linkAfiliado" : "https://meli.la/2cXevck",
+    "id" : 181950,
+    "titulo" : "Cafeteira Elétrica Electrolux inox filtro permanente removivel capacidade 1,5L 38 xicaras função timer painel digital desligamento automatico ECM30 127v, cor aço escovado",
+    "imagem" : "https://m.media-amazon.com/images/I/51rsO-NkHVL._AC_SL1000_.jpg",
+    "precoOriginal" : "369,90",
+    "precoPromocao" : "309,90",
+    "desconto" : "-16%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09CC3QFDX?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 07:01",
+    "dataOferta" : "14/09/2026 17:17",
     "destaque" : false,
-    "precoAnterior" : "436,90",
+    "precoAnterior" : "309,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
-      "preco" : 449.0
+      "preco" : 294.39
     }, {
       "data" : "18/08/2026",
-      "preco" : 459.99
+      "preco" : 299.9
     }, {
       "data" : "19/08/2026",
-      "preco" : 439.9
+      "preco" : 299.9
     }, {
       "data" : "20/08/2026",
-      "preco" : 427.4
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 427.4
+      "preco" : 296.92
     }, {
       "data" : "23/08/2026",
-      "preco" : 427.4
+      "preco" : 279.9
     }, {
-      "data" : "24/08/2026",
-      "preco" : 436.05
+      "data" : "25/08/2026",
+      "preco" : 296.91
     }, {
       "data" : "26/08/2026",
-      "preco" : 436.05
+      "preco" : 296.91
     }, {
       "data" : "27/08/2026",
-      "preco" : 499.0
+      "preco" : 296.91
     }, {
       "data" : "29/08/2026",
-      "preco" : 426.55
+      "preco" : 265.91
     }, {
       "data" : "30/08/2026",
-      "preco" : 499.0
+      "preco" : 265.9
     }, {
       "data" : "31/08/2026",
-      "preco" : 426.55
+      "preco" : 298.14
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 285.81
     }, {
       "data" : "02/09/2026",
-      "preco" : 436.9
+      "preco" : 265.91
     }, {
       "data" : "03/09/2026",
-      "preco" : 423.11
+      "preco" : 265.91
     }, {
       "data" : "04/09/2026",
-      "preco" : 423.11
+      "preco" : 265.91
     }, {
       "data" : "05/09/2026",
-      "preco" : 449.0
+      "preco" : 265.91
     }, {
       "data" : "06/09/2026",
-      "preco" : 449.0
+      "preco" : 279.9
     }, {
-      "data" : "07/09/2026",
-      "preco" : 449.0
+      "data" : "07/09/2026"
     }, {
       "data" : "08/09/2026",
-      "preco" : 413.91
+      "preco" : 299.9
     }, {
       "data" : "09/09/2026",
-      "preco" : 413.91
+      "preco" : 299.9
     }, {
       "data" : "10/09/2026",
-      "preco" : 427.4
+      "preco" : 269.91
     }, {
-      "data" : "11/09/2026",
-      "preco" : 439.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 449.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 436.9
+      "data" : "12/09/2026"
     }, {
       "data" : "14/09/2026",
-      "preco" : 436.9
+      "preco" : 309.9
     } ],
     "tags" : [ ]
   }, {
@@ -14471,99 +14058,6 @@
     }, {
       "data" : "14/09/2026",
       "preco" : 11.89
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 182043,
-    "titulo" : "Café em Cápsula Compatível com Nespresso Nescafé Farmers Origins Brazil 10 Cápsulas",
-    "imagem" : "https://m.media-amazon.com/images/I/71+Ev9ND3KL._AC_SL1500_.jpg",
-    "precoOriginal" : "23,39",
-    "precoPromocao" : "16,90",
-    "desconto" : "-27%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D8CM9LNB?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:18",
-    "destaque" : false,
-    "precoAnterior" : "16,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 17.07
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 16.99
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 16.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 17.07
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 17.07
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 17.07
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 16.05
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 16.9
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 16.9
     } ],
     "tags" : [ ]
   }, {
@@ -14817,9 +14311,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 25.99
-    }, {
       "data" : "16/08/2026",
       "preco" : 21.59
     }, {
@@ -16702,9 +16193,6 @@
     "precoAnterior" : "71,95",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 79.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 79.9
     }, {
@@ -16981,9 +16469,6 @@
     "precoAnterior" : "43,82",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 43.82
-    }, {
       "data" : "17/08/2026",
       "preco" : 43.82
     }, {
@@ -17297,9 +16782,6 @@
     "precoAnterior" : "154,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 159.99
-    }, {
       "data" : "17/08/2026",
       "preco" : 159.99
     }, {
@@ -17762,11 +17244,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B071ZMZW9Q?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:34",
-    "destaque" : true,
-    "precoAnterior" : "66,90",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
+    "dataOferta" : "14/09/2026 17:48",
+    "destaque" : false,
+    "precoAnterior" : "46,43",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
       "preco" : 48.88
@@ -19207,14 +18688,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08WKMBDN9?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 08:00",
+    "dataOferta" : "14/09/2026 17:13",
     "destaque" : false,
     "precoAnterior" : "159,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 159.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 159.0
     }, {
@@ -19300,9 +18778,6 @@
     "precoAnterior" : "16,49",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 16.49
-    }, {
       "data" : "16/08/2026",
       "preco" : 16.49
     }, {
@@ -20259,9 +19734,6 @@
     "precoAnterior" : "54,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 52.9
-    }, {
       "data" : "17/08/2026"
     }, {
       "data" : "19/08/2026"
@@ -21861,9 +21333,6 @@
     "precoAnterior" : "119,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 109.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 111.15
     }, {
@@ -21940,7 +21409,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07P5FHQGQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:22",
+    "dataOferta" : "14/09/2026 17:35",
     "destaque" : false,
     "precoAnterior" : "15,74",
     "menorPrecoEmDias" : false,
@@ -22418,8 +21887,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07Y5J6J5W?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:32",
+    "dataOferta" : "14/09/2026 17:46",
     "destaque" : false,
+    "precoAnterior" : "86,23",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -23474,6 +22944,88 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 181922,
+    "titulo" : "Combo Teclado e Mouse sem fio Logitech MK235 com Conexão USB, Pilhas Inclusas e Layout ABNT2",
+    "imagem" : "https://m.media-amazon.com/images/I/61vdNn+737L._AC_SL1500_.jpg",
+    "precoOriginal" : "169,90",
+    "precoPromocao" : "134,90",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07643MPGS?tag=curadomus-20",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "dataOferta" : "14/09/2026 17:13",
+    "destaque" : false,
+    "precoAnterior" : "134,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 139.98
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 109.14
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 139.98
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 139.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 139.91
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 139.89
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 139.89
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 139.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 134.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 182651,
     "titulo" : "Comfort Amaciante Concentrado 36 Segredos 1L",
     "imagem" : "https://m.media-amazon.com/images/I/713Tldi+IOL._AC_SL1500_.jpg",
@@ -23787,9 +23339,6 @@
     "precoAnterior" : "37,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 39.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 39.9
     }, {
@@ -24285,9 +23834,6 @@
     "precoAnterior" : "43,13",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 45.41
-    }, {
       "data" : "16/08/2026",
       "preco" : 45.41
     }, {
@@ -24368,7 +23914,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CYLYY66R?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:38",
+    "dataOferta" : "14/09/2026 17:53",
     "destaque" : false,
     "precoAnterior" : "17,90",
     "menorPrecoEmDias" : false,
@@ -27388,9 +26934,6 @@
     "precoAnterior" : "49,21",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 55.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 55.9
     }, {
@@ -28004,7 +27547,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DPGLKWCR?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:17",
+    "dataOferta" : "14/09/2026 17:29",
     "destaque" : false,
     "precoAnterior" : "37,90",
     "menorPrecoEmDias" : false,
@@ -28553,7 +28096,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GBZ47CVC?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:26",
+    "dataOferta" : "14/09/2026 17:39",
     "destaque" : false,
     "precoAnterior" : "17,00",
     "menorPrecoEmDias" : false,
@@ -28621,7 +28164,7 @@
     "linkAfiliado" : "https://amzn.to/4v63Z0w",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:37",
+    "dataOferta" : "14/09/2026 17:51",
     "destaque" : false,
     "precoAnterior" : "53,24",
     "menorPrecoEmDias" : false,
@@ -28891,9 +28434,6 @@
     "precoAnterior" : "16,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 16.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 16.9
     }, {
@@ -29579,8 +29119,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "15/08/2026"
-    }, {
       "data" : "16/08/2026"
     }, {
       "data" : "18/08/2026"
@@ -30094,15 +29632,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09FYL522J?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "14/09/2026 08:29",
-    "destaque" : true,
-    "precoAnterior" : "49,70",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "dataOferta" : "14/09/2026 17:42",
+    "destaque" : false,
+    "precoAnterior" : "35,00",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 47.3
-    }, {
       "data" : "17/08/2026",
       "preco" : 47.3
     }, {
@@ -30189,11 +29723,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BYK2VCP7?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:05",
-    "destaque" : true,
-    "precoAnterior" : "799,90",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "dataOferta" : "14/09/2026 17:18",
+    "destaque" : false,
+    "precoAnterior" : "739,90",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
       "preco" : 749.0
@@ -30453,9 +29986,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 27.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 26.99
     }, {
@@ -30536,9 +30066,6 @@
     "precoAnterior" : "21,07",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 23.41
-    }, {
       "data" : "16/08/2026",
       "preco" : 23.41
     }, {
@@ -31415,8 +30942,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0F3QPKJ8G?tag=curadomus-20",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
-    "dataOferta" : "14/09/2026 08:02",
+    "dataOferta" : "14/09/2026 17:15",
     "destaque" : false,
+    "precoAnterior" : "129,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -31505,9 +31033,6 @@
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 44.58
-    }, {
       "data" : "16/08/2026",
       "preco" : 44.48
     }, {
@@ -32420,7 +31945,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09LNKQYND?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:07",
+    "dataOferta" : "14/09/2026 17:20",
     "destaque" : false,
     "precoAnterior" : "83,67",
     "menorPrecoEmDias" : false,
@@ -32610,9 +32135,6 @@
     "precoAnterior" : "47,30",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 49.0
-    }, {
       "data" : "17/08/2026",
       "preco" : 47.9
     }, {
@@ -33128,9 +32650,6 @@
     "precoAnterior" : "639,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 698.98
-    }, {
       "data" : "17/08/2026",
       "preco" : 698.98
     }, {
@@ -33214,7 +32733,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B01NCUSC7V?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:38",
+    "dataOferta" : "14/09/2026 17:52",
     "destaque" : false,
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
@@ -33687,9 +33206,6 @@
     "precoAnterior" : "97,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 99.21
-    }, {
       "data" : "16/08/2026",
       "preco" : 97.99
     }, {
@@ -34243,12 +33759,12 @@
     "titulo" : "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Beam 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto",
     "imagem" : "https://m.media-amazon.com/images/I/61DFgTmj9xL._AC_SL1500_.jpg",
     "precoOriginal" : "369,00",
-    "precoPromocao" : "289,90",
-    "desconto" : "-21%",
+    "precoPromocao" : "274,99",
+    "desconto" : "-25%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DHL93XCN?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:54",
+    "dataOferta" : "14/09/2026 17:07",
     "destaque" : false,
     "precoAnterior" : "289,90",
     "menorPrecoEmDias" : false,
@@ -34329,7 +33845,7 @@
       "preco" : 289.9
     }, {
       "data" : "14/09/2026",
-      "preco" : 289.9
+      "preco" : 274.99
     } ],
     "tags" : [ ]
   }, {
@@ -34744,7 +34260,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07FSVQZYX?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:44",
+    "dataOferta" : "14/09/2026 17:59",
     "destaque" : false,
     "precoAnterior" : "50,99",
     "menorPrecoEmDias" : false,
@@ -35103,7 +34619,7 @@
     "linkAfiliado" : "https://meli.la/1GXaxfb",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 07:17",
+    "dataOferta" : "14/09/2026 17:47",
     "destaque" : false,
     "precoAnterior" : "42,86",
     "menorPrecoEmDias" : false,
@@ -35288,7 +34804,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08QG3H6YR?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:44",
+    "dataOferta" : "14/09/2026 17:59",
     "destaque" : false,
     "precoAnterior" : "43,41",
     "menorPrecoEmDias" : false,
@@ -35465,7 +34981,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B086DR4Q6Q?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:42",
+    "dataOferta" : "14/09/2026 17:57",
     "destaque" : false,
     "precoAnterior" : "103,12",
     "menorPrecoEmDias" : false,
@@ -35649,7 +35165,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07X5KWJK9?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:43",
+    "dataOferta" : "14/09/2026 17:58",
     "destaque" : false,
     "precoAnterior" : "119,89",
     "menorPrecoEmDias" : false,
@@ -35931,9 +35447,6 @@
     "precoAnterior" : "88,18",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 95.69
-    }, {
       "data" : "16/08/2026",
       "preco" : 95.69
     }, {
@@ -36199,7 +35712,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B099KXW911?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:43",
+    "dataOferta" : "14/09/2026 17:58",
     "destaque" : false,
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false,
@@ -36615,9 +36128,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09Y7GM4KY?tag=curadomus-20",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "14/09/2026 07:51",
+    "dataOferta" : "14/09/2026 17:04",
     "destaque" : false,
-    "precoAnterior" : "54,90",
+    "precoAnterior" : "57,06",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -36974,7 +36487,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CRBJYG6P?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:04",
+    "dataOferta" : "14/09/2026 17:17",
     "destaque" : false,
     "precoAnterior" : "266,91",
     "menorPrecoEmDias" : false,
@@ -37065,8 +36578,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DTW24HGR?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:03",
+    "dataOferta" : "14/09/2026 17:16",
     "destaque" : false,
+    "precoAnterior" : "229,08",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -37815,9 +37329,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07L4TSL64?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:05",
+    "dataOferta" : "14/09/2026 17:18",
     "destaque" : false,
-    "precoAnterior" : "160,22",
+    "precoAnterior" : "161,07",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -38640,7 +38154,7 @@
     "linkAfiliado" : "https://meli.la/2FyXr6f",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "14/09/2026 07:04",
+    "dataOferta" : "14/09/2026 17:34",
     "destaque" : false,
     "precoAnterior" : "4.013,90",
     "menorPrecoEmDias" : false,
@@ -38731,7 +38245,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CNHBV6W5?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:55",
+    "dataOferta" : "14/09/2026 17:08",
     "destaque" : false,
     "precoAnterior" : "203,00",
     "menorPrecoEmDias" : false,
@@ -40138,12 +39652,12 @@
     "titulo" : "Granado Creme Assaduras Dermocalmante Bebê, Peles Sensíveis, 300g",
     "imagem" : "https://m.media-amazon.com/images/I/51J0y1mq1gL._AC_SL1000_.jpg",
     "precoOriginal" : "88,63",
-    "precoPromocao" : "61,98",
-    "desconto" : "-26%",
+    "precoPromocao" : "46,19",
+    "desconto" : "-47%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07NPY7VDL?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:40",
+    "dataOferta" : "14/09/2026 17:55",
     "destaque" : false,
     "precoAnterior" : "61,98",
     "menorPrecoEmDias" : false,
@@ -40221,7 +39735,7 @@
       "preco" : 61.98
     }, {
       "data" : "14/09/2026",
-      "preco" : 61.98
+      "preco" : 46.19
     } ],
     "tags" : [ ]
   }, {
@@ -40563,9 +40077,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0C3JSS2M9?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:35",
+    "dataOferta" : "14/09/2026 17:49",
     "destaque" : false,
-    "precoAnterior" : "25,59",
+    "precoAnterior" : "20,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -42051,9 +41565,6 @@
     "precoAnterior" : "10,10",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 9.19
-    }, {
       "data" : "16/08/2026",
       "preco" : 9.19
     }, {
@@ -42136,9 +41647,6 @@
     "precoAnterior" : "75,19",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 78.89
-    }, {
       "data" : "16/08/2026",
       "preco" : 78.89
     }, {
@@ -42653,9 +42161,6 @@
     "precoAnterior" : "44,84",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 45.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 45.9
     }, {
@@ -42723,7 +42228,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CHZ9XXPX?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:39",
+    "dataOferta" : "14/09/2026 17:54",
     "destaque" : false,
     "precoAnterior" : "18,84",
     "menorPrecoEmDias" : false,
@@ -43361,7 +42866,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FPSHCSQF?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:41",
+    "dataOferta" : "14/09/2026 17:56",
     "destaque" : false,
     "precoAnterior" : "219,00",
     "menorPrecoEmDias" : false,
@@ -43451,7 +42956,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BKLPZ4BH?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:44",
+    "dataOferta" : "14/09/2026 17:59",
     "destaque" : false,
     "precoAnterior" : "83,39",
     "menorPrecoEmDias" : false,
@@ -43526,7 +43031,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BKLNG66P?tag=curadomus-20",
     "categoria" : "Fraldas",
     "categoriaId" : 9,
-    "dataOferta" : "14/09/2026 08:42",
+    "dataOferta" : "14/09/2026 17:56",
     "destaque" : false,
     "precoAnterior" : "83,39",
     "menorPrecoEmDias" : false,
@@ -44910,9 +44415,6 @@
     "precoAnterior" : "190,78",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 224.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 202.9
     }, {
@@ -44991,14 +44493,14 @@
     "titulo" : "JBL, Fone de Ouvido Bluetooth Over-Ear, Tune 730BT, Sem Fio, Até 76 Horas de Bateria - Preto",
     "imagem" : "https://m.media-amazon.com/images/I/61dRLHx9tpL._AC_SL1500_.jpg",
     "precoOriginal" : "399,00",
-    "precoPromocao" : "274,38",
+    "precoPromocao" : "274,35",
     "desconto" : "-31%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GR11L1VP?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:54",
+    "dataOferta" : "14/09/2026 17:06",
     "destaque" : false,
-    "precoAnterior" : "265,05",
+    "precoAnterior" : "274,38",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026"
@@ -45075,7 +44577,7 @@
       "preco" : 265.05
     }, {
       "data" : "14/09/2026",
-      "preco" : 274.38
+      "preco" : 274.35
     } ],
     "tags" : [ ]
   }, {
@@ -45176,7 +44678,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00C80O8AS?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
+    "dataOferta" : "14/09/2026 18:03",
     "destaque" : false,
     "precoAnterior" : "86,59",
     "menorPrecoEmDias" : false,
@@ -48543,9 +48045,6 @@
     "precoAnterior" : "23,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.49
-    }, {
       "data" : "16/08/2026",
       "preco" : 19.49
     }, {
@@ -48700,12 +48199,12 @@
     "titulo" : "Johnson's Baby Óleo Hidratante,200ml",
     "imagem" : "https://m.media-amazon.com/images/I/41wdZf5ZrqL._AC_SL1000_.jpg",
     "precoOriginal" : "72,99",
-    "precoPromocao" : "43,46",
-    "desconto" : "-40%",
+    "precoPromocao" : "50,36",
+    "desconto" : "-31%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DHSHRMG?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:40",
+    "dataOferta" : "14/09/2026 17:54",
     "destaque" : false,
     "precoAnterior" : "43,46",
     "menorPrecoEmDias" : false,
@@ -48783,7 +48282,7 @@
       "preco" : 43.46
     }, {
       "data" : "14/09/2026",
-      "preco" : 43.46
+      "preco" : 50.36
     } ],
     "tags" : [ ]
   }, {
@@ -49668,9 +49167,6 @@
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 59.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 59.9
     }, {
@@ -49759,9 +49255,6 @@
     "precoAnterior" : "169,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 179.0
-    }, {
       "data" : "17/08/2026",
       "preco" : 179.0
     }, {
@@ -51095,7 +50588,7 @@
     "linkAfiliado" : "https://meli.la/1Ez6yXK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "14/09/2026 06:58",
+    "dataOferta" : "14/09/2026 17:28",
     "destaque" : false,
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
@@ -51186,9 +50679,9 @@
     "linkAfiliado" : "https://meli.la/1Vdx6TT",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "14/09/2026 07:33",
+    "dataOferta" : "14/09/2026 18:03",
     "destaque" : false,
-    "precoAnterior" : "40,00",
+    "precoAnterior" : "32,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -53747,9 +53240,6 @@
     "precoAnterior" : "61,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 57.89
-    }, {
       "data" : "17/08/2026",
       "preco" : 64.99
     }, {
@@ -55248,9 +54738,6 @@
     "precoAnterior" : "13,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 12.77
-    }, {
       "data" : "17/08/2026",
       "preco" : 12.77
     }, {
@@ -55577,9 +55064,6 @@
     "precoAnterior" : "324,63",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 319.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 319.0
     }, {
@@ -55731,9 +55215,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 33.68
-    }, {
       "data" : "17/08/2026",
       "preco" : 33.68
     }, {
@@ -56346,9 +55827,6 @@
     "precoAnterior" : "73,05",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 80.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 80.9
     }, {
@@ -57366,7 +56844,7 @@
     "linkAfiliado" : "https://meli.la/23kUwuP",
     "categoria" : "Eletrodomésticos",
     "categoriaId" : 101,
-    "dataOferta" : "14/09/2026 06:49",
+    "dataOferta" : "14/09/2026 17:19",
     "destaque" : false,
     "precoAnterior" : "2.835,57",
     "menorPrecoEmDias" : false,
@@ -57652,9 +57130,6 @@
     "precoAnterior" : "2.906,05",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 2898.98
-    }, {
       "data" : "16/08/2026",
       "preco" : 2898.98
     }, {
@@ -58009,9 +57484,6 @@
     "precoAnterior" : "34,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 39.99
-    }, {
       "data" : "16/08/2026",
       "preco" : 39.66
     }, {
@@ -58567,9 +58039,6 @@
     "precoAnterior" : "34,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 31.99
-    }, {
       "data" : "16/08/2026",
       "preco" : 31.99
     }, {
@@ -59007,7 +58476,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07XLCTTH2?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
+    "dataOferta" : "14/09/2026 18:02",
     "destaque" : false,
     "precoAnterior" : "53,99",
     "menorPrecoEmDias" : false,
@@ -59413,9 +58882,6 @@
     "precoAnterior" : "35,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 35.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 35.9
     }, {
@@ -60185,9 +59651,6 @@
     "precoAnterior" : "178,37",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 172.96
-    }, {
       "data" : "17/08/2026",
       "preco" : 178.0
     }, {
@@ -61700,7 +61163,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0B756F7NH?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:27",
+    "dataOferta" : "14/09/2026 17:40",
     "destaque" : false,
     "precoAnterior" : "19,73",
     "menorPrecoEmDias" : false,
@@ -61852,11 +61315,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B071FNWFJR?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "14/09/2026 08:28",
-    "destaque" : true,
-    "precoAnterior" : "50,80",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "dataOferta" : "14/09/2026 17:41",
+    "destaque" : false,
+    "precoAnterior" : "40,85",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
       "preco" : 43.01
@@ -61935,11 +61397,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B072M2YNYS?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "14/09/2026 08:28",
-    "destaque" : true,
-    "precoAnterior" : "79,90",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "dataOferta" : "14/09/2026 17:41",
+    "destaque" : false,
+    "precoAnterior" : "58,55",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
       "preco" : 61.64
@@ -62284,9 +61745,9 @@
     "linkAfiliado" : "https://meli.la/2t4gsdR",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 06:42",
+    "dataOferta" : "14/09/2026 17:13",
     "destaque" : false,
-    "precoAnterior" : "56,90",
+    "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -63028,14 +62489,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07FCM4PNV?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:32",
+    "dataOferta" : "14/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "229,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 218.4
-    }, {
       "data" : "16/08/2026",
       "preco" : 218.4
     }, {
@@ -63113,12 +62571,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CTD56FW3?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:30",
+    "dataOferta" : "14/09/2026 17:43",
     "destaque" : false,
+    "precoAnterior" : "75,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026"
-    }, {
       "data" : "16/08/2026"
     }, {
       "data" : "18/08/2026"
@@ -63291,14 +62748,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0083F2XCW?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:31",
+    "dataOferta" : "14/09/2026 17:45",
     "destaque" : false,
     "precoAnterior" : "84,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 74.09
-    }, {
       "data" : "16/08/2026"
     }, {
       "data" : "18/08/2026",
@@ -63673,9 +63127,6 @@
     "precoAnterior" : "25,08",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 29.07
-    }, {
       "data" : "16/08/2026",
       "preco" : 28.94
     }, {
@@ -63847,9 +63298,6 @@
     "precoAnterior" : "12,59",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 19.9
     }, {
@@ -65458,9 +64906,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 72.89
-    }, {
       "data" : "16/08/2026",
       "preco" : 72.89
     }, {
@@ -65965,19 +65410,16 @@
     "titulo" : "Mola De Atividades Bubazoo - Dino",
     "imagem" : "https://m.media-amazon.com/images/I/51kLNX1scvL._AC_SL1175_.jpg",
     "precoOriginal" : "104,60",
-    "precoPromocao" : "81,16",
-    "desconto" : "-22%",
+    "precoPromocao" : "85,62",
+    "desconto" : "-18%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0C4Z6DQCJ?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:31",
+    "dataOferta" : "14/09/2026 17:44",
     "destaque" : false,
-    "precoAnterior" : "85,62",
+    "precoAnterior" : "81,16",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 92.96
-    }, {
       "data" : "16/08/2026",
       "preco" : 92.96
     }, {
@@ -66044,7 +65486,7 @@
       "preco" : 85.62
     }, {
       "data" : "14/09/2026",
-      "preco" : 81.16
+      "preco" : 85.62
     } ],
     "tags" : [ ]
   }, {
@@ -66480,9 +65922,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08PPRYWZG?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:03",
+    "dataOferta" : "14/09/2026 17:17",
     "destaque" : false,
-    "precoAnterior" : "147,24",
+    "precoAnterior" : "145,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -66571,9 +66013,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B076FGX8GR?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:06",
+    "dataOferta" : "14/09/2026 17:19",
     "destaque" : false,
-    "precoAnterior" : "69,90",
+    "precoAnterior" : "73,57",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -66834,6 +66276,97 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 181913,
+    "titulo" : "Monitor Gamer AOC Destiny 24,5 Polegadas 25G3ZM",
+    "imagem" : "https://m.media-amazon.com/images/I/61aBgNvGk0L._AC_SL1000_.jpg",
+    "precoOriginal" : "1.799,00",
+    "precoPromocao" : "979,00",
+    "desconto" : "-45%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CJ9NVNW6?tag=curadomus-20",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "dataOferta" : "14/09/2026 17:11",
+    "destaque" : false,
+    "precoAnterior" : "1.259,10",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 1118.26
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 1328.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 1328.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 1574.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 1459.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 1459.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 1459.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 1459.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 979.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 1259.1
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 1259.1
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 1259.1
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 979.0
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 181921,
     "titulo" : "Monitor Gamer Curvo TCL 34 Polegadas QLED Mini LED WQHD R83Q 180Hz 1ms (GtG) HDR 1400 nits 34R83Q",
     "imagem" : "https://m.media-amazon.com/images/I/810QoUodR5L._AC_SL1500_.jpg",
@@ -66843,14 +66376,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FPDWQF8G?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 07:59",
+    "dataOferta" : "14/09/2026 17:13",
     "destaque" : false,
     "precoAnterior" : "3.977,77",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 3510.21
-    }, {
       "data" : "16/08/2026",
       "preco" : 3510.21
     }, {
@@ -66930,8 +66460,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DWQK1Q8S?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 08:00",
+    "dataOferta" : "14/09/2026 17:14",
     "destaque" : false,
+    "precoAnterior" : "1.053,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "17/08/2026",
@@ -67016,8 +66547,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DWQNS8TN?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 08:00",
+    "dataOferta" : "14/09/2026 17:13",
     "destaque" : false,
+    "precoAnterior" : "1.234,06",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -67092,96 +66624,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 181927,
-    "titulo" : "Monitor PC Gamer LG 24” IPS 100Hz Full HD HDMI 2x, Preto - 24MS500",
-    "imagem" : "https://m.media-amazon.com/images/I/61EXtxtW1gL._AC_SL1500_.jpg",
-    "precoOriginal" : "749,00",
-    "precoPromocao" : "508,23",
-    "desconto" : "-32%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DF2WSGF6?tag=curadomus-20",
-    "categoria" : "Computadores e Informática",
-    "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 08:00",
-    "destaque" : false,
-    "precoAnterior" : "508,23",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 529.64
-    }, {
-      "data" : "16/08/2026",
-      "preco" : 529.64
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 499.7
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 488.9
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 488.9
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 502.55
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 501.6
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 501.6
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 521.55
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 500.1
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 521.55
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 516.33
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 521.55
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 521.55
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 527.25
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 508.23
-    }, {
-      "data" : "12/09/2026"
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 508.23
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 508.23
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 181926,
     "titulo" : "Monitor Samsung Viewfinity S5 34\" WQHD Ultrawide 100Hz",
     "imagem" : "https://m.media-amazon.com/images/I/51RrbUcYkzL._AC_SL1000_.jpg",
@@ -67191,7 +66633,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FT95Z9LX?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 08:00",
+    "dataOferta" : "14/09/2026 17:13",
     "destaque" : false,
     "precoAnterior" : "1.599,53",
     "menorPrecoEmDias" : false,
@@ -67642,18 +67084,17 @@
     "titulo" : "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED com 6 Botões Programáveis e Até 12.000 DPI - Preto",
     "imagem" : "https://m.media-amazon.com/images/I/51sg9BLSMTL._AC_SL1500_.jpg",
     "precoOriginal" : "299,90",
-    "precoPromocao" : "199,99",
-    "desconto" : "-33%",
+    "precoPromocao" : "179,90",
+    "desconto" : "-40%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07GPRWFC5?tag=curadomus-20",
     "categoria" : "Computadores e Informática",
     "categoriaId" : 161,
-    "dataOferta" : "14/09/2026 07:59",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
+    "dataOferta" : "14/09/2026 17:12",
+    "destaque" : true,
+    "precoAnterior" : "199,99",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 199.99
-    }, {
       "data" : "16/08/2026",
       "preco" : 199.99
     }, {
@@ -67722,7 +67163,7 @@
       "data" : "13/09/2026"
     }, {
       "data" : "14/09/2026",
-      "preco" : 199.99
+      "preco" : 179.9
     } ],
     "tags" : [ ]
   }, {
@@ -68944,9 +68385,6 @@
     "precoAnterior" : "16,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 16.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 16.9
     }, {
@@ -69006,93 +68444,6 @@
     }, {
       "data" : "14/09/2026",
       "preco" : 16.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 182032,
-    "titulo" : "Neslac Comfor Zero Lactose - Composto Lácteo, Fórmula infantil, 700g",
-    "imagem" : "https://m.media-amazon.com/images/I/71Ziq9OkyEL._AC_SL1500_.jpg",
-    "precoOriginal" : "76,69",
-    "precoPromocao" : "60,59",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B08K3PF8Q7?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:17",
-    "destaque" : false,
-    "precoAnterior" : "60,59",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 76.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 81.29
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 60.59
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 60.59
     } ],
     "tags" : [ ]
   }, {
@@ -69273,7 +68624,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CBN8FLXM?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:19",
+    "dataOferta" : "14/09/2026 17:31",
     "destaque" : false,
     "precoAnterior" : "16,79",
     "menorPrecoEmDias" : false,
@@ -70145,9 +69496,6 @@
     "precoAnterior" : "45,58",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 54.78
-    }, {
       "data" : "16/08/2026",
       "preco" : 54.78
     }, {
@@ -70743,7 +70091,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08BWYTR6F?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:37",
+    "dataOferta" : "14/09/2026 17:51",
     "destaque" : false,
     "precoAnterior" : "24,78",
     "menorPrecoEmDias" : false,
@@ -71350,7 +70698,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B002BSJLE0?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:48",
+    "dataOferta" : "14/09/2026 18:03",
     "destaque" : false,
     "precoAnterior" : "119,90",
     "menorPrecoEmDias" : false,
@@ -71588,7 +70936,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08R9XTH39?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:22",
+    "dataOferta" : "14/09/2026 17:34",
     "destaque" : false,
     "precoAnterior" : "26,99",
     "menorPrecoEmDias" : false,
@@ -71976,7 +71324,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B084WLM5TF?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:20",
+    "dataOferta" : "14/09/2026 17:32",
     "destaque" : false,
     "precoAnterior" : "34,00",
     "menorPrecoEmDias" : false,
@@ -72070,7 +71418,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B089T3CBKQ?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 08:21",
+    "dataOferta" : "14/09/2026 17:33",
     "destaque" : false,
     "precoAnterior" : "27,08",
     "menorPrecoEmDias" : false,
@@ -72533,14 +71881,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B000GKUEVE?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:33",
+    "dataOferta" : "14/09/2026 17:47",
     "destaque" : false,
     "precoAnterior" : "61,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 66.63
-    }, {
       "data" : "16/08/2026",
       "preco" : 66.63
     }, {
@@ -72715,7 +72060,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0C35132K6?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "14/09/2026 08:28",
+    "dataOferta" : "14/09/2026 17:42",
     "destaque" : false,
     "precoAnterior" : "53,94",
     "menorPrecoEmDias" : false,
@@ -74108,7 +73453,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DHDCXKTJ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:25",
+    "dataOferta" : "14/09/2026 17:38",
     "destaque" : false,
     "precoAnterior" : "11,99",
     "menorPrecoEmDias" : false,
@@ -74198,9 +73543,6 @@
     "precoAnterior" : "24,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 28.71
-    }, {
       "data" : "16/08/2026",
       "preco" : 28.71
     }, {
@@ -74375,7 +73717,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0060KYSIY?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "14/09/2026 08:28",
+    "dataOferta" : "14/09/2026 17:41",
     "destaque" : false,
     "precoAnterior" : "45,90",
     "menorPrecoEmDias" : false,
@@ -75380,9 +74722,6 @@
     "precoAnterior" : "17,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 17.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 17.9
     }, {
@@ -75857,7 +75196,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09ZHD2YXP?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:08",
+    "dataOferta" : "14/09/2026 17:21",
     "destaque" : false,
     "precoAnterior" : "2.699,90",
     "menorPrecoEmDias" : false,
@@ -75946,8 +75285,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07RSYMHXP?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:06",
+    "dataOferta" : "14/09/2026 17:19",
     "destaque" : false,
+    "precoAnterior" : "96,21",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -76039,9 +75379,6 @@
     "precoAnterior" : "99,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 119.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 119.9
     }, {
@@ -76129,9 +75466,6 @@
     "precoAnterior" : "2.188,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 2189.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 2626.41
     }, {
@@ -76304,9 +75638,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BSVM7QS8?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:57",
+    "dataOferta" : "14/09/2026 17:10",
     "destaque" : false,
-    "precoAnterior" : "29,99",
+    "precoAnterior" : "21,70",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -76393,7 +75727,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09MSQGXFR?tag=curadomus-20",
     "categoria" : "Eletrônicos e Tecnologia",
     "categoriaId" : 129,
-    "dataOferta" : "14/09/2026 07:56",
+    "dataOferta" : "14/09/2026 17:08",
     "destaque" : false,
     "precoAnterior" : "16,48",
     "menorPrecoEmDias" : false,
@@ -76586,9 +75920,6 @@
     "precoAnterior" : "21,79",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 23.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 21.79
     }, {
@@ -76861,9 +76192,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 52.11
-    }, {
       "data" : "16/08/2026",
       "preco" : 52.49
     }, {
@@ -77140,7 +76468,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJDRPNVS?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:32",
+    "dataOferta" : "14/09/2026 17:45",
     "destaque" : false,
     "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
@@ -77231,14 +76559,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CQTLJRR7?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:31",
+    "dataOferta" : "14/09/2026 17:45",
     "destaque" : false,
-    "precoAnterior" : "36,85",
+    "precoAnterior" : "36,62",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 26.83
-    }, {
       "data" : "16/08/2026",
       "preco" : 26.83
     }, {
@@ -77321,14 +76646,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09SVRB79R?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:31",
+    "dataOferta" : "14/09/2026 17:44",
     "destaque" : false,
     "precoAnterior" : "34,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 59.95
-    }, {
       "data" : "16/08/2026",
       "preco" : 59.95
     }, {
@@ -77409,13 +76731,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09P1YY3JP?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:32",
+    "dataOferta" : "14/09/2026 17:45",
     "destaque" : false,
     "precoAnterior" : "98,72",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026"
-    }, {
       "data" : "16/08/2026",
       "preco" : 99.99
     }, {
@@ -78579,6 +77899,94 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 181919,
+    "titulo" : "Processador AMD Ryzen 5 5500 100100000457BOX, Cerâmica Cinza",
+    "imagem" : "https://m.media-amazon.com/images/I/51So7GoGvxL._AC_SL1384_.jpg",
+    "precoOriginal" : "1.166,64",
+    "precoPromocao" : "539,90",
+    "desconto" : "-53%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B09VCJ171S?tag=curadomus-20",
+    "categoria" : "Computadores e Informática",
+    "categoriaId" : 161,
+    "dataOferta" : "14/09/2026 17:12",
+    "destaque" : false,
+    "precoAnterior" : "559,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 549.0
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 549.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 550.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 549.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 523.48
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 529.98
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 529.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 564.3
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 529.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 529.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 529.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 549.98
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 560.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 559.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 560.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 559.98
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 539.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 183285,
     "titulo" : "Processador Triturador Moedor De Alimentos Manual Alho 500ml",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_769545-MLB117467630465_092026-F-processador-triturador-moedor-de-alimentos-manual-alho-500ml.webp",
@@ -79378,7 +78786,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0D1DSFV8C?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:37",
+    "dataOferta" : "14/09/2026 17:51",
     "destaque" : false,
     "precoAnterior" : "27,79",
     "menorPrecoEmDias" : false,
@@ -79880,9 +79288,6 @@
     "precoAnterior" : "209,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 163.0
-    }, {
       "data" : "17/08/2026",
       "preco" : 163.0
     }, {
@@ -79971,9 +79376,6 @@
     "precoAnterior" : "29,29",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 23.79
-    }, {
       "data" : "16/08/2026",
       "preco" : 23.79
     }, {
@@ -80770,7 +80172,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GMJT9MRJ?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:40",
+    "dataOferta" : "14/09/2026 17:54",
     "destaque" : false,
     "precoAnterior" : "27,29",
     "menorPrecoEmDias" : false,
@@ -81085,7 +80487,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077BY84XX?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 08:36",
+    "dataOferta" : "14/09/2026 17:50",
     "destaque" : false,
     "precoAnterior" : "27,29",
     "menorPrecoEmDias" : false,
@@ -81180,9 +80582,6 @@
     "precoAnterior" : "27,29",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 29.59
-    }, {
       "data" : "16/08/2026",
       "preco" : 29.59
     }, {
@@ -81516,9 +80915,6 @@
     "precoAnterior" : "22,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 22.99
-    }, {
       "data" : "17/08/2026",
       "preco" : 22.39
     }, {
@@ -82398,9 +81794,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CDJ4L7CZ?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:08",
+    "dataOferta" : "14/09/2026 17:21",
     "destaque" : false,
-    "precoAnterior" : "89,00",
+    "precoAnterior" : "89,01",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -82571,7 +81967,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09HW53ZVV?tag=curadomus-20",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "14/09/2026 08:03",
+    "dataOferta" : "14/09/2026 17:16",
     "destaque" : false,
     "precoAnterior" : "69,98",
     "menorPrecoEmDias" : false,
@@ -83417,9 +82813,6 @@
     "precoAnterior" : "16,72",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.12
-    }, {
       "data" : "17/08/2026",
       "preco" : 15.99
     }, {
@@ -83790,9 +83183,6 @@
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.99
-    }, {
       "data" : "16/08/2026",
       "preco" : 19.99
     }, {
@@ -84516,9 +83906,6 @@
     "precoAnterior" : "21,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.49
-    }, {
       "data" : "17/08/2026",
       "preco" : 22.75
     }, {
@@ -84595,9 +83982,6 @@
     "precoAnterior" : "17,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 13.85
-    }, {
       "data" : "16/08/2026",
       "preco" : 13.85
     }, {
@@ -84751,7 +84135,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BQ4FMW45?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:26",
+    "dataOferta" : "14/09/2026 17:39",
     "destaque" : false,
     "precoAnterior" : "63,25",
     "menorPrecoEmDias" : false,
@@ -84847,9 +84231,6 @@
     "precoAnterior" : "49,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 52.29
-    }, {
       "data" : "16/08/2026",
       "preco" : 52.28
     }, {
@@ -84934,9 +84315,6 @@
     "precoAnterior" : "3.499,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 3599.1
-    }, {
       "data" : "16/08/2026",
       "preco" : 3599.1
     }, {
@@ -85103,9 +84481,6 @@
     "precoAnterior" : "212,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 228.6
-    }, {
       "data" : "16/08/2026",
       "preco" : 241.3
     }, {
@@ -86376,9 +85751,6 @@
     "precoAnterior" : "43,17",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 29.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 29.9
     }, {
@@ -86458,14 +85830,11 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09XBTHPQV?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:33",
+    "dataOferta" : "14/09/2026 17:47",
     "destaque" : false,
     "precoAnterior" : "23,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 24.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 24.9
     }, {
@@ -87668,9 +87037,6 @@
     "precoAnterior" : "315,89",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 359.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 359.9
     }, {
@@ -87981,7 +87347,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00DX0FJXW?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:27",
+    "dataOferta" : "14/09/2026 17:40",
     "destaque" : false,
     "precoAnterior" : "9,99",
     "menorPrecoEmDias" : false,
@@ -88259,9 +87625,6 @@
     "precoAnterior" : "39,19",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 49.99
-    }, {
       "data" : "17/08/2026",
       "preco" : 39.19
     }, {
@@ -90540,9 +89903,6 @@
     "precoAnterior" : "136,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 129.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 129.9
     }, {
@@ -91238,9 +90598,6 @@
     "precoAnterior" : "341,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 284.99
-    }, {
       "data" : "17/08/2026",
       "preco" : 284.99
     }, {
@@ -91329,9 +90686,6 @@
     "precoAnterior" : "164,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 155.0
-    }, {
       "data" : "17/08/2026",
       "preco" : 155.0
     }, {
@@ -92006,7 +91360,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DYYC9NR?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 08:25",
+    "dataOferta" : "14/09/2026 17:38",
     "destaque" : false,
     "precoAnterior" : "10,79",
     "menorPrecoEmDias" : false,
@@ -92343,93 +91697,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 182126,
-    "titulo" : "Vespa (Menta) Eletrica 12V Bandeirante",
-    "imagem" : "https://m.media-amazon.com/images/I/61MFsmTmvNL._AC_SL1000_.jpg",
-    "precoOriginal" : "2.499,00",
-    "precoPromocao" : "1.989,99",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0D3FKL3L5?tag=curadomus-20",
-    "categoria" : "Brinquedos e Jogos",
-    "categoriaId" : 6,
-    "dataOferta" : "14/09/2026 08:29",
-    "destaque" : false,
-    "precoAnterior" : "1.989,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 2699.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 1890.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 1749.3
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 1989.99
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 1989.99
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 181727,
     "titulo" : "Vestido Bebê Menina + Faixinha de Cabelo Verão Cores/Natal Tam P, M, G/ 1, 2 e 3",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mgp7t32bu138c9",
@@ -92668,9 +91935,6 @@
     "precoAnterior" : "23,80",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 33.6
-    }, {
       "data" : "16/08/2026",
       "preco" : 33.63
     }, {
@@ -92759,9 +92023,6 @@
     "precoAnterior" : "26,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 24.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 24.9
     }, {
@@ -92836,54 +92097,6 @@
     }, {
       "data" : "14/09/2026",
       "preco" : 26.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 182249,
-    "titulo" : "Vinho Fino Tinto Argentino Pirueta Varietal Red Blend 750ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51ECUZEA6lL._AC_SL1000_.jpg",
-    "precoOriginal" : "39,90",
-    "precoPromocao" : "29,00",
-    "desconto" : "-27%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FH72XBX7?tag=curadomus-20",
-    "categoria" : "Vinhos",
-    "categoriaId" : 11,
-    "dataOferta" : "14/09/2026 08:46",
-    "destaque" : false,
-    "precoAnterior" : "37,74",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "04/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 33.49
-    }, {
-      "data" : "11/09/2026"
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 37.74
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 37.74
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 29.0
     } ],
     "tags" : [ ]
   }, {
@@ -93023,7 +92236,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B00DTRY07A?tag=curadomus-20",
     "categoria" : "Vinhos",
     "categoriaId" : 11,
-    "dataOferta" : "14/09/2026 08:46",
+    "dataOferta" : "14/09/2026 18:02",
     "destaque" : false,
     "precoAnterior" : "34,10",
     "menorPrecoEmDias" : false,
@@ -93517,9 +92730,6 @@
     "precoAnterior" : "122,47",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 118.0
-    }, {
       "data" : "16/08/2026",
       "preco" : 118.0
     }, {
@@ -94414,86 +93624,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 182254,
-    "titulo" : "Whisky Buchanan's Deluxe 12 Anos 1L",
-    "imagem" : "https://m.media-amazon.com/images/I/518U+8v+f4L._AC_SL1000_.jpg",
-    "precoOriginal" : "199,90",
-    "precoPromocao" : "149,00",
-    "desconto" : "-25%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B00MTFIL0U?tag=curadomus-20",
-    "categoria" : "Destilados",
-    "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "17/08/2026",
-      "preco" : 179.99
-    }, {
-      "data" : "18/08/2026"
-    }, {
-      "data" : "20/08/2026"
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 172.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 139.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 139.9
-    }, {
-      "data" : "04/09/2026"
-    }, {
-      "data" : "05/09/2026"
-    }, {
-      "data" : "06/09/2026"
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 139.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 209.0
-    }, {
-      "data" : "09/09/2026"
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 169.99
-    }, {
-      "data" : "11/09/2026"
-    }, {
-      "data" : "12/09/2026"
-    }, {
-      "data" : "13/09/2026"
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 149.0
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 181158,
     "titulo" : "Whisky Chivas Regal 12 anos Blended Escocês - 1 litro",
     "imagem" : "https://m.media-amazon.com/images/I/51pLvcYPoYL._AC_SL1000_.jpg",
@@ -94597,7 +93727,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B001HUBXJO?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
+    "dataOferta" : "14/09/2026 18:02",
     "destaque" : false,
     "precoAnterior" : "95,91",
     "menorPrecoEmDias" : false,
@@ -95156,7 +94286,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0089E2OJE?tag=curadomus-20",
     "categoria" : "Destilados",
     "categoriaId" : 12,
-    "dataOferta" : "14/09/2026 08:47",
+    "dataOferta" : "14/09/2026 18:03",
     "destaque" : false,
     "precoAnterior" : "103,00",
     "menorPrecoEmDias" : false,
@@ -96110,9 +95240,6 @@
     "precoAnterior" : "21,64",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "16/08/2026"
     }, {
       "data" : "18/08/2026",
@@ -96288,9 +95415,6 @@
     "precoAnterior" : "23,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 18.9
-    }, {
       "data" : "16/08/2026",
       "preco" : 18.9
     }, {
@@ -96377,9 +95501,6 @@
     "destaque" : false,
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 35.79
-    }, {
       "data" : "16/08/2026",
       "preco" : 35.79
     }, {
