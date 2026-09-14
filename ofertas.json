@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "14/09/2026 14:02",
+  "ultimaAtualizacao" : "14/09/2026 14:48",
   "ofertas" : [ {
     "id" : 182993,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -5449,9 +5449,6 @@
     "precoAnterior" : "323,95",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 374.87
-    }, {
       "data" : "17/08/2026",
       "preco" : 324.43
     }, {
@@ -13187,9 +13184,6 @@
     "precoAnterior" : "1.089,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 1089.9
-    }, {
       "data" : "17/08/2026",
       "preco" : 1089.9
     }, {
@@ -15237,9 +15231,6 @@
     "precoAnterior" : "27,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 27.92
-    }, {
       "data" : "16/08/2026",
       "preco" : 27.92
     }, {
@@ -16357,6 +16348,34 @@
     }, {
       "data" : "13/09/2026",
       "preco" : 89.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 89.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 183508,
+    "titulo" : "Camisa Braziline Flamengo Torcedor Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_747608-MLB117287917083_092026-F-camisa-braziline-flamengo-torcedor-masculina.webp",
+    "precoOriginal" : "249,90",
+    "precoPromocao" : "89,90",
+    "desconto" : "-64%",
+    "linkAfiliado" : "https://meli.la/2ZPSNtK",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "14/09/2026 14:39",
+    "destaque" : false,
+    "precoAnterior" : "0,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 0.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 0.0
     }, {
       "data" : "14/09/2026",
       "preco" : 89.9
@@ -44007,9 +44026,6 @@
     "precoAnterior" : "1.026,88",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 1044.05
-    }, {
       "data" : "17/08/2026",
       "preco" : 1011.08
     }, {
@@ -51141,9 +51157,6 @@
     "precoAnterior" : "40,00",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 34.85
-    }, {
       "data" : "16/08/2026",
       "preco" : 34.85
     }, {
@@ -57550,6 +57563,31 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 183511,
+    "titulo" : "Lava-Louças Brastemp 10 Serviços Inox - BLF10BR",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_815724-MLA99464133564_112025-F.webp",
+    "precoOriginal" : "5.239,00",
+    "precoPromocao" : "4.274,05",
+    "desconto" : "-18%",
+    "linkAfiliado" : "https://meli.la/1ajCkmg",
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
+    "dataOferta" : "14/09/2026 14:48",
+    "destaque" : false,
+    "precoAnterior" : "3.980,40",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "11/09/2026",
+      "preco" : 3980.4
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 3980.4
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 4274.05
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 181600,
     "titulo" : "Lava-Louças Brastemp 8 Serviços Branca BLF08BB",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-lr5z1kmnuubx9f",
@@ -61127,9 +61165,6 @@
     "precoAnterior" : "18,55",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 24.97
-    }, {
       "data" : "16/08/2026",
       "preco" : 19.98
     }, {
@@ -89240,9 +89275,6 @@
     "precoAnterior" : "49,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "15/08/2026",
-      "preco" : 49.99
-    }, {
       "data" : "17/08/2026",
       "preco" : 49.99
     }, {
