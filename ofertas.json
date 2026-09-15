@@ -1,1489 +1,191 @@
 {
-  "ultimaAtualizacao" : "14/09/2026 20:13",
+  "ultimaAtualizacao" : "15/09/2026 07:24",
   "ofertas" : [ {
-    "id" : 183544,
-    "titulo" : "Berço Co-Bed Safety 1st, Palace, Grey",
-    "imagem" : "https://m.media-amazon.com/images/I/61jmuzjtumL._AC_SL1000_.jpg",
-    "precoOriginal" : "1.299,00",
-    "precoPromocao" : "999,00",
-    "desconto" : "-23%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0F5X6LWJ9?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 19:48",
-    "destaque" : false,
-    "precoAnterior" : "999,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 1039.2
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 1039.2
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 1039.2
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 1035.8
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 1035.8
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 1035.8
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 1035.81
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 1065.11
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 1065.11
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 999.0
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 999.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183542,
-    "titulo" : "Dove Baby Sabonete Líquido Hidratação Glicerinada da Cabeça aos Pés 400ml Refil",
-    "imagem" : "https://m.media-amazon.com/images/I/716vrsYahJL._AC_SL1500_.jpg",
-    "precoOriginal" : "30,52",
-    "precoPromocao" : "21,33",
-    "desconto" : "-31%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DBX1GPQK?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 19:47",
-    "destaque" : false,
-    "precoAnterior" : "21,33",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 19.79
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 19.79
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 19.8
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 19.8
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 19.8
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 20.45
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 16.79
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 16.79
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 16.79
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 16.79
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 16.79
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 20.45
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 20.89
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 20.89
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 21.33
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 21.33
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183515,
-    "titulo" : "EsfreBom - Limpa Máquina de Lavar Roupas Sachê de 80 g, Bettanin",
-    "imagem" : "https://m.media-amazon.com/images/I/51IVerS2kyL._AC_SL1000_.jpg",
-    "precoOriginal" : "16,50",
-    "precoPromocao" : "11,97",
-    "desconto" : "-27%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B086KJCC6R?tag=curadomus-20",
+    "id" : 183619,
+    "titulo" : "Jogo de Lençol 400 Fios Extra Macio com fronhas ponto palito Berço Solteiro Casal Queen King 02 e 03 Peças",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m6peqntiscvk4c",
+    "precoOriginal" : "31,25",
+    "precoPromocao" : "12,50",
+    "desconto" : "-60%",
+    "linkAfiliado" : "https://s.shopee.com.br/5AqzMuoK6K",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 15:50",
-    "destaque" : true,
-    "precoAnterior" : "16,50",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 45 dias.",
+    "dataOferta" : "15/09/2026 07:24",
+    "destaque" : false,
+    "precoAnterior" : "12,50",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
-      "preco" : 16.5
+      "preco" : 11.6
     }, {
       "data" : "17/08/2026",
-      "preco" : 16.5
+      "preco" : 11.6
     }, {
       "data" : "19/08/2026",
-      "preco" : 16.5
+      "preco" : 11.6
     }, {
       "data" : "20/08/2026",
-      "preco" : 16.5
+      "preco" : 11.6
     }, {
       "data" : "21/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 13.99
+      "preco" : 13.2
     }, {
       "data" : "27/08/2026",
-      "preco" : 16.5
+      "preco" : 13.2
     }, {
       "data" : "28/08/2026",
-      "preco" : 16.5
+      "preco" : 13.2
     }, {
       "data" : "29/08/2026",
-      "preco" : 16.5
+      "preco" : 13.2
     }, {
       "data" : "30/08/2026",
-      "preco" : 16.5
+      "preco" : 12.6
     }, {
       "data" : "31/08/2026",
-      "preco" : 16.5
+      "preco" : 12.6
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 12.6
     }, {
       "data" : "02/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "03/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "04/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "05/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "06/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "07/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "08/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "09/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "10/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 12.5
     }, {
       "data" : "12/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "13/09/2026",
-      "preco" : 16.5
+      "preco" : 12.5
     }, {
       "data" : "14/09/2026",
-      "preco" : 11.97
+      "preco" : 12.5
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 12.5
     } ],
     "tags" : [ ]
   }, {
-    "id" : 183513,
-    "titulo" : "Heinz Kit Temperos para Hambúrguer e Batata 150g",
-    "imagem" : "https://m.media-amazon.com/images/I/71A8zrcAbQL._AC_SL1500_.jpg",
-    "precoOriginal" : "31,59",
-    "precoPromocao" : "22,69",
-    "desconto" : "-28%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FFNC1T6Z?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 15:43",
+    "id" : 183620,
+    "titulo" : "Mini Compressor De Ar Portátil Recarregável Digital USB Calibrador De Pneus Carro Moto Bicicleta Infláveis Automático",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rd5k-m7r1faf4n6ivbc",
+    "precoOriginal" : "202,91",
+    "precoPromocao" : "68,99",
+    "desconto" : "-66%",
+    "linkAfiliado" : "https://s.shopee.com.br/4qE8yIpamI",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "15/09/2026 07:24",
     "destaque" : false,
-    "precoAnterior" : "22,69",
+    "precoAnterior" : "68,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 31.59
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 22.69
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 22.69
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183536,
-    "titulo" : "Hellmann's Maionese Verde Squeeze 335g",
-    "imagem" : "https://m.media-amazon.com/images/I/61jdOgL66KL._AC_SL1500_.jpg",
-    "precoOriginal" : "13,22",
-    "precoPromocao" : "10,99",
-    "desconto" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B09DQGTS99?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 19:33",
-    "destaque" : false,
-    "precoAnterior" : "9,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "17/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 13.22
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 9.99
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 10.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183546,
-    "titulo" : "Hydraporin Hidratante Corporal Intensivo, Mantecorp Skincare",
-    "imagem" : "https://m.media-amazon.com/images/I/61C0B5LAmkL._AC_SL1500_.jpg",
-    "precoOriginal" : "84,90",
-    "precoPromocao" : "59,89",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B084GYKF1R?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "14/09/2026 19:49",
-    "destaque" : false,
-    "precoAnterior" : "59,89",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "17/08/2026"
-    }, {
-      "data" : "18/08/2026"
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 70.11
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 73.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 73.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 73.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 73.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 59.89
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 59.89
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 59.89
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183560,
-    "titulo" : "Johnson's Baby Sabonete Líquido Recém Nascido, 200ml",
-    "imagem" : "https://m.media-amazon.com/images/I/61p36wKIh6L._AC_SL1500_.jpg",
-    "precoOriginal" : "34,49",
-    "precoPromocao" : "24,59",
-    "desconto" : "-28%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07D2FKWBT?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 20:13",
-    "destaque" : false,
-    "precoAnterior" : "24,59",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 24.59
+      "preco" : 68.99
     }, {
       "data" : "17/08/2026",
-      "preco" : 24.59
+      "preco" : 68.99
     }, {
       "data" : "19/08/2026",
-      "preco" : 24.59
+      "preco" : 68.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 68.99
     }, {
       "data" : "21/08/2026",
-      "preco" : 24.59
+      "preco" : 68.99
     }, {
       "data" : "22/08/2026",
-      "preco" : 24.59
+      "preco" : 68.99
     }, {
       "data" : "24/08/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 22.85
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 24.14
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 24.14
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 24.14
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 24.14
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 22.93
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 24.59
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 24.59
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183521,
-    "titulo" : "Lava Louças 10 Serviços Electrolux LS10E",
-    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdwq-mdn9o84tf3dwfe",
-    "precoOriginal" : "4.319,87",
-    "precoPromocao" : "3.239,90",
-    "desconto" : "-25%",
-    "linkAfiliado" : "https://s.shopee.com.br/7VGOzuE0VH",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
-    "dataOferta" : "14/09/2026 16:35",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "14/09/2026",
-      "preco" : 3239.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183549,
-    "titulo" : "NAUTICA VOYAGE N83 EDT 100ML V2",
-    "imagem" : "https://m.media-amazon.com/images/I/61VzkViM52L._AC_SL1500_.jpg",
-    "precoOriginal" : "199,00",
-    "precoPromocao" : "132,37",
-    "desconto" : "-33%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GJ67M26?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "14/09/2026 19:53",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "08/09/2026",
-      "preco" : 68.23
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 132.37
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 132.37
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 132.37
-    }, {
-      "data" : "13/09/2026"
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 132.37
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183518,
-    "titulo" : "Nebacetin Baby Prevenção Pomada Contra Assaduras 120g - Pele Macia Hidratada e Saudável, Para Peles Sensíveis e Delicadas do Bebê",
-    "imagem" : "https://m.media-amazon.com/images/I/71m0K5XmvHL._AC_SL1500_.jpg",
-    "precoOriginal" : "59,90",
-    "precoPromocao" : "41,90",
-    "desconto" : "-30%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0CN7B3864?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 16:11",
-    "destaque" : false,
-    "precoAnterior" : "41,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026"
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 56.99
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 56.99
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 56.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 56.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 56.99
+      "preco" : 66.49
     }, {
       "data" : "25/08/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "26/08/2026",
-      "preco" : 56.99
+      "preco" : 66.49
     }, {
       "data" : "27/08/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "29/08/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "30/08/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "31/08/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "01/09/2026",
-      "preco" : 56.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "03/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "04/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "05/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "06/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "07/09/2026",
-      "preco" : 56.99
+      "preco" : 68.99
     }, {
       "data" : "08/09/2026",
-      "preco" : 56.99
+      "preco" : 77.99
     }, {
       "data" : "09/09/2026",
-      "preco" : 56.99
+      "preco" : 63.54
     }, {
       "data" : "10/09/2026",
-      "preco" : 41.9
+      "preco" : 68.99
     }, {
       "data" : "11/09/2026",
-      "preco" : 41.9
+      "preco" : 68.99
     }, {
       "data" : "12/09/2026",
-      "preco" : 41.9
+      "preco" : 68.99
     }, {
       "data" : "13/09/2026",
-      "preco" : 41.9
+      "preco" : 68.99
     }, {
       "data" : "14/09/2026",
-      "preco" : 41.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183528,
-    "titulo" : "Oral-B Pasta de Dente 3D White Brilliant Fresh, 3 Unidades de 70 g",
-    "imagem" : "https://m.media-amazon.com/images/I/711PTsV+M1L._AC_SL1200_.jpg",
-    "precoOriginal" : "24,41",
-    "precoPromocao" : "14,90",
-    "desconto" : "-38%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07GMDZX9M?tag=curadomus-20",
-    "categoria" : "Saúde e Bem-Estar",
-    "categoriaId" : 97,
-    "dataOferta" : "14/09/2026 19:20",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "27/08/2026",
-      "preco" : 13.99
+      "preco" : 68.99
     }, {
-      "data" : "28/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 13.99
-    }, {
-      "data" : "10/09/2026"
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 15.1
-    }, {
-      "data" : "12/09/2026"
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 14.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183534,
-    "titulo" : "Orfeu Café Bourbon Amarelo, 100% Arabica, Torra Média Clara, Cápsulas Espresso 20 unid. Compatível Nespresso®*",
-    "imagem" : "https://m.media-amazon.com/images/I/51gM5wuH82L._AC_SL1000_.jpg",
-    "precoOriginal" : "73,20",
-    "precoPromocao" : "51,90",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B089T3YHFF?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 19:31",
-    "destaque" : false,
-    "precoAnterior" : "51,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 42.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 67.89
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 67.89
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 38.61
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 51.9
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 51.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183552,
-    "titulo" : "Orfeu Café Clássico em Grãos, 100% Arabica, Torra Média, 1kg",
-    "imagem" : "https://m.media-amazon.com/images/I/51mMS+Qpi1L._AC_SL1000_.jpg",
-    "precoOriginal" : "169,90",
-    "precoPromocao" : "129,20",
-    "desconto" : "-27%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07HDSL78H?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 20:04",
-    "destaque" : false,
-    "precoAnterior" : "122,40",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 124.07
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 124.06
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 126.05
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 112.09
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 116.76
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 116.7
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 128.5
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 123.02
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 128.94
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 121.98
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 121.98
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 122.54
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 116.7
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 116.7
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 116.7
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 128.25
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 128.26
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 129.2
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 129.2
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 129.2
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 129.2
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 122.4
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 129.2
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183512,
-    "titulo" : "Ovomaltine Achocolatado Flocos Crocantes Pote 400g",
-    "imagem" : "https://m.media-amazon.com/images/I/81Xa9FLwU5L._AC_SL1500_.jpg",
-    "precoOriginal" : "32,99",
-    "precoPromocao" : "25,11",
-    "desconto" : "-23%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07YBNQKJ9?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 15:41",
-    "destaque" : false,
-    "precoAnterior" : "25,11",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 27.97
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 27.97
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 27.97
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 27.97
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 25.11
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 25.11
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183540,
-    "titulo" : "Papi Textil Cueiro Flanelado Papi Estampado 100Cm X 80Cm Contém 03 Un",
-    "imagem" : "https://m.media-amazon.com/images/I/713eOlGNFrL._AC_SL1500_.jpg",
-    "precoOriginal" : "37,99",
-    "precoPromocao" : "31,90",
-    "desconto" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DJFC6B9?tag=curadomus-20",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 19:40",
-    "destaque" : true,
-    "precoAnterior" : "34,95",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 38.01
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 38.01
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 37.5
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 37.29
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 37.81
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 36.72
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 36.71
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 36.2
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 36.5
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 36.5
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 36.71
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 36.5
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 36.37
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 36.37
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 36.37
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 35.36
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 34.65
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 34.65
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 34.95
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 34.95
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 31.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183556,
-    "titulo" : "Sabonete Líquido Refil Glicerina Da Cabeça Aos Pés Johnson's Baby, 380ml",
-    "imagem" : "https://m.media-amazon.com/images/I/71XwqjMGZsL._AC_SL1500_.jpg",
-    "precoOriginal" : "36,99",
-    "precoPromocao" : "29,19",
-    "desconto" : "-21%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B085CZ2F4J?tag=curadomus-20",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "14/09/2026 20:12",
-    "destaque" : false,
-    "precoAnterior" : "29,19",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 18.38
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 24.23
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 18.14
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 33.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 25.89
-    }, {
-      "data" : "26/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 25.89
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 22.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 21.94
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 23.09
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 29.29
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 29.19
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 29.19
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183514,
-    "titulo" : "Salgadinho Batata Frita Pringles Tripack Especial Festa do Futebol",
-    "imagem" : "https://m.media-amazon.com/images/I/611Nr1731tL._AC_SL1080_.jpg",
-    "precoOriginal" : "32,90",
-    "precoPromocao" : "27,50",
-    "desconto" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "14/09/2026 15:45",
-    "destaque" : false,
-    "precoAnterior" : "27,50",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 32.66
-    }, {
-      "data" : "17/08/2026",
-      "preco" : 32.66
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 32.66
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 32.66
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "27/08/2026"
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 28.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 24.8
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 32.66
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 27.5
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 27.5
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 27.5
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 27.5
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183547,
-    "titulo" : "Salon Line, Creme de Pentear, SOS Cachos Kids, Nutrição em Ação, Vegano - Para Cabelos Ondulados, Cacheados e Crespos, 300 ml",
-    "imagem" : "https://m.media-amazon.com/images/I/51A9Kg8kvfL._AC_SL1500_.jpg",
-    "precoOriginal" : "17,10",
-    "precoPromocao" : "15,43",
-    "desconto" : "-16%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BFJWNBR3?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "14/09/2026 19:51",
-    "destaque" : false,
-    "precoAnterior" : "15,42",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "25/08/2026",
-      "preco" : 15.43
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 23.9
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 15.43
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 23.4
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 23.4
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 15.41
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 15.41
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 15.41
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 15.43
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 15.41
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 15.43
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 15.42
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 15.42
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 15.42
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 15.42
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 15.43
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183522,
-    "titulo" : "Trator Elétrico Infantil Carrinho Passeio Quadriciclo com Carretinha Controle Remoto Carro 12v Zippy",
-    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mgp033rzkqvbff",
-    "precoOriginal" : "1.998,31",
-    "precoPromocao" : "1.298,90",
-    "desconto" : "-35%",
-    "linkAfiliado" : "https://s.shopee.com.br/905CmmNLNs",
-    "categoria" : "Geral",
-    "categoriaId" : 258,
-    "dataOferta" : "14/09/2026 16:37",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "14/09/2026",
-      "preco" : 1298.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183539,
-    "titulo" : "Ypê Amaciante Tradicional Aconchego 5L (Embalagem pode variar)",
-    "imagem" : "https://m.media-amazon.com/images/I/51UE1ZXqipL._AC_SL1080_.jpg",
-    "precoOriginal" : "29,26",
-    "precoPromocao" : "20,79",
-    "desconto" : "-28%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07HZL4D72?tag=curadomus-20",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "14/09/2026 19:39",
-    "destaque" : false,
-    "precoAnterior" : "18,19",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 21.38
-    }, {
-      "data" : "20/08/2026"
-    }, {
-      "data" : "21/08/2026"
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 30.63
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 28.51
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 21.38
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 21.65
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 25.72
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 25.72
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 25.72
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 25.72
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 19.49
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 19.49
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 19.49
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 19.49
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 18.19
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 20.79
+      "data" : "15/09/2026",
+      "preco" : 68.99
     } ],
     "tags" : [ ]
   } ],
