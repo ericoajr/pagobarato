@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "15/09/2026 15:23",
+  "ultimaAtualizacao" : "15/09/2026 16:21",
   "ofertas" : [ {
     "id" : 185576,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -499,14 +499,14 @@
     "titulo" : "3 Corações Cappuccino Sabor Cookies n' Cream, 200g",
     "imagem" : "https://m.media-amazon.com/images/I/61oKn298oOL._AC_SL1200_.jpg",
     "precoOriginal" : "22,90",
-    "precoPromocao" : "18,39",
-    "desconto" : "-19%",
+    "precoPromocao" : "16,39",
+    "desconto" : "-28%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CN3K431G?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 07:33",
+    "dataOferta" : "15/09/2026 15:32",
     "destaque" : false,
-    "precoAnterior" : "14,99",
+    "precoAnterior" : "18,39",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "16/08/2026",
@@ -588,7 +588,7 @@
       "preco" : 14.99
     }, {
       "data" : "15/09/2026",
-      "preco" : 18.39
+      "preco" : 16.39
     } ],
     "tags" : [ ]
   }, {
@@ -2230,7 +2230,7 @@
     "linkAfiliado" : "https://meli.la/1DEaavQ",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "15/09/2026 07:27",
+    "dataOferta" : "15/09/2026 16:02",
     "destaque" : false,
     "precoAnterior" : "35,92",
     "menorPrecoEmDias" : false,
@@ -4333,103 +4333,6 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 10.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 183968,
-    "titulo" : "Barilla Macarrão Grano Duro Penne Rigate 500G",
-    "imagem" : "https://m.media-amazon.com/images/I/71iuES99hOL._AC_SL1500_.jpg",
-    "precoOriginal" : "15,91",
-    "precoPromocao" : "12,93",
-    "desconto" : "-18%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B003OH8F6M?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 07:35",
-    "destaque" : false,
-    "precoAnterior" : "12,93",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 12.49
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 12.49
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "20/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 12.93
     } ],
     "tags" : [ ]
   }, {
@@ -11174,6 +11077,88 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186077,
+    "titulo" : "Buba, Mordedor Com Agua Buba Zoo Unicórnio",
+    "imagem" : "https://m.media-amazon.com/images/I/51kuKxyE2lL._AC_SL1000_.jpg",
+    "precoOriginal" : "33,90",
+    "precoPromocao" : "22,79",
+    "desconto" : "-32%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FMTCYR3Z?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "15/09/2026 15:43",
+    "destaque" : true,
+    "precoAnterior" : "23,99",
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 21.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 23.3
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 23.97
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 23.97
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 27.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.39
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 27.39
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 27.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 26.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 27.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 27.0
+    }, {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 23.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 22.79
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 184936,
     "titulo" : "Buddemeyer Kit Travesseiro 50x70cm Toque de Pluma Algodão Branco 2 peças",
     "imagem" : "https://m.media-amazon.com/images/I/41imgm9-eZL._AC_SL1000_.jpg",
@@ -15063,6 +15048,97 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186078,
+    "titulo" : "Camiseta Básica Greenk Qr Code Leve Conforto Reserva",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_721408-MLB96516561993_102025-F-camiseta-basica-greenk-qr-code-leve-conforto-reserva.webp",
+    "precoOriginal" : "139,00",
+    "precoPromocao" : "75,00",
+    "desconto" : "-46%",
+    "linkAfiliado" : "https://meli.la/17JWHhb",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "15/09/2026 15:43",
+    "destaque" : false,
+    "precoAnterior" : "75,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 79.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 77.2
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 77.2
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 77.2
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 77.2
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 129.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 139.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 85.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 65.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 65.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 85.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 65.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 75.0
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 75.0
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 183863,
     "titulo" : "Camiseta Camisa Feminina Blusa 100% Algodão Streetwear Brasil Copa Bandeira Futebol Tendência Oferta",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-820nx-mnnaro5732108e",
@@ -15861,6 +15937,34 @@
     } ],
     "tags" : [ "leite-em-po" ]
   }, {
+    "id" : 186085,
+    "titulo" : "Canela em Pó BR Spices 50g",
+    "imagem" : "https://m.media-amazon.com/images/I/61ujkpQz3UL._AC_SL1394_.jpg",
+    "precoOriginal" : "25,99",
+    "precoPromocao" : "19,68",
+    "desconto" : "-24%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0C8JW8DM1?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "15/09/2026 15:54",
+    "destaque" : false,
+    "precoAnterior" : "19,68",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "07/09/2026",
+      "preco" : 16.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 19.68
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 19.68
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 19.68
+    } ],
+    "tags" : [ "canela-em-po" ]
+  }, {
     "id" : 184229,
     "titulo" : "Canetinha com 12 Cores Estojo Cartão, Faber-Castell, 15.0112CZF, Multicor",
     "imagem" : "https://m.media-amazon.com/images/I/61IhckqVVEL._AC_SL1000_.jpg",
@@ -16316,6 +16420,97 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 41.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186067,
+    "titulo" : "Capacete De Moto Masculino Preto Fosco New Liberty 4 Fechado",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_767623-MLB89704413626_082025-F-capacete-de-moto-masculino-preto-fosco-new-liberty-4-fechado.webp",
+    "precoOriginal" : "129,90",
+    "precoPromocao" : "89,90",
+    "desconto" : "-30%",
+    "linkAfiliado" : "https://meli.la/1YYKFEp",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "15/09/2026 15:31",
+    "destaque" : false,
+    "precoAnterior" : "89,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 89.9
     } ],
     "tags" : [ ]
   }, {
@@ -19582,6 +19777,78 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186090,
+    "titulo" : "Chupeta MAM Supreme 0 a 6 Meses - Embalagem DUPLA - Rosa",
+    "imagem" : "https://m.media-amazon.com/images/I/51CykPdF2lL._AC_SL1000_.jpg",
+    "precoOriginal" : "77,90",
+    "precoPromocao" : "49,90",
+    "desconto" : "-35%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0B5VXCMNM?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "15/09/2026 15:59",
+    "destaque" : false,
+    "precoAnterior" : "49,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 48.63
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 48.61
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 48.61
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 48.61
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 73.89
+    }, {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 49.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 183712,
     "titulo" : "Churrasqueira a Bafo Portátil para Pescaria Viagens Camping Material Resistente",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mc55mc5rhodjb3",
@@ -19760,6 +20027,100 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 116.89
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 184220,
+    "titulo" : "Chuteira R2 Futsal Salão Quadra Infantil Costurada 24 Ao 33",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_994484-MLB109133599854_042026-F-chuteira-r2-futsal-salo-quadra-infantil-costurada-24-ao-33.webp",
+    "precoOriginal" : "68,90",
+    "precoPromocao" : "44,43",
+    "desconto" : "-35%",
+    "linkAfiliado" : "https://meli.la/2ZkYzj7",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "15/09/2026 16:18",
+    "destaque" : false,
+    "precoAnterior" : "58,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 36.8
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 42.36
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 58.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 44.43
     } ],
     "tags" : [ ]
   }, {
@@ -21173,9 +21534,6 @@
     "precoAnterior" : "17,72",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 18.71
-    }, {
       "data" : "17/08/2026",
       "preco" : 17.99
     }, {
@@ -22647,6 +23005,97 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 48.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186081,
+    "titulo" : "Conjunto Camiseta Essentials Infantil Adidas",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_987294-MLB114373051413_072026-F-conjunto-camiseta-essentials-infantil-adidas.webp",
+    "precoOriginal" : "179,99",
+    "precoPromocao" : "119,59",
+    "desconto" : "-33%",
+    "linkAfiliado" : "https://meli.la/1RmfCCg",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "15/09/2026 15:47",
+    "destaque" : false,
+    "precoAnterior" : "119,59",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 169.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 169.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 132.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 129.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 119.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 119.59
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 119.59
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 119.59
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 119.59
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 119.59
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 119.59
     } ],
     "tags" : [ ]
   }, {
@@ -25662,7 +26111,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DPGLKWCR?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 09:23",
+    "dataOferta" : "15/09/2026 15:53",
     "destaque" : false,
     "precoAnterior" : "37,90",
     "menorPrecoEmDias" : false,
@@ -25746,6 +26195,37 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 37.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186104,
+    "titulo" : "Cápsulas de Café Forte Orfeu, Compatíveis com Nespresso, Contem 20 cápsulas",
+    "imagem" : "https://m.media-amazon.com/images/I/51TW6LaY1-L._AC_SL1000_.jpg",
+    "precoOriginal" : "73,20",
+    "precoPromocao" : "50,80",
+    "desconto" : "-30%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0F7S87RY6?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "15/09/2026 16:08",
+    "destaque" : false,
+    "precoAnterior" : "46,24",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 42.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 46.47
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 46.54
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 46.24
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 50.8
     } ],
     "tags" : [ ]
   }, {
@@ -36455,6 +36935,30 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186089,
+    "titulo" : "Goiabada Flow Pack 300G (3006) - Predilecta",
+    "imagem" : "https://m.media-amazon.com/images/I/61XNkAZLsbL._AC_SL1200_.jpg",
+    "precoOriginal" : "6,43",
+    "precoPromocao" : "5,29",
+    "desconto" : "-17%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B005TC9EL0?tag=curadomus-20",
+    "categoria" : "Alimentos e Bebidas",
+    "categoriaId" : 2,
+    "dataOferta" : "15/09/2026 15:58",
+    "destaque" : false,
+    "precoAnterior" : "5,29",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "07/09/2026"
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 5.29
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 5.29
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 184118,
     "titulo" : "Goma Gomets Sortido Dori 500g",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-825at-ms1t8jbg6ltw24",
@@ -38015,7 +38519,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07YN9SQR9?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 07:34",
+    "dataOferta" : "15/09/2026 15:33",
     "destaque" : false,
     "precoAnterior" : "15,87",
     "menorPrecoEmDias" : false,
@@ -46341,6 +46845,97 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186071,
+    "titulo" : "Kit 3 Potes Dispenser Hermético 2l Multiuso Lavanderia Porta Sabão Em Pó Com Copo Medidor Bico Dosador E Travas",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_794291-MLA103428659673_012026-F.webp",
+    "precoOriginal" : "99,99",
+    "precoPromocao" : "51,00",
+    "desconto" : "-48%",
+    "linkAfiliado" : "https://meli.la/25YTWsC",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "15/09/2026 15:40",
+    "destaque" : false,
+    "precoAnterior" : "51,00",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 49.0
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 51.0
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 51.0
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 186033,
     "titulo" : "Kit 3 Shorts Masculino 2 Em 1 Dry Fit Academia Anti Odor",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_933093-MLB109366735682_042026-F-kit-3-shorts-masculino-2-em-1-dry-fit-academia-anti-odor.webp",
@@ -46444,7 +47039,7 @@
     "linkAfiliado" : "https://meli.la/2NYE5XK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "15/09/2026 07:46",
+    "dataOferta" : "15/09/2026 16:21",
     "destaque" : false,
     "precoAnterior" : "69,90",
     "menorPrecoEmDias" : false,
@@ -54461,6 +55056,88 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 64.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186095,
+    "titulo" : "Likluc Pikluc Aparelho Para Alivio Da Dor Na Hora Da Injeção Verde Tamanho Único",
+    "imagem" : "https://m.media-amazon.com/images/I/516RQFcCRdL._AC_SL1000_.jpg",
+    "precoOriginal" : "29,90",
+    "precoPromocao" : "22,89",
+    "desconto" : "-23%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07MBTRWSH?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "15/09/2026 16:02",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 27.93
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 28.31
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 24.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 25.7
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 27.93
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 25.21
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 23.89
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 23.89
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 23.89
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 23.88
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.93
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 23.88
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 28.29
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 28.29
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 19.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 19.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 19.0
+    }, {
+      "data" : "08/09/2026"
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 19.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 19.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 25.69
+    }, {
+      "data" : "13/09/2026"
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 22.89
     } ],
     "tags" : [ ]
   }, {
@@ -65622,103 +66299,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 183845,
-    "titulo" : "Orfeu Café Clássico Torrado e Moído, 100% Arabica, Torra Média, 250g",
-    "imagem" : "https://m.media-amazon.com/images/I/51sgHRw7N6L._AC_SL1000_.jpg",
-    "precoOriginal" : "45,00",
-    "precoPromocao" : "36,80",
-    "desconto" : "-18%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0783NPFQ2?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 07:31",
-    "destaque" : false,
-    "precoAnterior" : "36,80",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 38.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 38.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 33.74
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 33.74
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 33.74
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 33.74
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 33.74
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 27.5
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 35.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 35.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 36.8
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 36.8
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 184007,
     "titulo" : "ORFEU Café em Grãos Intenso Torra Escura 1 kg",
     "imagem" : "https://m.media-amazon.com/images/I/51NhdIkrmYL._AC_SL1000_.jpg",
@@ -65728,7 +66308,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07HWWTY3K?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "15/09/2026 07:36",
+    "dataOferta" : "15/09/2026 15:36",
     "destaque" : false,
     "precoAnterior" : "129,20",
     "menorPrecoEmDias" : false,
@@ -66197,8 +66777,9 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08MXTY3Z6?tag=curadomus-20",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "15/09/2026 07:50",
+    "dataOferta" : "15/09/2026 16:12",
     "destaque" : false,
+    "precoAnterior" : "6,75",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "15/09/2026",
@@ -73285,6 +73866,85 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 186094,
+    "titulo" : "Sabonete Líquido de Glicerina Baunilha JOHNSON'S® Baby 200mL",
+    "imagem" : "https://m.media-amazon.com/images/I/61TqADalesL._AC_SL1500_.jpg",
+    "precoOriginal" : "26,39",
+    "precoPromocao" : "17,24",
+    "desconto" : "-34%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0GMJVXT2K?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "15/09/2026 16:01",
+    "destaque" : false,
+    "precoAnterior" : "17,24",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 20.99
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 25.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 20.79
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 19.79
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 19.79
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 19.79
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 19.79
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 19.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 15.97
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 22.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 17.24
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 17.24
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 185055,
     "titulo" : "Sabonete Líquido de Glicerina Baunilha JOHNSON'S® Baby 400mL",
     "imagem" : "https://m.media-amazon.com/images/I/61FOiQhArJL._AC_SL1500_.jpg",
@@ -73637,6 +74297,88 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 31.74
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186091,
+    "titulo" : "Sabonete Líquido Glicerina Lavanda JOHNSON’S® Baby, 400mL",
+    "imagem" : "https://m.media-amazon.com/images/I/61BvTWZgpiL._AC_SL1500_.jpg",
+    "precoOriginal" : "44,99",
+    "precoPromocao" : "27,29",
+    "desconto" : "-39%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0DJBVL2S5?tag=curadomus-20",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "15/09/2026 15:59",
+    "destaque" : false,
+    "precoAnterior" : "27,29",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "16/08/2026",
+      "preco" : 29.59
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 32.79
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.39
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 22.22
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 27.29
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 27.29
     } ],
     "tags" : [ ]
   }, {
@@ -79832,7 +80574,7 @@
     "linkAfiliado" : "https://meli.la/2Loj18m",
     "categoria" : "Ferramentas e Materiais de Construção",
     "categoriaId" : 98,
-    "dataOferta" : "15/09/2026 07:24",
+    "dataOferta" : "15/09/2026 15:59",
     "destaque" : false,
     "precoAnterior" : "23,12",
     "menorPrecoEmDias" : false,
@@ -80387,7 +81129,7 @@
     "linkAfiliado" : "https://meli.la/1UorY2k",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "15/09/2026 07:37",
+    "dataOferta" : "15/09/2026 16:12",
     "destaque" : false,
     "precoAnterior" : "50,29",
     "menorPrecoEmDias" : false,
@@ -80478,7 +81220,7 @@
     "linkAfiliado" : "https://meli.la/15Vqhor",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "15/09/2026 07:30",
+    "dataOferta" : "15/09/2026 16:05",
     "destaque" : false,
     "precoAnterior" : "28,16",
     "menorPrecoEmDias" : false,
@@ -80939,6 +81681,97 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 64.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186069,
+    "titulo" : "Tênis Aramis Daily Slip Canvas Masculino",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_631185-MLB93383082969_092025-F-tnis-aramis-daily-slip-canvas-masculino.webp",
+    "precoOriginal" : "299,99",
+    "precoPromocao" : "179,90",
+    "desconto" : "-40%",
+    "linkAfiliado" : "https://meli.la/1NzDbb5",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "15/09/2026 15:37",
+    "destaque" : false,
+    "precoAnterior" : "179,90",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 182.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 199.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 179.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 179.9
     } ],
     "tags" : [ ]
   }, {
@@ -81852,6 +82685,97 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 39.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186065,
+    "titulo" : "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_747746-MLB114087021168_072026-F-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
+    "precoOriginal" : "289,99",
+    "precoPromocao" : "136,90",
+    "desconto" : "-52%",
+    "linkAfiliado" : "https://meli.la/1zwWHzc",
+    "categoria" : "Calçados",
+    "categoriaId" : 10,
+    "dataOferta" : "15/09/2026 15:25",
+    "destaque" : false,
+    "precoAnterior" : "125,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "17/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "19/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 127.7
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 127.7
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 129.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 125.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 124.63
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 146.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 125.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 136.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 125.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 136.9
     } ],
     "tags" : [ ]
   }, {
@@ -83860,7 +84784,7 @@
     "linkAfiliado" : "https://meli.la/1Htn6iq",
     "categoria" : "Vinhos",
     "categoriaId" : 11,
-    "dataOferta" : "15/09/2026 07:40",
+    "dataOferta" : "15/09/2026 16:15",
     "destaque" : false,
     "precoAnterior" : "37,60",
     "menorPrecoEmDias" : false,
@@ -83942,6 +84866,50 @@
     }, {
       "data" : "15/09/2026",
       "preco" : 37.6
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186087,
+    "titulo" : "Vinho Freixenet Desalcoolizado Rosé 750ml",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_933751-MLB77377820285_072024-F-vinho-freixenet-desalcoolizado-rose-750ml.webp",
+    "precoOriginal" : "157,91",
+    "precoPromocao" : "104,75",
+    "desconto" : "-33%",
+    "linkAfiliado" : "https://meli.la/1ZM6uEY",
+    "categoria" : "Vinhos",
+    "categoriaId" : 11,
+    "dataOferta" : "15/09/2026 15:56",
+    "destaque" : false,
+    "precoAnterior" : "104,75",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/09/2026",
+      "preco" : 104.75
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 104.75
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 186083,
+    "titulo" : "Vinho Português Poças Vinho Do Porto Ruby Tinto 750ml",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_841357-MLU74978651579_032024-F-vinho-portugues-pocas-vinho-do-porto-ruby-tinto-750ml.webp",
+    "precoOriginal" : "154,94",
+    "precoPromocao" : "74,89",
+    "desconto" : "-51%",
+    "linkAfiliado" : "https://meli.la/2BVZUqK",
+    "categoria" : "Vinhos",
+    "categoriaId" : 11,
+    "dataOferta" : "15/09/2026 15:53",
+    "destaque" : false,
+    "precoAnterior" : "74,89",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "14/09/2026",
+      "preco" : 74.89
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 74.89
     } ],
     "tags" : [ ]
   }, {
