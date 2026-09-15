@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "15/09/2026 17:21",
+  "ultimaAtualizacao" : "15/09/2026 17:58",
   "ofertas" : [ {
     "id" : 185576,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -1693,9 +1693,6 @@
     "precoAnterior" : "19,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 19.9
-    }, {
       "data" : "18/08/2026",
       "preco" : 19.35
     }, {
@@ -2454,9 +2451,6 @@
     "precoAnterior" : "49,26",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 49.26
-    }, {
       "data" : "18/08/2026",
       "preco" : 49.26
     }, {
@@ -12723,7 +12717,7 @@
     "linkAfiliado" : "https://meli.la/2Dn8xw4",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "15/09/2026 08:49",
+    "dataOferta" : "15/09/2026 17:24",
     "destaque" : false,
     "precoAnterior" : "68,20",
     "menorPrecoEmDias" : false,
@@ -14875,7 +14869,7 @@
     "linkAfiliado" : "https://meli.la/2hQFRBH",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "15/09/2026 09:11",
+    "dataOferta" : "15/09/2026 17:46",
     "destaque" : false,
     "precoAnterior" : "69,00",
     "menorPrecoEmDias" : false,
@@ -15401,14 +15395,14 @@
     "titulo" : "Camiseta Nike Sportswear Just Do It Masculina",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_964899-MLB100382159692_122025-F-camiseta-nike-sportswear-just-do-it-masculina.webp",
     "precoOriginal" : "129,99",
-    "precoPromocao" : "79,99",
-    "desconto" : "-38%",
+    "precoPromocao" : "69,99",
+    "desconto" : "-46%",
     "linkAfiliado" : "https://meli.la/2ZJurhB",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "15/09/2026 09:04",
+    "dataOferta" : "15/09/2026 17:40",
     "destaque" : false,
-    "precoAnterior" : "69,99",
+    "precoAnterior" : "79,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "17/08/2026",
@@ -15484,7 +15478,7 @@
       "preco" : 69.99
     }, {
       "data" : "15/09/2026",
-      "preco" : 79.99
+      "preco" : 69.99
     } ],
     "tags" : [ ]
   }, {
@@ -32861,9 +32855,6 @@
     "precoAnterior" : "56,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 50.99
-    }, {
       "data" : "18/08/2026"
     }, {
       "data" : "19/08/2026"
@@ -36785,9 +36776,6 @@
     "precoAnterior" : "9,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 10.9
-    }, {
       "data" : "18/08/2026",
       "preco" : 10.9
     }, {
@@ -44125,9 +44113,6 @@
     "precoAnterior" : "15,44",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 19.99
-    }, {
       "data" : "18/08/2026",
       "preco" : 15.77
     }, {
@@ -48675,9 +48660,6 @@
     "precoAnterior" : "34,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 34.99
-    }, {
       "data" : "18/08/2026",
       "preco" : 34.99
     }, {
@@ -54255,7 +54237,7 @@
     "linkAfiliado" : "https://meli.la/2bX2Vqh",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "15/09/2026 08:55",
+    "dataOferta" : "15/09/2026 17:30",
     "destaque" : false,
     "precoAnterior" : "139,90",
     "menorPrecoEmDias" : false,
@@ -57955,7 +57937,7 @@
     "linkAfiliado" : "https://meli.la/34okV6y",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "15/09/2026 08:52",
+    "dataOferta" : "15/09/2026 17:27",
     "destaque" : false,
     "precoAnterior" : "42,99",
     "menorPrecoEmDias" : false,
@@ -58628,9 +58610,6 @@
     "menorPrecoEmDias" : true,
     "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 39.88
-    }, {
       "data" : "18/08/2026",
       "preco" : 39.88
     }, {
@@ -68957,97 +68936,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 184737,
-    "titulo" : "Percarbonato De Sódio Tira Mancha 100% Poder O2 Calisul 3 Kg",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_882295-MLB90543952460_082025-F-percarbonato-de-sodio-tira-mancha-100-poder-o2-calisul-3-kg.webp",
-    "precoOriginal" : "78,00",
-    "precoPromocao" : "59,42",
-    "desconto" : "-23%",
-    "linkAfiliado" : "https://meli.la/1MfHAEc",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "15/09/2026 08:58",
-    "destaque" : false,
-    "precoAnterior" : "59,42",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "17/08/2026",
-      "preco" : 68.0
-    }, {
-      "data" : "18/08/2026",
-      "preco" : 68.0
-    }, {
-      "data" : "19/08/2026",
-      "preco" : 68.0
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 68.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 68.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 58.64
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 59.42
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 59.42
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 184604,
     "titulo" : "Personal Papel Higiênico Vip Folha Dupla, 16 Unidades Branco (Embalagem Pode Variar)",
     "imagem" : "https://m.media-amazon.com/images/I/71KaKveIWNL._AC_SL1500_.jpg",
@@ -70438,9 +70326,6 @@
     "precoAnterior" : "344,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 356.58
-    }, {
       "data" : "18/08/2026",
       "preco" : 356.58
     }, {
@@ -70538,9 +70423,6 @@
     "precoAnterior" : "27,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 26.9
-    }, {
       "data" : "18/08/2026",
       "preco" : 26.9
     }, {
@@ -71900,14 +71782,14 @@
   }, {
     "id" : 184755,
     "titulo" : "Processador Triturador Moedor De Alimentos Manual Alho 500ml",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_769545-MLB117467630465_092026-F-processador-triturador-moedor-de-alimentos-manual-alho-500ml.webp",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_705688-MLB117708582987_092026-F-processador-triturador-moedor-de-alimentos-manual-alho-500ml.webp",
     "precoOriginal" : "36,43",
     "precoPromocao" : "15,92",
     "desconto" : "-56%",
     "linkAfiliado" : "https://meli.la/2BV4pkR",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "15/09/2026 09:01",
+    "dataOferta" : "15/09/2026 17:36",
     "destaque" : false,
     "precoAnterior" : "15,92",
     "menorPrecoEmDias" : false,
@@ -72385,9 +72267,6 @@
     "precoAnterior" : "3,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 3.99
-    }, {
       "data" : "18/08/2026",
       "preco" : 3.99
     }, {
@@ -75783,9 +75662,6 @@
     "precoAnterior" : "22,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "16/08/2026",
-      "preco" : 18.9
-    }, {
       "data" : "18/08/2026",
       "preco" : 18.9
     }, {
@@ -80836,7 +80712,7 @@
     "linkAfiliado" : "https://meli.la/16q7AMN",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "15/09/2026 09:17",
+    "dataOferta" : "15/09/2026 17:52",
     "destaque" : false,
     "precoAnterior" : "66,14",
     "menorPrecoEmDias" : false,
@@ -82856,15 +82732,16 @@
     "titulo" : "Tênis Lacoste Europa Original Em Promoção",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_687944-MLB85591539767_062025-F-tnis-lacoste-europa-original-em-promoco.webp",
     "precoOriginal" : "399,99",
-    "precoPromocao" : "263,15",
-    "desconto" : "-34%",
+    "precoPromocao" : "249,30",
+    "desconto" : "-37%",
     "linkAfiliado" : "https://meli.la/2dP32sc",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "15/09/2026 09:23",
-    "destaque" : false,
+    "dataOferta" : "15/09/2026 17:58",
+    "destaque" : true,
     "precoAnterior" : "263,15",
-    "menorPrecoEmDias" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 30 dias.",
     "historico" : [ {
       "data" : "17/08/2026",
       "preco" : 282.14
@@ -82939,7 +82816,7 @@
       "preco" : 263.15
     }, {
       "data" : "15/09/2026",
-      "preco" : 263.15
+      "preco" : 249.3
     } ],
     "tags" : [ ]
   }, {
@@ -82952,7 +82829,7 @@
     "linkAfiliado" : "https://meli.la/2rzSfK4",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "15/09/2026 09:08",
+    "dataOferta" : "15/09/2026 17:43",
     "destaque" : false,
     "precoAnterior" : "249,99",
     "menorPrecoEmDias" : false,
