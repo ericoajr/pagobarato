@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "17/09/2026 16:24",
+  "ultimaAtualizacao" : "17/09/2026 17:24",
   "ofertas" : [ {
     "id" : 190812,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -8057,14 +8057,11 @@
     "linkAfiliado" : "https://meli.la/1JjXPef",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "17/09/2026 08:32",
+    "dataOferta" : "17/09/2026 17:12",
     "destaque" : false,
-    "precoAnterior" : "40,00",
+    "precoAnterior" : "23,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 21.34
-    }, {
       "data" : "19/08/2026",
       "preco" : 21.34
     }, {
@@ -13322,14 +13319,11 @@
     "linkAfiliado" : "https://meli.la/2AHfACQ",
     "categoria" : "Bebês",
     "categoriaId" : 7,
-    "dataOferta" : "17/09/2026 08:35",
+    "dataOferta" : "17/09/2026 17:15",
     "destaque" : false,
     "precoAnterior" : "299,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 299.9
-    }, {
       "data" : "19/08/2026",
       "preco" : 299.9
     }, {
@@ -14669,6 +14663,94 @@
     }, {
       "data" : "17/09/2026",
       "preco" : 99.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 191722,
+    "titulo" : "Cafeteira Elétrica Cf-102 Kian 18 Xícaras 650w Cor Preto",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_686480-MLA99905114973_112025-F.webp",
+    "precoOriginal" : "129,99",
+    "precoPromocao" : "65,85",
+    "desconto" : "-49%",
+    "linkAfiliado" : "https://meli.la/2Dn8xw4",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "17/09/2026 16:40",
+    "destaque" : false,
+    "precoAnterior" : "68,20",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "19/08/2026",
+      "preco" : 65.23
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 65.23
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 63.92
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 78.2
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 68.2
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 65.85
     } ],
     "tags" : [ ]
   }, {
@@ -16899,9 +16981,6 @@
     "precoAnterior" : "79,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 79.9
-    }, {
       "data" : "19/08/2026",
       "preco" : 79.9
     }, {
@@ -17175,21 +17254,18 @@
   }, {
     "id" : 189356,
     "titulo" : "Camiseta Masculina Básica Slim Algodão - Várias Cores Ogochi",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_929638-MLB106952830522_022026-F-camiseta-masculina-basica-slim-algodo-varias-cores-ogochi.webp",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_923620-MLA113144055421_062026-F-camiseta-masculina-basica-slim-algodo-varias-cores-ogochi.webp",
     "precoOriginal" : "69,90",
     "precoPromocao" : "43,82",
     "desconto" : "-37%",
     "linkAfiliado" : "https://meli.la/1tdwqsK",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "17/09/2026 08:29",
+    "dataOferta" : "17/09/2026 17:08",
     "destaque" : false,
     "precoAnterior" : "43,82",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 43.82
-    }, {
       "data" : "19/08/2026",
       "preco" : 40.0
     }, {
@@ -17428,14 +17504,11 @@
     "linkAfiliado" : "https://meli.la/1Hng3vL",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "17/09/2026 08:19",
+    "dataOferta" : "17/09/2026 16:59",
     "destaque" : false,
     "precoAnterior" : "159,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 147.89
-    }, {
       "data" : "19/08/2026",
       "preco" : 147.89
     }, {
@@ -32778,14 +32851,11 @@
     "linkAfiliado" : "https://meli.la/2mxdAsj",
     "categoria" : "Eletroportáteis",
     "categoriaId" : 225,
-    "dataOferta" : "17/09/2026 08:41",
+    "dataOferta" : "17/09/2026 17:21",
     "destaque" : false,
-    "precoAnterior" : "55,00",
+    "precoAnterior" : "47,30",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 49.0
-    }, {
       "data" : "19/08/2026",
       "preco" : 48.9
     }, {
@@ -49462,9 +49532,6 @@
     "precoAnterior" : "59,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 59.9
-    }, {
       "data" : "19/08/2026",
       "preco" : 59.9
     }, {
@@ -49556,9 +49623,6 @@
     "precoAnterior" : "169,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 179.0
-    }, {
       "data" : "19/08/2026",
       "preco" : 179.0
     }, {
@@ -53477,14 +53541,11 @@
     "linkAfiliado" : "https://meli.la/229pH81",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "17/09/2026 08:38",
+    "dataOferta" : "17/09/2026 17:18",
     "destaque" : false,
     "precoAnterior" : "64,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 57.89
-    }, {
       "data" : "19/08/2026",
       "preco" : 57.89
     }, {
@@ -58477,14 +58538,11 @@
     "linkAfiliado" : "https://meli.la/2bX2Vqh",
     "categoria" : "Saúde e Bem-Estar",
     "categoriaId" : 97,
-    "dataOferta" : "17/09/2026 08:07",
+    "dataOferta" : "17/09/2026 16:46",
     "destaque" : false,
     "precoAnterior" : "139,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 139.9
-    }, {
       "data" : "19/08/2026",
       "preco" : 139.9
     }, {
@@ -62486,7 +62544,7 @@
     "linkAfiliado" : "https://meli.la/34okV6y",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "17/09/2026 08:03",
+    "dataOferta" : "17/09/2026 16:43",
     "destaque" : false,
     "precoAnterior" : "42,99",
     "menorPrecoEmDias" : false,
@@ -75121,14 +75179,11 @@
     "linkAfiliado" : "https://meli.la/1MfHAEc",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "17/09/2026 08:10",
+    "dataOferta" : "17/09/2026 16:49",
     "destaque" : false,
     "precoAnterior" : "59,42",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 68.0
-    }, {
       "data" : "19/08/2026",
       "preco" : 68.0
     }, {
@@ -78882,14 +78937,11 @@
     "linkAfiliado" : "https://meli.la/2BV4pkR",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "17/09/2026 08:13",
+    "dataOferta" : "17/09/2026 16:53",
     "destaque" : false,
-    "precoAnterior" : "19,90",
+    "precoAnterior" : "15,92",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 15.2
-    }, {
       "data" : "19/08/2026",
       "preco" : 15.2
     }, {
@@ -78964,97 +79016,6 @@
     }, {
       "data" : "17/09/2026",
       "preco" : 15.92
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 189061,
-    "titulo" : "Processador Walita Preto 1000w - Hr7304/92 Preto",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_808861-MLA107744383504_032026-F.webp",
-    "precoOriginal" : "650,00",
-    "precoPromocao" : "382,77",
-    "desconto" : "-41%",
-    "linkAfiliado" : "https://meli.la/2iNBsrd",
-    "categoria" : "Eletroportáteis",
-    "categoriaId" : 225,
-    "dataOferta" : "17/09/2026 07:57",
-    "destaque" : false,
-    "precoAnterior" : "382,77",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "19/08/2026",
-      "preco" : 364.41
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 364.41
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 374.41
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 364.41
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 364.41
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 364.41
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 368.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 363.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 360.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 368.79
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 349.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 349.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 349.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 349.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 369.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 384.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 372.03
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 375.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 375.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 375.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 372.03
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 372.03
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 382.77
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 382.77
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 382.77
     } ],
     "tags" : [ ]
   }, {
@@ -80693,14 +80654,11 @@
     "linkAfiliado" : "https://meli.la/1xzAzBj",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "17/09/2026 08:44",
+    "dataOferta" : "17/09/2026 17:24",
     "destaque" : false,
     "precoAnterior" : "209,90",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 163.0
-    }, {
       "data" : "19/08/2026",
       "preco" : 163.0
     }, {
@@ -84563,14 +84521,11 @@
     "linkAfiliado" : "https://meli.la/1hjcYwm",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "17/09/2026 08:16",
+    "dataOferta" : "17/09/2026 16:56",
     "destaque" : false,
     "precoAnterior" : "16,72",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 16.72
-    }, {
       "data" : "19/08/2026",
       "preco" : 16.72
     }, {
@@ -91435,9 +91390,6 @@
     "precoAnterior" : "301,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 295.99
-    }, {
       "data" : "19/08/2026",
       "preco" : 295.99
     }, {
@@ -93101,14 +93053,11 @@
     "linkAfiliado" : "https://meli.la/12QwHDu",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "17/09/2026 08:22",
+    "dataOferta" : "17/09/2026 17:02",
     "destaque" : false,
     "precoAnterior" : "341,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 284.99
-    }, {
       "data" : "19/08/2026",
       "preco" : 284.99
     }, {
@@ -93195,14 +93144,11 @@
     "linkAfiliado" : "https://meli.la/14YqFTL",
     "categoria" : "Calçados",
     "categoriaId" : 10,
-    "dataOferta" : "17/09/2026 08:25",
+    "dataOferta" : "17/09/2026 17:05",
     "destaque" : false,
     "precoAnterior" : "164,99",
     "menorPrecoEmDias" : false,
     "historico" : [ {
-      "data" : "18/08/2026",
-      "preco" : 155.0
-    }, {
       "data" : "19/08/2026",
       "preco" : 155.0
     }, {
