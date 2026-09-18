@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "18/09/2026 13:52",
+  "ultimaAtualizacao" : "18/09/2026 14:54",
   "ofertas" : [ {
     "id" : 194933,
     "titulo" : "+Mu Chocowheyfer Proteico Caixa Mista - Display 12 unidades",
@@ -506,7 +506,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08S1NXKS1?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:04",
+    "dataOferta" : "18/09/2026 14:35",
     "destaque" : false,
     "precoAnterior" : "29,89",
     "menorPrecoEmDias" : false,
@@ -800,7 +800,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CN3K431G?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:02",
+    "dataOferta" : "18/09/2026 14:33",
     "destaque" : false,
     "precoAnterior" : "16,39",
     "menorPrecoEmDias" : false,
@@ -897,7 +897,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DDQNKR4C?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:02",
+    "dataOferta" : "18/09/2026 14:33",
     "destaque" : false,
     "precoAnterior" : "17,49",
     "menorPrecoEmDias" : false,
@@ -4048,7 +4048,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BHTL6DJ1?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:05",
+    "dataOferta" : "18/09/2026 14:36",
     "destaque" : false,
     "precoAnterior" : "103,30",
     "menorPrecoEmDias" : false,
@@ -5274,103 +5274,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 192999,
-    "titulo" : "Barilla Macarrão Grano Duro Penne Rigate 500G",
-    "imagem" : "https://m.media-amazon.com/images/I/71iuES99hOL._AC_SL1500_.jpg",
-    "precoOriginal" : "15,91",
-    "precoPromocao" : "12,93",
-    "desconto" : "-18%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B003OH8F6M?tag=curadomus-20",
-    "categoria" : "Alimentos e Bebidas",
-    "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:04",
-    "destaque" : false,
-    "precoAnterior" : "12,93",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "20/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 10.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 11.64
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 11.64
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 12.93
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 12.93
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 194217,
     "titulo" : "Barilla N.5 - Macarrão Grano Duro, Spaguetti, 500g",
     "imagem" : "https://m.media-amazon.com/images/I/61CZWMrlfkL._AC_SL1500_.jpg",
@@ -5632,6 +5535,100 @@
     }, {
       "data" : "18/09/2026",
       "preco" : 55.8
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 195808,
+    "titulo" : "Batedeira Planetária, Mondial, 700W - BP-03-B",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_728880-MLA99495345066_112025-F.webp",
+    "precoOriginal" : "489,90",
+    "precoPromocao" : "356,48",
+    "desconto" : "-27%",
+    "linkAfiliado" : "https://meli.la/1SCDTNT",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "18/09/2026 14:20",
+    "destaque" : false,
+    "precoAnterior" : "356,48",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 298.62
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 298.62
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 283.38
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 337.1
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 340.0
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 369.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 369.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 416.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 416.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 343.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 343.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 299.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 290.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 290.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 290.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 290.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 253.88
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 369.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 332.47
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 332.47
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 332.47
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 332.47
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 308.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 308.99
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 356.48
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 356.48
     } ],
     "tags" : [ ]
   }, {
@@ -9450,7 +9447,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTN9W36?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:11",
+    "dataOferta" : "18/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "24,99",
     "menorPrecoEmDias" : false,
@@ -15544,6 +15541,100 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 195817,
+    "titulo" : "Calcinha Infantil Algodão",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_769703-MLB103916909783_012026-F-10-calcinha-infantil-algodo-tradicional-menina-atacado.webp",
+    "precoOriginal" : "34,90",
+    "precoPromocao" : "27,92",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://meli.la/1dTGbDJ",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "18/09/2026 14:49",
+    "destaque" : false,
+    "precoAnterior" : "27,92",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 27.92
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 27.92
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 193722,
     "titulo" : "Calisul Percarbonato de Sódio 100% Puro Remove Manchas Difíceis",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lq-mpv5d8ef2m8069",
@@ -17846,7 +17937,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077J2FKQN?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:13",
+    "dataOferta" : "18/09/2026 14:45",
     "destaque" : false,
     "precoAnterior" : "14,99",
     "menorPrecoEmDias" : false,
@@ -18019,102 +18110,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 193096,
-    "titulo" : "CANSON Escolar, Papel Vegetal Semitransparente em Bloco, Tamanho A4",
-    "imagem" : "https://m.media-amazon.com/images/I/81awCD5TV0L._AC_SL1500_.jpg",
-    "precoOriginal" : "29,99",
-    "precoPromocao" : "23,84",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B076HXYZ9J?tag=curadomus-20",
-    "categoria" : "Papelaria",
-    "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:17",
-    "destaque" : false,
-    "precoAnterior" : "23,84",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "20/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 26.4
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 26.4
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 26.4
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "14/09/2026"
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 26.4
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 23.84
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 23.84
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 193095,
     "titulo" : "CANSON Iris Vivaldi, Papel Colorido A4 Sortido em Pacote de 25 Folhas Soltas, Cores Agua, 185 g/m²",
     "imagem" : "https://m.media-amazon.com/images/I/711bn2HT+-L._AC_SL1500_.jpg",
@@ -18124,7 +18119,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0BNVXPS5V?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:17",
+    "dataOferta" : "18/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "25,50",
     "menorPrecoEmDias" : false,
@@ -20215,7 +20210,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B075X4K638?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:15",
+    "dataOferta" : "18/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "18,00",
     "menorPrecoEmDias" : false,
@@ -22667,100 +22662,6 @@
     } ],
     "tags" : [ ]
   }, {
-    "id" : 193049,
-    "titulo" : "Cif Cremoso Limpeza Milagrosa Remove 100% Da Sujeira 450 Ml",
-    "imagem" : "https://m.media-amazon.com/images/I/611kXr75+ZL._AC_SL1500_.jpg",
-    "precoOriginal" : "22,40",
-    "precoPromocao" : "14,99",
-    "desconto" : "-33%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07DTNB6SY?tag=curadomus-20",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:11",
-    "destaque" : false,
-    "precoAnterior" : "14,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "20/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 17.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 14.25
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 11.99
-    }, {
-      "data" : "03/09/2026"
-    }, {
-      "data" : "04/09/2026"
-    }, {
-      "data" : "05/09/2026"
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 12.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 12.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 12.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 14.99
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 14.99
-    } ],
-    "tags" : [ ]
-  }, {
     "id" : 194872,
     "titulo" : "Clear Men Shampoo Anticaspa Vini Jr. Hidratação Campeã 400ml",
     "imagem" : "https://m.media-amazon.com/images/I/71TIzDyoOSL._AC_SL1500_.jpg",
@@ -23151,7 +23052,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07DD2N22F?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:16",
+    "dataOferta" : "18/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "12,74",
     "menorPrecoEmDias" : false,
@@ -23248,7 +23149,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077J1CFZH?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:15",
+    "dataOferta" : "18/09/2026 14:46",
     "destaque" : false,
     "precoAnterior" : "20,55",
     "menorPrecoEmDias" : false,
@@ -28636,7 +28537,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0DM2J8BG4?tag=curadomus-20",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "18/09/2026 08:19",
+    "dataOferta" : "18/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "56,99",
     "menorPrecoEmDias" : false,
@@ -29881,7 +29782,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07MBXDB51?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:09",
+    "dataOferta" : "18/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "54,99",
     "menorPrecoEmDias" : false,
@@ -30147,7 +30048,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CS7XK3DX?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:09",
+    "dataOferta" : "18/09/2026 14:40",
     "destaque" : false,
     "precoAnterior" : "55,55",
     "menorPrecoEmDias" : false,
@@ -30246,7 +30147,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08FD3B2KQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:07",
+    "dataOferta" : "18/09/2026 14:38",
     "destaque" : false,
     "precoAnterior" : "33,65",
     "menorPrecoEmDias" : false,
@@ -31901,7 +31802,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FMG2WZPF?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:13",
+    "dataOferta" : "18/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "23,26",
     "menorPrecoEmDias" : false,
@@ -33316,7 +33217,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B078TH4RQL?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:07",
+    "dataOferta" : "18/09/2026 14:38",
     "destaque" : false,
     "precoAnterior" : "18,90",
     "menorPrecoEmDias" : false,
@@ -35063,6 +34964,100 @@
     }, {
       "data" : "18/09/2026",
       "preco" : 174.9
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 195809,
+    "titulo" : "Fralda Huggies Máx Proteção M 24 Un. Canais De Absorção 12h",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_786757-MLB109273395417_032026-F-fralda-huggies-max-protecao-m-24-un-canais-de-absorcao-12h.webp",
+    "precoOriginal" : "54,49",
+    "precoPromocao" : "42,86",
+    "desconto" : "-21%",
+    "linkAfiliado" : "https://meli.la/1GXaxfb",
+    "categoria" : "Fraldas",
+    "categoriaId" : 9,
+    "dataOferta" : "18/09/2026 14:23",
+    "destaque" : false,
+    "precoAnterior" : "42,86",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 42.86
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 42.86
     } ],
     "tags" : [ ]
   }, {
@@ -37785,12 +37780,12 @@
     "titulo" : "Garmin Relógio Forerunner 55 com Monitor Cardíaco de Pulso e GPS",
     "imagem" : "https://m.media-amazon.com/images/I/51-D8JBR8+L._AC_SL1000_.jpg",
     "precoOriginal" : "2.199,00",
-    "precoPromocao" : "1.699,00",
-    "desconto" : "-22%",
+    "precoPromocao" : "1.498,00",
+    "desconto" : "-31%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0953X73TP?tag=curadomus-20",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "18/09/2026 08:18",
+    "dataOferta" : "18/09/2026 14:49",
     "destaque" : false,
     "precoAnterior" : "1.699,00",
     "menorPrecoEmDias" : false,
@@ -37871,7 +37866,7 @@
       "preco" : 1699.0
     }, {
       "data" : "18/09/2026",
-      "preco" : 1699.0
+      "preco" : 1498.0
     } ],
     "tags" : [ ]
   }, {
@@ -39228,7 +39223,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CGCDZRBL?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:12",
+    "dataOferta" : "18/09/2026 14:43",
     "destaque" : false,
     "precoAnterior" : "9,90",
     "menorPrecoEmDias" : false,
@@ -39322,7 +39317,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07RJYGPR1?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:11",
+    "dataOferta" : "18/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "12,99",
     "menorPrecoEmDias" : false,
@@ -45228,7 +45223,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077PLGWMG?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "18/09/2026 08:22",
+    "dataOferta" : "18/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "28,21",
     "menorPrecoEmDias" : false,
@@ -45724,7 +45719,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/5AqzMuoK6K",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:54",
+    "dataOferta" : "18/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "12,50",
     "menorPrecoEmDias" : false,
@@ -47581,7 +47576,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08VCC6J2C?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "18/09/2026 08:22",
+    "dataOferta" : "18/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "15,44",
     "menorPrecoEmDias" : false,
@@ -47678,7 +47673,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08HZ9ZLSJ?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "18/09/2026 08:22",
+    "dataOferta" : "18/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "19,89",
     "menorPrecoEmDias" : false,
@@ -50091,7 +50086,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GRFP6315?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:06",
+    "dataOferta" : "18/09/2026 14:37",
     "destaque" : false,
     "precoAnterior" : "42,90",
     "menorPrecoEmDias" : false,
@@ -50570,6 +50565,194 @@
     }, {
       "data" : "18/09/2026",
       "preco" : 69.89
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 195802,
+    "titulo" : "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_626928-MLB82004918446_022025-F-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada.webp",
+    "precoOriginal" : "135,41",
+    "precoPromocao" : "49,99",
+    "desconto" : "-63%",
+    "linkAfiliado" : "https://meli.la/1Ez6yXK",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "18/09/2026 14:05",
+    "destaque" : false,
+    "precoAnterior" : "49,99",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 59.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 62.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 62.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 73.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 63.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 49.99
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 49.99
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 195814,
+    "titulo" : "Kit 4 Cueca Boxer Masculino Polo Wear Sem Costura Original",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_941847-MLB90039868585_082025-F-kit-4-cueca-boxer-masculino-polo-wear-sem-costura-original.webp",
+    "precoOriginal" : "49,90",
+    "precoPromocao" : "33,97",
+    "desconto" : "-31%",
+    "linkAfiliado" : "https://meli.la/1Vdx6TT",
+    "categoria" : "Moda",
+    "categoriaId" : 5,
+    "dataOferta" : "18/09/2026 14:39",
+    "destaque" : false,
+    "precoAnterior" : "33,97",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 34.29
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 34.29
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 39.92
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 40.0
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 32.0
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 33.97
     } ],
     "tags" : [ ]
   }, {
@@ -53142,7 +53325,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FTNP6VWW?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:10",
+    "dataOferta" : "18/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "34,92",
     "menorPrecoEmDias" : false,
@@ -53762,7 +53945,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CGCDXZ58?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:17",
+    "dataOferta" : "18/09/2026 14:48",
     "destaque" : false,
     "precoAnterior" : "42,49",
     "menorPrecoEmDias" : false,
@@ -54766,6 +54949,103 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 195811,
+    "titulo" : "Kit Saída Maternidade Nossa Senhora Branco",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_771443-MLB113090015803_062026-F-kit-saida-maternidade-nossa-senhora-branco.webp",
+    "precoOriginal" : "129,90",
+    "precoPromocao" : "100,41",
+    "desconto" : "-22%",
+    "linkAfiliado" : "https://meli.la/1ieQytK",
+    "categoria" : "Bebês",
+    "categoriaId" : 7,
+    "dataOferta" : "18/09/2026 14:30",
+    "destaque" : false,
+    "precoAnterior" : "100,41",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 105.92
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 105.92
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 105.92
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 111.06
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 106.91
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 106.91
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 116.91
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 100.41
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 100.41
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 100.41
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 195548,
     "titulo" : "Kit Shampoo Regular Johnson's Baby + Johnson's Baby Sabonete Líquido Glicerina Da Cabeça Aos Pés 750ml",
     "imagem" : "https://m.media-amazon.com/images/I/61LlrqiZbnL._AC_SL1500_.jpg",
@@ -54951,7 +55231,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FMLBQ136?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:03",
+    "dataOferta" : "18/09/2026 14:34",
     "destaque" : false,
     "precoAnterior" : "22,90",
     "menorPrecoEmDias" : false,
@@ -56892,6 +57172,100 @@
     }, {
       "data" : "18/09/2026",
       "preco" : 99.89
+    } ],
+    "tags" : [ ]
+  }, {
+    "id" : 195799,
+    "titulo" : "Lava-louça Electrolux 10 Serviços Inox Lava E Seca 50' Ls10e Prateado",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_723686-MLA100004922283_112025-F.webp",
+    "precoOriginal" : "3.979,00",
+    "precoPromocao" : "2.849,05",
+    "desconto" : "-28%",
+    "linkAfiliado" : "https://meli.la/23kUwuP",
+    "categoria" : "Eletrodomésticos",
+    "categoriaId" : 101,
+    "dataOferta" : "18/09/2026 13:55",
+    "destaque" : false,
+    "precoAnterior" : "2.849,05",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 3084.04
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 2896.55
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 2896.55
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 2835.57
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 2835.57
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 2835.57
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 2835.57
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 2835.57
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 2896.55
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 2929.84
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 2849.05
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 2849.05
     } ],
     "tags" : [ ]
   }, {
@@ -60745,6 +61119,100 @@
     } ],
     "tags" : [ ]
   }, {
+    "id" : 195816,
+    "titulo" : "Luva Moto Motoqueiro Impermeável Térmica Inverno Frio Touch",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_716659-MLB92660996033_092025-F-luva-moto-motoqueiro-impermeavel-termica-inverno-frio-touch.webp",
+    "precoOriginal" : "54,90",
+    "precoPromocao" : "44,90",
+    "desconto" : "-18%",
+    "linkAfiliado" : "https://meli.la/1cC59C5",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "18/09/2026 14:46",
+    "destaque" : false,
+    "precoAnterior" : "20,78",
+    "menorPrecoEmDias" : false,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 18.55
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 20.78
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 20.78
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 44.9
+    } ],
+    "tags" : [ ]
+  }, {
     "id" : 193033,
     "titulo" : "LYOR - Bandeja de Bambu Hire Marrom Natural 20cm - Mesa Posta - Organização - Utensílios de Cozinha - Enxoval - Decoração - Travessa Retangular - Petisqueira - Utilidades Domésticas",
     "imagem" : "https://m.media-amazon.com/images/I/61IXPSaGdBL._AC_SL1500_.jpg",
@@ -60754,7 +61222,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B08X1P11KS?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:08",
+    "dataOferta" : "18/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "13,00",
     "menorPrecoEmDias" : false,
@@ -60851,7 +61319,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CP2XNQL5?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:08",
+    "dataOferta" : "18/09/2026 14:39",
     "destaque" : false,
     "precoAnterior" : "23,00",
     "menorPrecoEmDias" : false,
@@ -61722,11 +62190,10 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B06XWG8R72?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:04",
-    "destaque" : true,
-    "precoAnterior" : "6,63",
-    "menorPrecoEmDias" : true,
-    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "dataOferta" : "18/09/2026 14:35",
+    "destaque" : false,
+    "precoAnterior" : "5,83",
+    "menorPrecoEmDias" : false,
     "historico" : [ {
       "data" : "20/08/2026",
       "preco" : 4.99
@@ -63874,7 +64341,7 @@
     "linkAfiliado" : "https://s.shopee.com.br/4qE8yIpamI",
     "categoria" : "Automotivo",
     "categoriaId" : 65,
-    "dataOferta" : "18/09/2026 08:54",
+    "dataOferta" : "18/09/2026 14:54",
     "destaque" : false,
     "precoAnterior" : "68,99",
     "menorPrecoEmDias" : false,
@@ -64871,7 +65338,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CCWPKQYN?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:01",
+    "dataOferta" : "18/09/2026 14:32",
     "destaque" : false,
     "precoAnterior" : "26,83",
     "menorPrecoEmDias" : false,
@@ -72098,12 +72565,12 @@
     "titulo" : "Orfeu Café Clássico Torrado e Moído, 100% Arabica, Torra Média, 250g",
     "imagem" : "https://m.media-amazon.com/images/I/51sgHRw7N6L._AC_SL1000_.jpg",
     "precoOriginal" : "45,00",
-    "precoPromocao" : "36,80",
-    "desconto" : "-18%",
+    "precoPromocao" : "33,69",
+    "desconto" : "-25%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0783NPFQ2?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:00",
+    "dataOferta" : "18/09/2026 14:31",
     "destaque" : false,
     "precoAnterior" : "36,80",
     "menorPrecoEmDias" : false,
@@ -72187,7 +72654,7 @@
       "preco" : 36.8
     }, {
       "data" : "18/09/2026",
-      "preco" : 36.8
+      "preco" : 33.69
     } ],
     "tags" : [ ]
   }, {
@@ -72196,11 +72663,11 @@
     "imagem" : "https://m.media-amazon.com/images/I/51NhdIkrmYL._AC_SL1000_.jpg",
     "precoOriginal" : "169,90",
     "precoPromocao" : "131,00",
-    "desconto" : "-27%",
+    "desconto" : "-19%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07HWWTY3K?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:05",
+    "dataOferta" : "18/09/2026 14:36",
     "destaque" : false,
     "precoAnterior" : "131,00",
     "menorPrecoEmDias" : false,
@@ -72393,7 +72860,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07YBNQKJ9?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:01",
+    "dataOferta" : "18/09/2026 14:32",
     "destaque" : false,
     "precoAnterior" : "25,11",
     "menorPrecoEmDias" : false,
@@ -72757,103 +73224,6 @@
     }, {
       "data" : "18/09/2026",
       "preco" : 19.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 193137,
-    "titulo" : "Pais & Filhos - Caiu Perdeu, 54 Pçs, idade mínima recomendada - 6 anos",
-    "imagem" : "https://m.media-amazon.com/images/I/81QAJDzi7DL._AC_SL1500_.jpg",
-    "precoOriginal" : "26,58",
-    "precoPromocao" : "21,39",
-    "desconto" : "-19%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07LHC55HY?tag=curadomus-20",
-    "categoria" : "Brinquedos e Jogos",
-    "categoriaId" : 6,
-    "dataOferta" : "18/09/2026 08:23",
-    "destaque" : false,
-    "precoAnterior" : "21,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 16.2
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 16.2
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 16.2
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 16.2
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 16.2
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 19.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 20.58
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 20.55
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 20.55
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 21.04
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 22.53
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 20.24
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 19.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 20.51
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 21.07
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 20.49
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 20.21
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 20.51
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 22.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 22.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 22.9
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 22.9
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 22.9
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 19.0
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 21.0
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 21.0
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 21.39
     } ],
     "tags" : [ ]
   }, {
@@ -75166,7 +75536,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0FWCTHSWQ?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:11",
+    "dataOferta" : "18/09/2026 14:42",
     "destaque" : false,
     "precoAnterior" : "27,50",
     "menorPrecoEmDias" : false,
@@ -82796,7 +83166,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0GTRKK1R2?tag=curadomus-20",
     "categoria" : "Alimentos e Bebidas",
     "categoriaId" : 2,
-    "dataOferta" : "18/09/2026 08:05",
+    "dataOferta" : "18/09/2026 14:36",
     "destaque" : false,
     "precoAnterior" : "27,50",
     "menorPrecoEmDias" : false,
@@ -86712,7 +87082,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B0CFSDVHFR?tag=curadomus-20",
     "categoria" : "Casa",
     "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 08:10",
+    "dataOferta" : "18/09/2026 14:41",
     "destaque" : false,
     "precoAnterior" : "18,03",
     "menorPrecoEmDias" : false,
@@ -87003,7 +87373,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077PY5ZDN?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:16",
+    "dataOferta" : "18/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "134,70",
     "menorPrecoEmDias" : false,
@@ -87103,7 +87473,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07PFXRG29?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:16",
+    "dataOferta" : "18/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "64,50",
     "menorPrecoEmDias" : false,
@@ -87200,7 +87570,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B09TRVN94V?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:16",
+    "dataOferta" : "18/09/2026 14:47",
     "destaque" : false,
     "precoAnterior" : "8,90",
     "menorPrecoEmDias" : false,
@@ -88506,7 +88876,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B085N8W621?tag=curadomus-20",
     "categoria" : "Brinquedos e Jogos",
     "categoriaId" : 6,
-    "dataOferta" : "18/09/2026 08:22",
+    "dataOferta" : "18/09/2026 14:53",
     "destaque" : false,
     "precoAnterior" : "43,99",
     "menorPrecoEmDias" : false,
@@ -89189,12 +89559,12 @@
     "titulo" : "Tinta Fosca para Artesanato com 6 Cores, Acrilex, 032000000, Multicor",
     "imagem" : "https://m.media-amazon.com/images/I/91XqFDWO6CL._AC_SL1500_.jpg",
     "precoOriginal" : "71,44",
-    "precoPromocao" : "40,00",
-    "desconto" : "-44%",
+    "precoPromocao" : "45,99",
+    "desconto" : "-35%",
     "linkAfiliado" : "https://www.amazon.com.br/dp/B077QBNC9H?tag=curadomus-20",
     "categoria" : "Papelaria",
     "categoriaId" : 4,
-    "dataOferta" : "18/09/2026 08:13",
+    "dataOferta" : "18/09/2026 14:44",
     "destaque" : false,
     "precoAnterior" : "40,00",
     "menorPrecoEmDias" : false,
@@ -89274,7 +89644,7 @@
       "preco" : 40.0
     }, {
       "data" : "18/09/2026",
-      "preco" : 40.0
+      "preco" : 45.99
     } ],
     "tags" : [ ]
   }, {
@@ -98967,7 +99337,7 @@
     "linkAfiliado" : "https://www.amazon.com.br/dp/B07GFVTKS4?tag=curadomus-20",
     "categoria" : "Moda",
     "categoriaId" : 5,
-    "dataOferta" : "18/09/2026 08:19",
+    "dataOferta" : "18/09/2026 14:50",
     "destaque" : false,
     "precoAnterior" : "499,90",
     "menorPrecoEmDias" : false,
