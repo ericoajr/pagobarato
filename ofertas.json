@@ -1,896 +1,406 @@
 {
-  "ultimaAtualizacao" : "18/09/2026 21:18",
+  "ultimaAtualizacao" : "18/09/2026 22:03",
   "ofertas" : [ {
-    "id" : 195850,
-    "titulo" : "Abridor Garrafa Revolver Pistola Lança Tampinhas Preto 22cm",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_756153-MLA99599256718_122025-F.webp",
-    "precoOriginal" : "29,90",
-    "precoPromocao" : "23,92",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://www.mercadolivre.com.br/abridor-garrafa-revolver-pistola-lanca-tampinhas-preto-22cm/p/MLB29543221",
-    "categoria" : "Cervejas",
-    "categoriaId" : 13,
-    "dataOferta" : "18/09/2026 16:02",
-    "destaque" : false,
-    "precoAnterior" : "23,92",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 28.4
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 22.72
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 23.92
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 23.92
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195828,
-    "titulo" : "Boné Ny New York Yankees Unissex Blogueira Fitão Regulável",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_737571-MLB84948976586_052025-F-bone-ny-new-york-yankees-unissex-blogueira-fito-regulavel.webp",
-    "precoOriginal" : "49,99",
-    "precoPromocao" : "23,99",
-    "desconto" : "-52%",
-    "linkAfiliado" : "https://meli.la/1pPnf2n",
-    "categoria" : "Moda",
-    "categoriaId" : 5,
-    "dataOferta" : "18/09/2026 15:23",
-    "destaque" : false,
-    "precoAnterior" : "23,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 22.58
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 29.99
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 23.99
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 23.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195841,
-    "titulo" : "Brastemp Lava-Louças de Piso BLF08BS Cinza 60x56x66 cm 8 Serviços com Função Acquaspray e Painel Intuitivo 67 dBA",
-    "imagem" : "https://m.media-amazon.com/images/I/41yb7JiKeVL._AC_SL1000_.jpg",
-    "precoOriginal" : "2.599,90",
-    "precoPromocao" : "1.805,00",
-    "desconto" : "-30%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B0BTFM3PW9?tag=curadomus-20",
-    "categoria" : "Eletrodomésticos",
-    "categoriaId" : 101,
-    "dataOferta" : "18/09/2026 15:43",
-    "destaque" : false,
-    "precoAnterior" : "1.819,00",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 1889.94
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 1956.58
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 1899.0
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 1899.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 1758.99
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 1899.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 1758.99
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 1758.99
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 1758.99
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 1758.99
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 1798.99
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 1798.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 1798.99
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 1798.99
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 1819.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 1798.99
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 1819.0
-    }, {
-      "data" : "15/09/2026"
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 1819.0
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 1819.0
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 1805.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195858,
-    "titulo" : "Capacete De Moto Masculino Preto Fosco New Liberty 4 Fechado",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_767623-MLB89704413626_082025-F-capacete-de-moto-masculino-preto-fosco-new-liberty-4-fechado.webp",
-    "precoOriginal" : "129,90",
-    "precoPromocao" : "86,65",
-    "desconto" : "-33%",
-    "linkAfiliado" : "https://meli.la/1YYKFEp",
-    "categoria" : "Automotivo",
-    "categoriaId" : 65,
-    "dataOferta" : "18/09/2026 16:17",
-    "destaque" : false,
-    "precoAnterior" : "86,65",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "20/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "21/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 72.12
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 89.9
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 86.65
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 86.65
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195847,
-    "titulo" : "Cortina Blackout Em Tecido 4 00 X 2 50 Corta Luz",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_941797-MLB87292939062_072025-F-cortina-blackout-em-tecido-4-00-x-2-50-corta-luz.webp",
-    "precoOriginal" : "169,90",
-    "precoPromocao" : "136,90",
-    "desconto" : "-19%",
-    "linkAfiliado" : "https://meli.la/1PXPCBD",
-    "categoria" : "Casa",
-    "categoriaId" : 3,
-    "dataOferta" : "18/09/2026 15:55",
-    "destaque" : false,
-    "precoAnterior" : "136,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 133.9
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 143.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 133.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 133.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 133.9
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 159.9
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 159.9
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 159.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 129.58
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 136.9
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195862,
-    "titulo" : "Garrafa térmica Academia 800ML com Alça em Aço Inoxidável e Isolamento",
-    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7ra34-m4o0p6qjulioea",
-    "precoOriginal" : "50,88",
-    "precoPromocao" : "29,00",
-    "desconto" : "-43%",
-    "linkAfiliado" : "https://s.shopee.com.br/AKah0GiMdJ",
-    "categoria" : "Esporte, Aventura e Lazer",
-    "categoriaId" : 194,
-    "dataOferta" : "18/09/2026 20:22",
-    "destaque" : false,
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "18/09/2026",
-      "preco" : 29.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195830,
-    "titulo" : "Impressora De Etiquetas Portátil Bluetooth + 1 Rolo Papel",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_841671-MLB110376715450_052026-F-impressora-de-etiquetas-portatil-bluetooth--1-rolo-papel.webp",
-    "precoOriginal" : "149,00",
-    "precoPromocao" : "105,07",
-    "desconto" : "-29%",
-    "linkAfiliado" : "https://meli.la/2ufs9KW",
-    "categoria" : "Computadores e Informática",
-    "categoriaId" : 161,
-    "dataOferta" : "18/09/2026 15:30",
-    "destaque" : false,
-    "precoAnterior" : "105,07",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "23/08/2026",
-      "preco" : 0.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 0.0
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 0.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 0.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 0.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 102.86
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 109.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 105.07
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 115.07
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 105.07
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 105.07
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 105.07
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 105.07
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 105.07
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195838,
-    "titulo" : "Kess, Pack com 3 Escovas Dentais Pro Extra Macias, Cores Sortidas",
-    "imagem" : "https://m.media-amazon.com/images/I/71YTXOVXkML._AC_SL1500_.jpg",
-    "precoOriginal" : "29,90",
-    "precoPromocao" : "23,18",
-    "desconto" : "-28%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B09VC1CN14?tag=curadomus-20",
-    "categoria" : "Saúde e Bem-Estar",
-    "categoriaId" : 97,
-    "dataOferta" : "18/09/2026 15:39",
-    "destaque" : false,
-    "precoAnterior" : "20,41",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 29.83
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 28.19
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 20.41
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 23.18
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195861,
-    "titulo" : "Kit 3 Potes Dispenser Hermético 2l Multiuso Lavanderia Porta Sabão Em Pó Com Copo Medidor Bico Dosador E Travas",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_794291-MLA103428659673_012026-F.webp",
-    "precoOriginal" : "99,99",
-    "precoPromocao" : "51,00",
-    "desconto" : "-48%",
-    "linkAfiliado" : "https://meli.la/25YTWsC",
+    "id" : 195896,
+    "titulo" : "Pote de Vidro com Tampa de Bambu Hermético MODELOS DIVERSOS Porta Temperos Cozinha",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81ztc-mk1fnbvwc2kg3f",
+    "precoOriginal" : "80,99",
+    "precoPromocao" : "60,74",
+    "precoAnterior" : "80,16",
+    "desconto" : "-25%",
+    "linkAfiliado" : "https://s.shopee.com.br/18tDQ7zaZ",
     "categoria" : "Cozinha",
     "categoriaId" : 102,
-    "dataOferta" : "18/09/2026 16:27",
-    "destaque" : false,
-    "precoAnterior" : "51,00",
-    "menorPrecoEmDias" : false,
+    "dataOferta" : "18/09/2026 21:20",
+    "destaque" : true,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 60 dias.",
     "historico" : [ {
       "data" : "20/08/2026",
-      "preco" : 49.0
+      "preco" : 69.28
     }, {
       "data" : "21/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 49.0
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 51.0
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 51.0
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 51.0
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 51.0
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 51.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195827,
-    "titulo" : "Kit 3 Shorts Masculino 2 Em 1 Dry Fit Academia Anti Odor",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_933093-MLB109366735682_042026-F-kit-3-shorts-masculino-2-em-1-dry-fit-academia-anti-odor.webp",
-    "precoOriginal" : "78,99",
-    "precoPromocao" : "65,04",
-    "desconto" : "-17%",
-    "linkAfiliado" : "https://meli.la/2nWXC4E",
-    "categoria" : "Moda",
-    "categoriaId" : 5,
-    "dataOferta" : "18/09/2026 15:20",
-    "destaque" : false,
-    "precoAnterior" : "65,04",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 65.04
+      "preco" : 69.28
     }, {
       "data" : "22/08/2026",
-      "preco" : 65.04
+      "preco" : 69.28
     }, {
       "data" : "24/08/2026",
-      "preco" : 65.04
+      "preco" : 69.28
     }, {
       "data" : "25/08/2026",
-      "preco" : 65.04
+      "preco" : 67.3
     }, {
       "data" : "26/08/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 59.9
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 65.04
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 65.04
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195852,
-    "titulo" : "Kit 8 Pilhas Recarregáveis + Carregador Rápido Bivolt Aa/aaa",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_996455-MLB77546660553_072024-F-kit-8-pilhas-recarregaveis--carregador-rapido-bivolt-aaaaa.webp",
-    "precoOriginal" : "150,00",
-    "precoPromocao" : "59,90",
-    "desconto" : "-60%",
-    "linkAfiliado" : "https://meli.la/2DmSK56",
-    "categoria" : "Eletrônicos e Tecnologia",
-    "categoriaId" : 129,
-    "dataOferta" : "18/09/2026 16:08",
-    "destaque" : false,
-    "precoAnterior" : "49,90",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 49.9
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 49.9
+      "preco" : 67.3
     }, {
       "data" : "27/08/2026",
-      "preco" : 48.9
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 49.9
+      "preco" : 69.28
     }, {
       "data" : "29/08/2026",
-      "preco" : 49.9
+      "preco" : 69.28
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 69.28
     }, {
       "data" : "31/08/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 77.2
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 62.97
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 66.47
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 69.28
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 79.98
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 60.74
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 63,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Novo menor preço histórico.",
+      "sinais" : [ "novo menor preço histórico", "13% abaixo da média", "12% abaixo da mediana", "preço nunca observado anteriormente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : true,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 60,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.12585683065934652,
+      "percentualAbaixoMediana" : 0.12326789838337181,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195926,
+    "titulo" : "Cesto De Roupa Suja Bambu Dobravel Organizador Forrado Banheiro 60cm Grande Cesto Retangular",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-lsf2ra3r2fwt16",
+    "precoOriginal" : "99,98",
+    "precoPromocao" : "57,99",
+    "precoAnterior" : "57,99",
+    "desconto" : "-42%",
+    "linkAfiliado" : "https://s.shopee.com.br/7fYKLZPzWM",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "18/09/2026 21:21",
+    "destaque" : true,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 60 dias.",
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 58.76
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 99.76
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 99.76
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 99.76
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 58.99
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 57.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 50,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Novo menor preço histórico.",
+      "sinais" : [ "novo menor preço histórico", "9% abaixo da média", "preço nunca observado anteriormente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : true,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 60,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.08693674517876614,
+      "percentualAbaixoMediana" : 0.016952025767079167,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195923,
+    "titulo" : "Microfone Lapela Sem Fio Duplo Kaidi Profissional Portátil Imã Redondo Anti Ruído Tipo C iPhone Gravação Celular",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-mazmlk0w1ytr62",
+    "precoOriginal" : "151,09",
+    "precoPromocao" : "67,99",
+    "precoAnterior" : "67,99",
+    "desconto" : "-55%",
+    "linkAfiliado" : "https://s.shopee.com.br/80BAkBOiqK",
+    "categoria" : "Eletrônicos e Tecnologia",
+    "categoriaId" : 129,
+    "dataOferta" : "18/09/2026 21:21",
+    "destaque" : true,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 60 dias.",
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 69.29
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 69.29
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 69.29
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 69.99
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 67.99
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 67.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 50,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Novo menor preço histórico.",
+      "sinais" : [ "novo menor preço histórico", "3% abaixo da média", "3% abaixo da mediana", "preço nunca observado anteriormente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : true,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 60,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.027494795060472588,
+      "percentualAbaixoMediana" : 0.028575510787255325,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195954,
+    "titulo" : "Kit Potes Herméticos Porta Mantimentos Acrílico Empilháveis Quadrado Resistente Cozinha Dispensa",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m9rdlxmqva61f6",
+    "precoOriginal" : "78,38",
+    "precoPromocao" : "45,46",
+    "precoAnterior" : "45,46",
+    "desconto" : "-42%",
+    "linkAfiliado" : "https://s.shopee.com.br/2g9eOVfem6",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 22:01",
+    "destaque" : true,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 41.61
+    }, {
+      "data" : "01/09/2026",
       "preco" : 49.9
     }, {
       "data" : "02/09/2026",
@@ -906,7 +416,7 @@
       "preco" : 49.9
     }, {
       "data" : "06/09/2026",
-      "preco" : 59.9
+      "preco" : 49.9
     }, {
       "data" : "07/09/2026",
       "preco" : 49.9
@@ -924,7 +434,7 @@
       "preco" : 49.9
     }, {
       "data" : "12/09/2026",
-      "preco" : 49.3
+      "preco" : 49.9
     }, {
       "data" : "13/09/2026",
       "preco" : 49.9
@@ -939,26 +449,162 @@
       "preco" : 49.9
     }, {
       "data" : "17/09/2026",
-      "preco" : 49.9
+      "preco" : 46.9
     }, {
       "data" : "18/09/2026",
-      "preco" : 59.9
+      "preco" : 45.46
     } ],
-    "tags" : [ ]
+    "tags" : [ ],
+    "analise" : {
+      "score" : 47,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Menor preço dos últimos 15 dias.",
+      "sinais" : [ "menor preço dos últimos 15 dias", "3% abaixo da média", "9% abaixo da mediana", "preço nunca observado anteriormente", "tendência de queda no histórico", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 15,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.03329159086076128,
+      "percentualAbaixoMediana" : 0.0889779559118236,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195951,
+    "titulo" : "Balança Bioimpedância Digital Profissional Suporta Até 140kg via Bluethooth",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m314shpkk6px3e",
+    "precoOriginal" : "99,69",
+    "precoPromocao" : "28,91",
+    "precoAnterior" : "28,91",
+    "desconto" : "-71%",
+    "linkAfiliado" : "https://s.shopee.com.br/5AqzN6W8hN",
+    "categoria" : "Saúde e Bem-Estar",
+    "categoriaId" : 97,
+    "dataOferta" : "18/09/2026 22:01",
+    "destaque" : true,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 34.97
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 34.97
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 34.97
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 34.97
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 28.95
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 28.95
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 28.91
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 32.97
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 32.97
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 33.97
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 28.91
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 30,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 14% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "14% abaixo da média", "15% abaixo da mediana", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.13662356623787444,
+      "percentualAbaixoMediana" : 0.14895496025905208,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 3
+    }
   }, {
     "id" : 195859,
     "titulo" : "Mala De Viagem Kit 10+23+frasqueira Kit Com 3 Peças",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_851256-MLB106400973485_022026-F-mala-de-viagem-kit-1023frasqueira--kit-com-3-pecas.webp",
     "precoOriginal" : "639,99",
     "precoPromocao" : "501,99",
+    "precoAnterior" : "501,99",
     "desconto" : "-21%",
     "linkAfiliado" : "https://meli.la/1srxAKy",
     "categoria" : "Esporte, Aventura e Lazer",
     "categoriaId" : 194,
     "dataOferta" : "18/09/2026 16:20",
-    "destaque" : false,
-    "precoAnterior" : "501,99",
+    "destaque" : true,
     "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
     "historico" : [ {
       "data" : "20/08/2026",
       "preco" : 474.05
@@ -1038,303 +684,844 @@
       "data" : "18/09/2026",
       "preco" : 501.99
     } ],
-    "tags" : [ ]
+    "tags" : [ ],
+    "analise" : {
+      "score" : 28,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 12% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "12% abaixo da média", "20% abaixo da mediana", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.11652213948105371,
+      "percentualAbaixoMediana" : 0.20317782821949554,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 3
+    }
   }, {
-    "id" : 195843,
-    "titulo" : "Mochila Bolsa Maternidade Térmica Presente Bebê Versão Luxo",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_654259-MLB111814623063_052026-F-mochila-bolsa-maternidade-termica-presente-bebe-versao-luxo.webp",
-    "precoOriginal" : "153,00",
-    "precoPromocao" : "121,58",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://meli.la/12vw7QC",
-    "categoria" : "Bebês",
-    "categoriaId" : 7,
-    "dataOferta" : "18/09/2026 15:46",
-    "destaque" : false,
-    "precoAnterior" : "121,58",
+    "id" : 195857,
+    "titulo" : "Mala De Viagem 10kg Promoção Rodas 360° Miami Com Frasqueira",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_875524-MLB94551087097_102025-F-mala-de-viagem-10kg-promocao-rodas-360-miami-com-frasqueira.webp",
+    "precoOriginal" : "339,99",
+    "precoPromocao" : "295,99",
+    "precoAnterior" : "295,99",
+    "desconto" : "-12%",
+    "linkAfiliado" : "https://meli.la/2y52L5m",
+    "categoria" : "Esporte, Aventura e Lazer",
+    "categoriaId" : 194,
+    "dataOferta" : "18/09/2026 16:14",
+    "destaque" : true,
     "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 122.08
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 132.08
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 134.64
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 124.64
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 124.64
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 124.64
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "01/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 134.63
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 131.58
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 121.58
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 121.58
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195831,
-    "titulo" : "NIVEA SUN Protetor Solar Kids & Babies Pele Sensível FPS 60 125ml - Infantil, muito alta proteção UVA/UVB, minimiza o surgimento de alergias, muito resistente à água com proteção imediata",
-    "imagem" : "https://m.media-amazon.com/images/I/51eY3Q-sUiL._AC_SL1000_.jpg",
-    "precoOriginal" : "81,90",
-    "precoPromocao" : "64,00",
-    "desconto" : "-21%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B077BY8HQV?tag=curadomus-20",
-    "categoria" : "Beleza",
-    "categoriaId" : 33,
-    "dataOferta" : "18/09/2026 15:31",
-    "destaque" : false,
-    "precoAnterior" : "68,79",
-    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
     "historico" : [ {
       "data" : "20/08/2026",
-      "preco" : 49.47
+      "preco" : 259.99
     }, {
       "data" : "21/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "25/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 68.79
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 67.71
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 67.71
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 67.71
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 67.71
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 67.71
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 49.47
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 68.79
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 68.79
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 64.0
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195834,
-    "titulo" : "Roupa Íntima Plenitud Femme para Incontinência P/M-16 un",
-    "imagem" : "https://m.media-amazon.com/images/I/71YTtM3zFXL._AC_SL1152_.jpg",
-    "precoOriginal" : "76,17",
-    "precoPromocao" : "60,84",
-    "desconto" : "-20%",
-    "linkAfiliado" : "https://www.amazon.com.br/dp/B07HCK1656?tag=curadomus-20",
-    "categoria" : "Saúde e Bem-Estar",
-    "categoriaId" : 97,
-    "dataOferta" : "18/09/2026 15:34",
-    "destaque" : false,
-    "precoAnterior" : "60,84",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 55.34
-    }, {
-      "data" : "22/08/2026",
-      "preco" : 55.34
+      "preco" : 322.99
     }, {
       "data" : "23/08/2026",
-      "preco" : 55.34
+      "preco" : 339.99
     }, {
-      "data" : "25/08/2026",
-      "preco" : 55.34
+      "data" : "24/08/2026",
+      "preco" : 329.99
     }, {
       "data" : "26/08/2026",
-      "preco" : 55.34
+      "preco" : 329.99
     }, {
       "data" : "27/08/2026",
-      "preco" : 55.34
+      "preco" : 329.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 329.99
     }, {
       "data" : "30/08/2026",
-      "preco" : 69.91
+      "preco" : 329.99
     }, {
       "data" : "31/08/2026",
-      "preco" : 69.91
+      "preco" : 329.99
     }, {
       "data" : "02/09/2026",
-      "preco" : 59.99
+      "preco" : 329.99
     }, {
       "data" : "03/09/2026",
-      "preco" : 59.99
+      "preco" : 329.99
     }, {
       "data" : "04/09/2026",
-      "preco" : 59.99
+      "preco" : 329.99
     }, {
       "data" : "05/09/2026",
-      "preco" : 54.76
+      "preco" : 329.99
     }, {
       "data" : "06/09/2026",
-      "preco" : 54.76
+      "preco" : 329.99
     }, {
       "data" : "07/09/2026",
-      "preco" : 54.76
+      "preco" : 329.99
     }, {
       "data" : "08/09/2026",
-      "preco" : 54.76
+      "preco" : 329.99
     }, {
       "data" : "09/09/2026",
-      "preco" : 59.9
+      "preco" : 259.69
     }, {
       "data" : "10/09/2026",
-      "preco" : 60.9
+      "preco" : 329.99
     }, {
       "data" : "11/09/2026",
-      "preco" : 60.9
+      "preco" : 271.99
     }, {
       "data" : "12/09/2026",
-      "preco" : 60.9
+      "preco" : 329.99
     }, {
       "data" : "13/09/2026",
-      "preco" : 60.9
+      "preco" : 329.99
     }, {
       "data" : "14/09/2026",
-      "preco" : 60.84
+      "preco" : 329.99
     }, {
       "data" : "15/09/2026",
-      "preco" : 60.84
+      "preco" : 295.99
     }, {
       "data" : "16/09/2026",
-      "preco" : 60.84
+      "preco" : 295.99
     }, {
       "data" : "17/09/2026",
-      "preco" : 60.84
+      "preco" : 295.99
     }, {
       "data" : "18/09/2026",
-      "preco" : 60.84
+      "preco" : 295.99
     } ],
-    "tags" : [ ]
+    "tags" : [ ],
+    "analise" : {
+      "score" : 23,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 7% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "7% abaixo da média", "10% abaixo da mediana", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.06950059415651781,
+      "percentualAbaixoMediana" : 0.10303342525531077,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 3
+    }
+  }, {
+    "id" : 195911,
+    "titulo" : "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8261s-mlglo6zmsnia0c",
+    "precoOriginal" : "999,98",
+    "precoPromocao" : "459,99",
+    "precoAnterior" : "459,99",
+    "desconto" : "-54%",
+    "linkAfiliado" : "https://s.shopee.com.br/5LAPZDngm7",
+    "categoria" : "Esporte, Aventura e Lazer",
+    "categoriaId" : 194,
+    "dataOferta" : "18/09/2026 21:21",
+    "destaque" : true,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 1500.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 464.66
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 464.66
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 464.66
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 464.66
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 464.66
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 449.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 449.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 449.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 1500.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 1500.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 459.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 22,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 22% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "22% abaixo da média", "tendência de queda no histórico", "preço apareceu algumas vezes recentemente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.21662921164618396,
+      "percentualAbaixoMediana" : 0.014293061329447597,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 4
+    }
+  }, {
+    "id" : 195947,
+    "titulo" : "Kit 10 Petisqueira Barquinha Canoa Petiscos Churrasco Festa Frios Para Servir Amendoim Caldo Branca",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mg45udk2lyio40",
+    "precoOriginal" : "117,29",
+    "precoPromocao" : "19,94",
+    "precoAnterior" : "19,94",
+    "desconto" : "-83%",
+    "linkAfiliado" : "https://s.shopee.com.br/4AySB8dJcz",
+    "categoria" : "Casa",
+    "categoriaId" : 3,
+    "dataOferta" : "18/09/2026 22:01",
+    "destaque" : true,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 19.27
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 19.89
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 19.84
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 119.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 19.98
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 19.94
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 19.94
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 15,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 16% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "16% abaixo da média", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.1552703423604355,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 25
+    }
+  }, {
+    "id" : 195876,
+    "titulo" : "Torneira Flexível Parede Cozinha Preto Pressurizada Moderna",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_785874-MLB110351986717_042026-F-torneira-flexivel-parede-cozinha-preto-pressurizada-moderna.webp",
+    "precoOriginal" : "28,90",
+    "precoPromocao" : "23,12",
+    "precoAnterior" : "23,12",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://meli.la/2Loj18m",
+    "categoria" : "Ferramentas e Materiais de Construção",
+    "categoriaId" : 98,
+    "dataOferta" : "18/09/2026 21:18",
+    "destaque" : true,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 29.92
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 31.92
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 23.12
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 23.12
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 13,
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço 13% abaixo da média dos últimos 30 dias.",
+      "sinais" : [ "13% abaixo da média", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.13373299515794332,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 15
+    }
+  }, {
+    "id" : 195908,
+    "titulo" : "Chaleira Elétrica Inox 1,8L - 110V/220V - Ferve Rápido - Desligamento Automático - Unitermi Atacama",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mfeftpven8cnf7",
+    "precoOriginal" : "106,36",
+    "precoPromocao" : "49,99",
+    "precoAnterior" : "52,19",
+    "desconto" : "-53%",
+    "linkAfiliado" : "https://s.shopee.com.br/5fnFxpmQ69",
+    "categoria" : "Eletroportáteis",
+    "categoriaId" : 225,
+    "dataOferta" : "18/09/2026 21:21",
+    "destaque" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 45.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 56.01
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 56.01
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 56.01
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 56.01
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 52.19
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 49.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 40,
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Menor preço dos últimos 15 dias.",
+      "sinais" : [ "menor preço dos últimos 15 dias", "3% abaixo da média", "4% abaixo da mediana", "preço nunca observado anteriormente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 15,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.02789421373320082,
+      "percentualAbaixoMediana" : 0.04215366928530362,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195858,
+    "titulo" : "Capacete De Moto Masculino Preto Fosco New Liberty 4 Fechado",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_767623-MLB89704413626_082025-F-capacete-de-moto-masculino-preto-fosco-new-liberty-4-fechado.webp",
+    "precoOriginal" : "129,90",
+    "precoPromocao" : "86,65",
+    "precoAnterior" : "86,65",
+    "desconto" : "-33%",
+    "linkAfiliado" : "https://meli.la/1YYKFEp",
+    "categoria" : "Automotivo",
+    "categoriaId" : 65,
+    "dataOferta" : "18/09/2026 16:17",
+    "destaque" : false,
+    "menorPrecoEmDias" : true,
+    "menorPrecoMensagem" : "Menor preço dos últimos 15 dias.",
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 72.12
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 89.9
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 86.65
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 86.65
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 22,
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Menor preço dos últimos 15 dias.",
+      "sinais" : [ "menor preço dos últimos 15 dias", "preço acima da média", "4% abaixo da mediana", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : true,
+      "diasMenorPrecoJanela" : 15,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : -0.04664927284147454,
+      "percentualAbaixoMediana" : 0.03615127919911012,
+      "precoInedito" : true,
+      "ocorrenciasPrecoAtual" : 0
+    }
+  }, {
+    "id" : 195907,
+    "titulo" : "Conjunto de Panelas Antiaderente 10 Peças Prime Alumínio Teflon Com Tampa De Vidro Jogo De Panelas Kit De Panelas",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lp-mps9nwzdgd8h5d",
+    "precoOriginal" : "309,39",
+    "precoPromocao" : "219,67",
+    "precoAnterior" : "219,67",
+    "desconto" : "-29%",
+    "linkAfiliado" : "https://s.shopee.com.br/6AjWYkkW5C",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 21:21",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 244.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 234.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 234.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 234.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 219.67
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 219.67
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 15,
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço 4% abaixo da mediana histórica.",
+      "sinais" : [ "4% abaixo da média", "4% abaixo da mediana", "tendência de queda no histórico", "preço apareceu algumas vezes recentemente", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.0419695295691109,
+      "percentualAbaixoMediana" : 0.04449760765550247,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 6
+    }
   }, {
     "id" : 195860,
     "titulo" : "Tênis Aramis Daily Slip Canvas Masculino",
     "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_631185-MLB93383082969_092025-F-tnis-aramis-daily-slip-canvas-masculino.webp",
     "precoOriginal" : "299,99",
     "precoPromocao" : "179,90",
+    "precoAnterior" : "179,90",
     "desconto" : "-40%",
     "linkAfiliado" : "https://meli.la/1NzDbb5",
     "categoria" : "Calçados",
     "categoriaId" : 10,
     "dataOferta" : "18/09/2026 16:24",
     "destaque" : false,
-    "precoAnterior" : "179,90",
     "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
     "historico" : [ {
       "data" : "20/08/2026",
       "preco" : 199.99
@@ -1414,192 +1601,611 @@
       "data" : "18/09/2026",
       "preco" : 179.9
     } ],
-    "tags" : [ ]
+    "tags" : [ ],
+    "analise" : {
+      "score" : 10,
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço dentro do padrão histórico recente, sem grande destaque.",
+      "sinais" : [ "2% abaixo da média", "tendência de queda no histórico", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace", "nenhum sinal de queda", "não é menor preço recente" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.02250360787995748,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 19
+    }
   }, {
-    "id" : 195856,
-    "titulo" : "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_788146-MLB116537413239_082026-F-tnis-kappa-pulse-rx-unissex-corrida-conforto.webp",
-    "precoOriginal" : "289,99",
-    "precoPromocao" : "125,99",
-    "desconto" : "-56%",
-    "linkAfiliado" : "https://meli.la/1zwWHzc",
-    "categoria" : "Calçados",
-    "categoriaId" : 10,
-    "dataOferta" : "18/09/2026 16:11",
+    "id" : 195959,
+    "titulo" : "Jogo De Panelas Indução Kit 10 Peças Revestimento Cerâmico Style Cook Marmol - Mimo Style Premium",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m76wd3k5ex586a",
+    "precoOriginal" : "626,74",
+    "precoPromocao" : "539,00",
+    "precoAnterior" : "539,00",
+    "desconto" : "-14%",
+    "linkAfiliado" : "https://s.shopee.com.br/1gH7CfjSo0",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 22:01",
     "destaque" : false,
-    "precoAnterior" : "125,99",
     "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
     "historico" : [ {
       "data" : "20/08/2026",
-      "preco" : 129.9
+      "preco" : 539.0
     }, {
       "data" : "21/08/2026",
-      "preco" : 129.9
+      "preco" : 570.0
     }, {
-      "data" : "23/08/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "24/08/2026",
-      "preco" : 127.7
-    }, {
-      "data" : "26/08/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "27/08/2026",
-      "preco" : 127.7
-    }, {
-      "data" : "29/08/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "30/08/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "31/08/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "02/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "03/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "04/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "05/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "06/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "07/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "08/09/2026",
-      "preco" : 129.9
-    }, {
-      "data" : "09/09/2026",
-      "preco" : 125.99
-    }, {
-      "data" : "10/09/2026",
-      "preco" : 124.63
-    }, {
-      "data" : "11/09/2026",
-      "preco" : 146.9
-    }, {
-      "data" : "12/09/2026",
-      "preco" : 125.99
-    }, {
-      "data" : "13/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "14/09/2026",
-      "preco" : 125.99
-    }, {
-      "data" : "15/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "16/09/2026",
-      "preco" : 136.9
-    }, {
-      "data" : "17/09/2026",
-      "preco" : 125.99
-    }, {
-      "data" : "18/09/2026",
-      "preco" : 125.99
-    } ],
-    "tags" : [ ]
-  }, {
-    "id" : 195851,
-    "titulo" : "Tênis Masculino Fresh Foam Arishi V4 Esportivo New Balance",
-    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_816072-MLB117196994531_092026-F-tnis-masculino-fresh-foam-arishi-v4-esportivo-new-balance.webp",
-    "precoOriginal" : "714,28",
-    "precoPromocao" : "327,99",
-    "desconto" : "-54%",
-    "linkAfiliado" : "https://meli.la/1ioMB5x",
-    "categoria" : "Calçados",
-    "categoriaId" : 10,
-    "dataOferta" : "18/09/2026 16:05",
-    "destaque" : false,
-    "precoAnterior" : "389,99",
-    "menorPrecoEmDias" : false,
-    "historico" : [ {
-      "data" : "21/08/2026",
-      "preco" : 279.3
-    }, {
-      "data" : "23/08/2026",
-      "preco" : 294.0
+      "data" : "22/08/2026",
+      "preco" : 570.0
     }, {
       "data" : "24/08/2026",
-      "preco" : 284.0
+      "preco" : 570.0
     }, {
       "data" : "25/08/2026",
-      "preco" : 284.0
+      "preco" : 570.0
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 570.0
     }, {
       "data" : "27/08/2026",
-      "preco" : 284.0
-    }, {
-      "data" : "28/08/2026",
-      "preco" : 279.3
+      "preco" : 570.0
     }, {
       "data" : "29/08/2026",
-      "preco" : 279.3
+      "preco" : 539.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 539.0
     }, {
       "data" : "31/08/2026",
-      "preco" : 678.57
+      "preco" : 539.0
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 570.0
     }, {
       "data" : "02/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "03/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "04/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "05/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "06/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "07/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "08/09/2026",
-      "preco" : 289.99
+      "preco" : 570.0
     }, {
       "data" : "09/09/2026",
-      "preco" : 289.99
+      "preco" : 471.68
     }, {
       "data" : "10/09/2026",
-      "preco" : 289.99
+      "preco" : 539.0
     }, {
       "data" : "11/09/2026",
-      "preco" : 289.99
+      "preco" : 539.0
     }, {
       "data" : "12/09/2026",
-      "preco" : 389.99
+      "preco" : 471.68
     }, {
       "data" : "13/09/2026",
-      "preco" : 327.99
+      "preco" : 539.0
     }, {
       "data" : "14/09/2026",
-      "preco" : 327.99
+      "preco" : 539.0
     }, {
       "data" : "15/09/2026",
-      "preco" : 327.99
+      "preco" : 539.0
     }, {
       "data" : "16/09/2026",
-      "preco" : 327.99
+      "preco" : 539.0
     }, {
       "data" : "17/09/2026",
-      "preco" : 389.99
+      "preco" : 539.0
     }, {
       "data" : "18/09/2026",
-      "preco" : 327.99
+      "preco" : 539.0
     } ],
-    "tags" : [ ]
+    "tags" : [ ],
+    "analise" : {
+      "score" : 10,
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço 5% abaixo da mediana histórica.",
+      "sinais" : [ "2% abaixo da média", "5% abaixo da mediana", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : false,
+      "percentualAbaixoMedia" : 0.02015571936042496,
+      "percentualAbaixoMediana" : 0.054385964912280704,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 11
+    }
+  }, {
+    "id" : 195895,
+    "titulo" : "Bicicleta Bike Ergometrica Spinning Academia Fitness Profissional 120kg",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m8dq90menppta0",
+    "precoOriginal" : "1.586,17",
+    "precoPromocao" : "459,99",
+    "precoAnterior" : "459,99",
+    "desconto" : "-71%",
+    "linkAfiliado" : "https://s.shopee.com.br/BSJPj7MFa",
+    "categoria" : "Esporte, Aventura e Lazer",
+    "categoriaId" : 194,
+    "dataOferta" : "18/09/2026 21:20",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 466.66
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 465.99
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 436.99
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 519.99
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 499.99
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 459.99
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 446.99
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 459.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 5,
+      "classificacao" : "MODERADA",
+      "motivoPrincipal" : "Preço dentro do padrão histórico recente, sem grande destaque.",
+      "sinais" : [ "tendência de queda no histórico", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace", "nenhum sinal de queda", "não é menor preço recente" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.007469864520010807,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 18
+    }
+  }, {
+    "id" : 195940,
+    "titulo" : "Frigideira Antiaderente 4 Partes Ovo Hambúrguer",
+    "imagem" : "https://cf.shopee.com.br/file/sg-11134201-7rdxl-ly5gce3lti2f62",
+    "precoOriginal" : "86,05",
+    "precoPromocao" : "37,86",
+    "precoAnterior" : "37,86",
+    "desconto" : "-56%",
+    "linkAfiliado" : "https://s.shopee.com.br/6L2wl7V4EE",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 22:01",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 37.88
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 37.86
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 37.86
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 5,
+      "classificacao" : "MODERADA",
+      "motivoPrincipal" : "Preço dentro do padrão histórico recente, sem grande destaque.",
+      "sinais" : [ "tendência de queda no histórico", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace", "nenhum sinal de queda", "não é menor preço recente" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 1.3693806486947646E-4,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 27
+    }
+  }, {
+    "id" : 195930,
+    "titulo" : "Jogo De Panelas Antiaderente 10 Peças Bianco Conjunto Kit Teflon  Com Tampa De Vidro Temperado Cozinha",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820lh-mou1drs2b2m810",
+    "precoOriginal" : "308,08",
+    "precoPromocao" : "224,90",
+    "precoAnterior" : "224,90",
+    "desconto" : "-27%",
+    "linkAfiliado" : "https://s.shopee.com.br/70IdYLSWsI",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 21:22",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 239.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 224.9
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 3,
+      "classificacao" : "MODERADA",
+      "motivoPrincipal" : "Preço dentro do padrão histórico recente, sem grande destaque.",
+      "sinais" : [ "tendência de queda no histórico", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace", "nenhum sinal de queda", "não é menor preço recente" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.007356186552890939,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 22
+    }
+  }, {
+    "id" : 195892,
+    "titulo" : "Conjunto de Panelas 10 Peças Alumínio Antiaderente Cappuccino Com Utensílios e Tampa de Vidro Jogo De Panelas Kit Panela",
+    "imagem" : "https://cf.shopee.com.br/file/br-11134207-820me-mou17vl4ac5f23",
+    "precoOriginal" : "308,08",
+    "precoPromocao" : "224,90",
+    "precoAnterior" : "224,90",
+    "desconto" : "-27%",
+    "linkAfiliado" : "https://s.shopee.com.br/40f1ylslTD",
+    "categoria" : "Cozinha",
+    "categoriaId" : 102,
+    "dataOferta" : "18/09/2026 21:20",
+    "destaque" : false,
+    "menorPrecoEmDias" : false,
+    "menorPrecoMensagem" : null,
+    "historico" : [ {
+      "data" : "20/08/2026",
+      "preco" : 239.9
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 229.9
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 224.9
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 224.9
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "score" : 3,
+      "classificacao" : "MODERADA",
+      "motivoPrincipal" : "Preço dentro do padrão histórico recente, sem grande destaque.",
+      "sinais" : [ "tendência de queda no histórico", "preço recorrente (apareceu muitas vezes)", "desconto anunciado pelo marketplace", "nenhum sinal de queda", "não é menor preço recente" ],
+      "semHistorico" : false,
+      "novoMenorPreco" : false,
+      "menorPrecoJanela" : false,
+      "diasMenorPrecoJanela" : null,
+      "quedaRecente" : false,
+      "percentualQueda" : 0.0,
+      "tendenciaQueda" : true,
+      "percentualAbaixoMedia" : 0.007356186552890939,
+      "percentualAbaixoMediana" : 0.0,
+      "precoInedito" : false,
+      "ocorrenciasPrecoAtual" : 22
+    }
   } ],
-  "cupons" : [ ]
+  "cupons" : null
 }
