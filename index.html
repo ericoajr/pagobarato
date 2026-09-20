@@ -458,6 +458,12 @@
         border: 1px solid rgba(31,122,77,.18);
     }
 
+    .nivel-bom-preco {
+        background: #FFF6E8;
+        color: #8A5A10;
+        border: 1px solid #E8C98A;
+    }
+
     .nivel-monitorado {
         background: rgba(255,255,255,.95);
         color: var(--ink-soft);
@@ -482,6 +488,12 @@
         background: var(--good-bg);
         border: 1px solid rgba(31,122,77,.18);
         color: var(--good);
+    }
+
+    .analise-bom-preco {
+        background: #FFF9EF;
+        border: 1px solid #E8C98A;
+        color: #7A5010;
     }
 
     .analise-monitorado {
@@ -610,7 +622,7 @@
     <section class="hero">
         <span class="badge">✦ Preços analisados todos os dias</span>
         <h1>Monitoramos o preço. <span>Você decide melhor.</span></h1>
-        <p>Acompanhamos o histórico de preços e destacamos quando os dados mostram uma oportunidade de verdade.</p>
+        <p>Acompanhamos o histórico de preços e mostramos quando há bom preço, oportunidade ou destaque de verdade.</p>
     </section>
 
     <section class="secao-comunidades">
@@ -645,6 +657,7 @@
         <button class="tab-btn ativa" data-aba="todos">Todos <span class="contador" data-count="todos">0</span></button>
         <button class="tab-btn" data-aba="destaques">⭐ Destaques <span class="contador" data-count="destaques">0</span></button>
         <button class="tab-btn" data-aba="oportunidades">✓ Oportunidades <span class="contador" data-count="oportunidades">0</span></button>
+        <button class="tab-btn" data-aba="bons-precos">✓ Bons preços <span class="contador" data-count="bonsPrecos">0</span></button>
         <button class="tab-btn" data-aba="monitorados">Monitorados <span class="contador" data-count="monitorados">0</span></button>
         <button class="tab-btn" data-aba="favoritos">❤️ Favoritos <span class="contador" data-count="favoritos">0</span></button>
     </nav>
@@ -750,26 +763,38 @@
 
     function normalizarClassificacao(classificacao = "") {
         const nomes = {
-            EXCELENTE: "Excelente oportunidade",
-            MUITO_BOA: "Muito boa oportunidade",
-            BOA: "Boa oportunidade",
+            EXCELENTE: "Destaque",
+            MUITO_BOA: "Oportunidade",
+            BOA: "Bom preço",
             INTERESSANTE: "Preço interessante",
-            MODERADA: "Oportunidade moderada",
-            FRACA: "Preço monitorado",
+            MODERADA: "Vale acompanhar",
+            FRACA: "Em monitoramento",
             SEM_HISTORICO: "Histórico em formação"
         };
         return nomes[classificacao] || "Preço analisado";
     }
 
     function nivelVisual(produto) {
-        if (produto?.destaque === true) return "DESTAQUE";
-
         const classificacao = produto?.analise?.classificacao || "";
-        if (classificacao === "FRACA" || classificacao === "SEM_HISTORICO") {
+
+        // A classificação do PromoScore define a linguagem pública.
+        if (classificacao === "EXCELENTE") return "DESTAQUE";
+        if (classificacao === "MUITO_BOA") return "OPORTUNIDADE";
+        if (classificacao === "BOA") return "BOM_PRECO";
+
+        if (
+            classificacao === "INTERESSANTE" ||
+            classificacao === "MODERADA" ||
+            classificacao === "FRACA" ||
+            classificacao === "SEM_HISTORICO"
+        ) {
             return "MONITORADO";
         }
 
-        return "OPORTUNIDADE";
+        // Compatibilidade com payloads antigos sem classificação.
+        if (produto?.destaque === true) return "DESTAQUE";
+
+        return "MONITORADO";
     }
 
     function motivoAnalise(produto) {
@@ -800,6 +825,14 @@
                 texto: "✓ Oportunidade",
                 badge: "nivel-oportunidade",
                 box: "analise-oportunidade"
+            };
+        }
+
+        if (nivel === "BOM_PRECO") {
+            return {
+                texto: "✓ Bom preço",
+                badge: "nivel-bom-preco",
+                box: "analise-bom-preco"
             };
         }
 
@@ -921,6 +954,10 @@
             return lista.filter(i => nivelVisual(i) === "OPORTUNIDADE");
         }
 
+        if (abaAtiva === 'bons-precos') {
+            return lista.filter(i => nivelVisual(i) === "BOM_PRECO");
+        }
+
         if (abaAtiva === 'monitorados') {
             return lista.filter(i => nivelVisual(i) === "MONITORADO");
         }
@@ -952,6 +989,7 @@
             todos: base.length,
             destaques: base.filter(i => nivelVisual(i) === "DESTAQUE").length,
             oportunidades: base.filter(i => nivelVisual(i) === "OPORTUNIDADE").length,
+            bonsPrecos: base.filter(i => nivelVisual(i) === "BOM_PRECO").length,
             monitorados: base.filter(i => nivelVisual(i) === "MONITORADO").length,
             favoritos: base.filter(i => favoritos.has(chaveOferta(i))).length,
         };
