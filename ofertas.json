@@ -1,5 +1,5 @@
 {
-  "ultimaAtualizacao" : "02/10/2026 07:46",
+  "ultimaAtualizacao" : "02/10/2026 08:46",
   "ofertas" : [ {
     "id" : 238303,
     "titulo" : "Kit 3 Potes Dispenser Hermético 2l Multiuso Lavanderia Porta Sabão Em Pó Com Copo Medidor Bico Dosador E Travas",
@@ -1348,9 +1348,6 @@
     "dataOferta" : "02/10/2026 06:54",
     "destaque" : true,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 164.89
-    }, {
       "data" : "04/08/2026",
       "preco" : 178.59
     }, {
@@ -2237,6 +2234,80 @@
     }, {
       "data" : "02/10/2026",
       "preco" : 441.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "EXCELENTE",
+      "motivoPrincipal" : "Menor preço histórico. Uma das melhores oportunidades observadas."
+    }
+  }, {
+    "id" : 239262,
+    "titulo" : "Lava-Louças Brastemp 10 Serviços Inox - BLF10BR",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_815724-MLA99464133564_112025-F.webp",
+    "precoOriginal" : "5.239,00",
+    "precoPromocao" : "3.623,15",
+    "desconto" : "-30%",
+    "linkAfiliado" : "https://meli.la/1ajCkmg",
+    "categoria" : "Eletrodomésticos",
+    "dataOferta" : "02/10/2026 08:34",
+    "destaque" : true,
+    "historico" : [ {
+      "data" : "11/09/2026",
+      "preco" : 3980.4
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 3980.4
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 4274.05
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 4399.0
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 4179.05
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 3623.15
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 3623.15
     } ],
     "tags" : [ ],
     "analise" : {
@@ -3952,9 +4023,6 @@
     "dataOferta" : "02/10/2026 06:09",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 76.0
-    }, {
       "data" : "05/08/2026",
       "preco" : 99.46
     }, {
@@ -9721,6 +9789,179 @@
       "motivoPrincipal" : "Preço bem abaixo do habitual e também do observado nos últimos dias."
     }
   }, {
+    "id" : 239242,
+    "titulo" : "Santa Helena Vinho Reservado Malbec 750Ml",
+    "imagem" : "https://m.media-amazon.com/images/I/61sNLF0CmDL._AC_SL1500_.jpg",
+    "precoOriginal" : "52,90",
+    "precoPromocao" : "25,20",
+    "desconto" : "-52%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B07XTRS4FK?tag=pagobarato-20",
+    "categoria" : "Vinhos",
+    "dataOferta" : "02/10/2026 07:47",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 38.61
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 38.61
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 38.61
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 38.59
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 38.59
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 38.59
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 38.59
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 38.6
+    }, {
+      "data" : "19/09/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "20/09/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 37.9
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 39.99
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 26.05
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 26.05
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 25.2
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 25.2
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 25.2
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 25.2
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 25.2
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "MUITO_BOA",
+      "motivoPrincipal" : "Preço bem abaixo do valor que costuma aparecer."
+    }
+  }, {
     "id" : 238895,
     "titulo" : "Echo Dot (Geração mais recente) | Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Azul, com Acesso Antecipado à Alexa+",
     "imagem" : "https://m.media-amazon.com/images/I/61uUYOB2lvL._AC_SL1000_.jpg",
@@ -9911,9 +10152,6 @@
     "dataOferta" : "02/10/2026 06:04",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 47.4
-    }, {
       "data" : "04/08/2026",
       "preco" : 47.4
     }, {
@@ -10624,9 +10862,6 @@
     "dataOferta" : "02/10/2026 07:45",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 52.9
-    }, {
       "data" : "04/08/2026",
       "preco" : 52.9
     }, {
@@ -11491,9 +11726,6 @@
     "dataOferta" : "02/10/2026 06:07",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 436.92
-    }, {
       "data" : "04/08/2026",
       "preco" : 436.92
     }, {
@@ -12095,6 +12327,176 @@
     "analise" : {
       "classificacao" : "MUITO_BOA",
       "motivoPrincipal" : "Preço bem abaixo do observado nos últimos dias."
+    }
+  }, {
+    "id" : 239244,
+    "titulo" : "Viña Las Perdices Chac Chac Rose Malbec",
+    "imagem" : "https://m.media-amazon.com/images/I/51b3xDVTWHL._AC_SL1500_.jpg",
+    "precoOriginal" : "49,90",
+    "precoPromocao" : "43,70",
+    "desconto" : null,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B08V2QNMRL?tag=pagobarato-20",
+    "categoria" : "Vinhos",
+    "dataOferta" : "02/10/2026 07:48",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 36.07
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 36.07
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 50.92
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 50.92
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 50.92
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 50.87
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 50.84
+    }, {
+      "data" : "17/08/2026",
+      "preco" : 50.84
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 50.83
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 50.85
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 50.84
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 50.84
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 50.85
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 50.83
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 50.8
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 50.79
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 50.79
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 50.79
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 50.81
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 36.06
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 50.8
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 50.8
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 52.21
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 52.21
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 52.21
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 51.92
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 51.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 51.91
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 51.91
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "19/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "20/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 46.72
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 49.46
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 43.7
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço entre os melhores observados recentemente."
     }
   }, {
     "id" : 238390,
@@ -14154,9 +14556,6 @@
     "dataOferta" : "02/10/2026 06:29",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 78.99
-    }, {
       "data" : "04/08/2026",
       "preco" : 78.99
     }, {
@@ -15738,9 +16137,6 @@
     "dataOferta" : "02/10/2026 06:12",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 302.09
-    }, {
       "data" : "04/08/2026",
       "preco" : 284.99
     }, {
@@ -15914,9 +16310,6 @@
     "dataOferta" : "02/10/2026 06:54",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 279.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 279.0
     }, {
@@ -16713,9 +17106,6 @@
     "dataOferta" : "02/10/2026 06:03",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 49.47
-    }, {
       "data" : "04/08/2026",
       "preco" : 49.47
     }, {
@@ -19185,9 +19575,6 @@
     "dataOferta" : "02/10/2026 06:03",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 41.09
-    }, {
       "data" : "04/08/2026",
       "preco" : 41.09
     }, {
@@ -20603,6 +20990,74 @@
       "motivoPrincipal" : "Menor preço histórico, com boa vantagem em relação ao padrão."
     }
   }, {
+    "id" : 239263,
+    "titulo" : "Fritadeira Elétrica Electrolux 5,6l 1400w Eaf40 Efficient 110v Tecnologia Air Cooking 360° Grafite Lançamento",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_833101-MLA105590302457_012026-F.webp",
+    "precoOriginal" : "309,00",
+    "precoPromocao" : "299,00",
+    "desconto" : "-3%",
+    "linkAfiliado" : "https://meli.la/25nxqtQ",
+    "categoria" : "Eletroportáteis",
+    "dataOferta" : "02/10/2026 08:37",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "14/09/2026",
+      "preco" : 283.68
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 283.68
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 283.68
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 299.0
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 309.0
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 309.0
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 309.0
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 315.26
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 299.0
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 299.0
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 349.0
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 299.0
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço caiu e está em um patamar interessante."
+    }
+  }, {
     "id" : 238694,
     "titulo" : "Fone de Ouvido Sem Fio Bluetooth Gamer RS-29 Com Led Jogo e Música H'maston Original",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-7r98o-m1t7vzsgz85k6f",
@@ -21518,9 +21973,6 @@
     "dataOferta" : "02/10/2026 05:52",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 42.52
-    }, {
       "data" : "04/08/2026",
       "preco" : 41.5
     }, {
@@ -22457,9 +22909,6 @@
     "dataOferta" : "02/10/2026 07:36",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 49.9
-    }, {
       "data" : "04/08/2026",
       "preco" : 49.9
     }, {
@@ -23341,6 +23790,122 @@
       "motivoPrincipal" : "Preço abaixo do valor que costuma aparecer."
     }
   }, {
+    "id" : 239250,
+    "titulo" : "Micro-ondas Electrolux Prata 23L Efficient ME23S 127V",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_789869-MLA99700643206_122025-F.webp",
+    "precoOriginal" : "699,00",
+    "precoPromocao" : "552,46",
+    "desconto" : "-20%",
+    "linkAfiliado" : "https://meli.la/187Sefh",
+    "categoria" : "Eletrodomésticos",
+    "dataOferta" : "02/10/2026 07:57",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 513.13
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 513.13
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 513.13
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 513.13
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 529.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 513.13
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 641.8
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 503.2
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 587.89
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 600.01
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 641.8
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 635.72
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 645.72
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 610.91
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 641.8
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 616.05
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 611.14
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 592.81
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 543.28
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 592.79
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 549.0
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 554.33
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 557.82
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 552.46
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço abaixo do valor que costuma aparecer."
+    }
+  }, {
     "id" : 239065,
     "titulo" : "Camera Infantil Digital【Tira Foto De Verdade】 Filmadora Infantil Mini Maquina Fotografica Fotografa E Filma",
     "imagem" : "https://cf.shopee.com.br/file/sg-11134201-8224o-mhhepqmsbtvmc4",
@@ -24020,9 +24585,6 @@
     "dataOferta" : "02/10/2026 05:52",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 39.98
-    }, {
       "data" : "04/08/2026",
       "preco" : 37.22
     }, {
@@ -24196,9 +24758,6 @@
     "dataOferta" : "02/10/2026 05:49",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 136.55
-    }, {
       "data" : "04/08/2026",
       "preco" : 144.2
     }, {
@@ -24357,6 +24916,107 @@
     }, {
       "data" : "02/10/2026",
       "preco" : 113.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "BOA",
+      "motivoPrincipal" : "Preço abaixo do valor que costuma aparecer."
+    }
+  }, {
+    "id" : 239247,
+    "titulo" : "Concha y Toro Trivento Reserve White Malbec 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/51zXCF5xe6L._AC_SL1280_.jpg",
+    "precoOriginal" : "45,41",
+    "precoPromocao" : "42,99",
+    "desconto" : "-5%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0B15HBPGV?tag=pagobarato-20",
+    "categoria" : "Vinhos",
+    "dataOferta" : "02/10/2026 07:50",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "04/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 41.93
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 41.93
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 41.93
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "19/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "20/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 42.99
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 42.99
     } ],
     "tags" : [ ],
     "analise" : {
@@ -26472,9 +27132,6 @@
     "dataOferta" : "02/10/2026 06:49",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 107.26
-    }, {
       "data" : "04/08/2026",
       "preco" : 95.31
     }, {
@@ -27501,9 +28158,6 @@
     "dataOferta" : "02/10/2026 06:37",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 159.85
-    }, {
       "data" : "04/08/2026",
       "preco" : 159.85
     }, {
@@ -27766,9 +28420,6 @@
     "dataOferta" : "02/10/2026 05:51",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 38.88
-    }, {
       "data" : "04/08/2026",
       "preco" : 38.88
     }, {
@@ -28753,9 +29404,6 @@
     "dataOferta" : "02/10/2026 06:30",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 89.9
-    }, {
       "data" : "04/08/2026",
       "preco" : 88.1
     }, {
@@ -29391,9 +30039,6 @@
     "dataOferta" : "02/10/2026 05:46",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 28.49
-    }, {
       "data" : "04/08/2026",
       "preco" : 28.49
     }, {
@@ -30074,9 +30719,6 @@
     "dataOferta" : "02/10/2026 05:48",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 24.6
-    }, {
       "data" : "04/08/2026",
       "preco" : 24.6
     }, {
@@ -33198,6 +33840,101 @@
       "motivoPrincipal" : "Preço interessante, mas ainda sem sinal forte de oportunidade."
     }
   }, {
+    "id" : 239252,
+    "titulo" : "Lava-Louças Brastemp 8 Serviços Inox - BLF08BS",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_820519-MLA99529786356_122025-F.webp",
+    "precoOriginal" : "2.999,90",
+    "precoPromocao" : "1.819,00",
+    "desconto" : "-39%",
+    "linkAfiliado" : "https://meli.la/1ujqyD9",
+    "categoria" : "Eletrodomésticos",
+    "dataOferta" : "02/10/2026 08:03",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "02/09/2026",
+      "preco" : 1842.03
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 1842.03
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 1842.03
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 1842.03
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 1842.03
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 1836.87
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 1769.25
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 1764.87
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 1766.37
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 1766.37
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 1766.37
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 1735.08
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 1859.91
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 1906.41
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 1819.0
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "Preço interessante, mas ainda sem sinal forte de oportunidade."
+    }
+  }, {
     "id" : 238882,
     "titulo" : "Purificador de Água Consul Refrigerado CPB34ASVNA Branco Bivolt",
     "imagem" : "https://cf.shopee.com.br/file/58d864613fa5a61316e3192d32e84f66",
@@ -34038,9 +34775,6 @@
     "dataOferta" : "02/10/2026 06:04",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 39.61
-    }, {
       "data" : "04/08/2026",
       "preco" : 44.07
     }, {
@@ -37068,9 +37802,6 @@
     "dataOferta" : "02/10/2026 05:48",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 30.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 30.0
     }, {
@@ -38064,9 +38795,6 @@
     "dataOferta" : "02/10/2026 06:58",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 161.53
-    }, {
       "data" : "04/08/2026",
       "preco" : 169.99
     }, {
@@ -40503,6 +41231,83 @@
       "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
     }
   }, {
+    "id" : 239255,
+    "titulo" : "Camiseta Flamengo Manto Raglan86 Masculina",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_834090-MLB116079213688_092026-F-camiseta-flamengo-manto-raglan86-masculina.webp",
+    "precoOriginal" : "135,90",
+    "precoPromocao" : "125,90",
+    "desconto" : "-7%",
+    "linkAfiliado" : "https://meli.la/1ekd3EK",
+    "categoria" : "Moda",
+    "dataOferta" : "02/10/2026 08:12",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 135.9
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 135.9
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 91.92
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 91.92
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 91.92
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 125.9
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 125.9
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
+    }
+  }, {
     "id" : 238849,
     "titulo" : "Air Fryer Fritadeira Elétrica Digital Extream 4,3L",
     "imagem" : "https://cf.shopee.com.br/file/br-11134207-81z1k-mid7bqa04jk1a0",
@@ -41391,9 +42196,6 @@
     "dataOferta" : "02/10/2026 05:49",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 21.99
-    }, {
       "data" : "04/08/2026",
       "preco" : 21.99
     }, {
@@ -42178,9 +42980,6 @@
     "dataOferta" : "02/10/2026 06:28",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 237.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 225.15
     }, {
@@ -43580,9 +44379,6 @@
     "dataOferta" : "02/10/2026 06:34",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 114.0
-    }, {
       "data" : "04/08/2026",
       "preco" : 109.99
     }, {
@@ -43741,6 +44537,83 @@
     }, {
       "data" : "02/10/2026",
       "preco" : 139.99
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
+    }
+  }, {
+    "id" : 239260,
+    "titulo" : "Geladeira Electrolux Frost Free 371L Turbo Congelamento Duplex Cor Inox DFX41",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_880802-MLA100002857089_112025-F.webp",
+    "precoOriginal" : "4.160,16",
+    "precoPromocao" : "4.150,16",
+    "desconto" : "-0%",
+    "linkAfiliado" : "https://meli.la/2whuJLX",
+    "categoria" : "Eletrodomésticos",
+    "dataOferta" : "02/10/2026 08:28",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "09/09/2026",
+      "preco" : 4150.16
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 3469.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 3469.0
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 3469.0
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 3747.32
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 3747.32
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 3747.32
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 3747.32
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 3747.32
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 3469.0
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 3469.0
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 3479.0
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 3305.05
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 3305.05
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 3305.05
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 3295.05
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 3295.05
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 3295.05
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 3404.2
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 4150.16
     } ],
     "tags" : [ ],
     "analise" : {
@@ -44257,9 +45130,6 @@
     "dataOferta" : "02/10/2026 05:48",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 49.67
-    }, {
       "data" : "04/08/2026",
       "preco" : 49.23
     }, {
@@ -44540,6 +45410,176 @@
     }, {
       "data" : "02/10/2026",
       "preco" : 78.9
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
+    }
+  }, {
+    "id" : 239241,
+    "titulo" : "Vinho Chileno Marco Polo Cabernet Sauvignon 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/41I-umEkiyL._AC_SL1080_.jpg",
+    "precoOriginal" : null,
+    "precoPromocao" : "45,90",
+    "desconto" : null,
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B0FPTVF6TY?tag=pagobarato-20",
+    "categoria" : "Vinhos",
+    "dataOferta" : "02/10/2026 07:47",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 38.8
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 38.8
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 38.8
+    }, {
+      "data" : "08/08/2026",
+      "preco" : 38.8
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 38.8
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "12/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "22/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "25/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "26/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 35.3
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 35.29
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 44.73
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "19/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "20/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 35.27
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 45.9
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 45.9
     } ],
     "tags" : [ ],
     "analise" : {
@@ -45411,9 +46451,6 @@
     "dataOferta" : "02/10/2026 06:30",
     "destaque" : false,
     "historico" : [ {
-      "data" : "03/08/2026",
-      "preco" : 49.75
-    }, {
       "data" : "04/08/2026",
       "preco" : 49.75
     }, {
@@ -46626,6 +47663,122 @@
       "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
     }
   }, {
+    "id" : 239243,
+    "titulo" : "Ar Condicionado Electrolux YI24F-YE24F Split Inverter 24000btu Frio Cor Branco",
+    "imagem" : "https://http2.mlstatic.com/D_NQ_NP_2X_647426-MLA99416653798_112025-F.webp",
+    "precoOriginal" : "4.972,21",
+    "precoPromocao" : "4.962,21",
+    "desconto" : "-0%",
+    "linkAfiliado" : "https://meli.la/1xC5E18",
+    "categoria" : "Eletrodomésticos",
+    "dataOferta" : "02/10/2026 07:47",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "27/08/2026",
+      "preco" : 3429.0
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 3752.0
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 3752.0
+    }, {
+      "data" : "31/08/2026",
+      "preco" : 3752.0
+    }, {
+      "data" : "02/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 3449.0
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 3442.0
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 3579.0
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 3899.0
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 3325.0
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 3335.0
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 3589.0
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 3589.0
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 3589.0
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 3589.0
+    }, {
+      "data" : "28/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 3889.0
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 4962.21
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 4962.21
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
+    }
+  }, {
     "id" : 238341,
     "titulo" : "NIVEA Desodorante Aerossol Protect & Care 150 ml – Kit com 2 Unidades",
     "imagem" : "https://m.media-amazon.com/images/I/61D+qzREnbL._AC_SL1500_.jpg",
@@ -47388,6 +48541,173 @@
     }, {
       "data" : "02/10/2026",
       "preco" : 49.8
+    } ],
+    "tags" : [ ],
+    "analise" : {
+      "classificacao" : "INTERESSANTE",
+      "motivoPrincipal" : "O preço já esteve melhor nos últimos dias."
+    }
+  }, {
+    "id" : 239245,
+    "titulo" : "Concha y Toro Trivento Reserve Rosé Malbec 750ml",
+    "imagem" : "https://m.media-amazon.com/images/I/5101zxv-KAL._AC_SL1500_.jpg",
+    "precoOriginal" : "79,90",
+    "precoPromocao" : "68,42",
+    "desconto" : "-16%",
+    "linkAfiliado" : "https://www.amazon.com.br/dp/B098XWDKZR?tag=pagobarato-20",
+    "categoria" : "Vinhos",
+    "dataOferta" : "02/10/2026 07:48",
+    "destaque" : false,
+    "historico" : [ {
+      "data" : "03/08/2026",
+      "preco" : 40.56
+    }, {
+      "data" : "05/08/2026",
+      "preco" : 45.64
+    }, {
+      "data" : "06/08/2026",
+      "preco" : 41.49
+    }, {
+      "data" : "07/08/2026",
+      "preco" : 59.89
+    }, {
+      "data" : "09/08/2026",
+      "preco" : 62.09
+    }, {
+      "data" : "10/08/2026",
+      "preco" : 62.13
+    }, {
+      "data" : "11/08/2026",
+      "preco" : 62.14
+    }, {
+      "data" : "13/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "14/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "15/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "16/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "18/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "20/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "21/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "23/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "24/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "27/08/2026",
+      "preco" : 60.9
+    }, {
+      "data" : "28/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "29/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "30/08/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "01/09/2026",
+      "preco" : 45.41
+    }, {
+      "data" : "03/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "04/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "05/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "06/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "07/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "08/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "09/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "10/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "11/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "12/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "13/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "14/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "15/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "16/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "17/09/2026",
+      "preco" : 43.13
+    }, {
+      "data" : "18/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "19/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "20/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "21/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "22/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "23/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "24/09/2026",
+      "preco" : 46.26
+    }, {
+      "data" : "25/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "26/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "27/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "29/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "30/09/2026",
+      "preco" : 49.9
+    }, {
+      "data" : "01/10/2026",
+      "preco" : 42.99
+    }, {
+      "data" : "02/10/2026",
+      "preco" : 68.42
     } ],
     "tags" : [ ],
     "analise" : {
