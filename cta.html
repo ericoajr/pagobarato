@@ -466,30 +466,43 @@
 <script>
 (function () {
     // ================= CONFIGURAÇÃO DOS GRUPOS =================
-    // O primeiro grupo é o destino dos botões principais (o link também está
-    // escrito no HTML, para funcionar mesmo sem JavaScript). Para exibir mais
-    // grupos na seção "Escolha seu grupo", preencha o link de convite deles;
-    // grupos com link vazio não aparecem.
+    // O primeiro grupo é o destino padrão dos botões principais (o link também
+    // está escrito no HTML, para funcionar mesmo sem JavaScript). Com
+    // ?grupo=<id> na URL (ex.: link_convite do grupo no promobot), os botões
+    // levam ao grupo indicado e as ofertas exibidas ficam restritas às
+    // categorias dele. Grupos com link vazio não aparecem e são ignorados no
+    // parâmetro.
     var GRUPOS = [
         {
+            id: "principal",
             nome: "Pago Barato — Ofertas do dia",
             descricao: "Todas as categorias: casa, mercado, bebê, eletrônicos e mais.",
             link: "https://chat.whatsapp.com/BArcBffmAdNKDrdDa04IsO",
             imagem: "logo-pagobarato-redonda.png"
         },
         {
+            id: "bebidas",
             nome: "Pago Barato — Bebidas",
             descricao: "Só vinhos, cervejas e destilados. Bem menos mensagens por dia.",
-            link: "", // TODO: colar aqui o link de convite do grupo de Bebidas
-            imagem: "logo-pagobarato-bebidas.png"
+            link: "https://chat.whatsapp.com/GGUB08FsXK7JddGBNhoeIX",
+            imagem: "logo-pagobarato-bebidas.png",
+            // Mesmos nomes do campo "categoria" de ofertas.json.
+            categorias: ["Destilados", "Vinhos", "Cervejas", "Bebidas Alcoólicas"]
         }
     ];
 
     var gruposAtivos = GRUPOS.filter(function (g) { return g.link; });
+    var idPedido = new URLSearchParams(location.search).get("grupo");
+    var grupoAtual = gruposAtivos.filter(function (g) { return g.id === idPedido; })[0] || GRUPOS[0];
 
     document.querySelectorAll(".js-cta").forEach(function (a) {
-        a.href = GRUPOS[0].link;
+        a.href = grupoAtual.link;
     });
+
+    if (grupoAtual !== GRUPOS[0]) {
+        document.querySelector(".site-header .logo img").src = grupoAtual.imagem;
+        document.title = grupoAtual.nome;
+    }
 
     // ================= ESCOLHA DE GRUPO =================
     // Com um grupo só, essa seção apenas repetiria o CTA principal.
@@ -709,6 +722,11 @@
         .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
         .then(function (dados) {
             var ofertas = Array.isArray(dados.ofertas) ? dados.ofertas : [];
+            if (grupoAtual.categorias) {
+                ofertas = ofertas.filter(function (o) {
+                    return grupoAtual.categorias.indexOf(o.categoria) >= 0;
+                });
+            }
             if (!ofertas.length) return;
 
             var hora = (dados.ultimaAtualizacao || "").slice(-5);
