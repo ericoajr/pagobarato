@@ -13,6 +13,27 @@
 <meta property="og:image" content="https://pagobarato.com.br/logo-pagobarato-redonda.png">
 <meta name="twitter:card" content="summary">
 <meta name="theme-color" content="#F6F4EF">
+<!-- Google Analytics 4. Sem ID nada é carregado (gtag vira no-op).
+     origem e grupo (da URL) vão como parâmetros de todos os eventos; para
+     aparecerem nos relatórios, cadastre-os como dimensões personalizadas
+     (escopo de evento) no GA. -->
+<script>
+    var PB_GA_ID = "G-1SWXXY0LTY";
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    if (PB_GA_ID) {
+        var ga = document.createElement("script");
+        ga.async = true;
+        ga.src = "https://www.googletagmanager.com/gtag/js?id=" + PB_GA_ID;
+        document.head.appendChild(ga);
+        var url = new URLSearchParams(location.search);
+        gtag("js", new Date());
+        gtag("config", PB_GA_ID, {
+            origem: url.get("origem") || "direto",
+            grupo: url.get("grupo") || "principal"
+        });
+    }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -495,6 +516,21 @@
         document.querySelector(".site-header .logo img").src = grupoAtual.imagem;
         document.title = grupoAtual.nome;
     }
+
+    // ================= MEDIÇÃO =================
+    // Clique em qualquer convite do WhatsApp (botões principais, barra fixa e
+    // lista de grupos). Clique não confirma entrada no grupo; a entrada real
+    // aparece em grupo_membros_registro no promobot. Marque click_whatsapp
+    // como evento principal (conversão) no GA.
+    document.addEventListener("click", function (ev) {
+        var a = ev.target.closest && ev.target.closest('a[href^="https://chat.whatsapp.com/"]');
+        if (!a) return;
+        var destino = GRUPOS.filter(function (g) { return g.link === a.href; })[0];
+        gtag("event", "click_whatsapp", {
+            local: a.dataset.cta || "lista-grupos",
+            grupo_destino: destino ? destino.id : "desconhecido"
+        });
+    });
 
     // ================= ESCOLHA DE GRUPO =================
     // Com um grupo só, essa seção apenas repetiria o CTA principal.
