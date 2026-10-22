@@ -34,6 +34,20 @@
         });
     }
 </script>
+<!-- Pixel da Meta (anúncios). Sem ID nada é carregado. Pixel próprio do Pago
+     Barato: nunca o do Cura Domus (marcas com públicos separados). -->
+<script>
+    var PB_PIXEL_ID = "2326990844733425";
+    if (PB_PIXEL_ID) {
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = "2.0"; n.queue = [];
+            t = b.createElement(e); t.async = !0; t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s);
+        }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+        fbq("init", PB_PIXEL_ID);
+        fbq("track", "PageView");
+    }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -530,6 +544,15 @@
             local: a.dataset.cta || "lista-grupos",
             grupo_destino: destino ? destino.id : "desconhecido"
         });
+        // Conversão dos anúncios: evento GroupClick no Pixel (conversão personalizada por grupo)
+        try {
+            if (typeof window.fbq === "function") {
+                window.fbq("trackCustom", "GroupClick", {
+                    group_name: destino ? destino.id : "desconhecido",
+                    cta_position: a.dataset.cta || "lista-grupos"
+                });
+            }
+        } catch (_) { /* A medição nunca impede a abertura do convite. */ }
     });
 
     // ================= ESCOLHA DE GRUPO =================
