@@ -75,8 +75,7 @@
     .foto { background: #fff; border: 1px solid var(--line); border-radius: 12px; aspect-ratio: 1; display: flex; align-items: center; justify-content: center; padding: 14px; max-width: 200px; width: 100%; margin: 0 auto; }
     @media (min-width: 760px) { .foto { max-width: 260px; } }
     .foto img { max-width: 100%; max-height: 100%; object-fit: contain; }
-    .loja { display: inline-block; font-size: .7rem; font-weight: 700; color: var(--ink-soft); background: #F1EEE7; border-radius: 999px; padding: 3px 9px; }
-    .nome { font-family: 'Sora', sans-serif; font-size: 1.25rem; font-weight: 700; margin: 8px 0 2px; letter-spacing: -0.01em; }
+    .nome { font-family: 'Sora', sans-serif; font-size: 1.25rem; font-weight: 700; margin: 0 0 2px; letter-spacing: -0.01em; }
     .titulo-loja { font-size: .75rem; color: var(--ink-softer); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .preco { font-family: 'Sora', sans-serif; font-size: 2rem; font-weight: 800; margin: 10px 0 2px; }
     .faixa { font-size: .8rem; color: var(--ink-soft); line-height: 1.5; }
@@ -96,6 +95,8 @@
     .parecido img { width: 64px; height: 64px; object-fit: contain; }
     .parecido .t { font-size: .75rem; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
     .parecido .p { font-family: 'Sora', sans-serif; font-weight: 800; font-size: 1rem; margin-top: 4px; }
+    .faixa-p { font-size: .66rem; color: var(--ink-soft); line-height: 1.45; margin-top: 4px; }
+    .faixa-p b { color: var(--ink); font-weight: 600; }
     .chip { display: inline-block; font-size: .64rem; font-weight: 700; border-radius: 999px; padding: 2px 7px; margin-top: 4px; }
 
     .vazio { border: 1px dashed var(--line); border-radius: var(--radius); padding: 36px; text-align: center; font-size: .9rem; color: var(--ink-soft); }
@@ -234,7 +235,8 @@
                 <div class="t">${esc(o.titulo)}</div>
                 <div class="p">R$ ${esc(o.precoPromocao)}</div>
                 <span class="chip v-${esc(p.veredito)}">${esc(p.vereditoTexto)}</span>
-                ${p.loja ? `<span class="chip" style="background:#F1EEE7;color:var(--ink-soft)">${esc(p.loja)}</span>` : ""}
+                ${p.menorDesdeInicio ? `<div class="faixa-p">Desde ${esc(p.desde)}: menor <b>${esc(p.menorDesdeInicio)}</b> · maior <b>${esc(p.maiorDesdeInicio)}</b></div>` : ""}
+                ${p.detalhe ? `<div class="faixa-p">${esc(p.detalhe)}</div>` : ""}
             </div>
         </a>`;
     }
@@ -248,11 +250,10 @@
             <div class="principal">
                 <div class="foto"><img src="${esc(o.imagem)}" alt="${esc(i.nome)}" loading="lazy"></div>
                 <div>
-                    ${i.loja ? `<span class="loja">${esc(i.loja)}</span>` : ""}
                     <div class="nome">${esc(i.nome)}</div>
                     <div class="titulo-loja">${esc(o.titulo)}</div>
                     <div class="preco">R$ ${esc(o.precoPromocao)}</div>
-                    <div class="faixa">Desde ${esc(inicioHistorico)}: menor <b>${esc(i.menorDesdeInicio)}</b> · maior <b>${esc(i.maiorDesdeInicio)}</b></div>
+                    <div class="faixa">Desde ${esc(i.desde || inicioHistorico)}: menor <b>${esc(i.menorDesdeInicio)}</b> · maior <b>${esc(i.maiorDesdeInicio)}</b></div>
                     ${i.detalhe ? `<div class="detalhe">${esc(i.detalhe)}</div>` : ""}
                     <a class="botao" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener">Ver na loja →</a>
                 </div>
