@@ -263,11 +263,19 @@
         </article>`;
     }
 
+    // Com o filtro: produto sem preço bom mas com parecido bom vira só a faixa e os parecidos (os parecidos já são só bons).
+    function soParecidos(i) {
+        return `<article class="item">
+            <div class="veredito v-${esc(i.veredito)}">${esc(i.nome)}: ${esc(i.vereditoTexto.split(":")[0].toLowerCase())}. Estes parecidos estão com preço bom:</div>
+            <div class="parecidos" style="border-top:none"><div class="lista-parecidos">${i.parecidos.map(parecido).join("")}</div></div>
+        </article>`;
+    }
+
     function render() {
-        // Com o filtro, fica o produto com preço bom ou que tem parecido com preço bom (os parecidos já são só bons).
         const visiveis = itens.map((i, idx) => ({ i, idx }))
             .filter(({ i }) => !$soBons.checked || BONS.includes(i.veredito) || (i.parecidos || []).length);
-        $lista.innerHTML = visiveis.length ? visiveis.map(({ i, idx }) => item(i, idx)).join("")
+        $lista.innerHTML = visiveis.length
+            ? visiveis.map(({ i, idx }) => !$soBons.checked || BONS.includes(i.veredito) ? item(i, idx) : soParecidos(i)).join("")
             : `<div class="vazio">Nada com preço bom agora. A lista é atualizada várias vezes por dia.</div>`;
     }
     $soBons.addEventListener("change", render);
