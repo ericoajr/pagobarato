@@ -606,6 +606,22 @@
     .modal-hist-resumo {
         margin-top: 12px; font-size: 0.8rem; color: var(--ink-soft);
     }
+
+    /* ===================== BANNER BLACK FRIDAY ===================== */
+    .banner-bf {
+        display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+        margin-top: 18px; padding: 14px 18px; border-radius: var(--radius);
+        background: var(--ink); color: #fff; text-decoration: none;
+        box-shadow: var(--shadow-md); transition: transform .15s;
+    }
+    .banner-bf:hover { transform: translateY(-1px); }
+    .banner-bf-selo {
+        background: var(--accent); color: #fff; font-size: .68rem; font-weight: 800;
+        letter-spacing: .06em; text-transform: uppercase; padding: 4px 9px; border-radius: 999px;
+    }
+    .banner-bf-texto { flex: 1; min-width: 200px; font-size: .9rem; line-height: 1.4; }
+    .banner-bf-texto strong { font-family: 'Sora', sans-serif; color: var(--accent-2); }
+    .banner-bf-seta { font-size: 1.2rem; font-weight: 700; color: var(--accent-2); }
 </style>
 </head>
 <body>
@@ -634,6 +650,16 @@
             </a>
         </div>
     </section>
+
+    <!-- Black Friday sem mentira: some sozinho depois da Cyber Monday (30/11/2026). -->
+    <a id="banner-bf" href="black-friday.html?origem=vitrine" class="banner-bf">
+        <span class="banner-bf-selo">Radar da Black Friday</span>
+        <span class="banner-bf-texto"><strong>Black Friday sem mentira:</strong> veja se a oferta é de verdade antes de comprar</span>
+        <span class="banner-bf-seta">→</span>
+    </a>
+    <script>
+        if (new Date() > new Date("2026-12-01T00:00:00-03:00")) document.getElementById("banner-bf").remove();
+    </script>
 
     <div class="controles" role="search">
         <div class="busca-wrapper">
