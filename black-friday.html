@@ -10,6 +10,25 @@
 <meta property="og:description" content="Acompanhamos o preço desde julho: veja se a oferta da Black Friday é de verdade e os parecidos que também caíram.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
+<!-- Google Analytics 4 (mesma propriedade da cta.html). origem (da URL) vai em
+     todos os eventos; click_oferta leva produto, tipo (principal/parecido),
+     veredito, posicao e loja. Para aparecerem nos relatórios, cadastre-os como
+     dimensões personalizadas (escopo de evento) no GA. -->
+<script>
+    var PB_GA_ID = "G-1SWXXY0LTY";
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    if (PB_GA_ID) {
+        var ga = document.createElement("script");
+        ga.async = true;
+        ga.src = "https://www.googletagmanager.com/gtag/js?id=" + PB_GA_ID;
+        document.head.appendChild(ga);
+        gtag("js", new Date());
+        gtag("config", PB_GA_ID, {
+            origem: new URLSearchParams(location.search).get("origem") || "direto"
+        });
+    }
+</script>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
     :root {
@@ -222,9 +241,14 @@
     document.getElementById("modal-historico").addEventListener("click", e => { if (e.target.id === "modal-historico") fecharHistorico(); });
     document.addEventListener("keydown", e => { if (e.key === "Escape") fecharHistorico(); });
 
-    function parecido(p) {
+    // Atributos lidos pelo click_oferta (GA) no fim da página.
+    function dadosClique(nome, tipo, veredito, posicao) {
+        return `data-produto="${esc(nome)}" data-tipo="${tipo}" data-veredito="${esc(veredito)}" data-posicao="${posicao}"`;
+    }
+
+    function parecido(p, posicao) {
         const o = p.oferta;
-        return `<a class="parecido" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener">
+        return `<a class="parecido" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener" ${dadosClique(o.titulo, "parecido", p.veredito, posicao)}>
             <img src="${esc(o.imagem)}" alt="" loading="lazy">
             <div>
                 <div class="t">${esc(o.titulo)}</div>
@@ -250,11 +274,11 @@
                     <div class="preco">R$ ${esc(o.precoPromocao)}</div>
                     <div class="faixa">Desde ${esc(i.desde || inicioHistorico)}: menor <b>${esc(i.menorDesdeInicio)}</b> · maior <b>${esc(i.maiorDesdeInicio)}</b></div>
                     ${i.detalhe ? `<div class="detalhe">${esc(i.detalhe)}</div>` : ""}
-                    <a class="botao" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener">Ver na loja →</a>
+                    <a class="botao" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener" ${dadosClique(i.nome, "principal", i.veredito, idx + 1)}>Ver na loja →</a>
                 </div>
                 ${hist.length > 1 ? `<div class="grafico" onclick="abrirHistorico(${idx})"><small>📈 Últimos ${hist.length} dias · toque para ampliar</small>${graficoHistoricoSVG(hist)}</div>` : ""}
             </div>
-            ${parecidos.length ? `<div class="parecidos"><h3>Parecidos que também valem</h3><div class="lista-parecidos">${parecidos.map(parecido).join("")}</div></div>` : ""}
+            ${parecidos.length ? `<div class="parecidos"><h3>Parecidos que também valem</h3><div class="lista-parecidos">${parecidos.map(p => parecido(p, idx + 1)).join("")}</div></div>` : ""}
         </article>`;
     }
 
@@ -282,6 +306,32 @@
             document.getElementById("atualizacao").textContent = "";
             $lista.innerHTML = `<div class="vazio">Lista em preparação. Volte em algumas horas.</div>`;
         });
+
+    // Loja pelo domínio do link: só para o GA, a página não mostra a loja.
+    function lojaDoLink(href) {
+        const h = new URL(href, location.href).hostname;
+        if (/amazon|amzn/.test(h)) return "amazon";
+        if (/meli\.la|mercadolivre|mercadolibre/.test(h)) return "mercadolivre";
+        if (/shopee/.test(h)) return "shopee";
+        if (/awin|tidd\.ly/.test(h)) return "awin";
+        return h;
+    }
+
+    document.addEventListener("click", ev => {
+        const a = ev.target.closest && ev.target.closest("a[data-produto]");
+        if (!a) return;
+        gtag("event", "click_oferta", {
+            produto: a.dataset.produto,
+            tipo: a.dataset.tipo,
+            veredito: a.dataset.veredito,
+            posicao: Number(a.dataset.posicao),
+            loja: lojaDoLink(a.href)
+        });
+    });
+
+    // Quem entra no grupo a partir daqui leva a origem da visita (ex.: black-friday-radar).
+    const origemVisita = new URLSearchParams(location.search).get("origem");
+    if (origemVisita) document.querySelector("a.cta").href = "cta.html?origem=black-friday-" + encodeURIComponent(origemVisita);
 </script>
 </body>
 </html>

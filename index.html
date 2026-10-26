@@ -11,6 +11,25 @@
 <meta property="og:description" content="Ofertas, oportunidades e preços monitorados com análise histórica.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
+<!-- Google Analytics 4 (mesma propriedade da cta.html). origem (da URL) vai em
+     todos os eventos; click_oferta leva produto, aba e loja. Para aparecerem
+     nos relatórios, cadastre-os como dimensões personalizadas (escopo de
+     evento) no GA. -->
+<script>
+    var PB_GA_ID = "G-1SWXXY0LTY";
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    if (PB_GA_ID) {
+        var ga = document.createElement("script");
+        ga.async = true;
+        ga.src = "https://www.googletagmanager.com/gtag/js?id=" + PB_GA_ID;
+        document.head.appendChild(ga);
+        gtag("js", new Date());
+        gtag("config", PB_GA_ID, {
+            origem: new URLSearchParams(location.search).get("origem") || "direto"
+        });
+    }
+</script>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
     :root {
@@ -1187,6 +1206,31 @@
     btnTopo.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 
     window.addEventListener('DOMContentLoaded', inicializarVitrine);
+
+    // Loja pelo domínio do link (o link curto do ML/Shopee não diz a loja no card).
+    function lojaDoLink(href) {
+        const h = new URL(href, location.href).hostname;
+        if (/amazon|amzn/.test(h)) return 'amazon';
+        if (/meli\.la|mercadolivre|mercadolibre/.test(h)) return 'mercadolivre';
+        if (/shopee/.test(h)) return 'shopee';
+        if (/awin|tidd\.ly/.test(h)) return 'awin';
+        return h;
+    }
+
+    // Cliques medidos no GA: oferta da vitrine e convite do WhatsApp.
+    document.addEventListener('click', ev => {
+        const oferta = ev.target.closest && ev.target.closest('.card-promo a[rel~="sponsored"]');
+        if (oferta) {
+            gtag('event', 'click_oferta', {
+                produto: oferta.closest('.card-promo').querySelector('h3')?.textContent.trim() || '',
+                aba: abaAtiva,
+                loja: lojaDoLink(oferta.href)
+            });
+            return;
+        }
+        const convite = ev.target.closest && ev.target.closest('a[href^="https://chat.whatsapp.com/"]');
+        if (convite) gtag('event', 'click_whatsapp', { local: 'vitrine', grupo_destino: 'principal' });
+    });
 </script>
 </body>
 </html>
