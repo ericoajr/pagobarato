@@ -437,6 +437,7 @@
         font-size: 0.72rem; color: var(--ink-soft);
     }
     .card-data-oferta { font-weight: 500; }
+    .card-advertencia { margin: 10px 0 0; font-size: .72rem; font-weight: 600; letter-spacing: .02em; color: #8a7f74; line-height: 1.35; }
 
     .btn-ir-loja {
         background: var(--ink); color: #fff;
@@ -1052,6 +1053,9 @@
         renderizarCards(final);
     }
 
+    // Cláusula de advertência de bebida alcoólica (CONAR, Anexo P) nos cards dessas categorias.
+    const CATEGORIAS_BEBIDA = ['Vinhos', 'Destilados', 'Cervejas', 'Bebidas Alcoólicas'];
+
     function renderizarCards(lista) {
         const container = document.getElementById('container-promocoes');
         container.innerHTML = '';
@@ -1127,6 +1131,7 @@
                             ${promo.desconto ? `<span class="desconto-loja">${promo.desconto.trim()} informado pela loja</span>` : ''}
                         </div>
                         ${componenteCupom}
+                        ${CATEGORIAS_BEBIDA.includes(promo.categoria) ? '<p class="card-advertencia">🔞 Beba com moderação. Venda proibida para menores de 18 anos.</p>' : ''}
                         <div class="card-rodape-social">
                             <span class="card-data-oferta">${promo.dataOferta || ''}</span>
                             <span class="btn-ir-loja">Aproveitar →</span>
