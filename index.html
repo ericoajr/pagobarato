@@ -406,16 +406,6 @@
     }
     .btn-copiar-mini:hover { background: var(--accent-ink); }
 
-    .badge-menor-preco {
-        display: inline-flex; align-items: center; gap: 5px;
-        background: var(--good-bg); color: var(--good);
-        border: 1px solid rgba(31,122,77,.18);
-        padding: 5px 9px; border-radius: 8px;
-        font-size: 0.72rem; font-weight: 700;
-        margin-top: 6px;
-    }
-    .badge-menor-preco svg { width: 13px; height: 13px; flex-shrink: 0; }
-
 
 
     .card-rodape-social {
@@ -656,12 +646,6 @@
         const [h, min] = (hora || '00:00').split(':').map(Number);
         return new Date(y, m - 1, d, h, min).getTime();
     }
-    function extrairDescontoPercentual(desconto) {
-        if (!desconto) return 0;
-        const match = String(desconto).match(/-?(\d+)%/);
-        return match ? parseInt(match[1], 10) : 0;
-    }
-
     function aplicarBuscaEFiltroCategoria(lista) {
         let resultado = lista;
         if (termoBusca.trim()) {
