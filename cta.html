@@ -4,10 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Pago Barato — Receba no WhatsApp só as promoções que são de verdade</title>
-<meta name="description" content="A gente acompanha o histórico de preço de cada produto e só avisa quando o desconto é real. Entre no grupo do WhatsApp: grátis, sem cadastro, sai quando quiser.">
+<meta name="description" content="A gente seleciona ofertas e avisa com o preço e o link da loja. Entre no grupo do WhatsApp: grátis, sem cadastro, sai quando quiser.">
 <link rel="icon" type="image/png" href="logo-pagobarato-redonda.png">
 <meta property="og:title" content="Pago Barato — Promoção de verdade, direto no seu WhatsApp">
-<meta property="og:description" content="Histórico de preço checado antes de cada alerta. Grátis, sem cadastro.">
+<meta property="og:description" content="Ofertas selecionadas no seu WhatsApp. Grátis, sem cadastro.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://pagobarato.com.br/cta.html">
 <meta property="og:image" content="https://pagobarato.com.br/logo-pagobarato-redonda.png">
@@ -307,8 +307,6 @@
     .destaque-precos { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
     .destaque-precos .por { font-family: 'Sora', sans-serif; font-weight: 800; font-size: 1.35rem; }
     .destaque-precos .de { font-size: .76rem; color: var(--ink-softer); text-decoration: line-through; }
-    .destaque-selo { margin-top: 6px; font-size: .74rem; line-height: 1.35; color: var(--good); }
-    .destaque-selo b { display: block; color: var(--ink); }
     .destaque-rodape {
         display: flex; justify-content: space-between; align-items: center; gap: 8px;
         margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--line);
@@ -348,7 +346,7 @@
 
     <section class="hero">
         <h1>Promoção de verdade, <span>direto no seu WhatsApp.</span></h1>
-        <p class="sub">A gente acompanha o histórico de preço de cada produto e só avisa quando o desconto é real — nada de "de R$&nbsp;200 por R$&nbsp;199" com preço inflado.</p>
+        <p class="sub">A gente seleciona ofertas e avisa no grupo, com o preço e o link da loja.</p>
 
         <!-- Preenchido a partir de ofertas.json (destaques do PromoScore); oculto se não carregar. -->
         <div class="destaque" id="destaque" hidden aria-roledescription="carrossel" aria-label="Melhores ofertas agora">
@@ -361,7 +359,6 @@
                         <span class="por" id="destaque-por"></span>
                         <span class="de" id="destaque-de"></span>
                     </div>
-                    <div class="destaque-selo" id="destaque-selo"></div>
                 </div>
             </div>
             <div class="destaque-rodape">
@@ -389,7 +386,7 @@
     <section class="bloco" id="secao-mensagem" hidden>
         <div class="titulo-secao">
             <span class="eyebrow">É assim que chega</span>
-            <h2>Um alerta por oferta, com o motivo de valer a pena</h2>
+            <h2>Um alerta por oferta, com preço e link da loja</h2>
         </div>
         <div class="chat" aria-label="Exemplo de mensagem do grupo">
             <div class="chat-topo">
@@ -403,7 +400,7 @@
     <section class="bloco" id="secao-amostra" hidden>
         <div class="titulo-secao">
             <span class="eyebrow">Amostra de agora</span>
-            <h2>Ofertas que passaram na nossa análise</h2>
+            <h2>Ofertas selecionadas</h2>
         </div>
         <div class="grade-ofertas" id="grade-ofertas"></div>
         <p class="amostra-nota" id="amostra-nota"></p>
@@ -418,22 +415,22 @@
             <li>
                 <span class="num">1</span>
                 <div>
-                    <h3>Monitoramos o preço todo dia</h3>
-                    <p>Cada produto tem o histórico de preço registrado. Assim dá pra saber se o "desconto" é real ou se o preço só foi inflado antes da promoção.</p>
+                    <h3>Olhamos as ofertas todo dia</h3>
+                    <p>Procuramos ofertas nas lojas conhecidas ao longo do dia.</p>
                 </div>
             </li>
             <li>
                 <span class="num">2</span>
                 <div>
-                    <h3>Só vai pro grupo o que passa na análise</h3>
-                    <p>Comparamos com a média, a mediana e o menor preço já visto. Se não estiver abaixo do normal, não manda.</p>
+                    <h3>Só vai pro grupo o que foi selecionado</h3>
+                    <p>Mandamos um número limitado de ofertas por dia, para não lotar seu WhatsApp.</p>
                 </div>
             </li>
             <li>
                 <span class="num">3</span>
                 <div>
                     <h3>Você decide em segundos</h3>
-                    <p>Cada alerta traz o preço, o motivo de a oferta valer a pena e o link da loja. Gostou, compra; não gostou, ignora.</p>
+                    <p>Cada alerta traz o preço, o desconto da loja e o link. Gostou, compra; não gostou, ignora.</p>
                 </div>
             </li>
         </ol>
@@ -479,9 +476,9 @@
     </section>
 
     <footer>
-        Pago Barato · Curadoria de promoções com histórico de preço · <a href="./">ver todas as ofertas</a><br>
+        Pago Barato · Curadoria de promoções · <a href="./">ver todas as ofertas</a><br>
         Participamos de programas de afiliados e podemos receber comissão por compras feitas pelos links.<br>
-        Os preços da Amazon não estão incluídos no rastreamento/gráfico de preços. Não emitimos alertas para nenhum produto por meio da Amazon.<br>
+        Não exibimos gráficos nem histórico de preços.<br>
         <strong>© 2026 Pago Barato</strong>
     </footer>
 
@@ -607,13 +604,6 @@
     }
 
     // ================= OFERTAS REAIS (ofertas.json) =================
-    // Mesmos selos que o bot usa no WhatsApp (WhatsAppMessageFormatter).
-    var SELOS = {
-        EXCELENTE: "🔥 Vale muito a pena!",
-        MUITO_BOA: "✅ Vale a pena!",
-        BOA: "✅ Vale a pena!"
-    };
-    var PESO = { EXCELENTE: 3, MUITO_BOA: 2, BOA: 1 };
 
     function numeroBR(valor) {
         if (typeof valor === "number") return valor;
@@ -633,25 +623,9 @@
     }
     function temDesconto(o) { return numeroBR(o.precoOriginal) > numeroBR(o.precoPromocao); }
 
-    function momento(dataBR) {
-        // "dd/MM/yyyy HH:mm" -> número ordenável; 0 se ausente/inválido.
-        var m = /(\d{2})\/(\d{2})\/(\d{4})\s+(\d{2}):(\d{2})/.exec(dataBR || "");
-        return m ? Number(m[3] + m[2] + m[1] + m[4] + m[5]) : 0;
-    }
-
-    // Ranking pela decisão do próprio PromoScore: destaque primeiro, depois a
-    // classificação; empate decidido pela oferta mais recente. O desconto
-    // sobre o "De" da loja NÃO entra, porque é justamente o preço de
-    // referência que pode ser inflado.
     function ranquear(ofertas) {
         return ofertas
-            .filter(function (o) { return o.imagem && o.analise && PESO[o.analise.classificacao]; })
-            .slice()
-            .sort(function (a, b) {
-                return (b.destaque ? 1 : 0) - (a.destaque ? 1 : 0)
-                    || PESO[b.analise.classificacao] - PESO[a.analise.classificacao]
-                    || momento(b.dataOferta) - momento(a.dataOferta);
-            });
+            .filter(function (o) { return o.imagem; });
     }
 
     // No máximo uma por categoria, para mostrar variedade.
@@ -683,10 +657,6 @@
             document.getElementById("destaque-nome").textContent = o.titulo;
             document.getElementById("destaque-por").textContent = moeda(o.precoPromocao);
             document.getElementById("destaque-de").textContent = temDesconto(o) ? moeda(o.precoOriginal) : "";
-            var selo = document.getElementById("destaque-selo");
-            selo.textContent = "";
-            selo.appendChild(el("b", null, SELOS[o.analise.classificacao]));
-            if (o.analise.motivoPrincipal) selo.appendChild(document.createTextNode(o.analise.motivoPrincipal));
             document.getElementById("destaque-visto").textContent =
                 o.dataOferta ? "Preço visto em " + o.dataOferta : "";
             document.getElementById("destaque-advertencia").hidden = !ehBebida(o);
@@ -753,13 +723,7 @@
             txt.appendChild(document.createTextNode("\n"));
         }
         txt.appendChild(el("b", null, "✅ Por apenas: " + moeda(o.precoPromocao)));
-        txt.appendChild(document.createTextNode("\n\n"));
-        txt.appendChild(el("b", null, SELOS[o.analise.classificacao]));
-        if (o.analise.motivoPrincipal) {
-            txt.appendChild(document.createTextNode("\n"));
-            txt.appendChild(el("i", null, o.analise.motivoPrincipal));
-        }
-        txt.appendChild(document.createTextNode("\n\n🛒 "));
+                txt.appendChild(document.createTextNode("\n\n🛒 "));
         txt.appendChild(el("b", null, "Compre aqui: "));
         txt.appendChild(el("span", "link", "link da loja"));
         if (ehBebida(o)) {
@@ -784,7 +748,6 @@
             card.appendChild(el("div", "nome", o.titulo));
             card.appendChild(el("div", "de", temDesconto(o) ? moeda(o.precoOriginal) : ""));
             card.appendChild(el("div", "por", moeda(o.precoPromocao)));
-            card.appendChild(el("div", "selo", o.analise.motivoPrincipal || SELOS[o.analise.classificacao]));
             if (ehBebida(o)) card.appendChild(el("div", "advertencia-bebida", ADVERTENCIA_BEBIDA));
             grade.appendChild(card);
         });
@@ -806,7 +769,7 @@
             var aoVivo = document.getElementById("ao-vivo-texto");
             aoVivo.appendChild(el("b", null, ofertas.length + " ofertas"));
             aoVivo.appendChild(document.createTextNode(
-                " aprovadas na nossa análise agora" + (hora ? " · atualizado às " + hora : "")));
+                " selecionadas agora" + (hora ? " · atualizado às " + hora : "")));
             document.getElementById("ao-vivo").hidden = false;
 
             var ranking = ranquear(ofertas);

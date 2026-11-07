@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Pago Barato - Ofertas e preços monitorados</title>
-<meta name="description" content="Ofertas, oportunidades e preços monitorados com análise de histórico para ajudar você a comprar melhor.">
+<title>Pago Barato - Ofertas selecionadas</title>
+<meta name="description" content="Ofertas selecionadas para ajudar você a comprar melhor.">
 <meta name="lomadee" content="2324685" />
 <link rel="icon" type="image/png" href="logo-pagobarato-redonda.png">
-<meta property="og:title" content="Pago Barato — Ofertas e preços monitorados">
-<meta property="og:description" content="Ofertas, oportunidades e preços monitorados com análise histórica.">
+<meta property="og:title" content="Pago Barato — Ofertas selecionadas">
+<meta property="og:description" content="Ofertas selecionadas para você comprar melhor.">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <!-- Google Analytics 4 (mesma propriedade da cta.html). origem (da URL) vai em
@@ -438,87 +438,6 @@
 
 
     /* ===================== NÍVEIS DE ANÁLISE ===================== */
-    .nivel-badge {
-        position: absolute;
-        top: 10px;
-        left: 10px;
-        z-index: 3;
-        display: inline-flex;
-        align-items: center;
-        gap: 5px;
-        padding: 5px 9px;
-        border-radius: 8px;
-        font-size: .68rem;
-        font-weight: 800;
-        letter-spacing: .01em;
-        box-shadow: 0 3px 10px rgba(28,26,23,.08);
-    }
-
-    .nivel-destaque {
-        background: var(--ink);
-        color: #fff;
-        border: 1px solid var(--ink);
-    }
-
-    .nivel-oportunidade {
-        background: var(--good-bg);
-        color: var(--good);
-        border: 1px solid rgba(31,122,77,.18);
-    }
-
-    .nivel-bom-preco {
-        background: #FFF6E8;
-        color: #8A5A10;
-        border: 1px solid #E8C98A;
-    }
-
-    .nivel-monitorado {
-        background: rgba(255,255,255,.95);
-        color: var(--ink-soft);
-        border: 1px solid var(--line);
-    }
-
-    .analise-box {
-        border-radius: 9px;
-        padding: 8px 10px;
-        font-size: .72rem;
-        line-height: 1.4;
-        font-weight: 600;
-    }
-
-    .analise-destaque {
-        background: #FFF7E8;
-        border: 1px solid #F1D79E;
-        color: #7A5010;
-    }
-
-    .analise-oportunidade {
-        background: var(--good-bg);
-        border: 1px solid rgba(31,122,77,.18);
-        color: var(--good);
-    }
-
-    .analise-bom-preco {
-        background: #FFF9EF;
-        border: 1px solid #E8C98A;
-        color: #7A5010;
-    }
-
-    .analise-monitorado {
-        background: var(--bg);
-        border: 1px solid var(--line);
-        color: var(--ink-soft);
-    }
-
-    .classificacao-preco {
-        display: block;
-        margin-bottom: 4px;
-        font-size: .63rem;
-        font-weight: 800;
-        letter-spacing: .06em;
-        text-transform: uppercase;
-        opacity: .9;
-    }
 
     .desconto-loja {
         display: inline-flex;
@@ -601,16 +520,16 @@
 <header class="site-header">
     <div class="wrap header-row">
         <a href="#" class="logo"><img src="logo-pagobarato.png" alt="Pago Barato"></a>
-        <span class="header-sub">Preços monitorados e oportunidades analisadas</span>
+        <span class="header-sub">Ofertas selecionadas</span>
     </div>
 </header>
 
 <div class="wrap">
 
     <section class="hero">
-        <span class="badge">✦ Preços analisados todos os dias</span>
-        <h1>Monitoramos o preço. <span>Você decide melhor.</span></h1>
-        <p>Acompanhamos o histórico de preços e mostramos quando há bom preço, oportunidade ou destaque de verdade.</p>
+        <span class="badge">✦ Ofertas todos os dias</span>
+        <h1>Selecionamos as ofertas. <span>Você decide melhor.</span></h1>
+        <p>Reunimos ofertas de lojas conhecidas, com o preço e o link direto.</p>
     </section>
 
     <section class="secao-comunidades">
@@ -623,10 +542,10 @@
         </div>
     </section>
 
-    <!-- Black Friday sem mentira: some sozinho depois da Cyber Monday (30/11/2026). -->
+    <!-- Black Friday: some sozinho depois da Cyber Monday (30/11/2026). -->
     <a id="banner-bf" href="black-friday.html?origem=vitrine" class="banner-bf">
-        <span class="banner-bf-selo">Radar da Black Friday</span>
-        <span class="banner-bf-texto"><strong>Black Friday sem mentira:</strong> veja se a oferta é de verdade antes de comprar</span>
+        <span class="banner-bf-selo">Black Friday</span>
+        <span class="banner-bf-texto"><strong>Ofertas da Black Friday:</strong> veja os produtos selecionados</span>
         <span class="banner-bf-seta">→</span>
     </a>
     <script>
@@ -643,7 +562,7 @@
         </div>
         <div class="select-wrap">
             <select id="ordenacao" class="select-custom" aria-label="Ordenar">
-                <option value="padrao">Relevância da análise</option>
+                <option value="padrao">Seleção</option>
                 <option value="preco-asc">Menor preço</option>
                 <option value="preco-desc">Maior preço</option>
                 <option value="recente">Mais recentes</option>
@@ -653,10 +572,6 @@
 
     <nav id="tabs-nav" class="tabs-nav" aria-label="Abas da vitrine">
         <button class="tab-btn ativa" data-aba="todos">Todos <span class="contador" data-count="todos">0</span></button>
-        <button class="tab-btn" data-aba="destaques">⭐ Destaques <span class="contador" data-count="destaques">0</span></button>
-        <button class="tab-btn" data-aba="oportunidades">✓ Oportunidades <span class="contador" data-count="oportunidades">0</span></button>
-        <button class="tab-btn" data-aba="bons-precos">✓ Bons preços <span class="contador" data-count="bonsPrecos">0</span></button>
-        <button class="tab-btn" data-aba="monitorados">Monitorados <span class="contador" data-count="monitorados">0</span></button>
         <button class="tab-btn" data-aba="favoritos">❤️ Favoritos <span class="contador" data-count="favoritos">0</span></button>
     </nav>
 
@@ -666,7 +581,7 @@
     </section>
 
     <footer>
-        © 2026 <strong>Pago Barato</strong><br>Preços monitorados. Oportunidades quando os dados confirmam.<br>Os preços da Amazon não estão incluídos no rastreamento/gráfico de preços. Não emitimos alertas para nenhum produto por meio da Amazon.
+        © 2026 <strong>Pago Barato</strong><br>Ofertas selecionadas.<br>Não exibimos gráficos nem histórico de preços.
     </footer>
 </div>
 
@@ -747,88 +662,6 @@
         return match ? parseInt(match[1], 10) : 0;
     }
 
-    function normalizarClassificacao(classificacao = "") {
-        const nomes = {
-            EXCELENTE: "Destaque",
-            MUITO_BOA: "Oportunidade",
-            BOA: "Bom preço",
-            INTERESSANTE: "Preço interessante",
-            MODERADA: "Vale acompanhar",
-            FRACA: "Em monitoramento",
-            SEM_HISTORICO: "Histórico em formação"
-        };
-        return nomes[classificacao] || "Preço analisado";
-    }
-
-    function nivelVisual(produto) {
-        const classificacao = produto?.analise?.classificacao || "";
-
-        // A classificação do PromoScore define a linguagem pública.
-        if (classificacao === "EXCELENTE") return "DESTAQUE";
-        if (classificacao === "MUITO_BOA") return "OPORTUNIDADE";
-        if (classificacao === "BOA") return "BOM_PRECO";
-
-        if (
-            classificacao === "INTERESSANTE" ||
-            classificacao === "MODERADA" ||
-            classificacao === "FRACA" ||
-            classificacao === "SEM_HISTORICO"
-        ) {
-            return "MONITORADO";
-        }
-
-        // Compatibilidade com payloads antigos sem classificação.
-        if (produto?.destaque === true) return "DESTAQUE";
-
-        return "MONITORADO";
-    }
-
-    function motivoAnalise(produto) {
-        const analise = produto?.analise || {};
-
-        if (analise.semHistorico === true) {
-            return "Ainda estamos formando o histórico deste produto.";
-        }
-
-        return analise.motivoPrincipal
-            || produto.menorPrecoMensagem
-            || "Preço acompanhado pelo Pago Barato.";
-    }
-
-    function apresentacaoNivel(produto) {
-        const nivel = nivelVisual(produto);
-
-        if (nivel === "DESTAQUE") {
-            return {
-                texto: "★ Destaque",
-                badge: "nivel-destaque",
-                box: "analise-destaque"
-            };
-        }
-
-        if (nivel === "OPORTUNIDADE") {
-            return {
-                texto: "✓ Oportunidade",
-                badge: "nivel-oportunidade",
-                box: "analise-oportunidade"
-            };
-        }
-
-        if (nivel === "BOM_PRECO") {
-            return {
-                texto: "✓ Bom preço",
-                badge: "nivel-bom-preco",
-                box: "analise-bom-preco"
-            };
-        }
-
-        return {
-            texto: "Monitorado",
-            badge: "nivel-monitorado",
-            box: "analise-monitorado"
-        };
-    }
-
     function aplicarBuscaEFiltroCategoria(lista) {
         let resultado = lista;
         if (termoBusca.trim()) {
@@ -836,9 +669,7 @@
             resultado = resultado.filter(item =>
                 (item.titulo || '').toLowerCase().includes(q) ||
                 (item.loja || '').toLowerCase().includes(q) ||
-                (item.categoria || '').toLowerCase().includes(q) ||
-                normalizarClassificacao(item.analise?.classificacao || '').toLowerCase().includes(q) ||
-                motivoAnalise(item).toLowerCase().includes(q)
+                (item.categoria || '').toLowerCase().includes(q)
             );
         }
         return resultado;
@@ -846,22 +677,6 @@
 
     function aplicarAba(lista) {
         if (abaAtiva === 'todos') return lista;
-
-        if (abaAtiva === 'destaques') {
-            return lista.filter(i => nivelVisual(i) === "DESTAQUE");
-        }
-
-        if (abaAtiva === 'oportunidades') {
-            return lista.filter(i => nivelVisual(i) === "OPORTUNIDADE");
-        }
-
-        if (abaAtiva === 'bons-precos') {
-            return lista.filter(i => nivelVisual(i) === "BOM_PRECO");
-        }
-
-        if (abaAtiva === 'monitorados') {
-            return lista.filter(i => nivelVisual(i) === "MONITORADO");
-        }
 
         if (abaAtiva === 'favoritos') {
             return lista.filter(i => favoritos.has(chaveOferta(i)));
@@ -888,10 +703,6 @@
         const base = aplicarBuscaEFiltroCategoria(todasAsOfertas);
         const counts = {
             todos: base.length,
-            destaques: base.filter(i => nivelVisual(i) === "DESTAQUE").length,
-            oportunidades: base.filter(i => nivelVisual(i) === "OPORTUNIDADE").length,
-            bonsPrecos: base.filter(i => nivelVisual(i) === "BOM_PRECO").length,
-            monitorados: base.filter(i => nivelVisual(i) === "MONITORADO").length,
             favoritos: base.filter(i => favoritos.has(chaveOferta(i))).length,
         };
         document.querySelectorAll('.tab-btn .contador').forEach(el => {
@@ -942,15 +753,6 @@
                 ? `<span class="tag-promo">${promo.desconto.trim()}</span>`
                 : '';
 
-            const nivel = apresentacaoNivel(promo);
-            const classificacao = normalizarClassificacao(promo.analise?.classificacao || "");
-            const motivo = motivoAnalise(promo);
-
-            const analiseBox = `
-                <div class="analise-box ${nivel.box}">
-                    <span class="classificacao-preco">${classificacao}</span>
-                    ${motivo}
-                </div>`;
             const precoOriginalLimpo = promo.precoOriginal ? String(promo.precoOriginal).replace(/\u00a0/g, '').trim() : null;
             const precoPromocaoLimpo = promo.precoPromocao ? String(promo.precoPromocao).replace(/\u00a0/g, '').trim() : '0,00';
 
@@ -964,13 +766,11 @@
                 </div>
                 <a href="${promo.linkAfiliado}" target="_blank" rel="sponsored nofollow noopener noreferrer" style="text-decoration:none;color:inherit;display:flex;flex-direction:column;flex-grow:1;">
                     <div class="card-imagem-wrapper">
-                        <span class="nivel-badge ${nivel.badge}">${nivel.texto}</span>
                         ${tagEspecial}
                         <img src="${promo.imagem}" alt="${promo.titulo}" loading="lazy" class="card-imagem">
                     </div>
                     <div class="card-conteudo">
                         <h3>${promo.titulo}</h3>
-                        ${analiseBox}
 
                         <div class="card-precos">
                             ${precoOriginalLimpo ? `<span class="preco-antigo">R$ ${precoOriginalLimpo}</span>` : ''}
