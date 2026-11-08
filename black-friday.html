@@ -137,6 +137,18 @@
 </div>
 
 <script>
+    // Trava de leitura: oferta com preço lido há mais de 20 h não aparece. O promobot
+    // já não publica essas ofertas, mas com o app parado o JSON antigo continua no ar
+    // (vitrine.trava-leitura-horas no promobot). dataOferta é "dd/MM/yyyy HH:mm" em
+    // Brasília (UTC-3); sem data conta como velha.
+    const TRAVA_LEITURA_HORAS = 20;
+    function leituraRecente(oferta) {
+        const m = /^(\d{2})\/(\d{2})\/(\d{4})\s+(\d{2}):(\d{2})/.exec(String((oferta && oferta.dataOferta) || '').trim());
+        if (!m) return false;
+        const t = Date.UTC(+m[3], +m[2] - 1, +m[1], +m[4] + 3, +m[5]);
+        return Date.now() - t <= TRAVA_LEITURA_HORAS * 60 * 60 * 1000;
+    }
+
     const $lista = document.getElementById("lista");
     let itens = [];
 
@@ -184,7 +196,8 @@
 
     fetch("black-friday.json", { cache: "no-store" }).then(r => r.ok ? r.json() : Promise.reject())
         .then(d => {
-            itens = d.itens || [];
+            itens = (d.itens || []).filter(i => leituraRecente(i.oferta))
+                .map(i => ({ ...i, parecidos: (i.parecidos || []).filter(p => leituraRecente(p.oferta)) }));
             if (d.ultimaAtualizacao) document.getElementById("atualizacao").textContent = "Atualizado em " + d.ultimaAtualizacao;
             const $c = document.getElementById("contagem");
             if (d.fase === "black-friday") {

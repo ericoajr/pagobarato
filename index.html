@@ -605,7 +605,7 @@
             if (!resposta.ok) throw new Error('Falha ao ler JSON');
 
             const dadosVitrine = await resposta.json();
-            todasAsOfertas = Array.isArray(dadosVitrine.ofertas) ? dadosVitrine.ofertas : [];
+            todasAsOfertas = (Array.isArray(dadosVitrine.ofertas) ? dadosVitrine.ofertas : []).filter(leituraRecente);
 
             if (todasAsOfertas.length === 0) {
                 mostrarVazio('Nenhuma oferta em destaque agora', 'Acompanhe o grupo acima e volte em breve.');
@@ -638,6 +638,17 @@
     function parsePrecoBR(valorString) {
         if (!valorString) return 0;
         return parseFloat(String(valorString).replace(/\u00a0/g, '').trim().replace(/\./g, '').replace(',', '.')) || 0;
+    }
+    // Trava de leitura: oferta com preço lido há mais de 20 h não aparece. O promobot
+    // já não publica essas ofertas, mas com o app parado o JSON antigo continua no ar
+    // (vitrine.trava-leitura-horas no promobot). dataOferta é "dd/MM/yyyy HH:mm" em
+    // Brasília (UTC-3); sem data conta como velha.
+    const TRAVA_LEITURA_HORAS = 20;
+    function leituraRecente(oferta) {
+        const m = /^(\d{2})\/(\d{2})\/(\d{4})\s+(\d{2}):(\d{2})/.exec(String((oferta && oferta.dataOferta) || '').trim());
+        if (!m) return false;
+        const t = Date.UTC(+m[3], +m[2] - 1, +m[1], +m[4] + 3, +m[5]);
+        return Date.now() - t <= TRAVA_LEITURA_HORAS * 60 * 60 * 1000;
     }
     function parseDataBR(dataString) {
         if (!dataString) return 0;
