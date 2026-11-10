@@ -133,7 +133,7 @@
 
     <div id="lista" aria-live="polite"></div>
 
-    <footer>© 2026 <strong>Pago Barato</strong><br>Ofertas selecionadas. Preços sujeitos a alteração pelas lojas.<br>Não exibimos gráficos nem histórico de preços.</footer>
+    <footer>© 2026 <strong>Pago Barato</strong><br>Ofertas selecionadas. Preços sujeitos a alteração pelas lojas.<br>Não exibimos gráficos nem histórico de preços.<br>Como Associado da Amazon, ganhamos com compras qualificadas.<br>Os preços da Amazon não estão incluídos em rastreamento ou gráfico de preços.<br>Os preços e a disponibilidade dos produtos estão corretos na data/horário indicados e poderão sofrer alterações.</footer>
 </div>
 
 <script>
@@ -161,6 +161,12 @@
         return `data-produto="${esc(nome)}" data-tipo="${tipo}" data-posicao="${posicao}"`;
     }
 
+    // "Preço de 09/11 às 14:30" (Licença do Associados 2(i): data/horário perto do preço).
+    function quando(o) {
+        const m = /^(\d{2})\/(\d{2})\/\d{4}\s+(\d{2}):(\d{2})/.exec(String((o && o.dataOferta) || '').trim());
+        return m ? `<div class="t">Preço de ${m[1]}/${m[2]} às ${m[3]}:${m[4]}</div>` : '';
+    }
+
     function parecido(p, posicao) {
         const o = p.oferta;
         return `<a class="parecido" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener" ${dadosClique(o.titulo, "parecido", posicao)}>
@@ -168,6 +174,7 @@
             <div>
                 <div class="t">${esc(o.titulo)}</div>
                 <div class="p">R$ ${esc(o.precoPromocao)}</div>
+                ${quando(o)}
             </div>
         </a>`;
     }
@@ -182,6 +189,7 @@
                     <div class="nome">${esc(i.nome)}</div>
                     <div class="titulo-loja">${esc(o.titulo)}</div>
                     <div class="preco">R$ ${esc(o.precoPromocao)}</div>
+                    ${quando(o).replace('class="t"', 'class="titulo-loja"')}
                     <a class="botao" href="${esc(o.linkAfiliado)}" target="_blank" rel="sponsored noopener" ${dadosClique(i.nome, "principal", idx + 1)}>Ver na loja →</a>
                 </div>
             </div>

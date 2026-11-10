@@ -197,6 +197,7 @@
         display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
         min-height: 2.6em;
     }
+    .oferta .visto { font-size: .65rem; color: var(--ink-softer); margin-top: 2px; }
     .oferta .de { font-size: .7rem; color: var(--ink-softer); text-decoration: line-through; min-height: 1.1em; }
     .oferta .por { font-family: 'Sora', sans-serif; font-weight: 800; font-size: 1.05rem; }
     .advertencia-bebida { margin-top: 6px; font-size: .72rem; font-weight: 600; color: #8a7f74; line-height: 1.35; }
@@ -382,7 +383,7 @@
     <section class="bloco" id="secao-mensagem" hidden>
         <div class="titulo-secao">
             <span class="eyebrow">É assim que chega</span>
-            <h2>Um alerta por oferta, com preço e link da loja</h2>
+            <h2>Uma mensagem por oferta, com preço e link da loja</h2>
         </div>
         <div class="chat" aria-label="Exemplo de mensagem do grupo">
             <div class="chat-topo">
@@ -426,7 +427,7 @@
                 <span class="num">3</span>
                 <div>
                     <h3>Você decide em segundos</h3>
-                    <p>Cada alerta traz o preço, o desconto da loja e o link. Gostou, compra; não gostou, ignora.</p>
+                    <p>Cada oferta traz o preço, o desconto da loja e o link. Gostou, compra; não gostou, ignora.</p>
                 </div>
             </li>
         </ol>
@@ -446,7 +447,7 @@
         </div>
         <details class="faq-item">
             <summary>É pago?</summary>
-            <p>Não. Entrar, receber os alertas e sair é gratuito. A gente ganha uma pequena comissão das lojas quando você compra pelo link, sem nenhum custo extra pra você.</p>
+            <p>Não. Entrar, receber as ofertas e sair é gratuito. A gente ganha uma pequena comissão das lojas quando você compra pelo link, sem nenhum custo extra pra você.</p>
         </details>
         <details class="faq-item">
             <summary>Vou receber muita mensagem?</summary>
@@ -454,7 +455,7 @@
         </details>
         <details class="faq-item">
             <summary>As ofertas são confiáveis?</summary>
-            <p>Os links levam direto para lojas conhecidas, como Amazon, Mercado Livre e Shopee. Preço e estoque mudam rápido, por isso cada alerta avisa que o preço está sujeito a alteração.</p>
+            <p>Os links levam direto para lojas conhecidas, como Amazon, Mercado Livre e Shopee. Preço e estoque mudam rápido, por isso cada oferta avisa que o preço está sujeito a alteração.</p>
         </details>
         <details class="faq-item">
             <summary>Como saio depois?</summary>
@@ -464,7 +465,7 @@
 
     <section class="cta-final">
         <h2>A próxima oferta já está a caminho</h2>
-        <p>Entre agora e receba o próximo alerta assim que ele sair.</p>
+        <p>Entre agora e receba a próxima oferta assim que ela sair.</p>
         <a class="btn-whatsapp js-cta" data-cta="final" href="https://chat.whatsapp.com/BArcBffmAdNKDrdDa04IsO" target="_blank" rel="noopener noreferrer">
             <svg aria-hidden="true"><use href="#ic-whats"/></svg>
             Entrar no grupo grátis
@@ -474,7 +475,7 @@
     <footer>
         Pago Barato · Curadoria de promoções · <a href="./">ver todas as ofertas</a><br>
         Participamos de programas de afiliados e podemos receber comissão por compras feitas pelos links.<br>
-        Não exibimos gráficos nem histórico de preços.<br>
+        Não exibimos gráficos nem histórico de preços.<br>Como Associado da Amazon, ganhamos com compras qualificadas.<br>Os preços da Amazon não estão incluídos em rastreamento ou gráfico de preços.<br>Os preços e a disponibilidade dos produtos estão corretos na data/horário indicados e poderão sofrer alterações.<br>
         <strong>© 2026 Pago Barato</strong>
     </footer>
 
@@ -697,7 +698,7 @@
         }
         preencher(lista[0]);
         caixa.hidden = false;
-        document.getElementById("cta-topo-texto").textContent = "Quero receber alertas assim";
+        document.getElementById("cta-topo-texto").textContent = "Quero receber ofertas assim";
         iniciar();
     }
 
@@ -744,6 +745,7 @@
             card.appendChild(el("div", "nome", o.titulo));
             card.appendChild(el("div", "de", temDesconto(o) ? moeda(o.precoOriginal) : ""));
             card.appendChild(el("div", "por", moeda(o.precoPromocao)));
+            if (o.dataOferta) card.appendChild(el("div", "visto", "Preço visto em " + o.dataOferta));
             if (ehBebida(o)) card.appendChild(el("div", "advertencia-bebida", ADVERTENCIA_BEBIDA));
             grade.appendChild(card);
         });
@@ -798,7 +800,7 @@
                 montarAmostra(amostra);
                 document.getElementById("amostra-nota").textContent =
                     "Preços de " + (dados.ultimaAtualizacao || "hoje") +
-                    ", sujeitos a alteração. No grupo, cada alerta chega com o link da loja.";
+                    ", sujeitos a alteração. No grupo, cada oferta chega com o link da loja.";
             }
         })
         .catch(function () {
