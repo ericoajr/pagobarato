@@ -12,7 +12,8 @@
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
 <!-- Google Analytics 4 (mesma propriedade da cta.html). origem (da URL) vai em
-     todos os eventos; click_oferta leva item_name (produto), aba e loja. Para aparecerem
+     todos os eventos; click_oferta leva item_name (produto), aba, secao e loja;
+     filtro_secao leva a secao escolhida. Para aparecerem
      nos relatórios, cadastre-os como dimensões personalizadas (escopo de
      evento) no GA. -->
 <script>
@@ -283,6 +284,35 @@
         padding: 2px 7px; border-radius: 999px;
     }
     .tab-btn.ativa .contador { background: var(--accent-bg); color: var(--accent-ink); }
+
+    /* ===================== SEÇÕES ===================== */
+    /* Categorias da loja agrupadas em seções. No celular a linha rola de lado;
+       no desktop quebra em várias linhas. */
+    .secoes {
+        margin-top: 14px;
+        display: flex; gap: 8px;
+        overflow-x: auto; scrollbar-width: none;
+        padding-bottom: 2px;
+    }
+    .secoes::-webkit-scrollbar { display: none; }
+    @media (min-width: 780px) { .secoes { flex-wrap: wrap; overflow: visible; } }
+    .secao-btn {
+        appearance: none; flex: 0 0 auto;
+        font-family: inherit; font-size: .86rem; font-weight: 600;
+        color: var(--ink); background: var(--card);
+        border: 1px solid var(--line); border-radius: 999px;
+        padding: 8px 14px; cursor: pointer; white-space: nowrap;
+        display: inline-flex; align-items: center; gap: 6px;
+        transition: border-color .15s, background .15s, color .15s;
+    }
+    .secao-btn:hover { border-color: var(--line-strong); }
+    .secao-btn .contador {
+        font-size: .7rem; font-weight: 700; color: var(--ink-soft);
+    }
+    .secao-btn.ativa {
+        background: var(--accent); border-color: var(--accent); color: #fff;
+    }
+    .secao-btn.ativa .contador { color: rgba(255,255,255,.85); }
 
     /* ===================== STATUS ===================== */
     .status-atualizacao {
@@ -560,6 +590,8 @@
         </div>
     </div>
 
+    <div id="secoes" class="secoes" role="group" aria-label="Seções"></div>
+
     <nav id="tabs-nav" class="tabs-nav" aria-label="Abas da vitrine">
         <button class="tab-btn ativa" data-aba="todos">Todos <span class="contador" data-count="todos">0</span></button>
         <button class="tab-btn" data-aba="favoritos">❤️ Favoritos <span class="contador" data-count="favoritos">0</span></button>
@@ -586,6 +618,32 @@
     let ordenacao = 'padrao';
     let termoBusca = '';
     let favoritos = new Set(carregarFavoritos());
+
+    // Seções: as categorias do promobot agrupadas para quem procura. Categoria
+    // que não estiver aqui cai em "Outros" (só aparece se tiver oferta).
+    // Link direto para uma seção: ?secao=tecnologia (os outros parâmetros, como
+    // origem, continuam na URL).
+    const SECOES = [
+        { id: 'mercado', nome: 'Mercado', categorias: ['Alimentos e Bebidas'] },
+        { id: 'tecnologia', nome: 'Tecnologia', categorias: ['Eletrônicos e Tecnologia', 'Computadores e Informática'] },
+        { id: 'casa', nome: 'Casa e Cozinha', categorias: ['Eletroportáteis', 'Eletrodomésticos', 'Cozinha', 'Casa', 'Móveis', 'Jardim e Piscina', 'Ferramentas e Materiais de Construção'] },
+        { id: 'limpeza', nome: 'Limpeza', categorias: ['Lavanderia', 'Limpeza de Casa'] },
+        { id: 'beleza', nome: 'Beleza e Saúde', categorias: ['Beleza', 'Saúde e Bem-Estar'] },
+        { id: 'bebes', nome: 'Bebês e Crianças', categorias: ['Fraldas', 'Brinquedos e Jogos', 'Brinquedos para Crianças Maiores', 'Moda Infantil'] },
+        { id: 'escola', nome: 'Escola e Escritório', categorias: ['Escritório', 'Papelaria e Escritório', 'Material Escolar'] },
+        { id: 'moda', nome: 'Moda', categorias: ['Moda', 'Calçados'] },
+        { id: 'bebidas', nome: 'Bebidas alcoólicas', categorias: ['Vinhos', 'Destilados', 'Cervejas', 'Bebidas Alcoólicas'] },
+        { id: 'esporte', nome: 'Esporte e Auto', categorias: ['Esporte, Aventura e Lazer', 'Automotivo'] },
+    ];
+    const SECAO_OUTROS = { id: 'outros', nome: 'Outros' };
+    const SECAO_POR_CATEGORIA = new Map(SECOES.flatMap(sec => sec.categorias.map(c => [c, sec.id])));
+    function secaoDe(oferta) {
+        return SECAO_POR_CATEGORIA.get(String(oferta.categoria || '').trim()) || SECAO_OUTROS.id;
+    }
+    let secaoAtiva = (() => {
+        const id = new URLSearchParams(location.search).get('secao');
+        return [...SECOES, SECAO_OUTROS].some(sec => sec.id === id) ? id : 'todas';
+    })();
 
     function carregarFavoritos() {
         try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || []; }
@@ -657,6 +715,32 @@
         const [h, min] = (hora || '00:00').split(':').map(Number);
         return new Date(y, m - 1, d, h, min).getTime();
     }
+    function aplicarSecao(lista) {
+        return secaoAtiva === 'todas' ? lista : lista.filter(item => secaoDe(item) === secaoAtiva);
+    }
+
+    // Botões das seções com a contagem da busca atual; seção sem oferta some
+    // (menos a escolhida, para dar para voltar).
+    function renderizarSecoes(base) {
+        const contagem = {};
+        base.forEach(item => { const id = secaoDe(item); contagem[id] = (contagem[id] || 0) + 1; });
+        const botoes = [{ id: 'todas', nome: 'Todas' }, ...SECOES, SECAO_OUTROS]
+            .map(sec => ({ ...sec, total: sec.id === 'todas' ? base.length : (contagem[sec.id] || 0) }))
+            .filter(sec => sec.id === 'todas' || sec.total > 0 || sec.id === secaoAtiva);
+        document.getElementById('secoes').innerHTML = botoes.map(sec =>
+            `<button type="button" class="secao-btn${sec.id === secaoAtiva ? ' ativa' : ''}" data-secao="${sec.id}" aria-pressed="${sec.id === secaoAtiva}">${sec.nome} <span class="contador">${sec.total}</span></button>`
+        ).join('');
+    }
+
+    function escolherSecao(id) {
+        secaoAtiva = id;
+        const url = new URL(location.href);
+        if (id === 'todas') url.searchParams.delete('secao'); else url.searchParams.set('secao', id);
+        history.replaceState(null, '', url);
+        gtag('event', 'filtro_secao', { secao: id });
+        atualizarLista();
+    }
+
     function aplicarBuscaEFiltroCategoria(lista) {
         let resultado = lista;
         if (termoBusca.trim()) {
@@ -695,7 +779,7 @@
     }
 
     function atualizarContadores() {
-        const base = aplicarBuscaEFiltroCategoria(todasAsOfertas);
+        const base = aplicarSecao(aplicarBuscaEFiltroCategoria(todasAsOfertas));
         const counts = {
             todos: base.length,
             favoritos: base.filter(i => favoritos.has(chaveOferta(i))).length,
@@ -707,7 +791,9 @@
     }
 
     function atualizarLista() {
-        const base = aplicarBuscaEFiltroCategoria(todasAsOfertas);
+        const buscados = aplicarBuscaEFiltroCategoria(todasAsOfertas);
+        renderizarSecoes(buscados);
+        const base = aplicarSecao(buscados);
         const porAba = aplicarAba(base);
         const final = aplicarOrdenacao(porAba);
         atualizarContadores();
@@ -817,6 +903,11 @@
         atualizarLista();
     });
 
+    document.getElementById('secoes').addEventListener('click', (e) => {
+        const botao = e.target.closest('[data-secao]');
+        if (botao && botao.dataset.secao !== secaoAtiva) escolherSecao(botao.dataset.secao);
+    });
+
     document.getElementById('ordenacao').addEventListener('change', (e) => {
         ordenacao = e.target.value;
         atualizarLista();
@@ -863,6 +954,7 @@
             gtag('event', 'click_oferta', {
                 item_name: oferta.closest('.card-promo').querySelector('h3')?.textContent.trim() || '',
                 aba: abaAtiva,
+                secao: secaoAtiva,
                 loja: lojaDoLink(oferta.href)
             });
             return;
